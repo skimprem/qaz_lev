@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="a23de92c" name="a23de92c">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Schema id="a23de92c.schema">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Document id="a23de92c">
+      <name>a23de92c</name>
+      <Placemark id="a23de92c.1">
+        <description>Фетисово, с., в 5.1 км к сев.-зап.от него, в 400 м к востоку от вдкч., в 230 м к северу от подземного водопровода, в 15 м к юго-зап.от дороги пгт Ералиев-с.Аксу</description>
+        <ExtendedData>
+          <SchemaData schemaUrl="#a23de92c.schema">
+            <SimpleData name="title">1501</SimpleData>
+            <SimpleData name="type">фундаментальный репер</SimpleData>
+            <SimpleData name="class_lvl">1</SimpleData>
+            <SimpleData name="height_lvl">20.879</SimpleData>
+            <SimpleData name="height_ctrl">22.404</SimpleData>
+            <SimpleData name="ctrl_place">Контрольный репер в верхней плоскости монолита</SimpleData>
+            <SimpleData name="center_type">119</SimpleData>
+            <SimpleData name="lvl_line">Линия: ск.реп.598-фунд.реп.1501, 1 класс</SimpleData>
+            <SimpleData name="guid">a23de92c-5a0b-47f2-8b5d-04e7a806614f</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            52.6233573006166,42.7985477344535,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

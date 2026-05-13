@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="b3c54c5e" id="b3c54c5e">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>b3c54c5e</name>
+  <Placemark id="b3c54c5e.1">
+	<name>1649</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#b3c54c5e">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="ext_sign">498.195</SimpleData>
+		<SimpleData name="ctrl_place">160 оп</SimpleData>
+		<SimpleData name="mark_num">Линия №2: Ивановка - Жана-Арка, II класс (4) Участок: грунт.реп.4029 - фунд.реп.501</SimpleData>
+		<SimpleData name="center_type">Алгабас,с.,в 3.3 км к вост.от него,в 1.0 км к югу от оз.Караколь,в 20 м к зап.от полевой дороги</SimpleData>
+		<SimpleData name="lvl_line">b3c54c5e-00a9-4c47-a422-8ab874491f03</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>71.6224560034252,48.7424550995498</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="6b6a10af" id="6b6a10af">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>6b6a10af</name>
+  <Placemark id="6b6a10af.1">
+	<name>4221</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#6b6a10af">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="ext_sign">9,483</SimpleData>
+		<SimpleData name="ctrl_place">160 оп знак</SimpleData>
+		<SimpleData name="mark_num">Линия II класса: Богдо-Нов.Уштаган-Малый Арал</SimpleData>
+		<SimpleData name="center_type">Азгир, с., центр фермы № 3, в 0,4 км к юго-вост. от него, в 0,4 км к югу от А-образного столба ЛЭП, в 26 м к югу от полевой дороги</SimpleData>
+		<SimpleData name="lvl_line">6b6a10af-9a98-4445-9167-a738b3f7fce5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.9171984785751,47.8299020432605</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

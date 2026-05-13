@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="4d278982" id="4d278982">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>4d278982</name>
+  <Placemark id="4d278982.1">
+	<name>Веха</name>
+	<description>пирамида</description>
+	<ExtendedData><SchemaData schemaUrl="#4d278982">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="ctrl_place">8</SimpleData>
+		<SimpleData name="mark_num">Ход от грунт.реп. 4299 до фунд.реп. 521, I класс</SimpleData>
+		<SimpleData name="center_type">Шолькыкыл, станц., в 4.0 км к юго-вост. от нее, в 5.6 км к сев.-зап. от могилы и двух колодцев, в 0.1 км к зап. от полевой дороги</SimpleData>
+		<SimpleData name="lvl_line">4d278982-fad6-4ad7-8b8e-51efda3a0cd4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>78.2714745742799,46.8078422337993</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="f4687014" id="f4687014">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>f4687014</name>
+  <Placemark id="f4687014.1">
+	<name>1874</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#f4687014">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="ext_sign">445.149</SimpleData>
+		<SimpleData name="ctrl_place">160 оп</SimpleData>
+		<SimpleData name="mark_num">Линия №2: Ивановка-Жана-Арка, II класс (3) Участок: грунт.реп.421-грунт.реп.880</SimpleData>
+		<SimpleData name="center_type">Балыктыколь,с.,в 6.3 км к сев.-вост.от него,в 1.8 км к вост.от оз.Балыкты,в 29 м к зап.от дороги с.Акмешит-с.Балыктыколь</SimpleData>
+		<SimpleData name="lvl_line">f4687014-e98a-488e-a510-8435a1ffc552</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>71.6937748050541,49.4326929619857</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

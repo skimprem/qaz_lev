@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="cead7f69" name="cead7f69">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Schema id="cead7f69.schema">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Document id="cead7f69">
+      <name>cead7f69</name>
+      <Placemark id="cead7f69.1">
+        <description>Перевалочная, станц,, в П ,5 км к югу от неё, в 0,2 км к юго-вост, от кладб, Сарыбас, у полевой дороги</description>
+        <ExtendedData>
+          <SchemaData schemaUrl="#cead7f69.schema">
+            <SimpleData name="title">б/№</SimpleData>
+            <SimpleData name="type">грунтовый репер</SimpleData>
+            <SimpleData name="ext_sign">грунтовый репер</SimpleData>
+            <SimpleData name="class_lvl">2</SimpleData>
+            <SimpleData name="height_lvl">352,724</SimpleData>
+            <SimpleData name="lvl_line">Линия № 4: Жезказган (фунд, реп. 495) - Древний Курган (фунд, реп. 1377), 2 класс (5)</SimpleData>
+            <SimpleData name="guid">cead7f69-5e28-4cbc-97e0-3e16e3c32dd1</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            67.4612366006194,47.7484586965423,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

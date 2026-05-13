@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="c4cc5841" id="c4cc5841">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>c4cc5841</name>
+  <Placemark id="c4cc5841.1">
+	<name>46</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#c4cc5841">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="ext_sign">711,82</SimpleData>
+		<SimpleData name="class_lvl">708,998</SimpleData>
+		<SimpleData name="height_lvl">контрольный репер №39 в верхней плоскости монолита</SimpleData>
+		<SimpleData name="ctrl_place">123 оп</SimpleData>
+		<SimpleData name="mark_num">Линия №1: Коянды-Каркаралинск, II класс (I). Участок: грунт.реп.3423-грунт.реп.9313</SimpleData>
+		<SimpleData name="center_type">Бастал, с, в 6,7 км к юго-зап.от него, в 1,2 км югу от развалин, в 0,1 км к вост.от трубы через шоссе, в 60 м к сев.от шоссе с.Айнабулак-с.Егиндыбулак</SimpleData>
+		<SimpleData name="lvl_line">c4cc5841-a4e9-40c0-b4a0-bd74acf404ee</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>76.5132055613053,49.7478336663935</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

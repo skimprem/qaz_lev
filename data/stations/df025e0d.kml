@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="df025e0d" id="df025e0d">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>df025e0d</name>
+  <Placemark id="df025e0d.1">
+	<name>2301</name>
+	<description>Грунтовый репер </description>
+	<ExtendedData><SchemaData schemaUrl="#df025e0d">
+		<SimpleData name="title">Опознавательный знак </SimpleData>
+		<SimpleData name="type">І</SimpleData>
+		<SimpleData name="height_ctrl">2301</SimpleData>
+		<SimpleData name="ctrl_place">162</SimpleData>
+		<SimpleData name="mark_num">Линия нивелирования І класса #102 &quot;Петропавловск-Павлодар&quot;</SimpleData>
+		<SimpleData name="center_type">Село Тобелес 3 км к западу от него, 7 м к северу от полевой дороги, 4 м к северу от стб. ЛЭП 6кВ. между двух полей</SimpleData>
+		<SimpleData name="lvl_line">df025e0d-62cf-4ab3-aa94-fb9a3a11c2e0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>74.7019983333333,53.57289</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

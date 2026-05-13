@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="912da9ba" name="912da9ba">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Schema id="_912da9ba.schema">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Document id="_912da9ba">
+      <name>912da9ba</name>
+      <Placemark id="_912da9ba.1">
+        <description>В 60 м к югу от трассе Кызылорда-Жезказган. Требуется закладка </description>
+        <ExtendedData>
+          <SchemaData schemaUrl="#_912da9ba.schema">
+            <SimpleData name="title">Грунтовый репер 2336</SimpleData>
+            <SimpleData name="guid">912da9ba-c91a-4f3c-8f29-89a8414d463b</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            65.9590600244701,44.9946411559358,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="bf231481" id="bf231481">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>bf231481</name>
+  <Placemark id="bf231481.1">
+	<name>8882</name>
+	<ExtendedData><SchemaData schemaUrl="#bf231481">
+		<SimpleData name="title">грунт. реп.</SimpleData>
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="ext_sign">179.500</SimpleData>
+		<SimpleData name="ctrl_place">146 оп</SimpleData>
+		<SimpleData name="mark_num">Линия №1: Тургай - Кызылуй, II класс. Участок: грунт. реп. 59 - грунт. реп. 9260</SimpleData>
+		<SimpleData name="center_type">Али, с., в 5.6 км к сев.-вост. от него, в 3.2 км к сев.-зап. от кладб. Куаныш, в 140 м к югу от дороги с. Тургай - с. Байконур</SimpleData>
+		<SimpleData name="lvl_line">bf231481-2f48-4a18-a2f0-2f5f68b47769</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>64.8686033333333,48.3734316666667</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

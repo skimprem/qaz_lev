@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="072bbf39" name="072bbf39">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Schema id="_072bbf39.schema">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Document id="_072bbf39">
+      <name>072bbf39</name>
+      <Placemark id="_072bbf39.1">
+        <description>Улькен Амир,с., в 2,1 км к сев-вост. от него, в 43 м к юго-вост. от жел-дор. полотна, в 25 м к юго-вост. от тлгр. стб. №234/1965, в 9 м к юго-вост. от грунт. дороги </description>
+        <ExtendedData>
+          <SchemaData schemaUrl="#_072bbf39.schema">
+            <SimpleData name="title">12-88</SimpleData>
+            <SimpleData name="type">грунтовый репер</SimpleData>
+            <SimpleData name="class_lvl">1</SimpleData>
+            <SimpleData name="height_lvl">0,269</SimpleData>
+            <SimpleData name="center_type">160</SimpleData>
+            <SimpleData name="lvl_line">ЛинияБейнеу-Актау (Шевченко), 1 класс</SimpleData>
+            <SimpleData name="guid">072bbf39-056b-4a8e-a67d-dc8921902f58</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            51.5933078173243,43.922935597746,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

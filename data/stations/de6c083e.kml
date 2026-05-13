@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="de6c083e" id="de6c083e">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>de6c083e</name>
+  <Placemark id="de6c083e.1">
+	<name>Северный</name>
+	<description>пирамида</description>
+	<ExtendedData><SchemaData schemaUrl="#de6c083e">
+		<SimpleData name="type">4</SimpleData>
+		<SimpleData name="ext_sign">116,830</SimpleData>
+		<SimpleData name="ctrl_place">1</SimpleData>
+		<SimpleData name="mark_num">Линия: грунт. реп.3732-грунт. реп. 3039, IV класс </SimpleData>
+		<SimpleData name="lvl_line">de6c083e-13cd-4de6-9a49-8b2e302356c9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>74.7767032946479,53.6491155382277</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

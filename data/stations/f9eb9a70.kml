@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="f9eb9a70" name="f9eb9a70">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Schema id="f9eb9a70.schema">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Document id="f9eb9a70">
+      <name>f9eb9a70</name>
+      <Placemark id="f9eb9a70.1">
+        <description>Атасу, станция, в 7,8 км к зап,от нее,в 94 м к сев,от км стб, 147/148, в 1 м к вост,от оп,стб,</description>
+        <ExtendedData>
+          <SchemaData schemaUrl="#f9eb9a70.schema">
+            <SimpleData name="title">3225</SimpleData>
+            <SimpleData name="type">грунтовый репер</SimpleData>
+            <SimpleData name="class_lvl">1</SimpleData>
+            <SimpleData name="height_lvl">438,324</SimpleData>
+            <SimpleData name="center_type">160 оп,знак</SimpleData>
+            <SimpleData name="lvl_line">Линия № 1: Тюемойнак-Жарык, I класс                 Участок: грунт,реп, 3225-марка 1238</SimpleData>
+            <SimpleData name="guid">f9eb9a70-0539-46fc-b2dc-ec0f62a66ff4</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            70.9782924533048,48.4939819048427,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

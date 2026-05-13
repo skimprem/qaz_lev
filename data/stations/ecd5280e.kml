@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="ecd5280e" id="ecd5280e">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>ecd5280e</name>
+  <Placemark id="ecd5280e.1">
+	<name>Закладка 1023</name>
+	<description>Грунтовый репер </description>
+	<ExtendedData><SchemaData schemaUrl="#ecd5280e">
+		<SimpleData name="ctrl_place">160 оп</SimpleData>
+		<SimpleData name="center_type">Ойык,с.,23 км к сев от него,10 км от перекрёстка асфальтной дороги Акколь-Уланбель-Кенес
+48 м к сев-зап от шоссе Акколь-Уланбель, на не большом бархане. </SimpleData>
+		<SimpleData name="lvl_line">ecd5280e-5827-4a83-923c-f962577a43d6</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>71.0001257198774,44.0016332434631</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="6be9507d" name="6be9507d">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Schema id="_6be9507d.schema">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Document id="_6be9507d">
+      <name>6be9507d</name>
+      <Placemark id="_6be9507d.1">
+        <description>Тюемойнак, станция, в 6,9 км к сев,-вост, от нее, на 3 пк
+292 км, в 51 м к сев,-зап, от жел,-дор, полотна, на
+возвышенности</description>
+        <ExtendedData>
+          <SchemaData schemaUrl="#_6be9507d.schema">
+            <SimpleData name="title">7250</SimpleData>
+            <SimpleData name="type">грунтовый репер</SimpleData>
+            <SimpleData name="class_lvl">1</SimpleData>
+            <SimpleData name="height_lvl">365,539</SimpleData>
+            <SimpleData name="height_ctrl">364,244</SimpleData>
+            <SimpleData name="ctrl_place">Контрольный репер 7628 в фундаментной плите</SimpleData>
+            <SimpleData name="center_type">116 оп,знак</SimpleData>
+            <SimpleData name="lvl_line">Линия №2: Тюемойнак-Жарык, I класс (2) Участок: фунд,реп,497 - пир, 1 кл,Арал-Тюбе</SimpleData>
+            <SimpleData name="guid">6be9507d-cd21-451d-8e0d-332153c134e1</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            69.1984405175251,48.2015999213782,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

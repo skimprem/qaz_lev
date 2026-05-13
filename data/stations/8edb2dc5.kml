@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="8edb2dc5" id="8edb2dc5">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>8edb2dc5</name>
+  <Placemark id="8edb2dc5.1">
+	<name>Дождливый</name>
+	<description>пирамида</description>
+	<ExtendedData><SchemaData schemaUrl="#8edb2dc5">
+		<SimpleData name="ctrl_place">1</SimpleData>
+		<SimpleData name="mark_num"></SimpleData>
+		<SimpleData name="center_type"></SimpleData>
+		<SimpleData name="lvl_line">8edb2dc5-f4f5-4a0d-a8cc-af5fc00cbaa6</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>69.42511,51.0658166666667</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="af991342" id="af991342">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>af991342</name>
+  <Placemark id="af991342.1">
+	<name>5387</name>
+	<description>скальный репер</description>
+	<ExtendedData><SchemaData schemaUrl="#af991342">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="ext_sign">190,465</SimpleData>
+		<SimpleData name="ctrl_place">99 оп</SimpleData>
+		<SimpleData name="mark_num">Линия № 4: Семиярск-Коянды, II класс (3) Участок: грунт. реп. 1861-фунд. реп. 871</SimpleData>
+		<SimpleData name="center_type">Терекай, мог., в 4.2 км к сев.-вост. от нее, в 0.9 км к юго-зап. от вдкч., в 0.3 км к сев. от полевой дороги</SimpleData>
+		<SimpleData name="lvl_line">af991342-2710-4846-a931-35e04510fec9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>78.2111595861696,50.8126872061443</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

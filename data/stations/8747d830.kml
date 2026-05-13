@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="8747d830" name="8747d830">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Schema id="_8747d830.schema">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Document id="_8747d830">
+      <name>8747d830</name>
+      <Placemark id="_8747d830.1">
+        <description>Ески Бейнеу,с.,в  8.9 км к юго-зап. от него, в 0.8 км к югу от пир. 3 кл. Каратюлей, в 0.1 км к югу от пересечения полевых дорог</description>
+        <ExtendedData>
+          <SchemaData schemaUrl="#_8747d830.schema">
+            <SimpleData name="title">12-13</SimpleData>
+            <SimpleData name="type">грунтовый репер</SimpleData>
+            <SimpleData name="class_lvl">1</SimpleData>
+            <SimpleData name="height_lvl">102.612</SimpleData>
+            <SimpleData name="center_type">160</SimpleData>
+            <SimpleData name="lvl_line">ЛинияБейнеу-Актау (Шевченко), 1 класс</SimpleData>
+            <SimpleData name="guid">8747d830-14d2-431a-8495-23d0a5c346fa</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            55.0127754596323,45.1358440579798,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

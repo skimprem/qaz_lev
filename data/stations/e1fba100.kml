@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="e1fba100" id="e1fba100">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>e1fba100</name>
+  <Placemark id="e1fba100.1">
+	<name>Закладка</name>
+	<description>Фундаментальный репер</description>
+	<ExtendedData><SchemaData schemaUrl="#e1fba100">
+		<SimpleData name="height_ctrl">5321</SimpleData>
+		<SimpleData name="lvl_line">e1fba100-6923-460b-9ff6-38de2b6e9ba6</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.7272716666667,50.79238</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

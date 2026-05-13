@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="24a469e0" name="24a469e0">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Schema id="_24a469e0.schema">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Document id="_24a469e0">
+      <name>24a469e0</name>
+      <Placemark id="_24a469e0.1">
+        <description>Боркудык, к., в  1.2 км к сев. от него, в 15 м к югу от пир. 3 кл. Бегеш, у обрыва</description>
+        <ExtendedData>
+          <SchemaData schemaUrl="#_24a469e0.schema">
+            <SimpleData name="title">12-218</SimpleData>
+            <SimpleData name="type">скальный репер</SimpleData>
+            <SimpleData name="class_lvl">1</SimpleData>
+            <SimpleData name="height_lvl">72.985</SimpleData>
+            <SimpleData name="center_type">97</SimpleData>
+            <SimpleData name="lvl_line">ЛинияБейнеу-Актау (Шевченко), 1 класс</SimpleData>
+            <SimpleData name="guid">24a469e0-bce9-47c7-8908-fe827ee1c345</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            54.966301112606,45.0924550704422,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

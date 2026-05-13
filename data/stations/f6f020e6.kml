@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="f6f020e6" name="f6f020e6">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Schema id="f6f020e6.schema">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Document id="f6f020e6">
+      <name>f6f020e6</name>
+      <Placemark id="f6f020e6.1">
+        <description>Аккенсе, с., в 8.8 км к юго-зап. от него, в 2.1 км к сев. от к. Кент, в 37 м к зап. от полевой дороги</description>
+        <ExtendedData>
+          <SchemaData schemaUrl="#f6f020e6.schema">
+            <SimpleData name="title">5934</SimpleData>
+            <SimpleData name="type">грунтовый репер</SimpleData>
+            <SimpleData name="ext_sign">грунтовый репер</SimpleData>
+            <SimpleData name="class_lvl">2</SimpleData>
+            <SimpleData name="height_lvl">274,912</SimpleData>
+            <SimpleData name="center_type">160 оп. знак</SimpleData>
+            <SimpleData name="lvl_line">Линия № 1. Древний Курган - Кендырлык (Айгарлык), 2 класс (2) Участок: грунт, реп. 8417 - грунт, реп. 242</SimpleData>
+            <SimpleData name="guid">f6f020e6-f65a-4c50-890d-b145f7b8d98c</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            68.2650304807264,46.7318078211329,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="a10bf630" name="a10bf630">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Schema id="a10bf630.schema">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Document id="a10bf630">
+      <name>a10bf630</name>
+      <Placemark id="a10bf630.1">
+        <description>Байтык. мог., в 5.1 км к сев. от неё, в 4.4 км к сев.-вост. от кладб. Таскор, в 1.6 км к вост, от мог. Кушик</description>
+        <ExtendedData>
+          <SchemaData schemaUrl="#a10bf630.schema">
+            <SimpleData name="title">1558</SimpleData>
+            <SimpleData name="type">грунтовый репер</SimpleData>
+            <SimpleData name="ext_sign">грунтовый репер</SimpleData>
+            <SimpleData name="class_lvl">2</SimpleData>
+            <SimpleData name="height_lvl">359,553</SimpleData>
+            <SimpleData name="height_ctrl">358,032</SimpleData>
+            <SimpleData name="ctrl_place">в фундаментной плите</SimpleData>
+            <SimpleData name="mark_num">1578</SimpleData>
+            <SimpleData name="center_type">116 оп. знак</SimpleData>
+            <SimpleData name="lvl_line">Линия № 2: Древний Курган - Сасыккудык. 2 класс (1,2) Участок: пир. 3 кл. Жамансу - фунд. реп. 3245</SimpleData>
+            <SimpleData name="guid">a10bf630-ed3d-45ff-8f83-435f97bd6f36</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            69.1143484002251,47.3911429448202,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

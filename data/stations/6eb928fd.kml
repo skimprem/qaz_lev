@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="6eb928fd" name="6eb928fd">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Schema id="_6eb928fd.schema">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Document id="_6eb928fd">
+      <name>6eb928fd</name>
+      <Placemark id="_6eb928fd.1">
+        <description>Каракольмола,кладб.,в 3,5 км к юго-зап .от него,в 1,7 км к сев-вост.от ОТФ,в 30 м к югу от дороги метеостанция Жанбике-с.Караоба</description>
+        <ExtendedData>
+          <SchemaData schemaUrl="#_6eb928fd.schema">
+            <SimpleData name="title">6160</SimpleData>
+            <SimpleData name="type">грунтовый репер</SimpleData>
+            <SimpleData name="class_lvl">2</SimpleData>
+            <SimpleData name="height_lvl">60,150</SimpleData>
+            <SimpleData name="center_type">160оп</SimpleData>
+            <SimpleData name="lvl_line">Линия № 179: Гурьев-Кошкарата. II класс (12)
+Участок: грунт. реп. 501 - грунт. реп. 0888</SimpleData>
+            <SimpleData name="guid">6eb928fd-248d-4097-87b8-253fbeaf5176</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            55.4379832055573,46.9145084659128,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

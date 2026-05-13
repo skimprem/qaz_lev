@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="da3e9385" name="da3e9385">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Schema id="da3e9385.schema">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Document id="da3e9385">
+      <name>da3e9385</name>
+      <Placemark id="da3e9385.1">
+        <description>Шукыркум, к., в 10.3 км к сев.-вост. от него, в 4.6 км к юго-зап. от к. Катын, в 41 м к сев.-зап. от шоссе
+гор. Жезказган - гор. Кызылорда</description>
+        <ExtendedData>
+          <SchemaData schemaUrl="#da3e9385.schema">
+            <SimpleData name="title">1101</SimpleData>
+            <SimpleData name="type">грунтовый репер</SimpleData>
+            <SimpleData name="ext_sign">грунтовый репер</SimpleData>
+            <SimpleData name="class_lvl">2</SimpleData>
+            <SimpleData name="height_lvl">130,114</SimpleData>
+            <SimpleData name="center_type">160 оп. знак</SimpleData>
+            <SimpleData name="lvl_line">Линия № 2: Кызылорда- р. Сарысу. 2 класс (3) Унасток: грунт, реп. 5040-грунт, реп. 1761</SimpleData>
+            <SimpleData name="guid">da3e9385-9f42-4ddd-9da1-50f8aeaf0123</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            66.1917448092053,45.0923089653108,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

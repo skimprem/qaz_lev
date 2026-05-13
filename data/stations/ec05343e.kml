@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="ec05343e" id="ec05343e">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>ec05343e</name>
+  <Placemark id="ec05343e.1">
+	<name>44-842</name>
+	<description>скальный репер</description>
+	<ExtendedData><SchemaData schemaUrl="#ec05343e">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="ext_sign">836,661</SimpleData>
+		<SimpleData name="ctrl_place">99</SimpleData>
+		<SimpleData name="mark_num">Линия № 1: Акбулак - Акозек, II класс (1) Участок: ск.реп. 12181 - грунт.реп. 1026</SimpleData>
+		<SimpleData name="center_type">Итколь, оз., в 8.2 км к юго-зап. от него, в 2.8 км к зал. от род.Кызылтас, в 10 м к югу от дороги с.Татан-с.Жорга.</SimpleData>
+		<SimpleData name="lvl_line">ec05343e-99ca-4174-af3a-cf0031d1e688</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>76.8102602649235,48.4356315064511</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

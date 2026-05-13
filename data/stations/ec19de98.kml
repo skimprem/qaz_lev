@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="ec19de98" id="ec19de98">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>ec19de98</name>
+  <Placemark id="ec19de98.1">
+	<name>2023</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#ec19de98">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="ext_sign">118,629</SimpleData>
+		<SimpleData name="ctrl_place">160 оп знак</SimpleData>
+		<SimpleData name="mark_num">Линия:Волотовка-Чапаевский, II класс Участок: грунт. реп. 2859-фунд. реп. 156</SimpleData>
+		<SimpleData name="center_type">Голубовка.с., в 5,3 км к сев.-вост. от него, в 7,0 км к сев.-вост. от оз.Голубовка, у пол. дороги</SimpleData>
+		<SimpleData name="lvl_line">ec19de98-d18b-41df-9ba6-7d7dc125eca1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>74.21030969474,53.126112399477</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

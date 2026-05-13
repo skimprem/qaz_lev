@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="ea8938a2" id="ea8938a2">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>ea8938a2</name>
+  <Placemark id="ea8938a2.1">
+	<name>2227_0</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#ea8938a2">
+		<SimpleData name="height_ctrl">2227</SimpleData>
+		<SimpleData name="ctrl_place">160оп.</SimpleData>
+		<SimpleData name="center_type">Карасу, с., в 19,9 км к юго-зап. от него, в 29,2 м к юго-зап. от съезда автодороги с.Егиндыбулак-с.Карасу.
+</SimpleData>
+		<SimpleData name="lvl_line">ea8938a2-fb96-42a4-92dd-77ce39baa517</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>76.7324599363037,49.9109360013212</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

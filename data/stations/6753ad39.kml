@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="6753ad39" name="6753ad39">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Schema id="_6753ad39.schema">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Document id="_6753ad39">
+      <name>6753ad39</name>
+      <Placemark id="_6753ad39.1">
+        <description>Аланбай, кладб., в 10.1 км к юго-вост. от него, в 7.1 км к юго-зап. от мог. Карамола, к югу от полевой дороги</description>
+        <ExtendedData>
+          <SchemaData schemaUrl="#_6753ad39.schema">
+            <SimpleData name="title">23</SimpleData>
+            <SimpleData name="type">грунтовый репер</SimpleData>
+            <SimpleData name="ext_sign">грунтовый репер</SimpleData>
+            <SimpleData name="class_lvl">2</SimpleData>
+            <SimpleData name="height_lvl">331,763</SimpleData>
+            <SimpleData name="center_type">121 оп. знак</SimpleData>
+            <SimpleData name="lvl_line">Линия № 2: Древний Курган - Сасыккудык, 2 класс (3) Участок: фунд. реп. 1377-грунт, реп. 1748</SimpleData>
+            <SimpleData name="guid">6753ad39-2896-43de-b7a1-65ef23cc040b</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            68.1032024660585,47.353725484068,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

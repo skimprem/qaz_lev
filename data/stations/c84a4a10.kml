@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="c84a4a10" id="c84a4a10">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>c84a4a10</name>
+  <Placemark id="c84a4a10.1">
+	<name>Закладка 40</name>
+	<ExtendedData><SchemaData schemaUrl="#c84a4a10">
+		<SimpleData name="center_type">В 20 м к северо-западу от шоссе. У канавы</SimpleData>
+		<SimpleData name="lvl_line">c84a4a10-9378-49e7-a392-8265a840aaa8</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>63.7367094301534,53.2106752505038</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

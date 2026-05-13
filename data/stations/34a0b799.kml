@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="34a0b799" name="34a0b799">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Schema id="_34a0b799.schema">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Document id="_34a0b799">
+      <name>34a0b799</name>
+      <Placemark id="_34a0b799.1">
+        <description>Каратон, разв., в 19.5 км к
+юго-вост. от них, в ЗГО км к
+юго-зал. от к.Тынзек, в 38 м
+к северу от дороги.
+Контрольный репер в стенке
+трубы.</description>
+        <ExtendedData>
+          <SchemaData schemaUrl="#_34a0b799.schema">
+            <SimpleData name="title">108</SimpleData>
+            <SimpleData name="ext_sign">грунт.реп.</SimpleData>
+            <SimpleData name="class_lvl">2</SimpleData>
+            <SimpleData name="center_type">118</SimpleData>
+            <SimpleData name="lvl_line">Линия нивелирования П класса Кендырли(фунд.реп1501) - Жармыш(фунд.реп.80)
+Участок от грунт.реп.1650 до грунт.реп.1639.</SimpleData>
+            <SimpleData name="guid">34a0b799-c23a-43d7-aa56-be2be034daa7</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            50.9455729318964,44.4257750548509,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

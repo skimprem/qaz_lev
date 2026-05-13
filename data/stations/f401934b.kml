@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="f401934b" id="f401934b">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>f401934b</name>
+  <Placemark id="f401934b.1">
+	<name>8632</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#f401934b">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="ext_sign">620,393</SimpleData>
+		<SimpleData name="ctrl_place">160оп</SimpleData>
+		<SimpleData name="mark_num">Линия №1: Карасорский-Каркаралинск, II класс (1) Участок: грунт.реп. 50 - грунт.реп.0224</SimpleData>
+		<SimpleData name="center_type">Шоптыколь, с., в 11,0 км к сев.-зап. от него, в 4,0 км к юго-вост. от лет. Кыргын, в 15 м к вост. от дороги с. Первое Мая – с. Шоптыколь</SimpleData>
+		<SimpleData name="lvl_line">f401934b-ddd0-475b-90d3-dadf70d8223a</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.6256196300749,50.2231144174192</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

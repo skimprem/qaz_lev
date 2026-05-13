@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="80241139" id="80241139">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>80241139</name>
+  <Placemark id="80241139.1">
+	<name>3653</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#80241139">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="ext_sign">109.327</SimpleData>
+		<SimpleData name="ctrl_place">160 оп</SimpleData>
+		<SimpleData name="mark_num">Линия №185 : Аральск - Семиозерное , I класс . Участок : грунт. Реп. 2189-грунт. Реп. 32</SimpleData>
+		<SimpleData name="center_type">Куттыколь,с., в 9.0 км к юго-зап. от него, в 4.3 км к юго-зап. от оз. Сорколь, в 13 м к зап. от дороги гор. Аральск - с. Ыргыз</SimpleData>
+		<SimpleData name="lvl_line">80241139-b7ad-47b2-bf29-5f18467eda06</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>61.274805407026,48.3855442285754</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

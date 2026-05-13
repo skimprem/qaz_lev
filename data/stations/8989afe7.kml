@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="8989afe7" id="8989afe7">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>8989afe7</name>
+  <Placemark id="8989afe7.1">
+	<name>2444</name>
+	<description>фун.репер</description>
+	<ExtendedData><SchemaData schemaUrl="#8989afe7">
+		<SimpleData name="ctrl_place">161оп</SimpleData>
+		<SimpleData name="center_type">Торгай, с., северная часть города, в 140 м к северу от подстанции.</SimpleData>
+		<SimpleData name="lvl_line">8989afe7-d38f-48e8-9839-4609c096697d</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>63.5060352087612,49.6411193814591</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="03047ef2" id="03047ef2">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>03047ef2</name>
+  <Placemark id="03047ef2.1">
+	<name>Р</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#03047ef2">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="ext_sign">115.588</SimpleData>
+		<SimpleData name="class_lvl">114.587</SimpleData>
+		<SimpleData name="height_ctrl">3232</SimpleData>
+		<SimpleData name="ctrl_place">131</SimpleData>
+		<SimpleData name="center_type">Карасу, с., в 4.1 км к сев.-вост. от него, в 0.7 км к зап. от недейств. ЛЭП, в 107 м к юго-зап. от фунд. реп. 83, в 9 м к вост. от полевой дороги с.Кайга-с.Карасу.</SimpleData>
+		<SimpleData name="lvl_line">03047ef2-e0bc-4a30-bf4b-755ae53fd9d0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>64.6323416205831,50.7732066408737</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

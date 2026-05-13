@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="e4bb29ab" name="e4bb29ab">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Schema id="e4bb29ab.schema">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Document id="e4bb29ab">
+      <name>e4bb29ab</name>
+      <Placemark id="e4bb29ab.1">
+        <description>Мибулак.с., в 2,7км к юго-зап. от него, в 2,8км к сев.-зап. от арт. к. Милыбулак, в 4,0км к зап.от нефтепровода Шымкент- Павлодар и ЛЭП, в 0,4км к сев. от солончака Тузколь, в 8м к юго-зап. от пол. дор.</description>
+        <ExtendedData>
+          <SchemaData schemaUrl="#e4bb29ab.schema">
+            <SimpleData name="title">6260</SimpleData>
+            <SimpleData name="type">грунтовый репер</SimpleData>
+            <SimpleData name="ext_sign">грунтовый репер</SimpleData>
+            <SimpleData name="class_lvl">2</SimpleData>
+            <SimpleData name="height_lvl">268.856</SimpleData>
+            <SimpleData name="center_type">160</SimpleData>
+            <SimpleData name="guid">e4bb29ab-8b4e-4293-b9b2-74fe3ab6015c</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            68.2549251210601,46.9370507627882,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

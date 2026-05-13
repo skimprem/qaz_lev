@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="46d1b06d" name="46d1b06d">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Schema id="_46d1b06d.schema">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Document id="_46d1b06d">
+      <name>46d1b06d</name>
+      <Placemark id="_46d1b06d.1">
+        <description>Уломбай. кладб., в 4.3 км к зап. от него, в 1.5 км к сев.- вост. от моста,  в 1.4 км к зап. от изгиба р. Сарысу,  в          30 м к вост. от дороги гор.Жезказган - гор. Кызылорда,   на 171 км</description>
+        <ExtendedData>
+          <SchemaData schemaUrl="#_46d1b06d.schema">
+            <SimpleData name="title">8208</SimpleData>
+            <SimpleData name="type">грунтовый репер</SimpleData>
+            <SimpleData name="ext_sign">грунтовый репер</SimpleData>
+            <SimpleData name="class_lvl">2</SimpleData>
+            <SimpleData name="height_lvl">214,241</SimpleData>
+            <SimpleData name="lvl_line">Линия № 1: Жезказган - Caрысу. ІІ класс (2) Участок: - грунт реп. 730 - грунт.реп. 9470</SimpleData>
+            <SimpleData name="guid">46d1b06d-370e-47ef-b669-9e4d8e141500</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            67.2598650053169,46.4109900660502,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

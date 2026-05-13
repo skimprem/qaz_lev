@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="6228bf41" name="6228bf41">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Schema id="_6228bf41.schema">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Document id="_6228bf41">
+      <name>6228bf41</name>
+      <Placemark id="_6228bf41.1">
+        <description>Акорпа, к., в 3.8 км к сев.вост.от него, в 1.4 км к юго-вост.от кладб.Тулеу, в 138 м к сев-зап.от фнд.реп.138, в 60 м к югу от грунт.дор. К.Акорпа-разв.Турум</description>
+        <ExtendedData>
+          <SchemaData schemaUrl="#_6228bf41.schema">
+            <SimpleData name="title">6694</SimpleData>
+            <SimpleData name="ext_sign">грунт.реп.</SimpleData>
+            <SimpleData name="class_lvl">2</SimpleData>
+            <SimpleData name="center_type">5</SimpleData>
+            <SimpleData name="lvl_line">Линия Кальнияз-Саура, от фунд.реп.9386 (9683) до фун.реп.12-802</SimpleData>
+            <SimpleData name="guid">6228bf41-bff2-438f-8eeb-71ceb4b9ffeb</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            52.4093733981073,45.1665419321298,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

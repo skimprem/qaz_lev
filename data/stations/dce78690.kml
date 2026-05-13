@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="dce78690" id="dce78690">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>dce78690</name>
+  <Placemark id="dce78690.1">
+	<name>Озен</name>
+	<description>пирамида</description>
+	<ExtendedData><SchemaData schemaUrl="#dce78690">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="ext_sign">82270</SimpleData>
+		<SimpleData name="ctrl_place">146</SimpleData>
+		<SimpleData name="mark_num">Линия Жаксыкарсакбас (фунд. реп. 351) - Коккабак (фунд. реп.2)</SimpleData>
+		<SimpleData name="lvl_line">dce78690-a3e1-4303-9dc0-339b36a1fc2c</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>62.2244588240774,48.6214126034213</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

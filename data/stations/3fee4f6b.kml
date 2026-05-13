@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="3fee4f6b" id="3fee4f6b">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>3fee4f6b</name>
+  <Placemark id="3fee4f6b.1">
+	<name>4215</name>
+	<description>Грунтовый репер </description>
+	<ExtendedData><SchemaData schemaUrl="#3fee4f6b">
+		<SimpleData name="ext_sign">203.437</SimpleData>
+		<SimpleData name="height_ctrl">4215</SimpleData>
+		<SimpleData name="ctrl_place">121</SimpleData>
+		<SimpleData name="center_type">Апановка, станция в 5.5 км к вост. От неё, в конце 3 пик 195 км жел.дор., в 93 м к сев., от жел.-дор. Полотна, в 15 м к зап о  ствола ЛЭП номер 127 и 128</SimpleData>
+		<SimpleData name="lvl_line">3fee4f6b-7091-478e-8508-ded0a6232371</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>63.2790633333333,52.527745</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

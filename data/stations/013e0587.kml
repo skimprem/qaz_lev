@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="013e0587" name="013e0587">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Schema id="_013e0587.schema">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Document id="_013e0587">
+      <name>013e0587</name>
+      <Placemark id="_013e0587.1">
+        <description>Боритускен, сух. к., в 8.6 км к сев.-зап. от него, в 7.7 км к юго-зап. от пир. 2 кл. Биртузкен, в 5 м к югу от полевой дороги</description>
+        <ExtendedData>
+          <SchemaData schemaUrl="#_013e0587.schema">
+            <SimpleData name="title">4520</SimpleData>
+            <SimpleData name="type">грунтовый репер</SimpleData>
+            <SimpleData name="ext_sign">грунтовый репер</SimpleData>
+            <SimpleData name="class_lvl">2</SimpleData>
+            <SimpleData name="height_lvl">278,323</SimpleData>
+            <SimpleData name="center_type">160 оп. знак</SimpleData>
+            <SimpleData name="lvl_line">Линия № 2: Кендырлык (Айгарлык) - фунд. реп. 9617, ІІ  класс (2) Участок: грунт, реп. 150 фунд. реп, 9617</SimpleData>
+            <SimpleData name="guid">013e0587-85fa-4d1e-96ff-c770eefdff83</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            69.236294035692,45.9188278074757,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

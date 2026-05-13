@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2d64b1c8" id="2d64b1c8">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>2d64b1c8</name>
+  <Placemark id="2d64b1c8.1">
+	<name>IX</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#2d64b1c8">
+		<SimpleData name="height_ctrl">IX</SimpleData>
+		<SimpleData name="ctrl_place">162 оп</SimpleData>
+		<SimpleData name="center_type">58,6 км. к сев. от оз.Балхаш, 67,3 км к сев.вост. от с. Саяк, 5 км к зап. от пересых. русла</SimpleData>
+		<SimpleData name="lvl_line">2d64b1c8-3c5c-4505-9bab-6ddd6f85d538</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>78.2126116666667,47.07889</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

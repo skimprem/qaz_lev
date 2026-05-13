@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="91d17726" id="91d17726">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>91d17726</name>
+  <Placemark id="91d17726.1">
+	<name>1332</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#91d17726">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="ext_sign">85.849</SimpleData>
+		<SimpleData name="ctrl_place">160</SimpleData>
+		<SimpleData name="mark_num">Линия №248 Аральск -Семиозёрное Участок грунт.реп.0667 -грунт.реп.114</SimpleData>
+		<SimpleData name="center_type">Дукен,метеостанция,в 7.32 км к сев.от неё,в 5.5 км к юго-зап.от разв.Балпан,в 3.7 км к югу от моста через р.Олькаяк</SimpleData>
+		<SimpleData name="lvl_line">91d17726-3212-41f9-815d-7b1b77499217</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>62.0089748957125,49.0246007244496</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

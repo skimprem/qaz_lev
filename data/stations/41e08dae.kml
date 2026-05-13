@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="41e08dae" id="41e08dae">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>41e08dae</name>
+  <Placemark id="41e08dae.1">
+	<name>Закладка M029</name>
+	<description>Грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#41e08dae">
+		<SimpleData name="title">Грунтовый репер</SimpleData>
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="height_ctrl">M029</SimpleData>
+		<SimpleData name="ctrl_place">149</SimpleData>
+		<SimpleData name="mark_num">121</SimpleData>
+		<SimpleData name="center_type">Акчатау 45.8км к юга-востоку от него, в 640м юга-западу от высоковолтьной линий , в 88м к северу-востоку от шоссе Караганда-Балкаш, в 7м к северу-востоку от полевой дороги.</SimpleData>
+		<SimpleData name="lvl_line">41e08dae-0184-4dff-add1-4a0af3ce3c0b</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>74.37443587,47.63709279</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="f6dc8131" id="f6dc8131">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>f6dc8131</name>
+  <Placemark id="f6dc8131.1">
+	<name>1005</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#f6dc8131">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="ext_sign">-24.747</SimpleData>
+		<SimpleData name="ctrl_place">160</SimpleData>
+		<SimpleData name="mark_num">Линия Астрахань-Гурьев, нивелирование 1 класса, 1983 г. Предприятие №6</SimpleData>
+		<SimpleData name="center_type">Чапаевский, свх., в 13.7 км к юго-зап.от него, на 88 км шоссе Гурьев-Астрахань, в 1.2 км к сев-вост.от кладб., в 47 м к сев.-зап.от оси шоссе, в 46 м к сев.-вост.от тлф.стб.№1741, в 15 м к сев-зап.от тлф.стб.№1740</SimpleData>
+		<SimpleData name="lvl_line">f6dc8131-42f5-4840-b2eb-51818c0823b9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>50.9301037528216,47.1733333710637</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

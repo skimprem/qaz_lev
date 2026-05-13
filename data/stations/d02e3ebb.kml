@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="d02e3ebb" id="d02e3ebb">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>d02e3ebb</name>
+  <Placemark id="d02e3ebb.1">
+	<name>Хамидолла</name>
+	<description>пир.</description>
+	<ExtendedData><SchemaData schemaUrl="#d02e3ebb">
+		<SimpleData name="type">3</SimpleData>
+		<SimpleData name="ext_sign">-8.018 марка № 40</SimpleData>
+		<SimpleData name="ctrl_place">15</SimpleData>
+		<SimpleData name="mark_num">Линия №1 : Баван-Зелёный, Нивелирование II класса, 1986 г. Предприятие №6. Работа №1.</SimpleData>
+		<SimpleData name="center_type">зим. Жумабек в 9.3 км к сев.-вост. от неё, в 5.0 км к сев.-зап. от зим. Кадыр на высоком бархане.</SimpleData>
+		<SimpleData name="lvl_line">d02e3ebb-ba6f-41cc-85c6-aad1329d9787</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>50.2831259758914,47.9976884378667</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

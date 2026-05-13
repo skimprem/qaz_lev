@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="caa1c125" id="caa1c125">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>caa1c125</name>
+  <Placemark id="caa1c125.1">
+	<name>6110</name>
+	<description>Грунт </description>
+	<ExtendedData><SchemaData schemaUrl="#caa1c125">
+		<SimpleData name="lvl_line">caa1c125-feb2-46cb-be8a-aa41e6615bee</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.1841716666667,43.5464683333333</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

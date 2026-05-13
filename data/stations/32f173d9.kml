@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="32f173d9" name="32f173d9">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Schema id="_32f173d9.schema">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Document id="_32f173d9">
+      <name>32f173d9</name>
+      <Placemark id="_32f173d9.1">
+        <description>Сарысу. р., в 2.6 км к зап. от нее,                в 0.2 км к сев. от км. стб. 159, в 0.1 км к югу от грунт. реп. 1144, в 60 м к зап. от дороги гор. Жезказган - гор.Кызылорда, на 158.8 км</description>
+        <ExtendedData>
+          <SchemaData schemaUrl="#_32f173d9.schema">
+            <SimpleData name="title">4082</SimpleData>
+            <SimpleData name="type">фундаментальный репер</SimpleData>
+            <SimpleData name="ext_sign">фундаменталный репер</SimpleData>
+            <SimpleData name="class_lvl">2</SimpleData>
+            <SimpleData name="height_lvl">219,796</SimpleData>
+            <SimpleData name="height_ctrl">218,944</SimpleData>
+            <SimpleData name="ctrl_place">в фундаментной плите</SimpleData>
+            <SimpleData name="lvl_line">Линия № 1: Жезказган - Caрысу. ІІ класс (2) Участок: - грунт реп. 730 - грунт.реп. 9470</SimpleData>
+            <SimpleData name="guid">32f173d9-feee-4b7c-a8d5-e82ad6508e68</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            67.3513066761263,46.4857729848521,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

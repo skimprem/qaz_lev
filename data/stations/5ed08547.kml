@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="5ed08547" name="5ed08547">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Schema id="_5ed08547.schema">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Document id="_5ed08547">
+      <name>5ed08547</name>
+      <Placemark id="_5ed08547.1">
+        <description>Тущукудук, с., в 33.5 км к юго-зап.от него, в 1.0 км к к сев-от грунт.дор., в 33 м к юго-вост.от грунт.дор..разв.Сарытас-с.Тущыкудук, в 0.2 км к юго-вост.от солончака</description>
+        <ExtendedData>
+          <SchemaData schemaUrl="#_5ed08547.schema">
+            <SimpleData name="title">Кимбелексор</SimpleData>
+            <SimpleData name="ext_sign">грунт.реп.</SimpleData>
+            <SimpleData name="class_lvl">2</SimpleData>
+            <SimpleData name="center_type">1</SimpleData>
+            <SimpleData name="lvl_line">Линия Кальнияз-Саура, от фунд.реп.9386 (9683) до фун.реп.12-802</SimpleData>
+            <SimpleData name="guid">5ed08547-8b94-43cf-b102-9bb1eb144c9c</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            51.6493471122843,44.5452911801319,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="eb8b6f43" id="eb8b6f43">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>eb8b6f43</name>
+  <Placemark id="eb8b6f43.1">
+	<name>1861</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#eb8b6f43">
+		<SimpleData name="height_ctrl">1861</SimpleData>
+		<SimpleData name="ctrl_place">162оп</SimpleData>
+		<SimpleData name="center_type">2.1 км к югу ототд.дв Веселое, 0.1 км к зап. от грунт. дороги отд. дв. Веселое-с. Арыкбалык, в 30 м к сев. от стб. ЛЭП с. подпоркой, в 25 м к вост. от тарнсформатора</SimpleData>
+		<SimpleData name="lvl_line">eb8b6f43-3c4a-4880-8b44-7ed69b14b6ec</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>68.19794,53.0225616666667</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

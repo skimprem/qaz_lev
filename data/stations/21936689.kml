@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="21936689" id="21936689">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>21936689</name>
+  <Placemark id="21936689.1">
+	<name>22</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#21936689">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="ext_sign">347.988</SimpleData>
+		<SimpleData name="height_lvl">нет данных (рельс)</SimpleData>
+		<SimpleData name="ctrl_place">12</SimpleData>
+		<SimpleData name="mark_num">Линия № 3: Кзыл-Сенгир - р. Кон. І класс </SimpleData>
+		<SimpleData name="center_type">Отарбай. с..  в 9.5 км к югу от него. в 2.5 км к сев.от  мог. Шаухар. в 75 м к вост.от могилы</SimpleData>
+		<SimpleData name="lvl_line">21936689-a752-43f1-9dbb-d7c88cfeb9cc</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>69.5065829449148,49.9089787165498</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

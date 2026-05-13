@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="d1e033b6" name="d1e033b6">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Schema id="d1e033b6.schema">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Document id="d1e033b6">
+      <name>d1e033b6</name>
+      <Placemark id="d1e033b6.1">
+        <description>280 км, раз,, в 7,0 км к сев,-вост, от него, на 10 пк 273
+км, в 30 м к сев, от жел,-дор, полотна</description>
+        <ExtendedData>
+          <SchemaData schemaUrl="#d1e033b6.schema">
+            <SimpleData name="title">5422</SimpleData>
+            <SimpleData name="type">грунтовый репер</SimpleData>
+            <SimpleData name="class_lvl">1</SimpleData>
+            <SimpleData name="height_lvl">350,589</SimpleData>
+            <SimpleData name="height_ctrl">349,283</SimpleData>
+            <SimpleData name="ctrl_place">Контрольный репер № 5530 в фундаментной плите</SimpleData>
+            <SimpleData name="center_type">116 оп,знак</SimpleData>
+            <SimpleData name="lvl_line">Линия №2: Тюемойнак-Жарык, I класс (2) Участок: фунд,реп,497 - пир, 1 кл,Арал-Тюбе</SimpleData>
+            <SimpleData name="guid">d1e033b6-ec32-495b-8b50-9a12034ca6cf</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            69.4284833057075,48.2579458147234,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

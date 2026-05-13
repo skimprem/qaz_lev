@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="f9845011" name="f9845011">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Schema id="f9845011.schema">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Document id="f9845011">
+      <name>f9845011</name>
+      <Placemark id="f9845011.1">
+        <description>Кызыл-Узен,рыб.пром.,в 6.5 км к сев-вост.от него, в 2.1 км к сев-зап.от кладб.Сокакудук, в 21 м к юго-зап.от дороги с.Караманды-гор.Форт-Шевченко</description>
+        <ExtendedData>
+          <SchemaData schemaUrl="#f9845011.schema">
+            <SimpleData name="title">38</SimpleData>
+            <SimpleData name="ext_sign">грунт.реп.</SimpleData>
+            <SimpleData name="class_lvl">1</SimpleData>
+            <SimpleData name="height_lvl">1.669</SimpleData>
+            <SimpleData name="height_ctrl">0.660</SimpleData>
+            <SimpleData name="ctrl_place">Контрольный репер в стенке трубы</SimpleData>
+            <SimpleData name="center_type">118</SimpleData>
+            <SimpleData name="lvl_line">Линия: грунт.реп 38-грунт.реп.1600,1 кл(2)</SimpleData>
+            <SimpleData name="guid">f9845011-8442-4f8e-bebb-458fde07e8ec</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            50.5686342888545,44.3438374474929,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

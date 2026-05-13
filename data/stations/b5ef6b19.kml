@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="b5ef6b19" name="b5ef6b19">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Schema id="b5ef6b19.schema">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Document id="b5ef6b19">
+      <name>b5ef6b19</name>
+      <Placemark id="b5ef6b19.1">
+        <description>Раз, 189 км, в 15,6 км к юго-зап от него, на 2 пк 205 км жел дор,, в 34 м к сев от жел дор</description>
+        <ExtendedData>
+          <SchemaData schemaUrl="#b5ef6b19.schema">
+            <SimpleData name="title">4691</SimpleData>
+            <SimpleData name="type">грунтовый репер</SimpleData>
+            <SimpleData name="class_lvl">1</SimpleData>
+            <SimpleData name="height_lvl">399,832</SimpleData>
+            <SimpleData name="height_ctrl">398, 527</SimpleData>
+            <SimpleData name="ctrl_place">Контрольный репер № 8204 в фундаментной плите</SimpleData>
+            <SimpleData name="center_type">116</SimpleData>
+            <SimpleData name="lvl_line">Линия № 1: Тюемойнак - Жарык, І класс (1) Участок: грунт,реп, 5222 - грунт,реп, 1644</SimpleData>
+            <SimpleData name="guid">b5ef6b19-5e5b-4613-858a-b213a871e84b</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            70.2584644460359,48.4766201869757,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

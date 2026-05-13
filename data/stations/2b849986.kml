@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2b849986" id="2b849986">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>2b849986</name>
+  <Placemark id="2b849986.1">
+	<name>Сергеевка</name>
+	<description>пирамида</description>
+	<ExtendedData><SchemaData schemaUrl="#2b849986">
+		<SimpleData name="type">4</SimpleData>
+		<SimpleData name="ext_sign">273.228</SimpleData>
+		<SimpleData name="class_lvl">2650</SimpleData>
+		<SimpleData name="height_lvl">146</SimpleData>
+		<SimpleData name="height_ctrl">Линия № 1: Сергеевка-Терсаккан. І класс </SimpleData>
+		<SimpleData name="ctrl_place">Самарка. с.. в 9.1 км к югу от него. в 1.5 км ксев- вост. от оз. Жарколь. в 20 м к зап. от дор. с. Николаевка - г. Атбасар</SimpleData>
+		<SimpleData name="mark_num">М-42-17-А</SimpleData>
+		<SimpleData name="center_type">12</SimpleData>
+		<SimpleData name="lvl_line">2b849986-df23-4a97-81c7-313ab91d9c61</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>68.0420660354512,51.5383264567018</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

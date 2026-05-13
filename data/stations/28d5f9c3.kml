@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="28d5f9c3" id="28d5f9c3">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>28d5f9c3</name>
+  <Placemark id="28d5f9c3.1">
+	<name>1843</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#28d5f9c3">
+		<SimpleData name="height_ctrl">1843</SimpleData>
+		<SimpleData name="ctrl_place">162оп</SimpleData>
+		<SimpleData name="center_type">1,8 км к северо-западу от пересечения автомобильной и полевой дорог, 51 м к северу от железной дороги, 15 м к юго-западу от лесополосы </SimpleData>
+		<SimpleData name="lvl_line">28d5f9c3-fe8a-4bec-8302-7af494381e59</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>66.6456333333333,51.9139616666667</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

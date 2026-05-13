@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="ba148676" name="ba148676">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Schema id="ba148676.schema">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Document id="ba148676">
+      <name>ba148676</name>
+      <Placemark id="ba148676.1">
+        <description>Шебир, с., в 33.0 км к сев.-вост.от него, в 4.8 км к сев-вост.от пир.3 кл. Акбала, в 1.8 км  к вост.от мог.Акбала, в 45 м к сев.от разв.грунт.дор., в 25 м к сев-зап.от грунт.дор.с.Шебир-к.Акорпа, в 30 м к вост.от пол.дор.</description>
+        <ExtendedData>
+          <SchemaData schemaUrl="#ba148676.schema">
+            <SimpleData name="title">3384</SimpleData>
+            <SimpleData name="ext_sign">грунт.реп.</SimpleData>
+            <SimpleData name="class_lvl">2</SimpleData>
+            <SimpleData name="center_type">5</SimpleData>
+            <SimpleData name="lvl_line">Линия Кальнияз-Саура, от фунд.реп.9386 (9683) до фун.реп.12-802</SimpleData>
+            <SimpleData name="guid">ba148676-0fce-47e3-8522-ab7fe4849771</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            52.2605177976696,45.0495058407231,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

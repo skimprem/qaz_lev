@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="eb808e3b" name="eb808e3b">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Schema id="eb808e3b.schema">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Document id="eb808e3b">
+      <name>eb808e3b</name>
+      <Placemark id="eb808e3b.1">
+        <description>Аралтобе, с., в 6.0  км к вост.от него, в 0.3 км к сев-вост.от кладб.Акмешит, в 20 м к сев.от дороги с.Аккизтогай -с.Биикжол</description>
+        <ExtendedData>
+          <SchemaData schemaUrl="#eb808e3b.schema">
+            <SimpleData name="title">37</SimpleData>
+            <SimpleData name="type">фундаментальный репер</SimpleData>
+            <SimpleData name="class_lvl">2</SimpleData>
+            <SimpleData name="height_lvl">24.287</SimpleData>
+            <SimpleData name="height_ctrl">22.869</SimpleData>
+            <SimpleData name="ctrl_place">Контрольный репер №1481 в верхней плоскости монолита</SimpleData>
+            <SimpleData name="center_type">141</SimpleData>
+            <SimpleData name="lvl_line">Линия №3:Косчагыл-Казбек,  кл.(2) Участок: грунт.реп.549-грунт.реп,537</SimpleData>
+            <SimpleData name="guid">eb808e3b-0308-41e7-9bc6-335b787bd448</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            54.7977118254877,47.1631243434777,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

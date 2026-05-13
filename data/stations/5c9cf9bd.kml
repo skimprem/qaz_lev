@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="5c9cf9bd" id="5c9cf9bd">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>5c9cf9bd</name>
+  <Placemark id="5c9cf9bd.1">
+	<name>0214</name>
+	<description>фундаментальный репер</description>
+	<ExtendedData><SchemaData schemaUrl="#5c9cf9bd">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="ext_sign">816.849</SimpleData>
+		<SimpleData name="ctrl_place">161</SimpleData>
+		<SimpleData name="center_type">Кент, с., в 8.8 км к сев.-зап. от него, в 82 м к юго-вост. от столба высоковольтной линий, в 50 м к вост. от столба высоковольтной линии, в 65 м к западу от р.Талды.</SimpleData>
+		<SimpleData name="lvl_line">5c9cf9bd-e005-4e99-b325-ce8ee6ca6ea3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.8250123607067,49.3138169775583</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

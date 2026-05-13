@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="dd80d5c7" name="dd80d5c7">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Schema id="dd80d5c7.schema">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Document id="dd80d5c7">
+      <name>dd80d5c7</name>
+      <Placemark id="dd80d5c7.1">
+        <description>Таучик, с., в 18.7 км к сев-зап.от него, на юго-вост.окраине разв.с.Сарытас, в 0.4 км к вост.от животноводческой фермы №3 свх.Жана-жол, в 130 м к зап.от сухого русла</description>
+        <ExtendedData>
+          <SchemaData schemaUrl="#dd80d5c7.schema">
+            <SimpleData name="title">4892</SimpleData>
+            <SimpleData name="ext_sign">грунт.реп.</SimpleData>
+            <SimpleData name="class_lvl">2</SimpleData>
+            <SimpleData name="center_type">10</SimpleData>
+            <SimpleData name="lvl_line">Линия Кальнияз-Саура, от фунд.реп.9386 (9683) до фун.реп.12-802</SimpleData>
+            <SimpleData name="guid">dd80d5c7-4d94-4665-9eff-6316737d7bfa</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            51.1809853947832,44.4651005000627,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

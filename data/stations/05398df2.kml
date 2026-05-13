@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="05398df2" id="05398df2">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>05398df2</name>
+  <Placemark id="05398df2.1">
+	<name>7503</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#05398df2">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="ext_sign">62,100</SimpleData>
+		<SimpleData name="mark_num">Линия №1 Доссор-Сагиз, 1 класс. Участок грунт.реп. 3077- грунт. Реп. 3225</SimpleData>
+		<SimpleData name="center_type">Жантерек, станц., в 5,9 км к юго-зап. От нее, на 1 пикете 324 км в 55 м к юго-вост. От жел-дор. Полотна</SimpleData>
+		<SimpleData name="lvl_line">05398df2-329e-4e7f-8204-fd6887b5ecde</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>54.1578479958089,47.901861014818</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

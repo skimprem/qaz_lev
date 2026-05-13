@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="dcf76673" id="dcf76673">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>dcf76673</name>
+  <Placemark id="dcf76673.1">
+	<name>Пир. Захаровка(новая точка) </name>
+	<ExtendedData><SchemaData schemaUrl="#dcf76673">
+		<SimpleData name="lvl_line">dcf76673-150a-499d-9fd5-249504cba53a</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>71.70077672279,49.748796533938</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

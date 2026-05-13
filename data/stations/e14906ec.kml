@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="e14906ec" id="e14906ec">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>e14906ec</name>
+  <Placemark id="e14906ec.1">
+	<name>Павлодар</name>
+	<description>сигнал</description>
+	<ExtendedData><SchemaData schemaUrl="#e14906ec">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="ext_sign">153,085</SimpleData>
+		<SimpleData name="ctrl_place">28</SimpleData>
+		<SimpleData name="mark_num">Линия нивелирования: Павлодар-Урлютюб,II класс Участок:фунд. реп.1015-фунд.реп. 310</SimpleData>
+		<SimpleData name="lvl_line">e14906ec-b5bf-44d9-903e-56299c7f8e46</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>76.9342062199175,52.3240523159663</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

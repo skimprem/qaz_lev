@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="706e31dd" id="706e31dd">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>706e31dd</name>
+  <Placemark id="706e31dd.1">
+	<name>306</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#706e31dd">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="ext_sign">114,256</SimpleData>
+		<SimpleData name="ctrl_place">131</SimpleData>
+		<SimpleData name="mark_num">Линия нивелирования: Павлодар-Урлютюб,II класс Участок:фунд. реп.1015-фунд.реп. 310</SimpleData>
+		<SimpleData name="center_type">Боброво,с. В 5 км к юго-вост. От него, в 20 м к сев.-вост. от дороги с. Пятирыжск-с. Качиры</SimpleData>
+		<SimpleData name="lvl_line">706e31dd-f5a8-481b-837f-c1489d308092</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.7517683621165,53.1938128250553</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

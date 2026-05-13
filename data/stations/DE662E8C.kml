@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="DE662E8C" id="DE662E8C">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>DE662E8C</name>
+  <Placemark id="DE662E8C.1">
+	<name>Жаксыбай</name>
+	<ExtendedData><SchemaData schemaUrl="#DE662E8C">
+		<SimpleData name="title">пирамида</SimpleData>
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="ctrl_place">1</SimpleData>
+		<SimpleData name="lvl_line">DE662E8C-49BF-0048-C2A7-6DAFC399A151</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>53.9394679843909,49.5994159976109</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

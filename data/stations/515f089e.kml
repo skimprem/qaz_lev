@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="515f089e" name="515f089e">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Schema id="_515f089e.schema">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Document id="_515f089e">
+      <name>515f089e</name>
+      <Placemark id="_515f089e.1">
+        <description>Атасу,с.,в южн.окраина его,в 0.1 км к зап.от площадки метеостанции</description>
+        <ExtendedData>
+          <SchemaData schemaUrl="#_515f089e.schema">
+            <SimpleData name="title">16</SimpleData>
+            <SimpleData name="type">фундаментальный репер</SimpleData>
+            <SimpleData name="class_lvl">2</SimpleData>
+            <SimpleData name="height_lvl">487.58</SimpleData>
+            <SimpleData name="center_type">141</SimpleData>
+            <SimpleData name="lvl_line">Линия №1: Тюемойнак-Жарык, I класс (1) Участок: грунт.реп.5895 - грунт.реп.5272  Ход от грунт.реп.1815 до грунт.реп.1052,  II класс (6)</SimpleData>
+            <SimpleData name="guid">515f089e-3275-4e56-805a-3e15924c7138</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            71.6619643876476,48.6753456064843,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="3279511b" id="3279511b">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>3279511b</name>
+  <Placemark id="3279511b.1">
+	<name>Жанажол</name>
+	<description>пирамида</description>
+	<ExtendedData><SchemaData schemaUrl="#3279511b">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="ext_sign">384.306</SimpleData>
+		<SimpleData name="height_lvl">9</SimpleData>
+		<SimpleData name="ctrl_place">12</SimpleData>
+		<SimpleData name="mark_num">Линия № 5: Талдысай - Тюемойнак. І класс </SimpleData>
+		<SimpleData name="center_type">Тюемойнак.станция. в 8.0 км к сев.от нее. в 2.5 км к зап.от дороги с.Сарыбулак-с.Тюемойнак. в 0.2 км к вост.от полевой дороги</SimpleData>
+		<SimpleData name="lvl_line">3279511b-fa90-4696-ac9f-adf9257e0c2a</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>69.1229857028399,48.2523924014097</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

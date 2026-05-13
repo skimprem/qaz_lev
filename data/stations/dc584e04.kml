@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="dc584e04" id="dc584e04">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>dc584e04</name>
+  <Placemark id="dc584e04.1">
+	<name>9981</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#dc584e04">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="ext_sign">858,483</SimpleData>
+		<SimpleData name="ctrl_place">160оп.</SimpleData>
+		<SimpleData name="mark_num">Линия № 2: Каркаралинск-Аягуз, I класс (I) Участок: фундаментальный репер 7349-грунтовый репер 9933</SimpleData>
+		<SimpleData name="center_type">Каркаралы, гор. в 9.0 км к сев.-вост. от него, в 0.2 км к зап. от км. стб. 213/161, в 30 м к югу от шоссе</SimpleData>
+		<SimpleData name="lvl_line">dc584e04-67a4-487e-a2a4-ba129cab021c</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.6100218280783,49.434699277008</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

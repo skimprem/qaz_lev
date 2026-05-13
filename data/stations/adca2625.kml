@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="adca2625" id="adca2625">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>adca2625</name>
+  <Placemark id="adca2625.1">
+	<name>6144</name>
+	<ExtendedData><SchemaData schemaUrl="#adca2625">
+		<SimpleData name="title">грунт. реп.</SimpleData>
+		<SimpleData name="ctrl_place">160 оп.знак
+</SimpleData>
+		<SimpleData name="center_type">Басши, с., в 4.8 км к сев-зап. от него, в 30 м южнее опоры ЛЭП 10 кВ, в 20 м севернее км.стб. №75/103 шоссе с.Сарыозек-г.Жаркент</SimpleData>
+		<SimpleData name="lvl_line">adca2625-a79f-431c-8984-1f3e44b35c53</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>78.6949644,44.18070057</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

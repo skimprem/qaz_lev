@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="16274903" id="16274903">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>16274903</name>
+  <Placemark id="16274903.1">
+	<name>0338</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#16274903">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="ext_sign">122,735</SimpleData>
+		<SimpleData name="ctrl_place">160 оп знак</SimpleData>
+		<SimpleData name="mark_num">Линия:Айбас-Кобенсай Участок:фунд. реп. 3217-фунд. реп.4Г</SimpleData>
+		<SimpleData name="center_type">Мортык, а., в 6,8 км к юго-зап. от него, в 0,6 км к югу от загона, в 0,2 км к сев. от кустов, в 17 м к зап. от пол. дороги</SimpleData>
+		<SimpleData name="lvl_line">16274903-2f80-4f13-9ef4-d6f416482dcf</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8873423252511,53.500903030674</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

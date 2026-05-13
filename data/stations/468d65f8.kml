@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="468d65f8" name="468d65f8">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Schema id="_468d65f8.schema">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Document id="_468d65f8">
+      <name>468d65f8</name>
+      <Placemark id="_468d65f8.1">
+        <description>Аланбай, кладб., в 11,3км к юго-зап. от него, в в 0,5км к зап. от р. Сарысу, в 0,3км к зап. от ВЛЭП,  в 250м к сев.-вост. от стыка пол. дор. и шоссе, в 53м к сев.-зап. от шоссе Кызылорда-Жезказган,- в 11м к сев.-зап. от кабельной линии</description>
+        <ExtendedData>
+          <SchemaData schemaUrl="#_468d65f8.schema">
+            <SimpleData name="title">8366</SimpleData>
+            <SimpleData name="type">грунтовый репер</SimpleData>
+            <SimpleData name="ext_sign">грунтовый репер</SimpleData>
+            <SimpleData name="class_lvl">3</SimpleData>
+            <SimpleData name="height_lvl">287.841</SimpleData>
+            <SimpleData name="center_type">160</SimpleData>
+            <SimpleData name="guid">468d65f8-6012-418c-8ed7-30e1d5e564e8</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            67.938205535007,47.2863652062579,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

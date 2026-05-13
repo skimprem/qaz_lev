@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="e7f8828f" id="e7f8828f">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>e7f8828f</name>
+  <Placemark id="e7f8828f.1">
+	<name>R074</name>
+	<description>Ск.реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#e7f8828f">
+		<SimpleData name="height_ctrl">R074</SimpleData>
+		<SimpleData name="ctrl_place">66</SimpleData>
+		<SimpleData name="lvl_line">e7f8828f-5621-4b4a-81a9-bdba5f7c1074</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>55.46126078,44.48783889</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

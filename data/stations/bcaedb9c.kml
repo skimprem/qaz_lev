@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="bcaedb9c" name="bcaedb9c">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Schema id="bcaedb9c.schema">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Document id="bcaedb9c">
+      <name>bcaedb9c</name>
+      <Placemark id="bcaedb9c.1">
+        <description>Жанаарка, станц,,в 20,0 км к вост,от нее,на 6 пикете 71 км,в 48 м к сев,от жел,-дор,полотна</description>
+        <ExtendedData>
+          <SchemaData schemaUrl="#bcaedb9c.schema">
+            <SimpleData name="title">1639</SimpleData>
+            <SimpleData name="type">грунтовый репер</SimpleData>
+            <SimpleData name="class_lvl">1</SimpleData>
+            <SimpleData name="height_lvl">514,657</SimpleData>
+            <SimpleData name="height_ctrl">514,657</SimpleData>
+            <SimpleData name="ctrl_place">Контрольный репер в верхней плоскости монолита</SimpleData>
+            <SimpleData name="center_type">121</SimpleData>
+            <SimpleData name="lvl_line">Линия №1: Тюемойнак-Жарык, I класс (1) Участок: грунт,реп,5895 - грунт,реп,5272  Ход от грунт,реп,5272 до грунт,реп,5598, I класс (2)</SimpleData>
+            <SimpleData name="guid">bcaedb9c-a61b-4b37-9ea2-ec66f7f0ed78</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            71.9314717389579,48.709271515215,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

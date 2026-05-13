@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="36ed27eb" name="36ed27eb">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Schema id="_36ed27eb.schema">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Document id="_36ed27eb">
+      <name>36ed27eb</name>
+      <Placemark id="_36ed27eb.1">
+        <description>Разьезд № 117, в 4,0 км к сев,-вост,от него, на 5 пикете 117 км, в 75 м к сев,-зап,от жел,-дор,полотна</description>
+        <ExtendedData>
+          <SchemaData schemaUrl="#_36ed27eb.schema">
+            <SimpleData name="title">1856</SimpleData>
+            <SimpleData name="type">грунтовый репер</SimpleData>
+            <SimpleData name="class_lvl">1</SimpleData>
+            <SimpleData name="height_lvl">467,025</SimpleData>
+            <SimpleData name="height_ctrl">466,073</SimpleData>
+            <SimpleData name="ctrl_place">Контрольный репер в верхней плоскости монолита</SimpleData>
+            <SimpleData name="center_type">121 оп,знак</SimpleData>
+            <SimpleData name="lvl_line">Линия № 1: Тюемойнак-Жарык, I класс               Участок: грунт,реп, 3225-марка 1238</SimpleData>
+            <SimpleData name="guid">36ed27eb-0891-4efe-80f9-d3912a6ef702</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            71.3611140166964,48.5798034979175,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

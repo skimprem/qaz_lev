@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="345ff742" id="345ff742">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>345ff742</name>
+  <Placemark id="345ff742.1">
+	<name>ГА40</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#345ff742">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="ext_sign">124.488</SimpleData>
+		<SimpleData name="ctrl_place">160 оп знак</SimpleData>
+		<SimpleData name="mark_num">Линия № 1: Золоторунное - Чистовское, II класс Участок: пир. 2 кл. Жарык-Куль - грунт. реп. 532</SimpleData>
+		<SimpleData name="center_type">Золотая Нива, с., в 11.0 км к сев. от него, в 15 м к зап. от 4 пикета 75 й км к узкоколейной жел. дор. гор. Булаево - с. Молодогвардейское, в 11 м к вост. от лесополосы, в 5 м к юго-зап. от стб. линии связи </SimpleData>
+		<SimpleData name="lvl_line">345ff742-6f61-4478-81e1-a6b181cea741</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>70.8831218910865,54.3197933215443</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

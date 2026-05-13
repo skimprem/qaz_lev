@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="25854bf8" name="25854bf8">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Schema id="_25854bf8.schema">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Document id="_25854bf8">
+      <name>25854bf8</name>
+      <Placemark id="_25854bf8.1">
+        <description>Ералиев, пгт, в 8.0 км к юго-вост.от него в 5.0 км к востоку от залива Александрбай, в 14 м к сев.-вост.от дороги пгт Ералиев - с.Аксу</description>
+        <ExtendedData>
+          <SchemaData schemaUrl="#_25854bf8.schema">
+            <SimpleData name="title">509</SimpleData>
+            <SimpleData name="type">фундаментальный репер</SimpleData>
+            <SimpleData name="class_lvl">1</SimpleData>
+            <SimpleData name="height_lvl">29.387</SimpleData>
+            <SimpleData name="height_ctrl">29.425</SimpleData>
+            <SimpleData name="ctrl_place">Контрольная марка № 52 в скале</SimpleData>
+            <SimpleData name="center_type">114 оп</SimpleData>
+            <SimpleData name="lvl_line">Линия : грунт.реп.32-гфунд.ск.реп.509, 1 класс                    </SimpleData>
+            <SimpleData name="guid">25854bf8-9561-4e02-b373-3d78cf0badb9</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            51.7313788969325,43.1389728430318,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

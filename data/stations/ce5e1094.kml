@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="ce5e1094" id="ce5e1094">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>ce5e1094</name>
+  <Placemark id="ce5e1094.1">
+	<name>4859</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#ce5e1094">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="ext_sign">477.942</SimpleData>
+		<SimpleData name="height_lvl">116 оп. знак</SimpleData>
+		<SimpleData name="ctrl_place">12</SimpleData>
+		<SimpleData name="mark_num">Линия № 5: Талдысай - Тюемойнак. І класс </SimpleData>
+		<SimpleData name="center_type">Тюре. мог.. в 3.0 км к юго-зап. от нее. в 1.0 км к юго-зап. от оз. Жаксыкопа. в 0.8 км к сев. от развалин</SimpleData>
+		<SimpleData name="lvl_line">ce5e1094-bfac-4100-8087-13abb427ea36</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>68.6697582354495,49.1694513479935</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

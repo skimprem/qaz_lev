@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="77330aaa" name="77330aaa">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Schema id="_77330aaa.schema">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Document id="_77330aaa">
+      <name>77330aaa</name>
+      <Placemark id="_77330aaa.1">
+        <description>Разьезд № 117, в 4,0 км к юго-зап,от него, в 7 пикете 121 км, в 35 м к сев,-зап,от жел,-дор,полотна, в 8 м к сев,-зап,от линии</description>
+        <ExtendedData>
+          <SchemaData schemaUrl="#_77330aaa.schema">
+            <SimpleData name="title">5474</SimpleData>
+            <SimpleData name="type">грунтовый репер</SimpleData>
+            <SimpleData name="class_lvl">1</SimpleData>
+            <SimpleData name="height_lvl">461,785</SimpleData>
+            <SimpleData name="height_ctrl">460,674</SimpleData>
+            <SimpleData name="ctrl_place">Контрольная марка № 6436 в фундаментной плите</SimpleData>
+            <SimpleData name="center_type">116 оп,знак</SimpleData>
+            <SimpleData name="lvl_line">Линия № 1: Тюемойнак-Жарык, I класс Участок: грунт,реп, 3225-марка 1238</SimpleData>
+            <SimpleData name="guid">77330aaa-a66e-4ff9-aaad-b9c4cd04f614</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            71.3082624135484,48.5654424360836,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

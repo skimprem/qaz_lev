@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="42080b15" id="42080b15">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>42080b15</name>
+  <Placemark id="42080b15.1">
+	<name>8</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#42080b15">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="ext_sign">119.853</SimpleData>
+		<SimpleData name="class_lvl">118.882</SimpleData>
+		<SimpleData name="height_ctrl">2943</SimpleData>
+		<SimpleData name="ctrl_place">131 оп</SimpleData>
+		<SimpleData name="center_type">Кайга,с., в 11.1 км к юго-зап. от него, в 2.0 км к сев-вост. от разв. с.Бестамак, в 3.4 км к юго-зап. от п.тр.Тастобе, в 37 м к вост. от пол. дор. с.Кайга-с.Карасу.</SimpleData>
+		<SimpleData name="lvl_line">42080b15-2392-4bc1-b83d-c71647691dae</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>64.6782984390004,50.8399587960134</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

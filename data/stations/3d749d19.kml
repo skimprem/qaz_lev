@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="3d749d19" name="3d749d19">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Schema id="_3d749d19.schema">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Document id="_3d749d19">
+      <name>3d749d19</name>
+      <Placemark id="_3d749d19.1">
+        <description>Жарык, станц., в 11.3 км к юго-зап. от нее, на 5 ПК 13 км, в 5 м к сев.-зап. от ЛЭП</description>
+        <ExtendedData>
+          <SchemaData schemaUrl="#_3d749d19.schema">
+            <SimpleData name="title">674</SimpleData>
+            <SimpleData name="type">грунтовый репер</SimpleData>
+            <SimpleData name="class_lvl">1</SimpleData>
+            <SimpleData name="height_lvl">607.49</SimpleData>
+            <SimpleData name="center_type">160 оп</SimpleData>
+            <SimpleData name="lvl_line">Линия №4: Тюемойнак-Жарык, I класс (1) Участок: грунт. реп. 4017-фунд.реп. 89</SimpleData>
+            <SimpleData name="guid">3d749d19-4905-452a-8178-36a47c67f664</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            72.7069400724132,48.7993439288222,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

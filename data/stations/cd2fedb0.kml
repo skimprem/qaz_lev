@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="cd2fedb0" name="cd2fedb0">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Schema id="cd2fedb0.schema">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Document id="cd2fedb0">
+      <name>cd2fedb0</name>
+      <Placemark id="cd2fedb0.1">
+        <description>Бескемпир, кладб., в 1.8 км к юго-зап. от него, в 0.5 км к   юго-зап. от мог. Бала, в 40 м к вост. от пюссе гор.
+Жезказган - гор. Кызылорда</description>
+        <ExtendedData>
+          <SchemaData schemaUrl="#cd2fedb0.schema">
+            <SimpleData name="title">7387</SimpleData>
+            <SimpleData name="type">грунтовый репер</SimpleData>
+            <SimpleData name="ext_sign">грунтовый репер</SimpleData>
+            <SimpleData name="class_lvl">2</SimpleData>
+            <SimpleData name="height_lvl">248,251</SimpleData>
+            <SimpleData name="lvl_line">Линия № 1: Жезказган - Сарысу. II класс (1) Участок: грунт, реп. 683 - грунт, реп. 626</SimpleData>
+            <SimpleData name="guid">cd2fedb0-d830-48f4-916d-d4ebd8fadcec</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            67.6514336263594,46.7779724061358,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

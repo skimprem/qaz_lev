@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="a28f0c45" name="a28f0c45">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Schema id="a28f0c45.schema">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Document id="a28f0c45">
+      <name>a28f0c45</name>
+      <Placemark id="a28f0c45.1">
+        <description>Кансу, к., в 8.6 км к сев.-зап. От него, в 7.5 км к сев. От к.Андрей, в 4.0 км к сев.-вост. От пир. 2 кл. Мыс</description>
+        <ExtendedData>
+          <SchemaData schemaUrl="#a28f0c45.schema">
+            <SimpleData name="title">5181</SimpleData>
+            <SimpleData name="type">Грунт.реп.</SimpleData>
+            <SimpleData name="class_lvl">2</SimpleData>
+            <SimpleData name="height_lvl">-12,452</SimpleData>
+            <SimpleData name="center_type">146 оп</SimpleData>
+            <SimpleData name="lvl_line">Линия №6: грунт.реп. 74 - фунд.реп. 124, II класс. Участок: грунт.реп. 74 - ск.реп. 2983.</SimpleData>
+            <SimpleData name="guid">a28f0c45-13e5-44f1-bfe8-6d09b7246373</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            54.0741032544856,44.9524455064233,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

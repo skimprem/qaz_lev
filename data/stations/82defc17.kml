@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="82defc17" name="82defc17">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Schema id="_82defc17.schema">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Document id="_82defc17">
+      <name>82defc17</name>
+      <Placemark id="_82defc17.1">
+        <description>Зылика, мет. станц., в 7.7 км к сев.-вост. от нее. в 0.5 км к юго-вост. от мог. Зылика, в 28 м к сев. от р. Сарысу</description>
+        <ExtendedData>
+          <SchemaData schemaUrl="#_82defc17.schema">
+            <SimpleData name="title">Сарысу</SimpleData>
+            <SimpleData name="type">пирамида</SimpleData>
+            <SimpleData name="ext_sign">пир.</SimpleData>
+            <SimpleData name="class_lvl">2</SimpleData>
+            <SimpleData name="height_lvl">137,58</SimpleData>
+            <SimpleData name="center_type">тип 2</SimpleData>
+            <SimpleData name="lvl_line">Линия № 2: Кызылорда -р.Сарысу, 2 класс (3) Участок: грунт. реп. 1477 - грунт. реп. 6974</SimpleData>
+            <SimpleData name="guid">82defc17-dfe6-4f53-a603-3310ff701ccd</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            67.0871341397219,45.2565080949073,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

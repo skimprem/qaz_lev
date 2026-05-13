@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="04a5b60b" id="04a5b60b">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>04a5b60b</name>
+  <Placemark id="04a5b60b.1">
+	<name>12-189</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#04a5b60b">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="ext_sign">18.04</SimpleData>
+		<SimpleData name="ctrl_place">146</SimpleData>
+		<SimpleData name="mark_num">Линия №1: Доссор-Бейнеу, 1 класс         Участок: грунт.реп.210-грунт.реп.12-968</SimpleData>
+		<SimpleData name="center_type">Опорная 2-я (Бурункул), с., в 40.0 км к юго-вост.от него, в 3.0 км к сев.-вост.от пир.2 кл. Чура, в 50 м к юго-зап.от дороги с.Бугабай-с.Бейнеу</SimpleData>
+		<SimpleData name="lvl_line">04a5b60b-6277-4e5b-ac8a-0f5d05c378a5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>54.4108258116737,45.7712921921429</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

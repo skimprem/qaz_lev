@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="96825800" id="96825800">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>96825800</name>
+  <Placemark id="96825800.1">
+	<name>50</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#96825800">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="ext_sign">483,833</SimpleData>
+		<SimpleData name="class_lvl">481,154</SimpleData>
+		<SimpleData name="height_lvl">контрольный репер №64 в верхней плоскости монолита</SimpleData>
+		<SimpleData name="ctrl_place">123</SimpleData>
+		<SimpleData name="mark_num">Линия №5: Карасорский - Каркаралинск, II класс (2) Участок: ск. реп. 6100 - грунт. реп. 0227</SimpleData>
+		<SimpleData name="center_type">Баянаул, с., в 13.5 км к юго-зап. от него, Репер утрачен, в 1.1 км к сев.-вост. от оз. Аманколь, в 25 м к зап. от полевой дороги</SimpleData>
+		<SimpleData name="lvl_line">96825800-4c38-4bd7-85a6-7c3b7bc0ae25</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.6046723269719,50.6709223655801</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

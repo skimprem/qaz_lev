@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="3cd02a19" id="3cd02a19">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>3cd02a19</name>
+  <Placemark id="3cd02a19.1">
+	<name>12-52</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#3cd02a19">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="ext_sign">16.056</SimpleData>
+		<SimpleData name="ctrl_place">146</SimpleData>
+		<SimpleData name="mark_num">Линия №1:        Участок: грунт.реп.12-2245-грунт.реп.12-458</SimpleData>
+		<SimpleData name="center_type">Косчагыл, с., в 11.5 км к юго-вост.от него, в 4.0 км к вост.от кладб.Масакбай, в 25 м к зап.от полевой дороги</SimpleData>
+		<SimpleData name="lvl_line">3cd02a19-6f9d-40d6-afb6-8406ae024c10</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>53.8738017291857,46.7450741397571</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

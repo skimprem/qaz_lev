@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="bc757107" id="bc757107">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>bc757107</name>
+  <Placemark id="bc757107.1">
+	<name>Алабота Южн.</name>
+	<description>пирамида</description>
+	<ExtendedData><SchemaData schemaUrl="#bc757107">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="ext_sign">133,859</SimpleData>
+		<SimpleData name="ctrl_place">1</SimpleData>
+		<SimpleData name="mark_num">Линия № 1: Золоторунное - Чистовское, II класс Участок: фунд. реп. 7Б-грунт. реп. 690</SimpleData>
+		<SimpleData name="lvl_line">bc757107-e071-4477-9a91-9805d1098845</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>70.8512071879904,53.6709877069954</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

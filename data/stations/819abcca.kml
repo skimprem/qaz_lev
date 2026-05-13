@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="819abcca" id="819abcca">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>819abcca</name>
+  <Placemark id="819abcca.1">
+	<name>31</name>
+	<description>фундаментальный репер</description>
+	<ExtendedData><SchemaData schemaUrl="#819abcca">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="ext_sign">266.840</SimpleData>
+		<SimpleData name="class_lvl">265.860</SimpleData>
+		<SimpleData name="height_lvl">Контрольный репер в верхней плоскости монолита</SimpleData>
+		<SimpleData name="ctrl_place">104</SimpleData>
+		<SimpleData name="mark_num">Линия №1 : Сагиз-Кандагач, I класс. Участок: марка 2877-грунт.реп. 1222</SimpleData>
+		<SimpleData name="center_type">Темир, гор., в 18.0 км к сев.-зап. от него, в 1.1 км к зап. от разв. пос. Пригородный, в 2.1 км к сев.-зап. от ЛЭП, у жел.дороги</SimpleData>
+		<SimpleData name="lvl_line">819abcca-581c-420b-b4fc-f3ab862901e9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>57.0413757101884,49.284144197638</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

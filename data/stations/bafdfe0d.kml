@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="bafdfe0d" id="bafdfe0d">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>bafdfe0d</name>
+  <Placemark id="bafdfe0d.1">
+	<name>5801</name>
+	<description>грунт.реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#bafdfe0d">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="ext_sign">41.575</SimpleData>
+		<SimpleData name="ctrl_place">146</SimpleData>
+		<SimpleData name="mark_num">Линия: Аккудук-Караумбет</SimpleData>
+		<SimpleData name="center_type">Аккудук,с., в 10 км к сев.-вост.от него, в 0.9 км к северу от группы загонов, в 3 м к югу от дороги с.Аккудук-к.Айтманащы</SimpleData>
+		<SimpleData name="lvl_line">bafdfe0d-2ed1-43d3-a0aa-c8debbddf36c</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>54.2075117365591,43.005580646876</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

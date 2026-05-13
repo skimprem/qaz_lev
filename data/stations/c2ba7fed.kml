@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="c2ba7fed" id="c2ba7fed">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>c2ba7fed</name>
+  <Placemark id="c2ba7fed.1">
+	<name>2742</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#c2ba7fed">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="ext_sign">333.977</SimpleData>
+		<SimpleData name="height_lvl">160 оп</SimpleData>
+		<SimpleData name="ctrl_place">12</SimpleData>
+		<SimpleData name="mark_num">Линия № 3: Кзыл-Сенгир - р. Кон. І класс </SimpleData>
+		<SimpleData name="center_type">с.Отарбай. в 2.3 км к югу от него. в 4.1 км к сев от зим. Тасмола. в 70 м к зап. от дор.  с. Истембай - с.Баршино</SimpleData>
+		<SimpleData name="lvl_line">c2ba7fed-510f-4b14-bc69-f114ab35e478</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>69.4957288222608,49.9678622119088</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="d86ea625" id="d86ea625">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>d86ea625</name>
+  <Placemark id="d86ea625.1">
+	<name>1027</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#d86ea625">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="ext_sign">301,273</SimpleData>
+		<SimpleData name="ctrl_place">160 оп,зн</SimpleData>
+		<SimpleData name="mark_num">Линия № 1: Тюемойнак - Торетоган, I класс (1) Участок: грунт, реп, 2929 - грунт,реп, 1029</SimpleData>
+		<SimpleData name="center_type">Высота 317, пир, 2 кл,, в 9,0 км к сев, от нее и могилы, в 0,9 км к вост, от такыра, в 0,2 км к сев, от развилки полевой дороги, в 14 м    к вост, от полевой дороги</SimpleData>
+		<SimpleData name="lvl_line">d86ea625-5e80-4a7a-b2db-b71554d46144</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>69.4558609063893,46.1187374288344</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

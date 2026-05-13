@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="188b18a6" name="188b18a6">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Schema id="_188b18a6.schema">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Document id="_188b18a6">
+      <name>188b18a6</name>
+      <Placemark id="_188b18a6.1">
+        <description>Ералиев, с., в 51 км к юго-вост от него, в 1.7 км к северу от солончака, в 120 м к западу от ск.реп.4248, в 62 м к востоку от грунт.реп.55, в 50 м к северу от дороги пгт Ералиев-с.Аксу</description>
+        <ExtendedData>
+          <SchemaData schemaUrl="#_188b18a6.schema">
+            <SimpleData name="title">1013</SimpleData>
+            <SimpleData name="type">фундаментальный репер</SimpleData>
+            <SimpleData name="class_lvl">1</SimpleData>
+            <SimpleData name="height_lvl">3.889</SimpleData>
+            <SimpleData name="height_ctrl">4.623</SimpleData>
+            <SimpleData name="ctrl_place">Контрольный репер № 1610 в скале</SimpleData>
+            <SimpleData name="center_type">155</SimpleData>
+            <SimpleData name="lvl_line">Линия : грунт.реп.56-грунт.реп.58, 1 класс</SimpleData>
+            <SimpleData name="guid">188b18a6-a43d-4110-a1e8-27f7595d18d6</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            52.0162953478513,42.9009614484913,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

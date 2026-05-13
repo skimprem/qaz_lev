@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="11870400" id="11870400">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>11870400</name>
+  <Placemark id="11870400.1">
+	<name>9578</name>
+	<description>скальный репер</description>
+	<ExtendedData><SchemaData schemaUrl="#11870400">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="ext_sign">406.936</SimpleData>
+		<SimpleData name="ctrl_place">163 оп.знак</SimpleData>
+		<SimpleData name="mark_num">Линия: Шыганши-Бугаз-Белая-Школа-Боран-Улькен Нарын, II класс (2)
+Участок: фунд.реп. 5491 – грунт.реп. 1486</SimpleData>
+		<SimpleData name="center_type">Лотошная, зим., в 2.0 км к зап. от нее, в 0.3 км к сев.-зап. от моста, в 0.2 км к сев. от шоссе с.Куршим-с.УлькенНарын, в 20 м к югу от ЛЭП</SimpleData>
+		<SimpleData name="lvl_line">11870400-d23a-4d03-917d-76f67d95655c</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.3083440748694,49.1201472819379</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

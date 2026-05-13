@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2f60ed05" id="2f60ed05">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>2f60ed05</name>
+  <Placemark id="2f60ed05.1">
+	<name>5848</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#2f60ed05">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="ext_sign">-13,350</SimpleData>
+		<SimpleData name="ctrl_place">120 оп знак</SimpleData>
+		<SimpleData name="mark_num">Линия II класса: Богдо-Нов.Уштаган-Малый Арал</SimpleData>
+		<SimpleData name="center_type">Уштаган, с., в 28,3 км к югу от него, в 5,2 км к сев.-зап. от зим. свх. им. Курмангазы, в 1,0 км к зап.от раз-вилки полевой дороги</SimpleData>
+		<SimpleData name="lvl_line">2f60ed05-7920-4158-aeda-065e65d542ae</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>48.846451840667,47.6469333381859</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

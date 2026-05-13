@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="abc70efc" id="abc70efc">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>abc70efc</name>
+  <Placemark id="abc70efc.1">
+	<name>2885</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#abc70efc">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="ext_sign">498.912 </SimpleData>
+		<SimpleData name="ctrl_place">160 оп.знак</SimpleData>
+		<SimpleData name="mark_num">Линия № 1:Кaрacу - Актогай. II класс                         Участок: фунд. реп. 39 -  ск.реп. 2511</SimpleData>
+		<SimpleData name="center_type">Карасу, с., в 3.0 км к сев.-зап. oт него,в 1.2км к югу от мог.Алданазар,в 0.1км к зап.от шоссе с. Актогай-гор. Балхаш</SimpleData>
+		<SimpleData name="lvl_line">abc70efc-1346-4bf3-ab0f-e1bc8c9ebc35</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.5607370810718,47.4620045809672</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

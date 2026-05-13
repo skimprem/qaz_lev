@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="3c05adff" id="3c05adff">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>3c05adff</name>
+  <Placemark id="3c05adff.1">
+	<name>5360</name>
+	<description>грунт.реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#3c05adff">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="ext_sign">233.868</SimpleData>
+		<SimpleData name="ctrl_place">146</SimpleData>
+		<SimpleData name="mark_num">Линия: грунт.реп.74-грунт.реп.6,II класс</SimpleData>
+		<SimpleData name="center_type">Уйсын,к., в 3.9 км к сев.-вост.от него, в 14 м к северу от дороги Кунград-Шевченко</SimpleData>
+		<SimpleData name="lvl_line">3c05adff-54c7-4b56-afcc-4d6be2ea4416</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>55.2789098747184,43.1986409008261</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

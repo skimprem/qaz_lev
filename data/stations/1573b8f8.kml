@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="1573b8f8" id="1573b8f8">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>1573b8f8</name>
+  <Placemark id="1573b8f8.1">
+	<name>0091</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#1573b8f8">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="ext_sign">48.9667</SimpleData>
+		<SimpleData name="ctrl_place">160</SimpleData>
+		<SimpleData name="mark_num">Линия нивелирования 1 класса Уральск-Жанибек</SimpleData>
+		<SimpleData name="center_type">Шижен 2, с., в 2.0км к сев.-вост.от него, н 50км трассы Таскалаа-Мереке, в 1.7км к вост.от электроподстанц., в 204м к юго-зап.от км.стб. 50/187, в 42и к югу от оси трассы</SimpleData>
+		<SimpleData name="lvl_line">1573b8f8-e703-40a8-a156-889b2395ac2b</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>49.683513489711,50.8805013428356</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

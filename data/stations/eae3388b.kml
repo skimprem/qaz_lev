@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="eae3388b" id="eae3388b">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>eae3388b</name>
+  <Placemark id="eae3388b.1">
+	<name>1545</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#eae3388b">
+		<SimpleData name="title">грунт. реп.</SimpleData>
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="ext_sign">102.089</SimpleData>
+		<SimpleData name="ctrl_place">160</SimpleData>
+		<SimpleData name="mark_num">Линия № 2: Аральск-Жосалы .  Участок:    грунт.реп. 3417  - грунт.реп. 153.          I класс</SimpleData>
+		<SimpleData name="center_type">Жосалы. станц..  в 4.0 км к сев.-зап. от неё. на 7 ПК 2669 км жел. дор..в 0.4 км сев.-зап. от кладб. Торебай.в 0.2 км к сев.- вост. от жел.-дор. полотна. в 65 м к сев.-вост. от кабеля связи. на бугре</SimpleData>
+		<SimpleData name="lvl_line">eae3388b-18ee-48d7-b46b-f8b9e5668b2b</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>64.0472098320548,45.5170008345982</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

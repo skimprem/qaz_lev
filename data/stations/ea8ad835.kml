@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="ea8ad835" id="ea8ad835">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>ea8ad835</name>
+  <Placemark id="ea8ad835.1">
+	<name>8980</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#ea8ad835">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="ext_sign">281.819</SimpleData>
+		<SimpleData name="ctrl_place">160</SimpleData>
+		<SimpleData name="center_type">Адыр, станц., в 6.2 км к зап. от нее, на 3 пикете614 км жел. дор., в 26 м к югу от жел-дор. полотна, в 24 м к югу от бет. стб. № 740, в 6 м к югу от ЛЭП № 533.</SimpleData>
+		<SimpleData name="lvl_line">ea8ad835-7fde-46d7-be71-a741427ac12a</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>68.858395929023,51.7997121002643</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

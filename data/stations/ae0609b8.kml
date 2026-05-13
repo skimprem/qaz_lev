@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="ae0609b8" name="ae0609b8">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Schema id="ae0609b8.schema">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Document id="ae0609b8">
+      <name>ae0609b8</name>
+      <Placemark id="ae0609b8.1">
+        <description>Ералиев, с., в 75 км к юго-вост от него, в 30 км к сев.-зап.от с.Фетисово, в 350 м к югу от телефонной линии в 15 м к югу от дороги пгт Ералиев-с.аксу</description>
+        <ExtendedData>
+          <SchemaData schemaUrl="#ae0609b8.schema">
+            <SimpleData name="title">3996</SimpleData>
+            <SimpleData name="type">грунтовый репер</SimpleData>
+            <SimpleData name="class_lvl">1</SimpleData>
+            <SimpleData name="height_lvl">75.594</SimpleData>
+            <SimpleData name="center_type">146</SimpleData>
+            <SimpleData name="lvl_line">Линия : грунт.реп.1653-ск.реп.598, 1 класс</SimpleData>
+            <SimpleData name="guid">ae0609b8-7787-4533-9e0d-e8c3fd99cbdb</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            52.3071830535886,42.8764063888788,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="eb01919d" id="eb01919d">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>eb01919d</name>
+  <Placemark id="eb01919d.1">
+	<name>3745</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#eb01919d">
+		<SimpleData name="title">грунт.реп.</SimpleData>
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="ext_sign">367.085</SimpleData>
+		<SimpleData name="ctrl_place">160 оп</SimpleData>
+		<SimpleData name="mark_num">Линия №1: Атбасар-Жумай, ll (l) Участок: грунт. реп. 0072-фунд. реп. 7120</SimpleData>
+		<SimpleData name="center_type">Бес-Бидаик, станц., в 9,2 км к юго-вост. 95.9 от нее, в 0.4 км к юго-вост. От жел.-дор. Переезда, в 80 м и к сев.-зап. От км. Стб. 81/82 жел.дор.</SimpleData>
+		<SimpleData name="lvl_line">eb01919d-69a1-4a75-8d25-bd6c53054f50</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>69.0662266666667,51.2545316666667</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

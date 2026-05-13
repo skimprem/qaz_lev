@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="e668bb57" name="e668bb57">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Schema id="e668bb57.schema">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Document id="e668bb57">
+      <name>e668bb57</name>
+      <Placemark id="e668bb57.1">
+        <description>Жумбаз,к.,в 16.7 км к сев.от него, в 0.9 км к юго-зап.от к.Болбулак, в 75 м к сев.-вост.от пир.-штатива 2 кл.Шийли</description>
+        <ExtendedData>
+          <SchemaData schemaUrl="#e668bb57.schema">
+            <SimpleData name="title">3952</SimpleData>
+            <SimpleData name="type">фунд.реп.</SimpleData>
+            <SimpleData name="class_lvl">2</SimpleData>
+            <SimpleData name="height_lvl">173,565</SimpleData>
+            <SimpleData name="center_type">113 оп</SimpleData>
+            <SimpleData name="lvl_line">Линия №1: грунт.реп.578-фунд.реп.124, II класс (1)                    Участок: пир.2 кл.Мыс-грунт.реп.6-19</SimpleData>
+            <SimpleData name="guid">e668bb57-78cb-4d62-b357-2231d0da62af</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            53.6995845555226,44.8787745743288,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

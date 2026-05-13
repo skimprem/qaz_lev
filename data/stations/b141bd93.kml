@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="b141bd93" name="b141bd93">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Schema id="b141bd93.schema">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Document id="b141bd93">
+      <name>b141bd93</name>
+      <Placemark id="b141bd93.1">
+        <description>Кылы, арт. к., в 3.1 км к сев.-зап. от него, в 1.7 км к юго­ вост. от пир. 2 кл. Арыс, в 60 м к юго-зап. от полевой дороги</description>
+        <ExtendedData>
+          <SchemaData schemaUrl="#b141bd93.schema">
+            <SimpleData name="title">743</SimpleData>
+            <SimpleData name="type">грунтовый репер</SimpleData>
+            <SimpleData name="ext_sign">грунтовый репер</SimpleData>
+            <SimpleData name="class_lvl">2</SimpleData>
+            <SimpleData name="height_lvl">73,702</SimpleData>
+            <SimpleData name="center_type">160 оп.</SimpleData>
+            <SimpleData name="lvl_line">Линия № 1: Развалины Пикета № 8 - Сарысу, 2 класс (1) Участок: пир.2 кл.Арыссай - грунт. реп. 9255</SimpleData>
+            <SimpleData name="guid">b141bd93-9dba-4e17-a310-66195b5732db</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            66.1535190091584,45.9344059079892,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

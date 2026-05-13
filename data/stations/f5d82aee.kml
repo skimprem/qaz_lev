@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="f5d82aee" name="f5d82aee">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Schema id="f5d82aee.schema">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Document id="f5d82aee">
+      <name>f5d82aee</name>
+      <Placemark id="f5d82aee.1">
+        <description>Туткын, арт. к., в 4.5 км к юго-вост, от него, в 3.0 км к юго-вост, от кладб. Жарлыкас, в 40 м к югу от полевой дороги, в 30 м к сев.-зап. от фунд. реп. 4212</description>
+        <ExtendedData>
+          <SchemaData schemaUrl="#f5d82aee.schema">
+            <SimpleData name="title">1966</SimpleData>
+            <SimpleData name="type">грунтовый репер</SimpleData>
+            <SimpleData name="ext_sign">грунтовый репер</SimpleData>
+            <SimpleData name="class_lvl">2</SimpleData>
+            <SimpleData name="height_lvl">129,697</SimpleData>
+            <SimpleData name="center_type">162 оп. знак</SimpleData>
+            <SimpleData name="lvl_line">Линия № 1: Развалины Пикета № 8 - Сарысу,2 класс (1) Участок: фунд. реп. 701 - пир. 3 кл. Жарлыкас ЮВ</SimpleData>
+            <SimpleData name="guid">f5d82aee-4a98-44d7-b8ae-f174ab215c72</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            66.6349119137198,46.0098643499687,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="330aaa91" id="330aaa91">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>330aaa91</name>
+  <Placemark id="330aaa91.1">
+	<name>Каинбай</name>
+	<description>пункт</description>
+	<ExtendedData><SchemaData schemaUrl="#330aaa91">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="ext_sign">294.035</SimpleData>
+		<SimpleData name="ctrl_place">34</SimpleData>
+		<SimpleData name="center_type">Сергеевка, с., в 3.0 км к вост. от его окраины, к сев-вост. от кладбища.</SimpleData>
+		<SimpleData name="lvl_line">330aaa91-f17c-465f-a6e1-72934e1d56f3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>68.2453580134186,51.6784578947926</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="80433908" id="80433908">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>80433908</name>
+  <Placemark id="80433908.1">
+	<name>1004</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#80433908">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="ext_sign">329,24</SimpleData>
+		<SimpleData name="ctrl_place">160 оп, знак</SimpleData>
+		<SimpleData name="mark_num">Линия № 1: Тюемойнак - Торетоган, 1 класс (1) Участок: грунт, реп, 5812 - грунт,реп, 8871</SimpleData>
+		<SimpleData name="center_type">Жыланды, с,, в 8,6 км к юго-зап, от него, в 0,3 км к зап, от р, Сарысу, в 70 м к юго-вост, от полевой дороги, в 3 м к сев, от А-образного стб, линии связи</SimpleData>
+		<SimpleData name="lvl_line">80433908-edbd-489f-8254-19433f5fb633</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>69.061535001105,47.9335494361959</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

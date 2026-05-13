@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="eca5467c" id="eca5467c">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>eca5467c</name>
+  <Placemark id="eca5467c.1">
+	<name>0250</name>
+	<description>фундаментальный репер</description>
+	<ExtendedData><SchemaData schemaUrl="#eca5467c">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="ext_sign">304.902</SimpleData>
+		<SimpleData name="height_lvl">161 оп</SimpleData>
+		<SimpleData name="height_ctrl">Линия № 1: Сергеевка-Терсаккан. І класс </SimpleData>
+		<SimpleData name="center_type">Кен-Аральский. свх.. бригада № 3.  в 4.3 км к югу от неё. в 100 м к югу от развилки дорог. в 25 м. к зап. от пол. дороги, центр расположен на западном краю окопки (кургана), в 0.5 м к востоку от канавы.</SimpleData>
+		<SimpleData name="lvl_line">eca5467c-1f9a-473e-8e57-c1a0d04070c7</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.88982994249,51.4180146928828</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

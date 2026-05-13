@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="172d05ae" name="172d05ae">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Schema id="_172d05ae.schema">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Document id="_172d05ae">
+      <name>172d05ae</name>
+      <Placemark id="_172d05ae.1">
+        <description>Кудайбергеннин. мог.. в 5.5 км к югу от нее. в 4.0 км к юго-вост.от арт.к. Коскак. в 0.1 км к сев.от полевой дороги</description>
+        <ExtendedData>
+          <SchemaData schemaUrl="#_172d05ae.schema">
+            <SimpleData name="title">645</SimpleData>
+            <SimpleData name="type">грунтовый репер</SimpleData>
+            <SimpleData name="ext_sign">грунт. реп.</SimpleData>
+            <SimpleData name="class_lvl">2</SimpleData>
+            <SimpleData name="height_lvl">75.602</SimpleData>
+            <SimpleData name="center_type">160 оп</SimpleData>
+            <SimpleData name="lvl_line">Линия №3:  Развалины Пикета №8 - Сарысу. 2 класс. Участок: фунд.реп.. 520 - грунт.реп. 1842</SimpleData>
+            <SimpleData name="guid">172d05ae-52c2-4901-acac-3485d20c3382</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            65.9243610068103,46.048893535395,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="199db5dc" id="199db5dc">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>199db5dc</name>
+  <Placemark id="199db5dc.1">
+	<name>431</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#199db5dc">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="ext_sign">437,368</SimpleData>
+		<SimpleData name="class_lvl">436,233</SimpleData>
+		<SimpleData name="height_lvl">контрольный репер в верхней плоскости монолита</SimpleData>
+		<SimpleData name="ctrl_place">121</SimpleData>
+		<SimpleData name="mark_num">Линия № 1 :       Каракас - Буран,              II класс(2);  Участок : грунт.реп. 1 - грунт.реп. 15</SimpleData>
+		<SimpleData name="center_type">Садык, с., в 6,0 км к юго-вост. от него, в 1,4 км к сев.-зап. от мог. Итаяк, в 0,2 км к юго-вост. от мог. Алдеберген, в 9 м к сев. от полевой дороги                             с. Торткалмак - с. Акший</SimpleData>
+		<SimpleData name="lvl_line">199db5dc-15e6-425b-8954-38a13de840c7</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.253281099035,48.3622889046827</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="e9999fae" id="e9999fae">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>e9999fae</name>
+  <Placemark id="e9999fae.1">
+	<name>2218_0</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#e9999fae">
+		<SimpleData name="height_ctrl">2218</SimpleData>
+		<SimpleData name="ctrl_place">160оп.</SimpleData>
+		<SimpleData name="center_type">Жетымшокы, с., в 492 м м к югу от него, в 54,8 км к сев.-вост. дороги г.Балхаш - с.Актогай, возле столба стб ВЛЭП.
+</SimpleData>
+		<SimpleData name="lvl_line">e9999fae-6117-46e4-8c33-5bb96f4b466e</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.1794894913585,48.1883213051707</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

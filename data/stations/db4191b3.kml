@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="db4191b3" id="db4191b3">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>db4191b3</name>
+  <Placemark id="db4191b3.1">
+	<name>высота 303,6</name>
+	<description>пирамида</description>
+	<ExtendedData><SchemaData schemaUrl="#db4191b3">
+		<SimpleData name="title">пир.2кл.</SimpleData>
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="ext_sign">304926</SimpleData>
+		<SimpleData name="ctrl_place">80</SimpleData>
+		<SimpleData name="mark_num">Линия № 2: Нецветаека-Каратал, II класс (1)    Участок: пир. 3 кл. Тогузколь-фунд. реп. 2</SimpleData>
+		<SimpleData name="center_type">Кызылагаш, зим., в 6,7 км к юго-вост.от нее, в 4,0 км к юго-вост. от разв.Тасбулак в 0,9 км к юго-вост. от дороги отд.№2 свх.Краснокутский-гор. Ерментау</SimpleData>
+		<SimpleData name="lvl_line">db4191b3-930f-4bbb-bed7-70756defd06a</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>73.7251183954268,51.9894211170635</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="5fa88904" id="5fa88904">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>5fa88904</name>
+  <Placemark id="5fa88904.1">
+	<name>900</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#5fa88904">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="ext_sign">102,933</SimpleData>
+		<SimpleData name="class_lvl">101.435</SimpleData>
+		<SimpleData name="height_lvl">Контрольный репер №61 в верхней плоскости монолита</SimpleData>
+		<SimpleData name="ctrl_place">121</SimpleData>
+		<SimpleData name="mark_num">Линия нивелирования: Павлодар-Урлютюб,II класс Участок:фунд. реп.1015-фунд.реп. 310</SimpleData>
+		<SimpleData name="center_type">В 1,5 км к сев-вост.от с. Григорьевка, в 50 м к зап.от старой дороги с. Чернорецкое - с. Григорьевка</SimpleData>
+		<SimpleData name="lvl_line">5fa88904-70b7-4d9a-8f52-a2822374b77f</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>76.7426702352611,52.6469086738174</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

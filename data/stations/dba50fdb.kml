@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="dba50fdb" id="dba50fdb">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>dba50fdb</name>
+  <Placemark id="dba50fdb.1">
+	<name>689</name>
+	<ExtendedData><SchemaData schemaUrl="#dba50fdb">
+		<SimpleData name="title">грунт.реп.</SimpleData>
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="ext_sign">198.021</SimpleData>
+		<SimpleData name="ctrl_place">160</SimpleData>
+		<SimpleData name="mark_num">Линия № 1: Кокчетав-Золоторунное, II класс . Участок: пир. 2 кл. Данкой - фунд.реп. 7Б</SimpleData>
+		<SimpleData name="center_type">Ильичевка, с., в 1.0 км к вост.от него, на 4 пикете 71-й км жел.дор., в 40 м к сев.от нее, в 2 м к зап.от поворотного стб. ЛЭП</SimpleData>
+		<SimpleData name="lvl_line">dba50fdb-fce6-478f-bc6f-880e3b9f5466</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>70.4109496517852,53.5034175350123</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

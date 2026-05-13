@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="5274b303" id="5274b303">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>5274b303</name>
+  <Placemark id="5274b303.1">
+	<name>Кичиктай</name>
+	<description>пирамида</description>
+	<ExtendedData><SchemaData schemaUrl="#5274b303">
+		<SimpleData name="title">пир.</SimpleData>
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="ext_sign">163,002</SimpleData>
+		<SimpleData name="ctrl_place">тип 43</SimpleData>
+		<SimpleData name="mark_num">Линия &quot;Кызылорда-Кичиктай-Троетоган-р.Чу-Берлик&quot; </SimpleData>
+		<SimpleData name="center_type">Даутобе, аул, в 18,4 км к сев.от него,в 1,3км к юго-вост. от р. Чу, на бугре Балатай</SimpleData>
+		<SimpleData name="lvl_line">5274b303-0851-495e-a552-426d25b001a6</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>68.2843209299145,44.9397678829297</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

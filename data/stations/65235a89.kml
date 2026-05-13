@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="65235a89" id="65235a89">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>65235a89</name>
+  <Placemark id="65235a89.1">
+	<name>6120</name>
+	<description>Грунт </description>
+	<ExtendedData><SchemaData schemaUrl="#65235a89">
+		<SimpleData name="height_ctrl">6120</SimpleData>
+		<SimpleData name="lvl_line">65235a89-99a3-4d98-addd-c920e883d7ae</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.303315,44.1128933333333</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

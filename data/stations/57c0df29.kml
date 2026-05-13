@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="57c0df29" name="57c0df29">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Schema id="_57c0df29.schema">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Document id="_57c0df29">
+      <name>57c0df29</name>
+      <Placemark id="_57c0df29.1">
+        <description>Жолуткен,разв.зим.,в 8,0 км к сев-вост.от них,в 2,0 км к сев-зап.от поаорота р.Шаган в 0,4 км ксев-вост.от кладбища,в 0,1 км к зап.от грунт.реп.488</description>
+        <ExtendedData>
+          <SchemaData schemaUrl="#_57c0df29.schema">
+            <SimpleData name="title">38</SimpleData>
+            <SimpleData name="type">фундаментальный репер</SimpleData>
+            <SimpleData name="class_lvl">2</SimpleData>
+            <SimpleData name="height_lvl">99,697</SimpleData>
+            <SimpleData name="height_ctrl">98,276</SimpleData>
+            <SimpleData name="ctrl_place">контрольный репер № 4028 в верхней плоскости монолита</SimpleData>
+            <SimpleData name="center_type">141оп</SimpleData>
+            <SimpleData name="lvl_line">Линия № 1:Гурьев-Кошкарата, II класс (1)
+Участок: грунт. реп.0672 - ск. реп. 6077</SimpleData>
+            <SimpleData name="guid">57c0df29-2c18-49bc-a678-aede3216a283</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            57.7835468888697,46.8937045259578,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

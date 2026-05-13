@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="bcadbba8" name="bcadbba8">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Schema id="bcadbba8.schema">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Document id="bcadbba8">
+      <name>bcadbba8</name>
+      <Placemark id="bcadbba8.1">
+        <description>Коктенколи, станц., в 1.4 км к вост. от неё, на 6 ПК 49 км, ж.д. труба</description>
+        <ExtendedData>
+          <SchemaData schemaUrl="#bcadbba8.schema">
+            <SimpleData name="title">7</SimpleData>
+            <SimpleData name="type">марка</SimpleData>
+            <SimpleData name="class_lvl">1</SimpleData>
+            <SimpleData name="height_lvl">540.869</SimpleData>
+            <SimpleData name="lvl_line">Линия №4: Тюемойнак-Жарык, I класс (1) Участок: грунт. реп. 4017-фунд.реп. 89</SimpleData>
+            <SimpleData name="guid">bcadbba8-fdff-4c72-90ae-037b93e8f0e9</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            72.2254931979864,48.7265154464591,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

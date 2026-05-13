@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="17a4824c" name="17a4824c">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Schema id="_17a4824c.schema">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Document id="_17a4824c">
+      <name>17a4824c</name>
+      <Placemark id="_17a4824c.1">
+        <description>Булдырык, арт. к., в 9.7 км к зап. от него, в 2.5 км к сев.- вост. от мог. Диуана, в 45 м к зап. от пир. 2 кл. Дувана</description>
+        <ExtendedData>
+          <SchemaData schemaUrl="#_17a4824c.schema">
+            <SimpleData name="title">170</SimpleData>
+            <SimpleData name="type">фундаментальный репер</SimpleData>
+            <SimpleData name="ext_sign">фундаментальный репер</SimpleData>
+            <SimpleData name="class_lvl">2</SimpleData>
+            <SimpleData name="height_lvl">184,237</SimpleData>
+            <SimpleData name="height_ctrl">183,227</SimpleData>
+            <SimpleData name="ctrl_place">в фундаментальной плите</SimpleData>
+            <SimpleData name="mark_num">698</SimpleData>
+            <SimpleData name="center_type">117 оп. знак</SimpleData>
+            <SimpleData name="lvl_line">Участок: грунт, реп. 9741 - пир. 2 кл. Кокпекты</SimpleData>
+            <SimpleData name="guid">17a4824c-9922-4491-8ee4-6a3932aab5f5</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            67.599463486034,45.9953981077395,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

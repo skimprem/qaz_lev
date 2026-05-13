@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="387ac205" id="387ac205">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>387ac205</name>
+  <Placemark id="387ac205.1">
+	<name>1155</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#387ac205">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="ext_sign">31.272</SimpleData>
+		<SimpleData name="ctrl_place">160</SimpleData>
+		<SimpleData name="mark_num">Линия нивелирования 1 класса Уральск-Жанибек</SimpleData>
+		<SimpleData name="center_type">Мангур, с., в 1.4 км к вост.от него, в 25 м к югу от дор.с.Мангур-с.Оян</SimpleData>
+		<SimpleData name="lvl_line">387ac205-3a37-4772-862f-6287a09df24d</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.6199545928697,49.6751342970552</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

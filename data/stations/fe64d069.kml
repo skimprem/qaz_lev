@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="fe64d069" id="fe64d069">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>fe64d069</name>
+  <Placemark id="fe64d069.1">
+	<name>111-а</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#fe64d069">
+		<SimpleData name="title">грунт.реп.</SimpleData>
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="ext_sign">376.245</SimpleData>
+		<SimpleData name="class_lvl">373.112</SimpleData>
+		<SimpleData name="height_lvl">Контрольный репер №1162 в верхней плоскости монолита</SimpleData>
+		<SimpleData name="ctrl_place">131 оп</SimpleData>
+		<SimpleData name="mark_num">Линия №2: Есиль-Атбасар, II класс (2) Участок: грунт.реп.4113 - грунт.реп.3995</SimpleData>
+		<SimpleData name="center_type">Жаксы,станц.,в 3.5 км к зап.от нее,на 493 км, в 29 м к сев.от жел.-дор.полотна,между тлгр.стб.№968 и 969</SimpleData>
+		<SimpleData name="lvl_line">fe64d069-e49e-4efd-b086-ebd0bbde493a</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.27341,51.9053866666667</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

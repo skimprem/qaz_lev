@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="feb82ab2" id="feb82ab2">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>feb82ab2</name>
+  <Placemark id="feb82ab2.1">
+	<name>20311</name>
+	<description>стенная марка</description>
+	<ExtendedData><SchemaData schemaUrl="#feb82ab2">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="ext_sign">636.103</SimpleData>
+		<SimpleData name="center_type">Аягуз, гор., в 4.0 км к югу от ж.д. вокзала, на 10 ПК 994 км ж.д, в устое ж.д. моста.</SimpleData>
+		<SimpleData name="lvl_line">feb82ab2-943d-417e-91d0-8557b1b8953b</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>80.4147373396448,47.9268012747282</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="6149c685" id="6149c685">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>6149c685</name>
+  <Placemark id="6149c685.1">
+	<name>Загладка M040</name>
+	<description>Грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#6149c685">
+		<SimpleData name="title">Грунтовый репер</SimpleData>
+		<SimpleData name="type">||</SimpleData>
+		<SimpleData name="height_ctrl">M040</SimpleData>
+		<SimpleData name="ctrl_place">149</SimpleData>
+		<SimpleData name="mark_num">121</SimpleData>
+		<SimpleData name="center_type">Бригада клх им. Ленина., 9.0км к сев-зап.от него , в 5км к юго-вост.от с.Акбастау, в 20м к югу от полевой дороги</SimpleData>
+		<SimpleData name="lvl_line">6149c685-ff2b-4169-9ad3-e5f5a39bf5af</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>73.4827474265262,49.4334323541869</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

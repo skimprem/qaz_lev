@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2acaf2ca" id="2acaf2ca">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>2acaf2ca</name>
+  <Placemark id="2acaf2ca.1">
+	<name>8986</name>
+	<description>марка</description>
+	<ExtendedData><SchemaData schemaUrl="#2acaf2ca">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="ext_sign">851,311</SimpleData>
+		<SimpleData name="mark_num">Ход от фундаментального репера 7349 до скального репера 3529, II класс (I,3)</SimpleData>
+		<SimpleData name="center_type">Каркаралинск, гор., ул.Советская, здание Госбанка</SimpleData>
+		<SimpleData name="lvl_line">2acaf2ca-4ad6-43a8-9a50-8179f441658e</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.4677814019629,49.4131268068354</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

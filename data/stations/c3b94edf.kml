@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="c3b94edf" id="c3b94edf">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>c3b94edf</name>
+  <Placemark id="c3b94edf.1">
+	<name>2172</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#c3b94edf">
+		<SimpleData name="ctrl_place">160оп</SimpleData>
+		<SimpleData name="center_type">Накрытым, с., южная часть его, 31,3 м к западу от кладбища.</SimpleData>
+		<SimpleData name="lvl_line">c3b94edf-7f37-4499-aa2e-bead983101d8</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>64.5090168435727,51.509174821015</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

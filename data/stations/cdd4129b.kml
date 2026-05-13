@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="cdd4129b" id="cdd4129b">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>cdd4129b</name>
+  <Placemark id="cdd4129b.1">
+	<name>Жекеколь</name>
+	<description>пир.</description>
+	<ExtendedData><SchemaData schemaUrl="#cdd4129b">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="ext_sign">294.134</SimpleData>
+		<SimpleData name="height_ctrl">4926</SimpleData>
+		<SimpleData name="ctrl_place">1 оп.</SimpleData>
+		<SimpleData name="mark_num">Линия №1: Салды-Тасты, II класс (1) Участок: пир.2 кл.Карын - фунд.реп.2608</SimpleData>
+		<SimpleData name="center_type">Мирное, с. , в 10.8 км к сев.-зап. от него, 2.6 км к юго-вост.от оз.Жекеколъ, в 0.8 км к зап. от дороги с.Карынсалды - с. Мирное, на возвышенности</SimpleData>
+		<SimpleData name="lvl_line">cdd4129b-1d3e-48bd-a989-1342b9b7e007</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>66.1561139612599,50.6250614970947</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

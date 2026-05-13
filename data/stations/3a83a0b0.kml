@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="3a83a0b0" id="3a83a0b0">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>3a83a0b0</name>
+  <Placemark id="3a83a0b0.1">
+	<name>59351</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#3a83a0b0">
+		<SimpleData name="title">грунт. реп.</SimpleData>
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="class_lvl">621,13</SimpleData>
+		<SimpleData name="height_lvl">619,527</SimpleData>
+		<SimpleData name="height_ctrl">репер в верхней плоскости монолита</SimpleData>
+		<SimpleData name="ctrl_place">121</SimpleData>
+		<SimpleData name="mark_num">Линия № 4: Бугаз -Аягуз , II класс (2) Участок : грунт. реп. 28 -грунт. реп. 1293</SimpleData>
+		<SimpleData name="center_type">Жананесеп, с., в 10.0 км к вост. отнего, в 0.5 км к сев. -зап. от р. Бугаз, в 30 м к сев. от дороги, идущей вдоль р. Бугаз</SimpleData>
+		<SimpleData name="lvl_line">3a83a0b0-1244-41e1-adbe-f19b059b44c3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>82.2441065843975,48.0084561805042</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="fe46330b" id="fe46330b">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>fe46330b</name>
+  <Placemark id="fe46330b.1">
+	<name>б/№</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#fe46330b">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="ext_sign">290,318</SimpleData>
+		<SimpleData name="mark_num">Ход от грунт. реп. 2099 до грунт. реп. 8286. 2 класс (2) Участок: грунт. реп. 8109 - грунт. реп. 1664</SimpleData>
+		<SimpleData name="center_type">Киши Камкалы, е., в 8.0 км к юго-вост. от него, в 6.0 км к юго-зап. от мазара Куралай, в 0.5 км к югу от полевой дороги</SimpleData>
+		<SimpleData name="lvl_line">fe46330b-3f1c-4096-9c59-3ebf6f5bbb70</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>71.5514226358612,44.6664251011391</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

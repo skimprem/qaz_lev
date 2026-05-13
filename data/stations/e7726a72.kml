@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="e7726a72" id="e7726a72">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>e7726a72</name>
+  <Placemark id="e7726a72.1">
+	<name>1938</name>
+	<description>фундаментальный репер</description>
+	<ExtendedData><SchemaData schemaUrl="#e7726a72">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="ext_sign">279.536</SimpleData>
+		<SimpleData name="height_lvl">141 оп</SimpleData>
+		<SimpleData name="mark_num">Линия № 1: Сергеевка-Терсаккан. І класс </SimpleData>
+		<SimpleData name="center_type">Артыкпай. с.. в 10.5 км к югу от него. в 3.5 км к сев-вост. от с. Мендыш., в 150 м к западу от вала,   в 30 м к зап. от дороги</SimpleData>
+		<SimpleData name="lvl_line">e7726a72-ef85-41e7-8f0c-8859c097e09c</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.7696940677814,50.9991007324567</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2e93d24d" id="2e93d24d">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>2e93d24d</name>
+  <Placemark id="2e93d24d.1">
+	<name>Кекрели</name>
+	<description>пирамида</description>
+	<ExtendedData><SchemaData schemaUrl="#2e93d24d">
+		<SimpleData name="ext_sign">135.4</SimpleData>
+		<SimpleData name="ctrl_place">2оп</SimpleData>
+		<SimpleData name="lvl_line">2e93d24d-f2e4-4fa8-a366-fb0f0edd3d84</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>65.6411836765121,44.839999875522</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

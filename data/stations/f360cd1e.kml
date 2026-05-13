@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="f360cd1e" id="f360cd1e">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>f360cd1e</name>
+  <Placemark id="f360cd1e.1">
+	<name>8579</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#f360cd1e">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="ext_sign">35.439</SimpleData>
+		<SimpleData name="ctrl_place">160</SimpleData>
+		<SimpleData name="mark_num">Линия нивелирования 1 класса Уральск-Жанибек</SimpleData>
+		<SimpleData name="lvl_line">f360cd1e-56c9-46ee-95e8-b8ad83732fcc</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>48.1043556472141,49.7143953857808</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

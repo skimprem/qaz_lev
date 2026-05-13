@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="fafc4bc0" id="fafc4bc0">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>fafc4bc0</name>
+  <Placemark id="fafc4bc0.1">
+	<name>620</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#fafc4bc0">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="ext_sign">756073</SimpleData>
+		<SimpleData name="class_lvl">753728</SimpleData>
+		<SimpleData name="height_lvl">Контрольный репер в верхней плоскости монолита</SimpleData>
+		<SimpleData name="ctrl_place">121оп</SimpleData>
+		<SimpleData name="mark_num">Линия № 2: Спасск - Каркаралинск, II класс (2) Участок: грунт.реп.621 грунт,реп.622</SimpleData>
+		<SimpleData name="center_type">Шункыркудык, с., в 2,4 км к юго- зап.от него, в 0,6 км к сев-вост.от оз.Капитан-коль,в 0,1км к югу от дороги с.Бесоба -  с.Шункыркудык</SimpleData>
+		<SimpleData name="lvl_line">fafc4bc0-6f02-4b5e-afc8-c992a446ef91</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>74.9162088002498,49.3287021465945</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

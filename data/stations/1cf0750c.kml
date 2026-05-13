@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="1cf0750c" id="1cf0750c">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>1cf0750c</name>
+  <Placemark id="1cf0750c.1">
+	<name>III</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#1cf0750c">
+		<SimpleData name="height_ctrl">III</SimpleData>
+		<SimpleData name="ctrl_place">162 оп</SimpleData>
+		<SimpleData name="mark_num"></SimpleData>
+		<SimpleData name="center_type">0,1 км к югу от полевой дороги, 2,3 км к сев. от автодороги, 51,78 км к юго-зап. от с.Емелтау</SimpleData>
+		<SimpleData name="lvl_line">1cf0750c-ade7-4d34-b54d-9804b4c28220</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>76.7754416666667,47.66813</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

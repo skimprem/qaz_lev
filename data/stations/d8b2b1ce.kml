@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="d8b2b1ce" id="d8b2b1ce">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>d8b2b1ce</name>
+  <Placemark id="d8b2b1ce.1">
+	<name>0080</name>
+	<description>фундаментальный репер</description>
+	<ExtendedData><SchemaData schemaUrl="#d8b2b1ce">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="ext_sign">845.330</SimpleData>
+		<SimpleData name="height_ctrl">0095</SimpleData>
+		<SimpleData name="ctrl_place">161</SimpleData>
+		<SimpleData name="center_type">Каркаралинск, гор., в 0.2 км к северо-востоку от него, в 120 метрах к северу от АЗС &quot;Жарас&quot;, в 100 метрах к западу от дороги Каркаралинск-караганда.</SimpleData>
+		<SimpleData name="lvl_line">d8b2b1ce-cb39-4abd-b4e2-9642ff1e1486</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.4838035413072,49.4173706176103</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

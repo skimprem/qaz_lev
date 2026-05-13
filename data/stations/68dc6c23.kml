@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="68dc6c23" id="68dc6c23">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>68dc6c23</name>
+  <Placemark id="68dc6c23.1">
+	<name>Железнодорожная</name>
+	<description>пирамида</description>
+	<ExtendedData><SchemaData schemaUrl="#68dc6c23">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="ext_sign">328.666</SimpleData>
+		<SimpleData name="ctrl_place">1оп</SimpleData>
+		<SimpleData name="mark_num">Линия № 4: Атбасар - Жумай, (3) Участок: от фунд. реп. 340 - грунт. реп. 0072</SimpleData>
+		<SimpleData name="center_type">Бес - Бидаик, станц., в 5.3 км к сев. - зап. от нее, в 1.0 км к юго - вост. от водохранилища, в 0.2 км к зап. от жел. - дор. полотна</SimpleData>
+		<SimpleData name="lvl_line">68dc6c23-6fa1-436c-978e-4fdbb2c9a2dc</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>68.9259216966409,51.3479128215942</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

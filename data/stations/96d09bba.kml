@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="96d09bba" name="96d09bba">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Schema id="_96d09bba.schema">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Document id="_96d09bba">
+      <name>96d09bba</name>
+      <Placemark id="_96d09bba.1">
+        <description>Каратон, разв.,в 12.5 км к
+юго-вост. от них,в 0.5 км к се
+веру от мог.Акшура, в 40 м к
+югу от дороги.
+Контрольный репер в стенке
+трубы.</description>
+        <ExtendedData>
+          <SchemaData schemaUrl="#_96d09bba.schema">
+            <SimpleData name="title">1649</SimpleData>
+            <SimpleData name="ext_sign">грунт.реп.</SimpleData>
+            <SimpleData name="class_lvl">2</SimpleData>
+            <SimpleData name="center_type">118</SimpleData>
+            <SimpleData name="lvl_line">Линия нивелирования П класса Кендырли(фунд.реп1501) - Жармыш(фунд.реп.80)
+Участок от грунт.реп.1650 до грунт.реп.1639.</SimpleData>
+            <SimpleData name="guid">96d09bba-6ca6-4fab-9be8-58b529f75bb9</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            50.8606636730964,44.4428904727763,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

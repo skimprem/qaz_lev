@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="1b1e80ae" id="1b1e80ae">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>1b1e80ae</name>
+  <Placemark id="1b1e80ae.1">
+	<name>225</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#1b1e80ae">
+		<SimpleData name="title">грунт. Реп.</SimpleData>
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="ext_sign">341.481</SimpleData>
+		<SimpleData name="class_lvl">340.329</SimpleData>
+		<SimpleData name="height_lvl">контрольный репер в верхней плоскости монолита</SimpleData>
+		<SimpleData name="ctrl_place">121</SimpleData>
+		<SimpleData name="mark_num">Линия №3 : Челкар-Изембет-Карабутак, II класс. Участок: фунд. реп. 3637-грунт.реп. 225</SimpleData>
+		<SimpleData name="center_type">Михайловский, с., в 2.5 км к сев.-вост от него, в 29 м к сев.-зап. от линии связи, в 28 м к юго-вост. с.Михайловский-с.Камыстыколь</SimpleData>
+		<SimpleData name="lvl_line">1b1e80ae-5243-4ddf-a3de-b23d9febb9fe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>58.0396546674711,49.3028554072745</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

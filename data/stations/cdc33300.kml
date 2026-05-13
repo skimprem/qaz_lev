@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="cdc33300" id="cdc33300">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>cdc33300</name>
+  <Placemark id="cdc33300.1">
+	<name>20535</name>
+	<ExtendedData><SchemaData schemaUrl="#cdc33300">
+		<SimpleData name="title">грунтовый репер</SimpleData>
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="ext_sign">203.076</SimpleData>
+		<SimpleData name="ctrl_place">121</SimpleData>
+		<SimpleData name="mark_num">Линия №2: Айбас - Байлюсты (Карасу), II класс.</SimpleData>
+		<SimpleData name="center_type">Домбыралы, отд.дв., в 7.9км к юго-вост.от него, в 14.6км к юго-зап.от а.Уалиханов, в 0.1км к зап.от полевой дороги</SimpleData>
+		<SimpleData name="lvl_line">cdc33300-1197-42c9-87b4-b08a3b072e2f</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.1749382674683,52.907007224118</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

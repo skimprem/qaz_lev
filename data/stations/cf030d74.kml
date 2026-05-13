@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="cf030d74" id="cf030d74">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>cf030d74</name>
+  <Placemark id="cf030d74.1">
+	<name>I ГМС</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#cf030d74">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="ext_sign">349.434</SimpleData>
+		<SimpleData name="center_type">Байконур, с., в 1.2 км к юго-зап.от него, в 20 м к юго-вост.от спуска к р.Байконур, в 4 м к юго-вост.от  2-х метрового рельса, в створе пикетажных столбиков.</SimpleData>
+		<SimpleData name="lvl_line">cf030d74-081e-4a4e-93f9-264499850a17</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>66.036872652368,47.8242746965279</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

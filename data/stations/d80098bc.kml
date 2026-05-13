@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="d80098bc" id="d80098bc">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>d80098bc</name>
+  <Placemark id="d80098bc.1">
+	<name>Авыр,</name>
+	<description>пир.</description>
+	<ExtendedData><SchemaData schemaUrl="#d80098bc">
+		<SimpleData name="title">пир.</SimpleData>
+		<SimpleData name="ctrl_place">88</SimpleData>
+		<SimpleData name="lvl_line">d80098bc-a206-4b3c-8687-e180624200a0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.0293344464369,45.9355143785858</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

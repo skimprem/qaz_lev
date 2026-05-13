@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="7fbd016b" id="7fbd016b">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>7fbd016b</name>
+  <Placemark id="7fbd016b.1">
+	<name>8009</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#7fbd016b">
+		<SimpleData name="height_ctrl">8009</SimpleData>
+		<SimpleData name="ctrl_place">162 оп</SimpleData>
+		<SimpleData name="center_type">19.7 км к эго-зап. от с. Татан, вдоль полевой дороги, 20 м от полевой дороги,  в 0.8 км к юго-зап. от мог.</SimpleData>
+		<SimpleData name="lvl_line">7fbd016b-8989-4ad8-a90d-a84af6dc1427</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>76.65504,48.527215</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

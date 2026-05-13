@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="b999f929" id="b999f929">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>b999f929</name>
+  <Placemark id="b999f929.1">
+	<name>8240</name>
+	<description>фундаментальный репер</description>
+	<ExtendedData><SchemaData schemaUrl="#b999f929">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="ext_sign">84,952</SimpleData>
+		<SimpleData name="class_lvl">84,743</SimpleData>
+		<SimpleData name="ctrl_place">114</SimpleData>
+		<SimpleData name="mark_num">Линия: Айбас-Чапаевское,II класс Участок:фунд. реп.189-фунд. реп. 8240</SimpleData>
+		<SimpleData name="center_type">Кулыколь,а., в 1,6 км к сев.-вост. от него, в 120 м к зап. от стб. ЛЭП 35 кв №421, в 60 м к зап. от грейдера а.Кулыколь-а.Кайрат</SimpleData>
+		<SimpleData name="lvl_line">b999f929-54c8-4804-99a2-37de1cb8376f</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>73.7787062235739,52.7923525925823</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

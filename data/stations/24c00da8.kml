@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="24c00da8" id="24c00da8">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>24c00da8</name>
+  <Placemark id="24c00da8.1">
+	<name>Песчаное</name>
+	<description>сигнал</description>
+	<ExtendedData><SchemaData schemaUrl="#24c00da8">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="ext_sign">110,311</SimpleData>
+		<SimpleData name="ctrl_place">32</SimpleData>
+		<SimpleData name="mark_num">Линия нивелирования: Павлодар-Урлютюб,II класс Участок:фунд. реп.1015-фунд.реп. 310</SimpleData>
+		<SimpleData name="lvl_line">24c00da8-8552-4010-b205-b3f3a9dd6545</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>76.4016539715654,52.994007537749</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

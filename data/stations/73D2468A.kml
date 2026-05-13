@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="73D2468A" id="73D2468A">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>73D2468A</name>
+  <Placemark id="73D2468A.1">
+	<name>Шуйтас</name>
+	<ExtendedData><SchemaData schemaUrl="#73D2468A">
+		<SimpleData name="title">сигнал</SimpleData>
+		<SimpleData name="type">4</SimpleData>
+		<SimpleData name="height_ctrl">1945</SimpleData>
+		<SimpleData name="ctrl_place">1</SimpleData>
+		<SimpleData name="lvl_line">73D2468A-0A00-7ED7-546A-430CD586549D</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>52.7044895877085,50.6479963545453</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="e395c3db" id="e395c3db">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>e395c3db</name>
+  <Placemark id="e395c3db.1">
+	<name>6386</name>
+	<description>Грунтовый репер </description>
+	<ExtendedData><SchemaData schemaUrl="#e395c3db">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="height_ctrl">6386</SimpleData>
+		<SimpleData name="ctrl_place">160 оп</SimpleData>
+		<SimpleData name="center_type">Дружба, с., в 0.5 км к сев.от него, в 150 м сев.-вост. От электро подстанции,  в 50 м к югу-зап.от пересечения  грейдера.</SimpleData>
+		<SimpleData name="lvl_line">e395c3db-7db6-4003-8312-a73cce5f54cc</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>62.9019033333333,51.450655</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

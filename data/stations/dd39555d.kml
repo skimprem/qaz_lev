@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="dd39555d" id="dd39555d">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>dd39555d</name>
+  <Placemark id="dd39555d.1">
+	<name>Шукыр</name>
+	<description>пирамида</description>
+	<ExtendedData><SchemaData schemaUrl="#dd39555d">
+		<SimpleData name="title">пир.</SimpleData>
+		<SimpleData name="type">IV</SimpleData>
+		<SimpleData name="ext_sign">220.838</SimpleData>
+		<SimpleData name="height_ctrl">1385</SimpleData>
+		<SimpleData name="ctrl_place">146 оп.</SimpleData>
+		<SimpleData name="mark_num">Линия № 2 Иргиз (фунд.реп.7707) - Толыбай (фунд.реп.3780)</SimpleData>
+		<SimpleData name="center_type">Щукырсор,оз.,в З,Зкм к сев.от него,в
+2,5км к сев.-вост.от зим.,в 3,0км кюго-зап. от п.тр.Каратуз,в 250м к зап.от пол.дороги с.Иргиз-с.Сарыбулак</SimpleData>
+		<SimpleData name="lvl_line">dd39555d-6b5d-4e2c-9ac6-545f38974102</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>61.404951683427,49.5921422979288</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

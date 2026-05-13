@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="70877216" id="70877216">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>70877216</name>
+  <Placemark id="70877216.1">
+	<name>6668</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#70877216">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="ext_sign">503.890</SimpleData>
+		<SimpleData name="ctrl_place">160 оп. знак</SimpleData>
+		<SimpleData name="mark_num">Линия № 2: Каратал  – Карабута , II класс </SimpleData>
+		<SimpleData name="center_type">Каратал, с., в 10.2 км к вост. от него, в 2.0 км к сев. от зимовки, в 40 м к вост. от пересечения полевой дороги с арыком</SimpleData>
+		<SimpleData name="lvl_line">70877216-a6ad-48fe-a601-e7365a1cb1fa</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>82.240132634997,46.7519432895106</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

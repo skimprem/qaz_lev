@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="9a5242f5" id="9a5242f5">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>9a5242f5</name>
+  <Placemark id="9a5242f5.1">
+	<name>6</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#9a5242f5">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="ext_sign">160,338</SimpleData>
+		<SimpleData name="ctrl_place">160 оп знак</SimpleData>
+		<SimpleData name="mark_num">Линия № 1: Золоторунное - Чистовское, II класс Участок: фунд. реп. 7Б-грунт. реп. 690</SimpleData>
+		<SimpleData name="center_type">Золоторунная, станц., в 0,9 км к сев. от него, юго-зап. угол перекрестка дор., в 40 м к юго-зап. от него, в 7 м к югу от стб. линии связи</SimpleData>
+		<SimpleData name="lvl_line">9a5242f5-9c73-48b1-b580-aa0600559cc1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>70.7295995061781,53.5638158695755</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

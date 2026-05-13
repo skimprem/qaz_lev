@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="09af28a1" id="09af28a1">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>09af28a1</name>
+  <Placemark id="09af28a1.1">
+	<name>9534</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#09af28a1">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="ext_sign">784,775</SimpleData>
+		<SimpleData name="ctrl_place">160оп</SimpleData>
+		<SimpleData name="mark_num">Линия №3: Актогай-Каркаралинск, II класс (3) Участок: ск. реп.5968 -ск.реп. 9045</SimpleData>
+		<SimpleData name="center_type">Акшокы, с., в 1,6 км к сев.-вост. от него, в 0,8 км к юго-зап. от с. Жарлы, вдоль линий связи</SimpleData>
+		<SimpleData name="lvl_line">09af28a1-277e-42b9-acc9-acb07c564a4a</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.2250113556779,49.1666278774862</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="bcf73c5a" id="bcf73c5a">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>bcf73c5a</name>
+  <Placemark id="bcf73c5a.1">
+	<name>405</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#bcf73c5a">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="ext_sign">414.158</SimpleData>
+		<SimpleData name="ctrl_place">160 оп</SimpleData>
+		<SimpleData name="mark_num">Линия №2: Ивановка-Жана-Арка, II класс (3) Участок: грунт.реп.421-грунт.реп.880</SimpleData>
+		<SimpleData name="center_type">Кертинди,с.,в 1.4 км к югу от него,в 0.1 км к зап.от шоссе с.Кертинди-гор.Темиртау,в 0.1 км к юго-зап.от км.стб.140/134</SimpleData>
+		<SimpleData name="lvl_line">bcf73c5a-18ff-4020-85dc-5670633dc984</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>71.5886174499889,49.9384407637148</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

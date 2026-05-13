@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="b7360526" id="b7360526">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>b7360526</name>
+  <Placemark id="b7360526.1">
+	<name>А18361</name>
+	<description>скальный репер </description>
+	<ExtendedData><SchemaData schemaUrl="#b7360526">
+		<SimpleData name="height_ctrl">А18361</SimpleData>
+		<SimpleData name="ctrl_place">99 оп</SimpleData>
+		<SimpleData name="mark_num"></SimpleData>
+		<SimpleData name="center_type">23,8 км к юго-зап. от с. Емелтау, 1,3 км сев.-вост. от солончака, 0,4 км к юго-вост. от полевой дороги</SimpleData>
+		<SimpleData name="lvl_line">b7360526-ffb2-4a50-8705-889dc30cb26f</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.1414633333333,47.6978416666667</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

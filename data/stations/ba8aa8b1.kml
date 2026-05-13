@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="ba8aa8b1" id="ba8aa8b1">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>ba8aa8b1</name>
+  <Placemark id="ba8aa8b1.1">
+	<name>12</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#ba8aa8b1">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="ext_sign">452.975</SimpleData>
+		<SimpleData name="class_lvl">450.575</SimpleData>
+		<SimpleData name="height_lvl">Контрольный репер № 127  в верхней плоскости монолита</SimpleData>
+		<SimpleData name="ctrl_place">118</SimpleData>
+		<SimpleData name="mark_num">Линия № 1: Буран - Белая Школа, II класс. Участок: грунт. реп. 1507 - грунт. реп. 22</SimpleData>
+		<SimpleData name="center_type">Карабулак, с., в 22.0 км к сев.-зап. от него, в 62 м к зап. от дороги с. Кокпекты-гор. Зайсан, в 57 м к югу от км стб. № 13/10</SimpleData>
+		<SimpleData name="lvl_line">ba8aa8b1-1083-488f-883e-9c42981e74ba</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.4068412947554,47.6510885961947</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

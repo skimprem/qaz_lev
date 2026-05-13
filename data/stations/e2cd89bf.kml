@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="e2cd89bf" name="e2cd89bf">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Schema id="e2cd89bf.schema">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Document id="e2cd89bf">
+      <name>e2cd89bf</name>
+      <Placemark id="e2cd89bf.1">
+        <description>Килыбай. мог..  в 10.3 км к сев. от неё. в 9.3 км к юго-вост. от к. Шоктобе. в 1.4 км к вост. от полевой дороги</description>
+        <ExtendedData>
+          <SchemaData schemaUrl="#e2cd89bf.schema">
+            <SimpleData name="title">5266</SimpleData>
+            <SimpleData name="type">грунтовый репер</SimpleData>
+            <SimpleData name="ext_sign">грунт. реп.</SimpleData>
+            <SimpleData name="class_lvl">2</SimpleData>
+            <SimpleData name="height_lvl">111.335</SimpleData>
+            <SimpleData name="center_type">121</SimpleData>
+            <SimpleData name="lvl_line">Линия № 5:  Тасбулак-Жалагаш.   Участок:           грунт. реп. 2162-фунд.реп. 9597.                II класс</SimpleData>
+            <SimpleData name="guid">e2cd89bf-ac9c-47d6-badf-ed38ffdad7d9</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            64.801921248338,45.461835697248,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

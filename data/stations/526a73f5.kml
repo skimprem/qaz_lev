@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="526a73f5" name="526a73f5">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Schema id="_526a73f5.schema">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Document id="_526a73f5">
+      <name>526a73f5</name>
+      <Placemark id="_526a73f5.1">
+        <description>Ералиев, пгт, в 11.0 км к юго-вост.от него в 700 м к сев.-вост.от телефонной линии, в 15 м к сев.-вост.от дороги пгт Ералиев -с .Аксу</description>
+        <ExtendedData>
+          <SchemaData schemaUrl="#_526a73f5.schema">
+            <SimpleData name="title">4375</SimpleData>
+            <SimpleData name="type">скальный репер</SimpleData>
+            <SimpleData name="class_lvl">1</SimpleData>
+            <SimpleData name="height_lvl">31.227</SimpleData>
+            <SimpleData name="center_type">9оп</SimpleData>
+            <SimpleData name="lvl_line">Линия : фунд.ск.реп.509-фунд.ск.реп.522, 1 класс</SimpleData>
+            <SimpleData name="guid">526a73f5-e419-41be-b4ea-91d8f2a876bf</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            51.7543106664583,43.1046192214455,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="60b79279" id="60b79279">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>60b79279</name>
+  <Placemark id="60b79279.1">
+	<name>7405</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#60b79279">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="ext_sign">431.386</SimpleData>
+		<SimpleData name="ctrl_place">160оп</SimpleData>
+		<SimpleData name="mark_num">Линия №1: Торетоган - Берлик, 1 класс  Участок: грунт.реп.9706-фунд.реп.512</SimpleData>
+		<SimpleData name="center_type">Кенес, с., в 10,3 км к юго-вост. от него, в 0,3 км к сев. от км. стб. 135, в 60 м к вост. от шоссе с. Бирлик - гор. Чу</SimpleData>
+		<SimpleData name="lvl_line">60b79279-95bf-49ac-aa5b-18f927052096</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>73.6581045390494,43.8729852214056</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

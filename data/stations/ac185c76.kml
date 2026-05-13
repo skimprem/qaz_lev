@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="ac185c76" id="ac185c76">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>ac185c76</name>
+  <Placemark id="ac185c76.1">
+	<name>6231</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#ac185c76">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="ext_sign">113.489</SimpleData>
+		<SimpleData name="ctrl_place">160 оп</SimpleData>
+		<SimpleData name="mark_num">Линия 1 класса :Аральск -Тактайконыр(фунд.реп.5059 -фунд.реп.83)  Участок :грунт.реп.3254 -фунд.реп.83</SimpleData>
+		<SimpleData name="center_type">Карасу,с.(нежил.),в 1.2 км к сев.-вост.от него,в 0.5 км к сев.от развилки грунт.дороги с.Карасу -с.Кайгы -с.Бестамак,в 0.1 км к вост.от грунт.дороги с.Карасу -с.Бестамак</SimpleData>
+		<SimpleData name="lvl_line">ac185c76-f0fc-4cc2-a5e3-d0573e1bba90</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>64.6096583573318,50.748481349827</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

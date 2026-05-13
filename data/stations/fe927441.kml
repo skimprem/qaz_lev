@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="fe927441" name="fe927441">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Schema id="fe927441.schema">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Document id="fe927441">
+      <name>fe927441</name>
+      <Placemark id="fe927441.1">
+        <description>Саура, рыб.пром., в 2.2 км к сев.-зап.от него, в 1.6 км к сев-вост.от оз.Караколь, в 27 м к юго-зап.от дороги с.Караманды-гор.Форт-Шевченко</description>
+        <ExtendedData>
+          <SchemaData schemaUrl="#fe927441.schema">
+            <SimpleData name="title">264</SimpleData>
+            <SimpleData name="ext_sign">ск.реп</SimpleData>
+            <SimpleData name="class_lvl">1</SimpleData>
+            <SimpleData name="height_lvl">48.215</SimpleData>
+            <SimpleData name="center_type">113</SimpleData>
+            <SimpleData name="lvl_line">Линия 10: ск.реп.264 грунт.реп.42 1 кл.(2)</SimpleData>
+            <SimpleData name="guid">fe927441-d920-4e54-9db1-d862044a36d4</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            50.8084788494418,44.2454979408484,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="1c3177be" name="1c3177be">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Schema id="_1c3177be.schema">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Document id="_1c3177be">
+      <name>1c3177be</name>
+      <Placemark id="_1c3177be.1">
+        <description>Жанбике,метеостанция,в 5,6 км к юго-вост.от неё в 1,1 км к юго-зап.от пир.3 кл.Жангельды в 26м к сев-вост.от дороги метеостанция Жанбике-с.Караоба</description>
+        <ExtendedData>
+          <SchemaData schemaUrl="#_1c3177be.schema">
+            <SimpleData name="title">6344</SimpleData>
+            <SimpleData name="type">грунтовый репер</SimpleData>
+            <SimpleData name="class_lvl">2</SimpleData>
+            <SimpleData name="height_lvl">53,533</SimpleData>
+            <SimpleData name="center_type">160оп</SimpleData>
+            <SimpleData name="lvl_line">Линия № 179: Гурьев-Кошкарата. II класс (12)
+Участок: грунт. реп. 501 - грунт. реп. 0888</SimpleData>
+            <SimpleData name="guid">1c3177be-0f76-481b-a8f6-f47e073f7c60</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            55.1585399852517,46.9859158268318,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

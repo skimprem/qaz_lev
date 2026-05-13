@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="ddd71d38" name="ddd71d38">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Schema id="ddd71d38.schema">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Document id="ddd71d38">
+      <name>ddd71d38</name>
+      <Placemark id="ddd71d38.1">
+        <description>Табан, к., в 3.6 км к сев.-вост. от него, в 0.2 км к сев.- вост.  от развилки дороги, в 22 м к юго-вост. от грунт. дороги гор. Жезказган - с. Сузак</description>
+        <ExtendedData>
+          <SchemaData schemaUrl="#ddd71d38.schema">
+            <SimpleData name="title">9679</SimpleData>
+            <SimpleData name="type">грунтовый репер</SimpleData>
+            <SimpleData name="ext_sign">грунтовый репер</SimpleData>
+            <SimpleData name="class_lvl">2</SimpleData>
+            <SimpleData name="height_lvl">213,323</SimpleData>
+            <SimpleData name="center_type">160 оп.зн</SimpleData>
+            <SimpleData name="lvl_line">Линия № 1: Древний Курган - Кендырлык (Айгарлык), II класс (3) Участок: грунт. реп. 8361 - фунд. реп. 25</SimpleData>
+            <SimpleData name="guid">ddd71d38-b27e-4bbb-81ed-299a9dfef3df</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            68.3003358203903,46.2030774673647,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

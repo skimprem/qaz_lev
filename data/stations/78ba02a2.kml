@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="78ba02a2" id="78ba02a2">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>78ba02a2</name>
+  <Placemark id="78ba02a2.1">
+	<name>Красный Яр</name>
+	<description>сигнал</description>
+	<ExtendedData><SchemaData schemaUrl="#78ba02a2">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="ext_sign">121,512</SimpleData>
+		<SimpleData name="ctrl_place">1</SimpleData>
+		<SimpleData name="mark_num">Линия нивелирования: Павлодар-Урлютюб,II класс Участок:фунд. реп.1015-фунд.реп. 310</SimpleData>
+		<SimpleData name="lvl_line">78ba02a2-6614-49a5-9ae9-2ee788e1d0e2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.5976625114267,53.3196545964899</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

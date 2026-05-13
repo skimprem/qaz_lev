@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="8cc4300e" id="8cc4300e">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>8cc4300e</name>
+  <Placemark id="8cc4300e.1">
+	<name>7648</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#8cc4300e">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="ext_sign">302,901</SimpleData>
+		<SimpleData name="ctrl_place">160оп</SimpleData>
+		<SimpleData name="mark_num">Линия №1: Карасорвкий - Сарыкияк, II класс (1) Участок: ск. реп. 6100 - грунт. реп. 8674</SimpleData>
+		<SimpleData name="center_type">Сарыбулак, лет., в 14.2 км к вост, от него, в 6.1 км к югу от оз. Торесор, в 1.8 км к югу от развилки полевой дороги</SimpleData>
+		<SimpleData name="lvl_line">8cc4300e-11ef-4861-af1a-108a6bc3fb0f</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.4240065283927,51.1849974140117</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

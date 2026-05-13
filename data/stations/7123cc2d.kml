@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="7123cc2d" id="7123cc2d">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>7123cc2d</name>
+  <Placemark id="7123cc2d.1">
+	<name>5539</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#7123cc2d">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="ext_sign">468,427</SimpleData>
+		<SimpleData name="ctrl_place">160 оп. знак</SimpleData>
+		<SimpleData name="mark_num">Линия № 3: Белая Школа - Зайсан, II класс (2)
+Участок: фунд.реп. 5491 – грунт.реп. 1486</SimpleData>
+		<SimpleData name="center_type">Нура, к., в 5.9 км к юго-вост. от него, в 2.3 км к юго-вост. от зимовки и водокачки, в 33 м к сев. от шоссе с. Кокпекты – гор. Зайсан</SimpleData>
+		<SimpleData name="lvl_line">7123cc2d-12f6-41cb-8e77-d40eff263ae1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>83.8148872959472,47.7944189343076</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

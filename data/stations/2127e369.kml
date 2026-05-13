@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="2127e369" name="2127e369">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Schema id="_2127e369.schema">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Document id="_2127e369">
+      <name>2127e369</name>
+      <Placemark id="_2127e369.1">
+        <description>Караганкудук, к., в 5.8 км к вост. от него, в 3.2 км к вост. от нефтепровода</description>
+        <ExtendedData>
+          <SchemaData schemaUrl="#_2127e369.schema">
+            <SimpleData name="title">35</SimpleData>
+            <SimpleData name="type">грунтовый репер</SimpleData>
+            <SimpleData name="ext_sign">грунтовый репер</SimpleData>
+            <SimpleData name="class_lvl">2</SimpleData>
+            <SimpleData name="height_lvl">218,368</SimpleData>
+            <SimpleData name="height_ctrl">217,268</SimpleData>
+            <SimpleData name="ctrl_place">в верхней плоскости монолита</SimpleData>
+            <SimpleData name="mark_num">939</SimpleData>
+            <SimpleData name="center_type">121 оп.зн</SimpleData>
+            <SimpleData name="lvl_line">Линия № 4: Кендырлык (Айгарлык) грунт. реп. 9617, II класс (2) Участок: фунд. реп. 25 - грунт. реп. 284</SimpleData>
+            <SimpleData name="guid">2127e369-0102-446f-893c-8d1db8d7af41</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            68.3847356506556,46.0266174070599,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

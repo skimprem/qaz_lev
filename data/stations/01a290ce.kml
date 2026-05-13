@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="01a290ce" id="01a290ce">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>01a290ce</name>
+  <Placemark id="01a290ce.1">
+	<name>1892</name>
+	<description>скальный репер</description>
+	<ExtendedData><SchemaData schemaUrl="#01a290ce">
+		<SimpleData name="height_ctrl">1892</SimpleData>
+		<SimpleData name="ctrl_place">99оп</SimpleData>
+		<SimpleData name="center_type">10 м к северо-западу от трассы Астана-Коржалгын, 39 м к югу от полевой дороги, 80 м к востоку от развилки полевых дорог</SimpleData>
+		<SimpleData name="lvl_line">01a290ce-4d57-40c3-a8ef-18bb91ac8e92</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>70.2635733333333,50.817985</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

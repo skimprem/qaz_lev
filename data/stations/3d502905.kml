@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="3d502905" id="3d502905">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>3d502905</name>
+  <Placemark id="3d502905.1">
+	<name>Кобяково</name>
+	<description>сигнал</description>
+	<ExtendedData><SchemaData schemaUrl="#3d502905">
+		<SimpleData name="type">4</SimpleData>
+		<SimpleData name="ext_sign">-23,256</SimpleData>
+		<SimpleData name="ctrl_place">1</SimpleData>
+		<SimpleData name="mark_num">Линия: грунт. реп. 1-грунт. реп. 1286, IV класс</SimpleData>
+		<SimpleData name="lvl_line">3d502905-2078-4a82-ac90-58f047258b82</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>49.3435850613309,46.6183303683724</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

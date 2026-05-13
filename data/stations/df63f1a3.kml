@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="df63f1a3" id="df63f1a3">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>df63f1a3</name>
+  <Placemark id="df63f1a3.1">
+	<name>2306</name>
+	<description>грунт.репер</description>
+	<ExtendedData><SchemaData schemaUrl="#df63f1a3">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="ext_sign">117.375</SimpleData>
+		<SimpleData name="ctrl_place">121</SimpleData>
+		<SimpleData name="mark_num">Линия №1 Тургай -Кызылуй Участок грунт.реп.20 -грунт.реп.28</SimpleData>
+		<SimpleData name="center_type">Батпак,летник,в 6.0 км к вост.от него,в 23 м к зап.от дороги в с.Байконур</SimpleData>
+		<SimpleData name="lvl_line">df63f1a3-ad3e-4072-96e3-23177dc8ef49</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>63.968464301443,49.1704687569421</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

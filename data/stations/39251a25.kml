@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="39251a25" id="39251a25">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>39251a25</name>
+  <Placemark id="39251a25.1">
+	<name>Закладка</name>
+	<description>Грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#39251a25">
+		<SimpleData name="height_ctrl">А 1804</SimpleData>
+		<SimpleData name="ctrl_place">162</SimpleData>
+		<SimpleData name="lvl_line">39251a25-457c-4962-9ffd-7dba803a8344</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>81.13048,49.144105</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

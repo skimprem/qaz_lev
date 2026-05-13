@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="ad1e8368" id="ad1e8368">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>ad1e8368</name>
+  <Placemark id="ad1e8368.1">
+	<name>9808</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#ad1e8368">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="ext_sign">62.88</SimpleData>
+		<SimpleData name="ctrl_place">160 оп</SimpleData>
+		<SimpleData name="mark_num">Линия №1: Айтеке Би (Новоказалинск) - Ащылысай, 2 класс. Участок: грунт.реп. 0921 - фунд.реп. 3922</SimpleData>
+		<SimpleData name="center_type">Сартымбет, арт.к., в 7,7 км к сев.-вост.от него, в 2,1 км к сев.от сух.русла Ащылысай, в 12 м к зап.от полевой дороги</SimpleData>
+		<SimpleData name="lvl_line">ad1e8368-932b-4ba5-b938-227f524664d3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>62.0273240742291,44.9363830689834</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

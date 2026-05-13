@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="5cc5242e" id="5cc5242e">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>5cc5242e</name>
+  <Placemark id="5cc5242e.1">
+	<name>7669</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#5cc5242e">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="ext_sign">80,375</SimpleData>
+		<SimpleData name="ctrl_place">162 оп знак</SimpleData>
+		<SimpleData name="mark_num">Линия: Золоторунное-Кобенсай Участок:фунд. реп. 7Б-фунд. реп. 4Г</SimpleData>
+		<SimpleData name="center_type">Кишкенеколь,с., в 17,3 км к зап. от него,в 9,0 км к юго-вост. от с.Кулыколь, в 1,2 км к вост. от р.Карасу, в 36 м к югу от пол. дороги</SimpleData>
+		<SimpleData name="lvl_line">5cc5242e-0965-4d10-983c-0842bc44092e</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.0538489076,53.6526316043504</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

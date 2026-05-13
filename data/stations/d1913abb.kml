@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="d1913abb" id="d1913abb">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>d1913abb</name>
+  <Placemark id="d1913abb.1">
+	<name>3451</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#d1913abb">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="ext_sign">15.690</SimpleData>
+		<SimpleData name="ctrl_place">160</SimpleData>
+		<SimpleData name="mark_num">Линия нивелирования 1 класса Уральск-Жанибек</SimpleData>
+		<SimpleData name="center_type">Курман, с., в 8.5км к сев.-зап.от него, в 3.2км к сев.-зап.от разв.Копкудук, в 0.9км к югу от кладб., в 10м к зап.от пол.дороги</SimpleData>
+		<SimpleData name="lvl_line">d1913abb-b0ff-4488-b632-1b38d26e11b2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>49.3101813934147,50.3313641852057</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

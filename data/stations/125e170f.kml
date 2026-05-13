@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="125e170f" id="125e170f">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>125e170f</name>
+  <Placemark id="125e170f.1">
+	<name>2010</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#125e170f">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="ext_sign">126,916</SimpleData>
+		<SimpleData name="ctrl_place">160 оп знак</SimpleData>
+		<SimpleData name="mark_num">Линия:Волотовка-Чапаевский, II класс Участок: грунт. реп. 2859-фунд. реп. 156</SimpleData>
+		<SimpleData name="center_type">Голубовка,с., в 1,3 км к сев.-вост. от него, в 5 м к зап. от дороги с.Артемовка-с.Голубовка, на углу пашни</SimpleData>
+		<SimpleData name="lvl_line">125e170f-5d39-4dd8-811d-dc0b36f7afdf</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>74.3227100289845,53.2251805790322</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

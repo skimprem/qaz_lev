@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="c9b36cd4" id="c9b36cd4">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>c9b36cd4</name>
+  <Placemark id="c9b36cd4.1">
+	<name>1805</name>
+	<description>скальный репер</description>
+	<ExtendedData><SchemaData schemaUrl="#c9b36cd4">
+		<SimpleData name="height_ctrl">1805</SimpleData>
+		<SimpleData name="ctrl_place">99оп</SimpleData>
+		<SimpleData name="center_type">1,6 км к юго-западу от развалин, 1,1 км к северо-западу от с. Покровка, 822 м к северу от пересечения полевой и автомобильной дорог</SimpleData>
+		<SimpleData name="lvl_line">c9b36cd4-a818-42f7-9178-28c1111b37f1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>68.5234216666667,51.999145</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

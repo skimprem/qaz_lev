@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="cf271b7a" id="cf271b7a">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>cf271b7a</name>
+  <Placemark id="cf271b7a.1">
+	<name>Закладка 185</name>
+	<description>Грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#cf271b7a">
+		<SimpleData name="title">Грунтовый репер</SimpleData>
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="height_ctrl">185</SimpleData>
+		<SimpleData name="ctrl_place">149</SimpleData>
+		<SimpleData name="mark_num">121</SimpleData>
+		<SimpleData name="center_type">Каунградский,ю,з 9.1км к северу от него , в 95м к западу от шоссе Балкаш - Караганда  , в 75 м к северу-востоку от высоковолтьной линий N45, в 13 м от востоку полевая дорога</SimpleData>
+		<SimpleData name="lvl_line">cf271b7a-588d-4898-aadf-67f0fda6041f</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>74.91109312,47.02975386</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

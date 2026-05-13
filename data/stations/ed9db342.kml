@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="ed9db342" id="ed9db342">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>ed9db342</name>
+  <Placemark id="ed9db342.1">
+	<name>5080</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#ed9db342">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="ext_sign">86.457</SimpleData>
+		<SimpleData name="class_lvl">85.349</SimpleData>
+		<SimpleData name="height_lvl">контрольный репер № 9056 в верхней плоскости монолита</SimpleData>
+		<SimpleData name="ctrl_place">121 оп. знак</SimpleData>
+		<SimpleData name="mark_num">Линия №1 : Аральск - Тактайконыр, I класс. Участок: грунт. реп. 9144 - грунт. реп. 8047</SimpleData>
+		<SimpleData name="center_type">Сазды, с., в 14.4 км к сев.-зап. от него, в 3.1 км к юго-зап. от кладб. Константин, в 0.2 км к зап. от полевой дороги</SimpleData>
+		<SimpleData name="lvl_line">ed9db342-8ff1-4a1f-8b34-a17be0ef7b24</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>61.5760961788828,47.3780146883171</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

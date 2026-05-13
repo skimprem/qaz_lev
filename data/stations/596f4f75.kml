@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="596f4f75" id="596f4f75">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>596f4f75</name>
+  <Placemark id="596f4f75.1">
+	<name>Мусакаевский</name>
+	<description>пирамида</description>
+	<ExtendedData><SchemaData schemaUrl="#596f4f75">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="class_lvl">29,184</SimpleData>
+		<SimpleData name="ctrl_place">1</SimpleData>
+		<SimpleData name="mark_num">Линия: грунт. реп. 3879-грунт. реп. 2012, II класс</SimpleData>
+		<SimpleData name="lvl_line">596f4f75-1e14-45be-8cc7-df57d5ee6e7d</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>46.8522616899201,49.4616948630294</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

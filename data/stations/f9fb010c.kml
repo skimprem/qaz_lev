@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="f9fb010c" name="f9fb010c">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Schema id="f9fb010c.schema">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Document id="f9fb010c">
+      <name>f9fb010c</name>
+      <Placemark id="f9fb010c.1">
+        <description>Тулеп,кладб.,в 11,9 км к сев-вост.от него,в 0,9 км к юго-вост.от пир.2 кл.Такыр 1960г.,в 30м к юго-вост.от дороги кладб.Тулеп-к.Муратчаегинд</description>
+        <ExtendedData>
+          <SchemaData schemaUrl="#f9fb010c.schema">
+            <SimpleData name="title">5352</SimpleData>
+            <SimpleData name="type">грунтовый репер</SimpleData>
+            <SimpleData name="class_lvl">2</SimpleData>
+            <SimpleData name="height_lvl">87,062</SimpleData>
+            <SimpleData name="center_type">160оп</SimpleData>
+            <SimpleData name="lvl_line">Линия № 241: Гурьев-Кошкарата. II класс (12)
+Участок: грунт. реп. 5201 - грунт. реп. 6512</SimpleData>
+            <SimpleData name="guid">f9fb010c-b572-45f9-99b1-97abf8192dfa</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            56.1468626883664,46.9975490285475,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

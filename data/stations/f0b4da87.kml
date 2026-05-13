@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="f0b4da87" name="f0b4da87">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Schema id="f0b4da87.schema">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Document id="f0b4da87">
+      <name>f0b4da87</name>
+      <Placemark id="f0b4da87.1">
+        <description>Бикембай,арт.к.,в 6,7 км к сев-зап.от него,в 1,2 км к сев.от кладбища,в 40м к сев.от дороги арт.к.Пески Бас-Оймаут-арт.к.Бикембай</description>
+        <ExtendedData>
+          <SchemaData schemaUrl="#f0b4da87.schema">
+            <SimpleData name="title">3226</SimpleData>
+            <SimpleData name="type">грунтовый репер</SimpleData>
+            <SimpleData name="class_lvl">2</SimpleData>
+            <SimpleData name="height_lvl">108,832</SimpleData>
+            <SimpleData name="center_type">160оп</SimpleData>
+            <SimpleData name="lvl_line">Линия № 241: Гурьев-Кошкарата. II класс (12)
+Участок: грунт. реп. 5201 - грунт. реп. 6512</SimpleData>
+            <SimpleData name="guid">f0b4da87-49a3-437a-9a06-ac8b10ddcfaa</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            56.8646159492529,47.0411271028816,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

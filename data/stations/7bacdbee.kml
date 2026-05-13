@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="7bacdbee" id="7bacdbee">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>7bacdbee</name>
+  <Placemark id="7bacdbee.1">
+	<name>0159</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#7bacdbee">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="ext_sign">43.982</SimpleData>
+		<SimpleData name="ctrl_place">161</SimpleData>
+		<SimpleData name="mark_num">Линия нивелирования 1 класса Уральск-Жанибек</SimpleData>
+		<SimpleData name="center_type">Шижен 2, с., в 1.2км к зап.от него, в 1.6км к юго-зап.от моста, в  1.05км к югу от трассы Таскала-Болашак, в 0.5км к зап.от дороги</SimpleData>
+		<SimpleData name="lvl_line">7bacdbee-11cb-48f4-a407-17ec3137270f</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>49.6322835916573,50.8584898206592</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

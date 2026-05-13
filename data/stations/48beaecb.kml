@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="48beaecb" id="48beaecb">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>48beaecb</name>
+  <Placemark id="48beaecb.1">
+	<name>1957</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#48beaecb">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="ext_sign">464,859</SimpleData>
+		<SimpleData name="ctrl_place">160оп</SimpleData>
+		<SimpleData name="mark_num">Линия №3: Актасты-Ивановка, II класс (4) Участок: фунд.реп. 485 -грунт.реп. 2634</SimpleData>
+		<SimpleData name="center_type">Скобелевка, с. в 5,2 км к юго-зап. от него, в 0,2 км к юго-вост. от сточной трубы под шоссе с. Осакаровка-с. Киевка, в 55 м к югу от этого шоссе.</SimpleData>
+		<SimpleData name="lvl_line">48beaecb-1bc5-4af3-bcfc-7f84fe25c4ac</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.1385369094326,50.3711811846883</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

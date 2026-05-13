@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="203fa1be" id="203fa1be">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>203fa1be</name>
+  <Placemark id="203fa1be.1">
+	<name>2116</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#203fa1be">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="ext_sign">473,034</SimpleData>
+		<SimpleData name="ctrl_place">160оп</SimpleData>
+		<SimpleData name="mark_num">Линия №3: Актасты-Ивановка, II класс (4) Участок: фунд.реп. 485 -грунт.реп. 2632</SimpleData>
+		<SimpleData name="center_type">Сельстрой, с. в 3,9 км к юго-зап. от него, в 0,4 км к сев.-зап. от р. Улькен-Кундызды, в 50 м к сев.-вост. отстб. линии связи №77/486.</SimpleData>
+		<SimpleData name="lvl_line">203fa1be-86e8-4e1e-9a82-ee5d6f8bd87e</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.2975918043111,50.4261669475549</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

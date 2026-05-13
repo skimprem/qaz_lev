@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="dc29ab03" id="dc29ab03">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>dc29ab03</name>
+  <Placemark id="dc29ab03.1">
+	<name>7933</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#dc29ab03">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="ext_sign">129.390</SimpleData>
+		<SimpleData name="ctrl_place">146 оп</SimpleData>
+		<SimpleData name="mark_num">Линия № 1: Аще-Бутак = Сарысай,  II класс Участок: пир. 3 кл. Жамартмола - грунт.реп. 580</SimpleData>
+		<SimpleData name="center_type">Жаныс Би, с., в 1.2 км к сев.-зап. от него, в 0.7 км к сев. от р. Ыргыз,  в 0.2 км к сев.-зап. от дороги  с.Киров - с. Жаныс Би,в 60 м к юго-зап.от ЛЭП 10кВ</SimpleData>
+		<SimpleData name="lvl_line">dc29ab03-f073-47dc-b2f1-19148848db74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>60.4401155765749,48.6856761935379</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

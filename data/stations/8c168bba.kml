@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="8c168bba" name="8c168bba">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Schema id="_8c168bba.schema">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Document id="_8c168bba">
+      <name>8c168bba</name>
+      <Placemark id="_8c168bba.1">
+        <description>Мырзакеледы, мог., в 2.6 км к юго-вост. от неё, в 1.7 км к сев. от такыра, в 52 м к зап. от полевой дороги, на бугре</description>
+        <ExtendedData>
+          <SchemaData schemaUrl="#_8c168bba.schema">
+            <SimpleData name="title">3809</SimpleData>
+            <SimpleData name="type">грунтовый репер</SimpleData>
+            <SimpleData name="ext_sign">грунтовый репер</SimpleData>
+            <SimpleData name="class_lvl">2</SimpleData>
+            <SimpleData name="height_lvl">200,381</SimpleData>
+            <SimpleData name="center_type">162 оп. знак</SimpleData>
+            <SimpleData name="lvl_line">Линия № 3: Сарысу - Кендырлык (Айгарлык) 2 класс (1) Участок: фунд. реп. 815 - грунт. реп. 4737</SimpleData>
+            <SimpleData name="guid">8c168bba-884d-4a40-88ab-0b9b5a3dde68</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            67.2246903938458,45.9607056592871,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

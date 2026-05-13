@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="fdcff2ed" id="fdcff2ed">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>fdcff2ed</name>
+  <Placemark id="fdcff2ed.1">
+	<name>228</name>
+	<description>грунт.реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#fdcff2ed">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="ext_sign">203.886</SimpleData>
+		<SimpleData name="class_lvl">202.734</SimpleData>
+		<SimpleData name="height_lvl">Контрольный репер в верхней плоскости монолита</SimpleData>
+		<SimpleData name="ctrl_place">121</SimpleData>
+		<SimpleData name="mark_num">Линия №4: Эмба - Жаркамыс II класс (4) Участок: грунт.реп. 412 -  пир. 3 кл. Большой Курган</SimpleData>
+		<SimpleData name="center_type">ст. Эмба в 17.4 км к юго-зап. от неё в 1.2 км к юго-вост. от зим. Кызылжулдыз в 0.4 км к югу от балки в 30 м к юго-вост. от дороги станция Эмба - свх. Джурунский</SimpleData>
+		<SimpleData name="lvl_line">fdcff2ed-117e-451a-8bd2-f3964912efb5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>57.9852084806686,48.707148156395</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="acee6fbd" id="acee6fbd">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>acee6fbd</name>
+  <Placemark id="acee6fbd.1">
+	<name>3606</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#acee6fbd">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="ext_sign">510.776</SimpleData>
+		<SimpleData name="ctrl_place">160</SimpleData>
+		<SimpleData name="center_type">Мырза, с., в 400 м к юго-вост. от нее, на 1 пк 679 км, в 350 м к вост. от бровки шоссе станц.Нуринская-с.Актау, в 15 м к вост. от грунт. дороги.</SimpleData>
+		<SimpleData name="lvl_line">acee6fbd-6cca-420c-8fbc-989e1fc3f7ff</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>73.0914311742577,50.1989229225015</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

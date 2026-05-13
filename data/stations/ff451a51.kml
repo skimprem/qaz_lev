@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="ff451a51" id="ff451a51">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>ff451a51</name>
+  <Placemark id="ff451a51.1">
+	<name>Курайлы</name>
+	<description>пирамида</description>
+	<ExtendedData><SchemaData schemaUrl="#ff451a51">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="ext_sign">425,212</SimpleData>
+		<SimpleData name="mark_num">Линия № 7: грунт.реп.658-грунт.реп.239, III класс (9) </SimpleData>
+		<SimpleData name="center_type">Комсомол, ферма, в 9.8 км к сев.-вост. от нее, в 6.7 км к сев. от ОТФ Камышовая, в 4.2 км к сев.-зап. от зим. Акешки </SimpleData>
+		<SimpleData name="lvl_line">ff451a51-868f-484a-a0b7-f4801dd96b59</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>83.18323631075,48.39772161115</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

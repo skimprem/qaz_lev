@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="c7bb0237" id="c7bb0237">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>c7bb0237</name>
+  <Placemark id="c7bb0237.1">
+	<name>91931</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#c7bb0237">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="ext_sign">531.402</SimpleData>
+		<SimpleData name="height_ctrl">1312</SimpleData>
+		<SimpleData name="ctrl_place">121</SimpleData>
+		<SimpleData name="center_type">Астаховка, станц., в 3.0 км к сев.-вост. от нее, на 10 пк 663 км, в 89 м к югу от пк стб. 9/10.</SimpleData>
+		<SimpleData name="lvl_line">c7bb0237-76a2-48f5-b283-0f50bc754f90</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>73.0630273771871,50.3194989336041</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

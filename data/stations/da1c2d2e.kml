@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="da1c2d2e" id="da1c2d2e">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>da1c2d2e</name>
+  <Placemark id="da1c2d2e.1">
+	<name>8208</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#da1c2d2e">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="height_ctrl">8208</SimpleData>
+		<SimpleData name="ctrl_place">162 оп. знак</SimpleData>
+		<SimpleData name="mark_num">Линия N°1 :  оз.Жаланашколь-Аягоз
+Участок : грунт. реп. 4536- грунт. реп.4176</SimpleData>
+		<SimpleData name="center_type">Жоғарғы Егінсу, с., 4.0 км к сев.-вост. от него,  от развилки шоссе с.Таскескен-с.Бахты-с.Жоғарғы Егінсу к юго-вост. 55 м, от арки к вост. 38 м, от шоссе с.Таскескен-с.Бахты к югу 36 м.</SimpleData>
+		<SimpleData name="lvl_line">da1c2d2e-3ae8-4c81-8ced-f274450b106e</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>81.4148020811533,47.0455313544929</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

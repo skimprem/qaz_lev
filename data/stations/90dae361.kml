@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="90dae361" id="90dae361">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>90dae361</name>
+  <Placemark id="90dae361.1">
+	<name>Сазанбай</name>
+	<description>пирамида</description>
+	<ExtendedData><SchemaData schemaUrl="#90dae361">
+		<SimpleData name="title">пир.</SimpleData>
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="ext_sign">191.477</SimpleData>
+		<SimpleData name="ctrl_place">1 оп.</SimpleData>
+		<SimpleData name="mark_num">Линия № 2 Иргиз (фунд.реп.7707) - Толыбай (фунд.реп.3780)</SimpleData>
+		<SimpleData name="center_type">Тебизсор,оз.,в 7,7км к зап.от него,в
+1,8км к огу от разв. Сазанбай:, в 0, 4км к
+зап.от дороги с.Камсор-с.Иргиз,</SimpleData>
+		<SimpleData name="lvl_line">90dae361-7a4f-4037-90e4-974d4531564e</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>61.3785168205378,49.4535790075022</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

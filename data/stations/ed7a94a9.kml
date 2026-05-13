@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="ed7a94a9" name="ed7a94a9">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Schema id="ed7a94a9.schema">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Document id="ed7a94a9">
+      <name>ed7a94a9</name>
+      <Placemark id="ed7a94a9.1">
+        <description>Кусоккыр,пир.2 кл.,в 4.0 км к зап.от нее, в 3.5 км к сев.-вост.от пир.3 кл.Кызылтас, в 0.5 км к сев.от полевой дороги</description>
+        <ExtendedData>
+          <SchemaData schemaUrl="#ed7a94a9.schema">
+            <SimpleData name="title">5107</SimpleData>
+            <SimpleData name="type">грунт.реп.</SimpleData>
+            <SimpleData name="class_lvl">2</SimpleData>
+            <SimpleData name="height_lvl">159,928</SimpleData>
+            <SimpleData name="center_type">99 оп</SimpleData>
+            <SimpleData name="lvl_line">Линия №1: грунт.реп.578-фунд.реп.124, II класс (1)                    Участок: пир.2 кл.Мыс-грунт.реп.6-19</SimpleData>
+            <SimpleData name="guid">ed7a94a9-3171-434b-8f5b-2a3d7c2e495a</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            53.8922149124332,44.9091494632713,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

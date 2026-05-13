@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="ac0f83e2" id="ac0f83e2">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>ac0f83e2</name>
+  <Placemark id="ac0f83e2.1">
+	<name>13</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#ac0f83e2">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="ext_sign">371.217</SimpleData>
+		<SimpleData name="height_lvl">нет данных (рельс)</SimpleData>
+		<SimpleData name="ctrl_place">12</SimpleData>
+		<SimpleData name="mark_num">Линия № 4: р. Кон - Талдысай. І класс </SimpleData>
+		<SimpleData name="center_type">Отд. №1 свх. Талдысай. в 3.5 км к сев-вост. от него. в 260 м к югу от кладб.. в 106 м к зап. от развалин .в 42 м. к вост. от пол. дороги </SimpleData>
+		<SimpleData name="lvl_line">ac0f83e2-0f18-449f-8111-f86418d79ff9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>69.3076439684129,49.6208012797973</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

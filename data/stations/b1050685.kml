@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="b1050685" id="b1050685">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>b1050685</name>
+  <Placemark id="b1050685.1">
+	<name>Омаколь</name>
+	<description>пирамида</description>
+	<ExtendedData><SchemaData schemaUrl="#b1050685">
+		<SimpleData name="type">4</SimpleData>
+		<SimpleData name="ext_sign">509,205</SimpleData>
+		<SimpleData name="ctrl_place">тип.3оп</SimpleData>
+		<SimpleData name="mark_num">Линия №1: Карасорский-Каркаралинск, II класс (1) Участок: грунт.реп. 50 - грунт.реп.0225</SimpleData>
+		<SimpleData name="center_type">Св.каталог высот пунктов нивел.на лист карты м:200 000; Алматы 1991 инв№1742/1</SimpleData>
+		<SimpleData name="lvl_line">b1050685-b6f6-4fd8-8746-a9fbfb013a3d</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.610447305998,50.6602755969707</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

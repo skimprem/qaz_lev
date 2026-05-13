@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="c5da1b0a" name="c5da1b0a">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Schema id="c5da1b0a.schema">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Document id="c5da1b0a">
+      <name>c5da1b0a</name>
+      <Placemark id="c5da1b0a.1">
+        <description>Талмак, мог., в 12.7 км к сев. от неё, в 65 м к зап. от обрыва р. Сарысу, в 21 м к юго-вост. от шоссе гор.Жезказган - гор. Кызылорда</description>
+        <ExtendedData>
+          <SchemaData schemaUrl="#c5da1b0a.schema">
+            <SimpleData name="title">9508</SimpleData>
+            <SimpleData name="type">грунтовый репер</SimpleData>
+            <SimpleData name="ext_sign">грунтовый репер</SimpleData>
+            <SimpleData name="class_lvl">2</SimpleData>
+            <SimpleData name="height_lvl">282,856</SimpleData>
+            <SimpleData name="center_type">160 оп.знак</SimpleData>
+            <SimpleData name="lvl_line">Линия № 2: Древний Курган - Кендырлик (Айгарлык), II класса (2) Участок:: грунт, реп. 171 - грунт, реп. 184</SimpleData>
+            <SimpleData name="guid">c5da1b0a-1591-408d-8a7d-d0fffe503150</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            67.9428596811172,47.3146970703571,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

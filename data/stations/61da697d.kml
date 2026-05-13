@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="61da697d" name="61da697d">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Schema id="_61da697d.schema">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Document id="_61da697d">
+      <name>61da697d</name>
+      <Placemark id="_61da697d.1">
+        <description>69 км,раз,,в 0,5 км кзап,от него,на 9 пикете 70 км жел,дор,,в 0,2 км к сев,-зап,от жел,дор,переезда,в 23 м к сев,от стб,ЛЭП</description>
+        <ExtendedData>
+          <SchemaData schemaUrl="#_61da697d.schema">
+            <SimpleData name="title">3928</SimpleData>
+            <SimpleData name="type">грунтовый репер</SimpleData>
+            <SimpleData name="class_lvl">1</SimpleData>
+            <SimpleData name="height_lvl">514,857</SimpleData>
+            <SimpleData name="center_type">160 оп</SimpleData>
+            <SimpleData name="lvl_line">Линия №1: Тюемойнак-Жарык, I класс (1) Участок: грунт,реп,5895 - грунт,реп,5272</SimpleData>
+            <SimpleData name="guid">61da697d-dc04-419c-9ec9-36b29ff98374</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            71.936899648668,48.709133182016,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

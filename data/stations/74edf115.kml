@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="74edf115" name="74edf115">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Schema id="_74edf115.schema">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Document id="_74edf115">
+      <name>74edf115</name>
+      <Placemark id="_74edf115.1">
+        <description>Фетисово, с., в 8.5 км к сев.-зап.от него, в 900 м к юго-вост.от подножия подъёма, в 400 м к юго-вост.от развилки дороги, в 5 м к юго-зап.от дороги пгт Ералиев-с.Аксу</description>
+        <ExtendedData>
+          <SchemaData schemaUrl="#_74edf115.schema">
+            <SimpleData name="title">278</SimpleData>
+            <SimpleData name="type">грунтовый репер</SimpleData>
+            <SimpleData name="class_lvl">1</SimpleData>
+            <SimpleData name="height_lvl">14.104</SimpleData>
+            <SimpleData name="center_type">Д</SimpleData>
+            <SimpleData name="lvl_line">Линия: ск.реп.598-фунд.реп.1501, 1 класс</SimpleData>
+            <SimpleData name="guid">74edf115-a925-49a8-9e4c-3a03cfe7f1d8</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            52.6006049247877,42.8168711080772,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

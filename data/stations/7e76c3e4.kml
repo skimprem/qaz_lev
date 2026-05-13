@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="7e76c3e4" id="7e76c3e4">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>7e76c3e4</name>
+  <Placemark id="7e76c3e4.1">
+	<name>2</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#7e76c3e4">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="ext_sign">321,358</SimpleData>
+		<SimpleData name="class_lvl">319,738</SimpleData>
+		<SimpleData name="height_lvl">Контрольный репер в верхней плоскости монолита</SimpleData>
+		<SimpleData name="ctrl_place">121оп</SimpleData>
+		<SimpleData name="mark_num">Линия №5: Сарыкияк - Шидерты, II класс (3). Участок:  фунд. реп. 134 - фунд. реп. 1882</SimpleData>
+		<SimpleData name="center_type">Кулаккудук, к. , в 4.2 км к юго-зап. от него, в 0.5 км к сев.-зап. от разв. зим. Сарыкияк, в 0.2 км к вост. от поворотного стб. ЛЭП</SimpleData>
+		<SimpleData name="lvl_line">7e76c3e4-dc8a-4cb3-a1cb-9d195d6cec02</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>74.9017276333982,51.3359577689143</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

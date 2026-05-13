@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="626c7bc1" id="626c7bc1">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>626c7bc1</name>
+  <Placemark id="626c7bc1.1">
+	<name>4074</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#626c7bc1">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="ext_sign">883.488</SimpleData>
+		<SimpleData name="ctrl_place">Б</SimpleData>
+		<SimpleData name="center_type">Кокшетау, с., в 18.3 км к югу от него, в 4.5 км к вост. от г.Акбюрат, в 2.0 км к юго-зап. от разв.Майозек.</SimpleData>
+		<SimpleData name="lvl_line">626c7bc1-c095-4a8b-b57a-7b123a159847</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>76.88537918329,48.8134320869033</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

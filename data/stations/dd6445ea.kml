@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="dd6445ea" id="dd6445ea">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>dd6445ea</name>
+  <Placemark id="dd6445ea.1">
+	<name>4150</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#dd6445ea">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="ext_sign">25.174</SimpleData>
+		<SimpleData name="ctrl_place">121</SimpleData>
+		<SimpleData name="mark_num">Линия нивелирования 1 класса Уральск-Жанибек</SimpleData>
+		<SimpleData name="center_type">Аккурай, с., в 3.5км к югу от него, в 0.7км к юго-зап.от зим.Текебай, в 50м к юго-вост.от перекрестка дорог, в 35м к вост.от дороги с.Хайруш-с.Аккурай</SimpleData>
+		<SimpleData name="lvl_line">dd6445ea-dfad-44ce-b86d-2731de2f5ba1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>49.0250801384552,50.5438524557628</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

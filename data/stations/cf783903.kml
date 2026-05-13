@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="cf783903" id="cf783903">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>cf783903</name>
+  <Placemark id="cf783903.1">
+	<name>7190</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#cf783903">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="ext_sign">211.057</SimpleData>
+		<SimpleData name="ctrl_place">160 оп</SimpleData>
+		<SimpleData name="mark_num">Линия 1 класса :Тактайконыр -Семиозёрное(фунд.реп.83 -фунд.реп.349)  Участок :фунд.реп.893 -пир.3 кл.Алгабас</SimpleData>
+		<SimpleData name="center_type">Кожа(Новонаурызымский),с.,в 15.5 км к юго-зап.от него,в 4.6 км к сев.-вост.от род.Бозкаска,в 17 м к сев.-зап.от грунт.дороги с.Наурызым -с.Кайгы</SimpleData>
+		<SimpleData name="lvl_line">cf783903-3b33-4077-8d8a-ee26657ae357</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>64.7032088318785,51.1914104892907</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

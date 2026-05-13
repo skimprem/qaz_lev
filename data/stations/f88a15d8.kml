@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="f88a15d8" id="f88a15d8">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>f88a15d8</name>
+  <Placemark id="f88a15d8.1">
+	<name>17649(649)</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#f88a15d8">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="ext_sign">685.911</SimpleData>
+		<SimpleData name="ctrl_place">117</SimpleData>
+		<SimpleData name="center_type">Коктал, зим., в 17.0 км к северу от нее, в 1.4 км к югу от зим.Акшокы, в 80 м к северу от ЛЭП, в 70 м к югу от дороги гор.Каркаралинск-с.Баршатас.</SimpleData>
+		<SimpleData name="lvl_line">f88a15d8-f85c-436c-8dea-b040c49953c8</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>78.2625898830597,48.2034276701628</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

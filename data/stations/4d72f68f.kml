@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="4d72f68f" id="4d72f68f">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>4d72f68f</name>
+  <Placemark id="4d72f68f.1">
+	<name>2301</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#4d72f68f">
+		<SimpleData name="ctrl_place">160оп</SimpleData>
+		<SimpleData name="center_type">Шижага, с., в, в 4,7 км м к сев.-зап. от него, в 2,0 ки к сев.-зап. от дороги г.Аральск-село Ыргыз, возле полевой дороги.</SimpleData>
+		<SimpleData name="lvl_line">4d72f68f-deaa-4fad-ad5a-1ce7411ab475</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>61.5626874843567,46.9634887454215</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

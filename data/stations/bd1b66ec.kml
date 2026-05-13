@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="bd1b66ec" id="bd1b66ec">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>bd1b66ec</name>
+  <Placemark id="bd1b66ec.1">
+	<name>24 (1)</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#bd1b66ec">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="ext_sign">636.254</SimpleData>
+		<SimpleData name="height_ctrl">108</SimpleData>
+		<SimpleData name="ctrl_place">123</SimpleData>
+		<SimpleData name="center_type">&quot;Жана жол&quot;, с., 4.2 км к северо-западу от него, в 3.5 км к югу от станций &quot;Жана жол&quot;, в 0.8 км к востоку от крестьянского хозяйства, в 14 метрах от дороги Кр. хоз. Жана жол.</SimpleData>
+		<SimpleData name="lvl_line">bd1b66ec-6092-41ea-a60e-4e5db95cf6d6</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>74.8535215314125,49.7261192444296</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

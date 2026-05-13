@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="fc1ba2f6" id="fc1ba2f6">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>fc1ba2f6</name>
+  <Placemark id="fc1ba2f6.1">
+	<name>901</name>
+	<description>грунт.репер</description>
+	<ExtendedData><SchemaData schemaUrl="#fc1ba2f6">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="ext_sign">239.025</SimpleData>
+		<SimpleData name="class_lvl">237,441</SimpleData>
+		<SimpleData name="height_lvl">Контрольный репер №341 в верхней плоскости монолита</SimpleData>
+		<SimpleData name="ctrl_place">121</SimpleData>
+		<SimpleData name="mark_num">Линия №2:Семиозёрное-Жанатурмыс,II класс(I)Участок:грунт.реп.101-грунт.реп.348</SimpleData>
+		<SimpleData name="center_type">Кожаколь,с.,в 7.1 км к юго-зап.от него,в 5,2 км к сев.-вост.от с. Белкарагай, в 1.1 км к сев.-вост.от развилки дорог, в 0,6 км к югу от оз. Кожаколь, к зап.от дороги</SimpleData>
+		<SimpleData name="lvl_line">fc1ba2f6-d39b-424e-98f3-52f13d7f997f</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>62.9585733333333,51.8981433333333</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

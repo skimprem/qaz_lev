@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="bee20cce" id="bee20cce">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>bee20cce</name>
+  <Placemark id="bee20cce.1">
+	<name>6967</name>
+	<ExtendedData><SchemaData schemaUrl="#bee20cce">
+		<SimpleData name="title">грунт.реп.</SimpleData>
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="ext_sign">305.105</SimpleData>
+		<SimpleData name="ctrl_place">160 оп</SimpleData>
+		<SimpleData name="mark_num">Линия№3:Наурызым-Державинск,II класс(3)Участок:пир. 4 кл.верх.Коко-фунд.реп.4778</SimpleData>
+		<SimpleData name="center_type">Державинск,гор.,в 17.5 ки сев.-зап.от него,в 5.3 км к югу от полевого стана, в 0.1 км к вост.от поевой дороги</SimpleData>
+		<SimpleData name="lvl_line">bee20cce-9c74-4d26-b242-14943ee666d5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>66.0590482400033,51.1444130288501</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

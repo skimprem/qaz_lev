@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="03fa5350" id="03fa5350">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>03fa5350</name>
+  <Placemark id="03fa5350.1">
+	<name>507</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#03fa5350">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="ext_sign">289.968</SimpleData>
+		<SimpleData name="class_lvl">288.659</SimpleData>
+		<SimpleData name="height_lvl">Контрольный репер в фундаментной плите</SimpleData>
+		<SimpleData name="ctrl_place">116</SimpleData>
+		<SimpleData name="mark_num">Линия №2: Караул-Кельды-Ново-Алексеевка, II класс. Участок: фунд. реп. 356 - грунт. реп. 147</SimpleData>
+		<SimpleData name="center_type">Бесбулак, с., в 3.5 км к сев. от него, в 0,5 км к юго-вост. от полевой дороги , в 7 м к зап. от грунт. дороги с. Алтыкарасу-разв. Бесбулак</SimpleData>
+		<SimpleData name="lvl_line">03fa5350-8c74-43f9-9256-fdf59ed5cf97</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>55.8760936201093,48.9736799014851</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

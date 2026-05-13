@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="f7fbde01" id="f7fbde01">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>f7fbde01</name>
+  <Placemark id="f7fbde01.1">
+	<name>б/№</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#f7fbde01">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="ext_sign">129,478</SimpleData>
+		<SimpleData name="ctrl_place">160 оп знак</SimpleData>
+		<SimpleData name="mark_num">Линия № 3: Золоторунное - Чистовское. II класс Участок: грунт. реп. б/№ - марка 3139</SimpleData>
+		<SimpleData name="center_type">Косколь,с., в 1,1 км к зап. от него, в 50 м к юго-зап. от перекрестка улучш. грунт. дороги с.Уваковское-с.Косколь-отд.дв. Комсомол и полевой дороги, в 20 м к зап. от улучш. грунт. дороги с.Уваковское-с.Косколь, в 7 м к сев. от стб. ЛЭП</SimpleData>
+		<SimpleData name="lvl_line">f7fbde01-cbe9-4f9c-aea6-ae1d6ca60c47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>70.6546075060323,54.7035425899224</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

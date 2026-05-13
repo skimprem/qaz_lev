@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="38346edc" name="38346edc">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Schema id="_38346edc.schema">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Document id="_38346edc">
+      <name>38346edc</name>
+      <Placemark id="_38346edc.1">
+        <description>Саура, рыб.пром., в 7.5 км к сев.-зап.от него, в 1.5 км к сев-вост.от оКаспийского моря, в 27 м к юго-зап.от дороги с.Караманды-гор.Форт-Шевченко</description>
+        <ExtendedData>
+          <SchemaData schemaUrl="#_38346edc.schema">
+            <SimpleData name="title">42</SimpleData>
+            <SimpleData name="ext_sign">грунт.реп.</SimpleData>
+            <SimpleData name="class_lvl">1</SimpleData>
+            <SimpleData name="height_lvl">95.373</SimpleData>
+            <SimpleData name="height_ctrl">94.365</SimpleData>
+            <SimpleData name="ctrl_place">Контрольный репер в стенке трубы</SimpleData>
+            <SimpleData name="center_type">Б</SimpleData>
+            <SimpleData name="lvl_line">Линия: грунт.реп 42-грунт.реп.1605(1608),1 кл(2)</SimpleData>
+            <SimpleData name="guid">38346edc-a46c-4410-a9ad-6eed666381dd</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            50.7370052026882,44.2705542206635,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

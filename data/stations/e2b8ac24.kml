@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="e2b8ac24" name="e2b8ac24">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Schema id="e2b8ac24.schema">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Document id="e2b8ac24">
+      <name>e2b8ac24</name>
+      <Placemark id="e2b8ac24.1">
+        <description>Муратчаегинд,к.,в 3,2 км к сев-вост.от него,в 45м к юго-вост.от дороги к.Муратчаегинд-пески Бас-Оймаут,на такыре</description>
+        <ExtendedData>
+          <SchemaData schemaUrl="#e2b8ac24.schema">
+            <SimpleData name="title">3007</SimpleData>
+            <SimpleData name="type">грунтовый репер</SimpleData>
+            <SimpleData name="class_lvl">2</SimpleData>
+            <SimpleData name="height_lvl">77,051</SimpleData>
+            <SimpleData name="center_type">160оп</SimpleData>
+            <SimpleData name="lvl_line">Линия № 241: Гурьев-Кошкарата. II класс (12)
+Участок: грунт. реп. 5201 - грунт. реп. 6512</SimpleData>
+            <SimpleData name="guid">e2b8ac24-b512-4c5a-a7fa-28534c3f82b9</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            56.4287232357288,47.0739627092982,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

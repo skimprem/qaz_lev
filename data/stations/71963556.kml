@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="71963556" id="71963556">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>71963556</name>
+  <Placemark id="71963556.1">
+	<name>0146 </name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#71963556">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="ext_sign">115.314</SimpleData>
+		<SimpleData name="ctrl_place">160 оп</SimpleData>
+		<SimpleData name="center_type">Мукыр, с., в 11.1 км к сев.-зап. от него, в 4.1 км к юго-вост. от р.Сарыкозек, в 1.0 км к югу от п.тр.Карасу, в 37 м к сев.-вост. от старой пол. дороги.</SimpleData>
+		<SimpleData name="lvl_line">71963556-d0f4-41b6-8472-5ea8168c85ef</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>64.7050584305152,50.6331348781341</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

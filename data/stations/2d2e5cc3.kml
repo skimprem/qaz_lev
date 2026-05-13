@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2d2e5cc3" id="2d2e5cc3">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>2d2e5cc3</name>
+  <Placemark id="2d2e5cc3.1">
+	<name>117</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#2d2e5cc3">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="ext_sign">358.617</SimpleData>
+		<SimpleData name="ctrl_place">123</SimpleData>
+		<SimpleData name="center_type">Сороковая, станц., в 4.3 км к сев.-зап. от нее, на 9 ПК 499 км ж.д., в 44 м к сев. от ж.д. полотна.</SimpleData>
+		<SimpleData name="lvl_line">2d2e5cc3-d57b-4275-bffc-0a78483a6f1c</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>71.5111020801481,51.161346347892</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

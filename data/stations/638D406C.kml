@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="638D406C" id="638D406C">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>638D406C</name>
+  <Placemark id="638D406C.1">
+	<name>35</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#638D406C">
+		<SimpleData name="type">3</SimpleData>
+		<SimpleData name="ext_sign">54.137</SimpleData>
+		<SimpleData name="ctrl_place">159</SimpleData>
+		<SimpleData name="center_type">Аралтобе, с., в 1.7 км к юго-вост.от него, в 0.9 км к югу от полевой дороги, в 0.2 км к сев. от лощины.</SimpleData>
+		<SimpleData name="lvl_line">638D406C-33F2-A75C-309E-E07F9199CBB8</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>52.6758300281709,50.4974265863506</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

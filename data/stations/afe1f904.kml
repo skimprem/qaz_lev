@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="afe1f904" id="afe1f904">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>afe1f904</name>
+  <Placemark id="afe1f904.1">
+	<name>4078</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#afe1f904">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="ext_sign">985.118</SimpleData>
+		<SimpleData name="ctrl_place">99</SimpleData>
+		<SimpleData name="center_type">Бельдеутас, с., в 8.2 км к сев.-вост. от него, в 3.0 км к сев.-зап. от зим.Жомарт, в 40 м к сев. от полевой дороги.</SimpleData>
+		<SimpleData name="lvl_line">afe1f904-9c4d-470f-9209-94d511ebd75c</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>76.3085467249666,49.1183627694822</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="ddcdf6ca" id="ddcdf6ca">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>ddcdf6ca</name>
+  <Placemark id="ddcdf6ca.1">
+	<name>8596</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#ddcdf6ca">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="height_ctrl">8596</SimpleData>
+		<SimpleData name="ctrl_place">160оп</SimpleData>
+		<SimpleData name="mark_num"></SimpleData>
+		<SimpleData name="center_type">Челгаши, ст. 5,3 км к к сев.-зап. от него, в 40 м к сев. от ж/д, в 10 м к вост. от могилы у дороги Челгаши - Тюнтюгур</SimpleData>
+		<SimpleData name="lvl_line">ddcdf6ca-9b23-4d2e-a811-81550d1e05bb</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>65.5544783333333,52.149005</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

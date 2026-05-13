@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="afe9587d" id="afe9587d">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>afe9587d</name>
+  <Placemark id="afe9587d.1">
+	<name>б/№</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#afe9587d">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="ext_sign">128.571</SimpleData>
+		<SimpleData name="ctrl_place">160оп</SimpleData>
+		<SimpleData name="mark_num">Линия № 3: Золоторунное - Чистовское. II класс Участок: грунт. реп. б/№ - марка 3139</SimpleData>
+		<SimpleData name="center_type">Чистовское, с., в 3.5 км к юго-вост. от него, в 0.3 км к зап. от пол. стана, в 25 м к вост. от улучш. грунт, дороги с. Чистовское — с. Урожайное в 5 м к зап. от березового колка</SimpleData>
+		<SimpleData name="lvl_line">afe9587d-97c4-4780-8e41-84a642faf398</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>70.6582258,54.86338166</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

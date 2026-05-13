@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="b761c769" id="b761c769">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>b761c769</name>
+  <Placemark id="b761c769.1">
+	<name>367</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#b761c769">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="ext_sign">269.777</SimpleData>
+		<SimpleData name="ctrl_place">121 оп</SimpleData>
+		<SimpleData name="center_type">Сергеевка, с., в 1.8 км к юго-вост.  от него, в 1.0 км к зап. от с.Октябрское, в 151 м к югу от стб.ЛЭП №9 10кВт, в 11 м к сев. от пол. дороги.</SimpleData>
+		<SimpleData name="lvl_line">b761c769-87a7-462f-b6d6-df77591dffbe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>68.2254580070716,51.6383177118356</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

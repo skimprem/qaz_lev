@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="01791d80" id="01791d80">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>01791d80</name>
+  <Placemark id="01791d80.1">
+	<name>2246</name>
+	<description>Грунтовый репер </description>
+	<ExtendedData><SchemaData schemaUrl="#01791d80">
+		<SimpleData name="title">Опознавательный знак </SimpleData>
+		<SimpleData name="type">І</SimpleData>
+		<SimpleData name="height_ctrl">2246</SimpleData>
+		<SimpleData name="ctrl_place">162</SimpleData>
+		<SimpleData name="mark_num">Линия нивелирования І класса #102 &quot;Петропавловск-Павлодар&quot;</SimpleData>
+		<SimpleData name="center_type">Село Асаново 0,5 км к востоку от него, 180 м к югу от полевой дороги, 125 м к северу от жд Транссиб, 115 м к северу от стб. #28 ЛЭП 6 кВ, 15 м к северу от леса</SimpleData>
+		<SimpleData name="lvl_line">01791d80-e206-4437-9a2f-5bd0c245414c</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>69.470505,54.85831</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

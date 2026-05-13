@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="af85a60e" id="af85a60e">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>af85a60e</name>
+  <Placemark id="af85a60e.1">
+	<name>Закладка M003</name>
+	<description>Грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#af85a60e">
+		<SimpleData name="title">Грунтовый репер</SimpleData>
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="height_ctrl">M003</SimpleData>
+		<SimpleData name="ctrl_place">149</SimpleData>
+		<SimpleData name="mark_num">121</SimpleData>
+		<SimpleData name="center_type">От пункта Жекедуан 22.8 к западу от него , 50м к юга-западу шоссе Караганда-Балкаш,22м к северу-востоку полевая дорога.</SimpleData>
+		<SimpleData name="lvl_line">af85a60e-bf76-4bb2-9b10-ceffa0a313f4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>74.2892638,47.70349749</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

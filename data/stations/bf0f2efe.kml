@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="bf0f2efe" name="bf0f2efe">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Schema id="bf0f2efe.schema">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Document id="bf0f2efe">
+      <name>bf0f2efe</name>
+      <Placemark id="bf0f2efe.1">
+        <description>С.Сейфулина, с., северная часть его, в 1.4 км к сев.-зап. от Т-образного перекрестка асфальтированных дорог, в 0.6 к м к вост. от жел.-дор. переезда, в 0.2 к м к югу от шоссе, в 0.1 км к югу от сухого русла
+</description>
+        <ExtendedData>
+          <SchemaData schemaUrl="#bf0f2efe.schema">
+            <SimpleData name="title">Вековой реп. Жарык</SimpleData>
+            <SimpleData name="type">вековой репер</SimpleData>
+            <SimpleData name="center_type">174</SimpleData>
+            <SimpleData name="guid">bf0f2efe-4416-4fb5-9c39-d896755abffc</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            72.8435861111111,48.8666666666666,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

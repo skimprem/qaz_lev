@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="787be341" id="787be341">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>787be341</name>
+  <Placemark id="787be341.1">
+	<name>2102</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#787be341">
+		<SimpleData name="ctrl_place">160 оп</SimpleData>
+		<SimpleData name="center_type">Бирлестик, село, в 18,5 км к сев.- вост. от него, в 23,6  км к юго-юго.-вост. от шоссе г.Кызылорда-
+г. Жезказган, в 23.5 км к юго-вост. от оз. Наурызбай</SimpleData>
+		<SimpleData name="lvl_line">787be341-e141-4d83-bf0d-b5988d9cb897</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>66.1869655555555,44.8391047222222</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

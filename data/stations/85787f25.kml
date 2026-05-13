@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="85787f25" id="85787f25">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>85787f25</name>
+  <Placemark id="85787f25.1">
+	<name>Соркольсай</name>
+	<description>пирамида</description>
+	<ExtendedData><SchemaData schemaUrl="#85787f25">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="ext_sign">115.718</SimpleData>
+		<SimpleData name="ctrl_place">1</SimpleData>
+		<SimpleData name="lvl_line">85787f25-54af-49b1-a1ec-3a26b7b4b4bb</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>55.7761532041816,48.0937584258146</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

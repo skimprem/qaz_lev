@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="dc99005e" id="dc99005e">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>dc99005e</name>
+  <Placemark id="dc99005e.1">
+	<name>Сулу-Джан</name>
+	<description>пирамида</description>
+	<ExtendedData><SchemaData schemaUrl="#dc99005e">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="ext_sign">287,553</SimpleData>
+		<SimpleData name="ctrl_place">29</SimpleData>
+		<SimpleData name="mark_num">Линия №1: Коянды - Семиярск, II класс (1) Участок: грунт. реп. 71 - грунт. реп. 1861</SimpleData>
+		<SimpleData name="lvl_line">dc99005e-f4b5-4d75-b3dc-34584c5e1209</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.845067972136,50.5771373652135</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

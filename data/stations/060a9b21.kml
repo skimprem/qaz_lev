@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="060a9b21" id="060a9b21">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>060a9b21</name>
+  <Placemark id="060a9b21.1">
+	<name>6139</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#060a9b21">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="ext_sign">-17.393</SimpleData>
+		<SimpleData name="ctrl_place">160</SimpleData>
+		<SimpleData name="mark_num">Линия Астрахань-Гурьев, нивелирование 1 класса, 1983 г. Предприятие №6</SimpleData>
+		<SimpleData name="center_type">Дины Нурпеисовой, раз., в 4.0 км к сев.-зап.от него, на 4 пк 39 км З ж-д. в 131 м к зап.от ж-д.переезда, в 78 м к юго-зап.от оси ж.д., в 69 м к югу от стб.ЛЭП №469, в 15 м к юго-зап.от грунт.дор.раз.№3-раз.№2</SimpleData>
+		<SimpleData name="lvl_line">060a9b21-0dec-428b-b23d-957f5924bcac</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>48.4867524745242,46.6752869740987</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

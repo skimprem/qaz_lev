@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="08c2afdc" id="08c2afdc">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>08c2afdc</name>
+  <Placemark id="08c2afdc.1">
+	<name>12</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#08c2afdc">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="ext_sign">63.545</SimpleData>
+		<SimpleData name="class_lvl">61.511</SimpleData>
+		<SimpleData name="height_lvl">Контрольный репер в верхней плоскостии монолиита</SimpleData>
+		<SimpleData name="ctrl_place">120</SimpleData>
+		<SimpleData name="mark_num">Линия №2 Айтеке Би (Новоказалинск)-Ащылысай, II класс(4) Участок: фунд.реп. 9412-грунт.реп. 4945</SimpleData>
+		<SimpleData name="center_type">Жанаарык, уч., в 2,2 км к юго.-зап. от него, в 0,9 км к юго.-зап. от мог. Сагыр, в 50 м к вост. от парома</SimpleData>
+		<SimpleData name="lvl_line">08c2afdc-52ec-4501-8f1f-9de13d4d306d</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>62.026134564326,45.6022211229961</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

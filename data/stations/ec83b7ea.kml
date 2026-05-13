@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="ec83b7ea" name="ec83b7ea">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Schema id="ec83b7ea.schema">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Document id="ec83b7ea">
+      <name>ec83b7ea</name>
+      <Placemark id="ec83b7ea.1">
+        <description>Жанбике,с.,в 8,0 км к сев-вост.от него,в 0,8 км к сев.от родника,в 36м к сев-зап.от дороги с.Косчагыл-с.Бесбай</description>
+        <ExtendedData>
+          <SchemaData schemaUrl="#ec83b7ea.schema">
+            <SimpleData name="title">92</SimpleData>
+            <SimpleData name="type">грунтовый репер</SimpleData>
+            <SimpleData name="class_lvl">2</SimpleData>
+            <SimpleData name="height_lvl">45,186</SimpleData>
+            <SimpleData name="height_ctrl">43779,000</SimpleData>
+            <SimpleData name="ctrl_place">Контрольный репер в фундаментной плите</SimpleData>
+            <SimpleData name="center_type">116оп</SimpleData>
+            <SimpleData name="lvl_line">Линия №2: Жаркамыс-Казбек. II класс (2)
+Участок: пир-штатив 2 кл.Джубанайак-грунт.реп .504</SimpleData>
+            <SimpleData name="guid">ec83b7ea-de76-4d5a-b9fc-dfc4306bcddb</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            55.2070102676979,47.0694435940776,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

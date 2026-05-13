@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="53e613e5" id="53e613e5">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>53e613e5</name>
+  <Placemark id="53e613e5.1">
+	<name>А1833</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#53e613e5">
+		<SimpleData name="height_ctrl">А1833</SimpleData>
+		<SimpleData name="ctrl_place">162оп</SimpleData>
+		<SimpleData name="center_type">30 м к северу от проселочной дороги, 90 м к востоку от развилки полевых дорог, 6 км к северо-западу от с. Краснознаменское</SimpleData>
+		<SimpleData name="lvl_line">53e613e5-f45d-4fb8-b367-91d10514dd0f</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>69.3643966666667,51.0835033333333</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

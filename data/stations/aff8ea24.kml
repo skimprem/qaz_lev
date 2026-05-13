@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="aff8ea24" id="aff8ea24">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>aff8ea24</name>
+  <Placemark id="aff8ea24.1">
+	<name>4364</name>
+	<description>Грунтовый  репер </description>
+	<ExtendedData><SchemaData schemaUrl="#aff8ea24">
+		<SimpleData name="title">Грунт.реп </SimpleData>
+		<SimpleData name="height_ctrl">4364</SimpleData>
+		<SimpleData name="ctrl_place">160 Оп</SimpleData>
+		<SimpleData name="center_type">Сатпаев г., в 6,5 км к югу от него, станц. Новорудная, в 1,6 км к юго-вост. от неё, в 75 м к югу от жел.дор., в 70 м к зап. от фун.реп. 495.</SimpleData>
+		<SimpleData name="lvl_line">aff8ea24-1a0e-49cc-96bf-8b211888f9e6</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.4935199046088,47.8427705274406</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

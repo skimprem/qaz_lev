@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="83544c46" id="83544c46">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>83544c46</name>
+  <Placemark id="83544c46.1">
+	<name>1688</name>
+	<description>Грунтовый репер </description>
+	<ExtendedData><SchemaData schemaUrl="#83544c46">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="height_ctrl">1688</SimpleData>
+		<SimpleData name="ctrl_place">160 оп</SimpleData>
+		<SimpleData name="center_type">Сарышиганак, с., в 13,5 км к сев.-зап. от него, в 1,5 км к сев. Сев .-зап. От болота, в 350 м к сев.-зап от полевой дороги. </SimpleData>
+		<SimpleData name="lvl_line">83544c46-aa1c-418d-ab70-7f56cafcf943</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>64.1049066666667,51.39865</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

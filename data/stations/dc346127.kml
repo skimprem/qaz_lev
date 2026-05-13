@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="dc346127" id="dc346127">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>dc346127</name>
+  <Placemark id="dc346127.1">
+	<name>2389</name>
+	<description>Грунтовый репер </description>
+	<ExtendedData><SchemaData schemaUrl="#dc346127">
+		<SimpleData name="title">Опознавательный знак </SimpleData>
+		<SimpleData name="type">І</SimpleData>
+		<SimpleData name="height_ctrl">2389</SimpleData>
+		<SimpleData name="ctrl_place">162</SimpleData>
+		<SimpleData name="mark_num">Линия нивелирования І класса #102 &quot;Петропавловск-Павлодар&quot;</SimpleData>
+		<SimpleData name="center_type">Село Даут 3,5 км к востоку от него, 1,3 км к югу от шоссе Кокшетау-Кишкенеколь-Бидайык, 63 м к северу от жд Кокшетау-Кишкенеколь, 44 м к северу от стб. #92 ЛЭП 0,4 кВ, в начале лесополосы</SimpleData>
+		<SimpleData name="lvl_line">dc346127-7a6e-43f0-bb0a-a1655c952203</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>71.5406683333333,53.6160316666667</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

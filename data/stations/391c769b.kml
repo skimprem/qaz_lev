@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="391c769b" name="391c769b">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Schema id="_391c769b.schema">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Document id="_391c769b">
+      <name>391c769b</name>
+      <Placemark id="_391c769b.1">
+        <description>Аралтобе, с., в 1.7  км к сев.от него, в 5.5 км к зап..откладб.Акмешит, в 30 м к югу .от дороги с.Аккизтогай -с.Биикжол</description>
+        <ExtendedData>
+          <SchemaData schemaUrl="#_391c769b.schema">
+            <SimpleData name="title">535</SimpleData>
+            <SimpleData name="type">грунтовый репер</SimpleData>
+            <SimpleData name="class_lvl">2</SimpleData>
+            <SimpleData name="height_lvl">17.978</SimpleData>
+            <SimpleData name="height_ctrl">16.902</SimpleData>
+            <SimpleData name="ctrl_place">Контрольный репер №1426 в верхней плоскости монолита</SimpleData>
+            <SimpleData name="center_type">121</SimpleData>
+            <SimpleData name="lvl_line">Линия №3:Косчагыл-Казбек,  кл.(2) Участок: грунт.реп.549-грунт.реп,537</SimpleData>
+            <SimpleData name="guid">391c769b-9187-4e9f-9b35-c3946b924140</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            54.6964805716765,47.1538619537772,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

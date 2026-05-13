@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="d02b2094" id="d02b2094">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>d02b2094</name>
+  <Placemark id="d02b2094.1">
+	<name>2397</name>
+	<description>Грунтовый репер </description>
+	<ExtendedData><SchemaData schemaUrl="#d02b2094">
+		<SimpleData name="title">Опознавательный знак </SimpleData>
+		<SimpleData name="type">І</SimpleData>
+		<SimpleData name="height_ctrl">2397</SimpleData>
+		<SimpleData name="ctrl_place">162</SimpleData>
+		<SimpleData name="mark_num">Линия нивелирования І класса #102 &quot;Петропавловск-Павлодар&quot;</SimpleData>
+		<SimpleData name="center_type">разв. Бабеке 10 км к юго-востоку от него, 0,6 км к западу от разв. Анжабай, 35 м к югу от полевой дороги</SimpleData>
+		<SimpleData name="lvl_line">d02b2094-f23d-4024-b29b-1c1043e592de</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>73.2924316666667,52.8554066666667</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

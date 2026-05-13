@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="12a5de16" id="12a5de16">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>12a5de16</name>
+  <Placemark id="12a5de16.1">
+	<name>1060(закладка) </name>
+	<description>Грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#12a5de16">
+		<SimpleData name="ctrl_place">160 оп знак</SimpleData>
+		<SimpleData name="center_type">2 км к сев-вост от арт колодца Дербис талы , 35 м к сев от шоссе Уланбел-Мойынкум, 0,5 м юго-зап от оп стб</SimpleData>
+		<SimpleData name="lvl_line">12a5de16-2e39-42f7-ace7-bbba3e79a71c</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.032196350452,44.5569566443401</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

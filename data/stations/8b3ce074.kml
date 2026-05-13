@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="8b3ce074" id="8b3ce074">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>8b3ce074</name>
+  <Placemark id="8b3ce074.1">
+	<name>3389</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#8b3ce074">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="ext_sign">620.208</SimpleData>
+		<SimpleData name="ctrl_place">160</SimpleData>
+		<SimpleData name="center_type">Блок-пост 632 км, в 2.7 км к зап. от нее, на 7 пк 629 км, в 30 м к сев. от ж.д. полотна.</SimpleData>
+		<SimpleData name="lvl_line">8b3ce074-9470-4691-9838-512d6bb8a1ec</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.7898474158579,50.4414537311545</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

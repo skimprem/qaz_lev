@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="d090471e" id="d090471e">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>d090471e</name>
+  <Placemark id="d090471e.1">
+	<name>2344</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#d090471e">
+		<SimpleData name="mark_num"></SimpleData>
+		<SimpleData name="center_type">15.7 км к сев.-вост. от с. Изенды, 26,2 км к зап. от с. Тассуат, 15,3 км к сев.-вост. от поворота автодороги с. Малайкудук-с.Кайнар</SimpleData>
+		<SimpleData name="lvl_line">d090471e-3b3e-4766-bb40-1cc0cdb3dfac</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>71.121465,49.9966</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

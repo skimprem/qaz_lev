@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="cf9771a9" id="cf9771a9">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>cf9771a9</name>
+  <Placemark id="cf9771a9.1">
+	<name>R051</name>
+	<description>Грун.реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#cf9771a9">
+		<SimpleData name="height_ctrl">R051</SimpleData>
+		<SimpleData name="ctrl_place">162</SimpleData>
+		<SimpleData name="lvl_line">cf9771a9-4790-4d8d-996a-41e8f47caceb</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>53.6752303226536,43.1532329009276</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

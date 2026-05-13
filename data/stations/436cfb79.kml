@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="436cfb79" name="436cfb79">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Schema id="_436cfb79.schema">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Document id="_436cfb79">
+      <name>436cfb79</name>
+      <Placemark id="_436cfb79.1">
+        <description>Жангылган, пир. 2 кл., в 14.0 км к зап. От нее, в 10.0 км к сев. От к.Кансу, в 4.9 км к юго-зап. От пир. 2 кл. Жаманайракты</description>
+        <ExtendedData>
+          <SchemaData schemaUrl="#_436cfb79.schema">
+            <SimpleData name="title">9030</SimpleData>
+            <SimpleData name="type">Грунт.реп.</SimpleData>
+            <SimpleData name="class_lvl">2</SimpleData>
+            <SimpleData name="height_lvl">-15,445</SimpleData>
+            <SimpleData name="center_type">146 оп</SimpleData>
+            <SimpleData name="lvl_line">Линия №6: грунт.реп. 74 - фунд.реп. 124, II класс. Участок: грунт.реп. 74 - ск.реп. 2983.</SimpleData>
+            <SimpleData name="guid">436cfb79-200d-4ce3-a34e-77e21e4279df</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            54.1286693338326,44.9763277059895,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

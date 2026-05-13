@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="99350ca2" id="99350ca2">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>99350ca2</name>
+  <Placemark id="99350ca2.1">
+	<name>Полевой</name>
+	<description>пир</description>
+	<ExtendedData><SchemaData schemaUrl="#99350ca2">
+		<SimpleData name="type">4</SimpleData>
+		<SimpleData name="ext_sign">3,75</SimpleData>
+		<SimpleData name="height_ctrl">5896</SimpleData>
+		<SimpleData name="ctrl_place">146 оп.знак</SimpleData>
+		<SimpleData name="mark_num">Линия № 8 Русская Таловка - Керей</SimpleData>
+		<SimpleData name="lvl_line">99350ca2-0ae6-4dc6-a728-30a3a44bbb65</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>49.8067951360299,49.6036695568647</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

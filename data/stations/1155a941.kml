@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="1155a941" name="1155a941">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Schema id="_1155a941.schema">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Document id="_1155a941">
+      <name>1155a941</name>
+      <Placemark id="_1155a941.1">
+        <description>Разъезд 33 км, в 5.8 км к сев.-вост. от него, на 10 ПК 26 км, в 37 м к сев.-зап. от ж.д. полотна, 1.0 км к юго-вост. от мог. Айнабек</description>
+        <ExtendedData>
+          <SchemaData schemaUrl="#_1155a941.schema">
+            <SimpleData name="title">6225</SimpleData>
+            <SimpleData name="type">грунтовый репер</SimpleData>
+            <SimpleData name="class_lvl">1</SimpleData>
+            <SimpleData name="height_lvl">579.683</SimpleData>
+            <SimpleData name="height_ctrl">578,501</SimpleData>
+            <SimpleData name="ctrl_place">Контрольный репер №159 в фундаментальной плите</SimpleData>
+            <SimpleData name="center_type">116 оп</SimpleData>
+            <SimpleData name="lvl_line">Линия №4: Тюемойнак-Жарык, I класс (1) Участок: грунт. реп. 4017-фунд.реп. 89</SimpleData>
+            <SimpleData name="guid">1155a941-5f9e-4202-8fc2-ba356a6e1e57</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            72.534547873699,48.7508425527835,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

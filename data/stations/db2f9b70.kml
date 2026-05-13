@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="db2f9b70" id="db2f9b70">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>db2f9b70</name>
+  <Placemark id="db2f9b70.1">
+	<name>10</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#db2f9b70">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="ext_sign">499,092</SimpleData>
+		<SimpleData name="class_lvl">498,080</SimpleData>
+		<SimpleData name="height_lvl">в верхней плоскости монолита</SimpleData>
+		<SimpleData name="ctrl_place">121</SimpleData>
+		<SimpleData name="mark_num">Линия №4 :     Защита - Георгиевка, II класс (2)     Участок :  грунт.реп. 104 - марка 260</SimpleData>
+		<SimpleData name="center_type">Казаншункур, с., в 12,0 км к сев.-вост. от него, в 0,6 км к юго-зап. от дорожной станции Канайка, в 40 м к юго-вост. от дороги гор. Усть-Каменогорск - с.Георгиевка</SimpleData>
+		<SimpleData name="lvl_line">db2f9b70-b640-454b-8411-5feffaf02c11</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>81.8868818939599,49.6388595896882</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

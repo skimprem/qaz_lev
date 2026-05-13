@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="8b88eab4" name="8b88eab4">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Schema id="_8b88eab4.schema">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Document id="_8b88eab4">
+      <name>8b88eab4</name>
+      <Placemark id="_8b88eab4.1">
+        <description>Кызылжар,конно-почт.станц.,в 19,0 км к юго-вост.от нее,в 8,0 км к сев-вост.от г.Бурлитау</description>
+        <ExtendedData>
+          <SchemaData schemaUrl="#_8b88eab4.schema">
+            <SimpleData name="title">546</SimpleData>
+            <SimpleData name="type">грунтовый репер</SimpleData>
+            <SimpleData name="class_lvl">2</SimpleData>
+            <SimpleData name="height_lvl">133,719</SimpleData>
+            <SimpleData name="height_ctrl">132,535</SimpleData>
+            <SimpleData name="ctrl_place">контрольный репер в верхней плоскости монолита</SimpleData>
+            <SimpleData name="center_type">121оп</SimpleData>
+            <SimpleData name="lvl_line">Линия № 2: Кендырлымола-урочище Таскабак, II класс (2)
+Участок: грунт. реп. 534 - грунт. реп. 1190</SimpleData>
+            <SimpleData name="guid">8b88eab4-df86-4fba-9c2b-e0e48c008278</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            57.3855013679429,47.0153731255392,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

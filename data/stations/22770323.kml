@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="22770323" id="22770323">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>22770323</name>
+  <Placemark id="22770323.1">
+	<name>2475</name>
+	<description>фун.репер</description>
+	<ExtendedData><SchemaData schemaUrl="#22770323">
+		<SimpleData name="ctrl_place">161оп</SimpleData>
+		<SimpleData name="center_type">Тауыш, с., в 24,0 км к северу от него, в 46,4 м к востоку от полевой дороги.</SimpleData>
+		<SimpleData name="lvl_line">22770323-746c-4100-a871-8ed657cd00db</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>64.0617946163416,50.1870609401261</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

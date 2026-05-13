@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="77d79bfd" id="77d79bfd">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>77d79bfd</name>
+  <Placemark id="77d79bfd.1">
+	<name>IV</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#77d79bfd">
+		<SimpleData name="height_ctrl">IV</SimpleData>
+		<SimpleData name="ctrl_place">162 оп</SimpleData>
+		<SimpleData name="center_type">0,6 км к югу от автодороги, 0,1 км к сев. от полевой дороги, на краю солончака, в 9.2 км к сев.-вост.от мог.Жангызмола, в 3.6 км к юго-вост.от г.Тастыкарсак</SimpleData>
+		<SimpleData name="lvl_line">77d79bfd-887f-4a72-936f-36b0dcef54d2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>76.5784616666667,47.6592216666667</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

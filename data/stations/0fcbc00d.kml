@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="0fcbc00d" id="0fcbc00d">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>0fcbc00d</name>
+  <Placemark id="0fcbc00d.1">
+	<name>Уркумбай</name>
+	<description>пир.</description>
+	<ExtendedData><SchemaData schemaUrl="#0fcbc00d">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="ext_sign">-7.313 марка № 1468</SimpleData>
+		<SimpleData name="ctrl_place">15</SimpleData>
+		<SimpleData name="mark_num">Линия нивелирования II класса на объекте &quot;Баван-Зелёный, Актонук-Баван, Баван-Керей&quot; 06.03.1751</SimpleData>
+		<SimpleData name="center_type">зим. Кубакан, в 10.7 км к вост. от неё, в 0,6 км к сев.-зап. от кладбища Уркумбай, на высоком бархане.</SimpleData>
+		<SimpleData name="lvl_line">0fcbc00d-95d5-4af6-8aaa-e7946558ec1d</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>49.9491051018696,47.8835935831922</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

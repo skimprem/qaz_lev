@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="c4c465c5" id="c4c465c5">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>c4c465c5</name>
+  <Placemark id="c4c465c5.1">
+	<name>0263</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#c4c465c5">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="ext_sign">270.801</SimpleData>
+		<SimpleData name="ctrl_place">160</SimpleData>
+		<SimpleData name="center_type">Хрящевка, с., сев-зап. окраина его, в 0.1км к зап. от края села Хрящевка, в 11 м к сев-зап. от углового стб. ЛЭП 220 кВт. №94</SimpleData>
+		<SimpleData name="lvl_line">c4c465c5-792b-46c7-8195-f9ea60da7e4e</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>68.2920539799085,51.6518204414037</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

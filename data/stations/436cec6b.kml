@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="436cec6b" id="436cec6b">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>436cec6b</name>
+  <Placemark id="436cec6b.1">
+	<name>А1820</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#436cec6b">
+		<SimpleData name="height_ctrl">А1820</SimpleData>
+		<SimpleData name="ctrl_place">162оп</SimpleData>
+		<SimpleData name="center_type">1,2 км к северо-западу от развилки дорог к с. Жумай, 4,2 км к юго-западу от с. Жумай, 6,2 км к западу от кладбища Таубай</SimpleData>
+		<SimpleData name="lvl_line">436cec6b-7215-4618-a207-386e0decc60d</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>69.7422916666667,50.670005</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

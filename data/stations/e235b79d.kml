@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="e235b79d" id="e235b79d">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>e235b79d</name>
+  <Placemark id="e235b79d.1">
+	<name>115</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#e235b79d">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="ext_sign">336.934</SimpleData>
+		<SimpleData name="class_lvl">334.648</SimpleData>
+		<SimpleData name="height_ctrl">998</SimpleData>
+		<SimpleData name="ctrl_place">131</SimpleData>
+		<SimpleData name="center_type">Косшокы, станц., в 2.7 км к сев.-зап.от нее, на 3ПК763 км жел.дор., в 75 м к сев.от жел.дор.полотна, в 43 м к сев.от стб.ЛЭП №235 10 кВт.</SimpleData>
+		<SimpleData name="lvl_line">e235b79d-02fb-4759-944a-a58faa1e0854</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>70.8478748461276,51.3907279566593</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

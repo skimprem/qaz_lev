@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="884031ab" id="884031ab">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>884031ab</name>
+  <Placemark id="884031ab.1">
+	<name>2261</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#884031ab">
+		<SimpleData name="ctrl_place">162оп</SimpleData>
+		<SimpleData name="center_type">Заречное, с., южная окраины его, в 119 м к северу от перекрестка асфальтированных дорог, в 41,4 м к югу от юго-вост. угла бетонного забора.</SimpleData>
+		<SimpleData name="lvl_line">884031ab-507e-4720-a215-24308dc6a17c</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>63.7364109792409,53.2108980138354</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

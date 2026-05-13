@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="cc2b284a" id="cc2b284a">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>cc2b284a</name>
+  <Placemark id="cc2b284a.1">
+	<name>1496</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#cc2b284a">
+		<SimpleData name="title">грунт.реп.</SimpleData>
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="ext_sign">731.307</SimpleData>
+		<SimpleData name="class_lvl">729.725*</SimpleData>
+		<SimpleData name="height_lvl">В верхней плоскости монолита</SimpleData>
+		<SimpleData name="ctrl_place">121</SimpleData>
+		<SimpleData name="mark_num">Линия № 1:Акбулак -Акозек, II класс                    Участок: ск.реп. 666 -фунд.реп. 121</SimpleData>
+		<SimpleData name="center_type">Токтамыс,зим.,в 7.6 км к югу от нее, 
+в 2.6 км к сев.-зап.от бетонированного колодца,в 0.6 км к юго-вост.от полевой· дороги</SimpleData>
+		<SimpleData name="lvl_line">cc2b284a-51a6-41ff-b88f-246f528f2317</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.1625421172957,47.9771495366021</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

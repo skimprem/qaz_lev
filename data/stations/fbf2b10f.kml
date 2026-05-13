@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="fbf2b10f" id="fbf2b10f">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>fbf2b10f</name>
+  <Placemark id="fbf2b10f.1">
+	<name>Зарослое</name>
+	<description>пирамида</description>
+	<ExtendedData><SchemaData schemaUrl="#fbf2b10f">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="ext_sign">129,159</SimpleData>
+		<SimpleData name="ctrl_place">1</SimpleData>
+		<SimpleData name="mark_num">Линия № 3: Золоторунное - Чистовское. II класс Участок: грунт. реп. б/№ - марка 3139</SimpleData>
+		<SimpleData name="lvl_line">fbf2b10f-d38e-4388-a71e-908d5b1f94f7</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>70.6618819601046,54.8201668788507</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

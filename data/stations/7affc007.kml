@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="7affc007" id="7affc007">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>7affc007</name>
+  <Placemark id="7affc007.1">
+	<name>1827</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#7affc007">
+		<SimpleData name="title">грунт.реп.</SimpleData>
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="ext_sign">391.714</SimpleData>
+		<SimpleData name="class_lvl">390.217</SimpleData>
+		<SimpleData name="height_lvl">Контрольный репер № 1587 в фундаментной плите</SimpleData>
+		<SimpleData name="ctrl_place">116 оп.знак</SimpleData>
+		<SimpleData name="mark_num">Линия №1: Ивановка-р.Кон, ll класс (1). Участок: грунт.реп. 5354-грунт.реп.1719(151)</SimpleData>
+		<SimpleData name="center_type">Изенди с, в 3,4 км к сев-вост. От него, в 0,8 км к вост от оз.Каратомар, в 0,3 к сев. От дороги с.Заречное-с.Изенди</SimpleData>
+		<SimpleData name="lvl_line">7affc007-e40d-4796-a2a9-d1be1aac20e0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>70.988074977252,49.9282188875052</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

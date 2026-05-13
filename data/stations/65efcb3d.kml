@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="65efcb3d" id="65efcb3d">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>65efcb3d</name>
+  <Placemark id="65efcb3d.1">
+	<name>0017</name>
+	<description>Грунтовый репер </description>
+	<ExtendedData><SchemaData schemaUrl="#65efcb3d">
+		<SimpleData name="title">Z10</SimpleData>
+		<SimpleData name="lvl_line">65efcb3d-8bbe-4f8f-9dfb-4a6f96caf0eb</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>49.0760094097914,47.2155202907087</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

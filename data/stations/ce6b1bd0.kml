@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="ce6b1bd0" id="ce6b1bd0">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>ce6b1bd0</name>
+  <Placemark id="ce6b1bd0.1">
+	<name>3582</name>
+	<description>Грунтовый репер </description>
+	<ExtendedData><SchemaData schemaUrl="#ce6b1bd0">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="height_ctrl">3582</SimpleData>
+		<SimpleData name="ctrl_place">160 оп</SimpleData>
+		<SimpleData name="center_type">Белкарагай,разв.,в 8.0 км к югу от него,в 100 м к северу от поворотного столба ЛЭП 110 кв, в 5 м к югу от столба ЛЭП 110 кв номер 109, в 2 м к вост. От полевой дороги,  на краю пашни.</SimpleData>
+		<SimpleData name="lvl_line">ce6b1bd0-3ec5-4e93-88f1-30b9a6c447df</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>62.93523,51.788265</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

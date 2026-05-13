@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="39ed8c49" name="39ed8c49">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Schema id="_39ed8c49.schema">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Document id="_39ed8c49">
+      <name>39ed8c49</name>
+      <Placemark id="_39ed8c49.1">
+        <description>Акбулак, к., в 5.5 км к юго-зап. От него, в 4.4 км к сев.-вост. К.Койсу, в 20 м к сев.-зап. От полевой дороги</description>
+        <ExtendedData>
+          <SchemaData schemaUrl="#_39ed8c49.schema">
+            <SimpleData name="title">578</SimpleData>
+            <SimpleData name="type">Ск.реп.</SimpleData>
+            <SimpleData name="class_lvl">2</SimpleData>
+            <SimpleData name="height_lvl">99,316</SimpleData>
+            <SimpleData name="height_ctrl">99,241</SimpleData>
+            <SimpleData name="ctrl_place">Контрольный репер №528 в скале</SimpleData>
+            <SimpleData name="center_type">114</SimpleData>
+            <SimpleData name="lvl_line">Линия №5: Кендырли -Жармыш, II класс. Участок: фунд.реп. 24288 - фунд.реп. 80.</SimpleData>
+            <SimpleData name="guid">39ed8c49-a93d-4d69-9606-75bd28a7a071</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            54.5798550140839,44.9795899242042,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="b5d17b2c" name="b5d17b2c">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Schema id="b5d17b2c.schema">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Document id="b5d17b2c">
+      <name>b5d17b2c</name>
+      <Placemark id="b5d17b2c.1">
+        <description>Зылика, мет. станц., в 12.0 км к сев.-вост. от нее. в 1.0 км к сев. от р. Сарысу, в 85 м к юго-вост. от могилы</description>
+        <ExtendedData>
+          <SchemaData schemaUrl="#b5d17b2c.schema">
+            <SimpleData name="title">7697</SimpleData>
+            <SimpleData name="type">фундаментальный репер</SimpleData>
+            <SimpleData name="ext_sign">фундаментальный репер</SimpleData>
+            <SimpleData name="class_lvl">2</SimpleData>
+            <SimpleData name="height_lvl">131,956</SimpleData>
+            <SimpleData name="height_ctrl">130.421</SimpleData>
+            <SimpleData name="ctrl_place">в фундаментной плите</SimpleData>
+            <SimpleData name="mark_num">1800</SimpleData>
+            <SimpleData name="center_type">161 оп. знак</SimpleData>
+            <SimpleData name="lvl_line">Линия № 2: Кызылорда -р.Сарысу, 2 класс (3) Участок: грунт. реп. 1477 - грунт. реп. 6974</SimpleData>
+            <SimpleData name="guid">b5d17b2c-9812-43e6-bebe-5c3524d26be0</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            67.030736416551,45.2601380964107,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

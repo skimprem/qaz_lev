@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="baa98720" id="baa98720">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>baa98720</name>
+  <Placemark id="baa98720.1">
+	<name>3810</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#baa98720">
+		<SimpleData name="title">грунт. реп.</SimpleData>
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="ext_sign">84.343</SimpleData>
+		<SimpleData name="ctrl_place">160</SimpleData>
+		<SimpleData name="mark_num">Линия №2; Коккабак-Жосалы, II класс (1), Участок; грунт.реп. 8976-грунт.реп. 4878</SimpleData>
+		<SimpleData name="center_type">Каракушик,, мог., в 6.5 км к сев.-вост. от нее, в 0.7 км к -вост.арт.к. Шикайнар, в  0.1 км к вост..от полевой дороги</SimpleData>
+		<SimpleData name="lvl_line">baa98720-2cb6-4ae3-a7ee-c5dfdf5eda3b</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>63.8582819797413,46.8806473483101</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

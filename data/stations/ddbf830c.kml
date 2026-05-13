@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="ddbf830c" id="ddbf830c">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>ddbf830c</name>
+  <Placemark id="ddbf830c.1">
+	<name>8495</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#ddbf830c">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="ext_sign">394.503</SimpleData>
+		<SimpleData name="height_lvl">160 оп.знак</SimpleData>
+		<SimpleData name="ctrl_place">12</SimpleData>
+		<SimpleData name="mark_num">Линия № 4: р. Кон - Талдысай. І класс </SimpleData>
+		<SimpleData name="center_type">Талдысай. с.. в 1.3 км к сев. от него. в 0.6 км к зап. от р. Жаксыкон. в 42 м к сев-зап. от дор. с Талдысай - отд №1 свх. Талдысай</SimpleData>
+		<SimpleData name="lvl_line">ddbf830c-471e-40d8-a503-d8de3f2e8dcb</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>69.0949981526867,49.492222473646</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

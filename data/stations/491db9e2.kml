@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="491db9e2" id="491db9e2">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>491db9e2</name>
+  <Placemark id="491db9e2.1">
+	<name>0141</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#491db9e2">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="ext_sign">27.396</SimpleData>
+		<SimpleData name="ctrl_place">160</SimpleData>
+		<SimpleData name="mark_num">Линия нивелирования 1 класса Уральск-Жанибек</SimpleData>
+		<SimpleData name="center_type">Картошов,с., в 8.0км к юго-зап.от него, в 0.6км к юго-вост.от трассы Таскала-Болашак, в 0.4км к сев.-зап.от пол.дороги</SimpleData>
+		<SimpleData name="lvl_line">491db9e2-d644-4c60-8639-de84ba65e02e</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>49.1359025481969,50.6937012217109</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

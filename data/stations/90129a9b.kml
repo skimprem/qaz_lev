@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="90129a9b" id="90129a9b">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>90129a9b</name>
+  <Placemark id="90129a9b.1">
+	<name>Новороссийка</name>
+	<description>сигнал</description>
+	<ExtendedData><SchemaData schemaUrl="#90129a9b">
+		<SimpleData name="type">4</SimpleData>
+		<SimpleData name="ext_sign">114,900</SimpleData>
+		<SimpleData name="ctrl_place">1</SimpleData>
+		<SimpleData name="mark_num">Линия: грунт. реп. 176-сигн.Отделение №3,IV класс Участок: грунт. рп. 176-грунт. реп. 591</SimpleData>
+		<SimpleData name="lvl_line">90129a9b-075e-40cd-b328-798199047df2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>74.6303639336811,53.3503780393605</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

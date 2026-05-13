@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="e83dc261" id="e83dc261">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>e83dc261</name>
+  <Placemark id="e83dc261.1">
+	<name>7898</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#e83dc261">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="ext_sign">46.869</SimpleData>
+		<SimpleData name="ctrl_place">160</SimpleData>
+		<SimpleData name="mark_num">Линия нивелирования 1 класса Уральск-Жанибек</SimpleData>
+		<SimpleData name="center_type">Шижен2, с., в 9.7км к юго-зап.от него, в 0.8км к сев.-вост.от зим., в 194м к .го-вост.от бет.опоры ЛЭП №1653, в 46м к югу от оси дороги с.Мереке-гор.Уральск</SimpleData>
+		<SimpleData name="lvl_line">e83dc261-7984-49ae-84d9-c7a7c1344da9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>49.5168088055301,50.8348409950621</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

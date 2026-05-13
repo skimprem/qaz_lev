@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="5c7e5cda" name="5c7e5cda">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Schema id="_5c7e5cda.schema">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Document id="_5c7e5cda">
+      <name>5c7e5cda</name>
+      <Placemark id="_5c7e5cda.1">
+        <description>Кызылжар,конно-почт.станц.,в 8,8 км к юго-зап.от нее,в 2,8 км к сев-зап.от могилы.у полевой дороги</description>
+        <ExtendedData>
+          <SchemaData schemaUrl="#_5c7e5cda.schema">
+            <SimpleData name="title">1442</SimpleData>
+            <SimpleData name="type">грунтовый репер</SimpleData>
+            <SimpleData name="class_lvl">2</SimpleData>
+            <SimpleData name="height_lvl">96,627</SimpleData>
+            <SimpleData name="center_type">121оп</SimpleData>
+            <SimpleData name="lvl_line">Линия № 2: Кендырлымола-урочище Таскабак, II класс (2)
+Участок: грунт. реп. 534 - грунт. реп. 1190</SimpleData>
+            <SimpleData name="guid">5c7e5cda-0dc0-49f6-860f-cd47d99f2d68</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            57.0580194752498,47.0187050389902,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

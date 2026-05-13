@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="c9e79e2a" id="c9e79e2a">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>c9e79e2a</name>
+  <Placemark id="c9e79e2a.1">
+	<name>VI</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#c9e79e2a">
+		<SimpleData name="height_ctrl">VI</SimpleData>
+		<SimpleData name="ctrl_place">162 оп</SimpleData>
+		<SimpleData name="center_type">9.7 км к югу от зим. Ашысу, в 5.8 км к сев.-зап. от мог.Жангызмола, в 4.9 км к юго-вост. от гидроскважины Аккудук</SimpleData>
+		<SimpleData name="lvl_line">c9e79e2a-3e4f-4bd6-bf36-c6a07d4b8434</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>76.3822633333333,47.6624183333333</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

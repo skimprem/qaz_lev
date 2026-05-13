@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="53935642" id="53935642">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>53935642</name>
+  <Placemark id="53935642.1">
+	<name>1859</name>
+	<description>скальный репер</description>
+	<ExtendedData><SchemaData schemaUrl="#53935642">
+		<SimpleData name="height_ctrl">1859</SimpleData>
+		<SimpleData name="ctrl_place">99оп</SimpleData>
+		<SimpleData name="center_type">93 м к юго-западу от угла лесопосадки, 1,3 км к северу от поворота с. Новый Городок, 1,2 км к северо-западу от радиовышки</SimpleData>
+		<SimpleData name="lvl_line">53935642-f79b-4484-b1f2-fa38791db33c</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>68.5358916666667,52.252735</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

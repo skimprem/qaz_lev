@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="05176192" id="05176192">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>05176192</name>
+  <Placemark id="05176192.1">
+	<name>2473</name>
+	<description>фун.репер</description>
+	<ExtendedData><SchemaData schemaUrl="#05176192">
+		<SimpleData name="ctrl_place">161оп</SimpleData>
+		<SimpleData name="center_type">Шолаксай,с., в 22,2 км к сев-зап.от него, в 5,4 км к юго-вост. от сз.Байтума,кладбища, а 1,09 км от дороги с.Аулиеколь-с.Жолдама.</SimpleData>
+		<SimpleData name="lvl_line">05176192-d270-44f5-bd77-686b8c3ae145</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>64.4972080237956,51.8738897241041</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

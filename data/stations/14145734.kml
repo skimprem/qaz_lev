@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="14145734" name="14145734">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Schema id="_14145734.schema">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Document id="_14145734">
+      <name>14145734</name>
+      <Placemark id="_14145734.1">
+        <description>Жанасу, кладб., в 6.5 км к сев.-вост. От него, в 3.7 км к сев.-зап. От к.Бекеш, в 1.6 км к сев.-вост. От кладб.Коскулак</description>
+        <ExtendedData>
+          <SchemaData schemaUrl="#_14145734.schema">
+            <SimpleData name="title">2451</SimpleData>
+            <SimpleData name="type">Грунт.реп.</SimpleData>
+            <SimpleData name="class_lvl">2</SimpleData>
+            <SimpleData name="height_lvl">70,633</SimpleData>
+            <SimpleData name="center_type">146 оп</SimpleData>
+            <SimpleData name="lvl_line">Линия №7: грунт.реп. 74 - грунт.реп. 12-34, II класс. </SimpleData>
+            <SimpleData name="guid">14145734-d114-4a45-9c64-bf1c88d6337e</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            54.811690430381,44.9842705381419,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

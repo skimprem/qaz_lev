@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="bf916dbd" id="bf916dbd">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>bf916dbd</name>
+  <Placemark id="bf916dbd.1">
+	<name>5516</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#bf916dbd">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="ext_sign">215,546</SimpleData>
+		<SimpleData name="ctrl_place">160 оп, знак</SimpleData>
+		<SimpleData name="mark_num">Линия № 3: Торыустаган - Бирлик, 1 класс (2) Участок: фунд, реп, 9993 - грунт, реп, 5516</SimpleData>
+		<SimpleData name="center_type">Шыганак, с,, в 6,5 км к югу от него, в 0,3 км к сев, от развилки полевой дороги, в 13 м к вост, от полевой дороги</SimpleData>
+		<SimpleData name="lvl_line">bf916dbd-b152-41ac-9489-1a7cdd886c22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>70.0049378932546,44.7663049002737</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

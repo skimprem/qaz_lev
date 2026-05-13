@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="15acf013" id="15acf013">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>15acf013</name>
+  <Placemark id="15acf013.1">
+	<name>4365</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#15acf013">
+		<SimpleData name="title">грунт. реп.</SimpleData>
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="ext_sign">223,02</SimpleData>
+		<SimpleData name="ctrl_place">160</SimpleData>
+		<SimpleData name="mark_num">Линия № 2 Иргиз (фунд.реп.7707) - Толыбай (фунд.реп.3780)</SimpleData>
+		<SimpleData name="center_type">Амангельды (Толыбай),с.,в 28,5км к
+югу от него,в 2,0км к югу от п.тр. Тасшокы Сев.,в 5,4км к сев.-вост.от
+п.тр,Тасшокы,в 75м к вост.от пол.дор.</SimpleData>
+		<SimpleData name="lvl_line">15acf013-bc48-42bc-beea-fea3b3671b0b</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>62.35314996,50.30120056</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

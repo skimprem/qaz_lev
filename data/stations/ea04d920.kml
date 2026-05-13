@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="ea04d920" id="ea04d920">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>ea04d920</name>
+  <Placemark id="ea04d920.1">
+	<name>z12a</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#ea04d920">
+		<SimpleData name="title"></SimpleData>
+		<SimpleData name="type"></SimpleData>
+		<SimpleData name="ext_sign"></SimpleData>
+		<SimpleData name="class_lvl"></SimpleData>
+		<SimpleData name="height_lvl"></SimpleData>
+		<SimpleData name="height_ctrl"></SimpleData>
+		<SimpleData name="ctrl_place"></SimpleData>
+		<SimpleData name="mark_num"></SimpleData>
+		<SimpleData name="center_type"></SimpleData>
+		<SimpleData name="lvl_line">ea04d920-5d5d-4272-844a-afdb115f11bc</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>48.7499333208407,47.1734791163205</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

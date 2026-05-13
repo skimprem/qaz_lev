@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="1c12bfc1" id="1c12bfc1">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>1c12bfc1</name>
+  <Placemark id="1c12bfc1.1">
+	<name>5015</name>
+	<description>фундаментальный репер</description>
+	<ExtendedData><SchemaData schemaUrl="#1c12bfc1">
+		<SimpleData name="title">фунд.реп.</SimpleData>
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="ext_sign">201,871</SimpleData>
+		<SimpleData name="class_lvl">Конт-роль-ный реп. в верхней плос-кости моно-лита</SimpleData>
+		<SimpleData name="height_ctrl">201,738</SimpleData>
+		<SimpleData name="ctrl_place">161 оп.</SimpleData>
+		<SimpleData name="mark_num">Линия № 2 Иргиз (фунд.реп.7707) - Толыбай (фунд.реп.3780)</SimpleData>
+		<SimpleData name="center_type">Иргиз,с.,в 88,0км к сев. от него,в 3,5км к югу от русла ручья Карасай,в 50м к зап.от грунт.дор.</SimpleData>
+		<SimpleData name="lvl_line">1c12bfc1-4455-4794-9e2f-1a1099e6b4cb</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>61.39155059,49.38848357</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

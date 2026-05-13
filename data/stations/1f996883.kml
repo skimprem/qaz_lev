@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="1f996883" id="1f996883">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>1f996883</name>
+  <Placemark id="1f996883.1">
+	<name>3317</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#1f996883">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="ext_sign">666.015</SimpleData>
+		<SimpleData name="ctrl_place">Б</SimpleData>
+		<SimpleData name="center_type">Карабулак, с., в 20.1 км к юго-вост. от него, в 4.5 км к сев.-зап. от буг.Акбелек, в 10 метрах к югу от полевой дороги.</SimpleData>
+		<SimpleData name="lvl_line">1f996883-e8fe-41ae-9665-a853dbea0e27</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>78.0503399689566,48.2569259577647</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

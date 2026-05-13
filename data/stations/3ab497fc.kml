@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="3ab497fc" id="3ab497fc">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>3ab497fc</name>
+  <Placemark id="3ab497fc.1">
+	<name>Сараул</name>
+	<description>пирамида</description>
+	<ExtendedData><SchemaData schemaUrl="#3ab497fc">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="ext_sign">14.801</SimpleData>
+		<SimpleData name="ctrl_place">А</SimpleData>
+		<SimpleData name="mark_num">Линия нивелирования 1 класса Уральск-Жанибек</SimpleData>
+		<SimpleData name="lvl_line">3ab497fc-5cab-4391-b41d-c363b43ee031</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>49.0722975147263,49.9499184241113</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

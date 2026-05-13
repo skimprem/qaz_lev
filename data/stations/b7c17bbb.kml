@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="b7c17bbb" id="b7c17bbb">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>b7c17bbb</name>
+  <Placemark id="b7c17bbb.1">
+	<name>4</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#b7c17bbb">
+		<SimpleData name="title">грунт. реп.</SimpleData>
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="class_lvl">401,338</SimpleData>
+		<SimpleData name="height_lvl">400.258</SimpleData>
+		<SimpleData name="height_ctrl">репер в верхней плоскости монолита</SimpleData>
+		<SimpleData name="ctrl_place">121</SimpleData>
+		<SimpleData name="mark_num">Линия №3:  Каракас - Буран, 2 класс (3) Участок: грунт. реп. 225 - грунт. реп. 1234</SimpleData>
+		<SimpleData name="center_type">Аксуат (Белая Могила), с., в 9.3 км к сев.-вост. от него, в 24 м к вост. от дороги с. Аксуат (Белая Могила)  - с. Садык</SimpleData>
+		<SimpleData name="lvl_line">b7c17bbb-05d1-4878-aecf-494c72acc8d6</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>83.8131892896121,48.2617190917355</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

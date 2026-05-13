@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="db804e93" id="db804e93">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>db804e93</name>
+  <Placemark id="db804e93.1">
+	<name>11</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#db804e93">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="ext_sign">100.990</SimpleData>
+		<SimpleData name="class_lvl">99,834</SimpleData>
+		<SimpleData name="height_lvl">Контрольный репер №1482 в верхней плоскости монолита</SimpleData>
+		<SimpleData name="ctrl_place">131 оп</SimpleData>
+		<SimpleData name="mark_num">линия №1: Аральск - Семиозерное, I класс Участок: грунт.реп. 114 - грунт.реп. 11</SimpleData>
+		<SimpleData name="center_type">Албарбогетский, свх., в 8.1 км к сев.-вост. от него, в 25 м к зап. от дороги с. Шобан - с. Тургай, в 0.1 км к югу от фунд.реп.86</SimpleData>
+		<SimpleData name="lvl_line">db804e93-96d9-4261-9ee3-bd68d55507e7</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>63.9265393863242,50.0052070617399</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

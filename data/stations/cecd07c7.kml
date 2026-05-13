@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="cecd07c7" id="cecd07c7">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>cecd07c7</name>
+  <Placemark id="cecd07c7.1">
+	<name>5040</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#cecd07c7">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="ext_sign">179.450</SimpleData>
+		<SimpleData name="ctrl_place">160 оп. знак</SimpleData>
+		<SimpleData name="mark_num">Линия №201: Сарбие - Уил, II класс. Участок: грунт. реп. 1412 - фунд. реп. 1739</SimpleData>
+		<SimpleData name="center_type">Уил, с., в 9.0 км к зап. от него, в 4.0 км к зап. от г. Караултобе, в 50 м к сев. от ЛЭП и в 20 м к югу от дороги</SimpleData>
+		<SimpleData name="lvl_line">cecd07c7-9861-4c97-9285-f92db27327f9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>54.5439371046618,49.0601887448498</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

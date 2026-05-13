@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="730e69f8" id="730e69f8">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>730e69f8</name>
+  <Placemark id="730e69f8.1">
+	<name>0079</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#730e69f8">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="ext_sign">-12,571</SimpleData>
+		<SimpleData name="ctrl_place">160 оп знак</SimpleData>
+		<SimpleData name="mark_num">Линия II класса: Богдо-Нов.Уштаган-Малый Арал</SimpleData>
+		<SimpleData name="center_type">Уштаган, с., в 13,0 км к югу от него, в 3,0км к югу от кладб. Алипмола, в 0,4 км к юго-зап. от солончака</SimpleData>
+		<SimpleData name="lvl_line">730e69f8-9d65-4f93-923a-41387a755f73</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>48.8193258457385,47.7867373875545</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="6d8440e7" id="6d8440e7">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>6d8440e7</name>
+  <Placemark id="6d8440e7.1">
+	<name>2286</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#6d8440e7">
+		<SimpleData name="ctrl_place">160 оп</SimpleData>
+		<SimpleData name="center_type">Саксаульское, с., в, в 55,9 км м к западу от него, в 1,9 км к западу от дороги г.Аральск-с.Ыргыз.</SimpleData>
+		<SimpleData name="lvl_line">6d8440e7-1817-4893-8499-acf12043db4d</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>61.5594968665965,47.5053721480517</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

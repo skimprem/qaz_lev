@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="01d2c3d3" id="01d2c3d3">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>01d2c3d3</name>
+  <Placemark id="01d2c3d3.1">
+	<name>8365(8765)</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#01d2c3d3">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="ext_sign">223,212</SimpleData>
+		<SimpleData name="ctrl_place">160 оп, знак</SimpleData>
+		<SimpleData name="mark_num">Линия № 3: Торыустаган - Бирлик, 1 класс (2) Участок: фунд, реп, 9993 - грунт, реп, 5516</SimpleData>
+		<SimpleData name="center_type">Шыганак, с,, в 11,0 км к юго-зап, от него, в 2,8 км к зап, от съезда с шоссе с, Жуантобе - с, Уланбель, в 11 м к юго-зап, от полевой дороги</SimpleData>
+		<SimpleData name="lvl_line">01d2c3d3-7cd7-49f0-b3f5-8abdc4f1c6e6</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>69.9101105373219,44.7509020284271</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

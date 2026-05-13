@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="5500D5C0" id="5500D5C0">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>5500D5C0</name>
+  <Placemark id="5500D5C0.1">
+	<name>Акчий</name>
+	<ExtendedData><SchemaData schemaUrl="#5500D5C0">
+		<SimpleData name="title">пирамида</SimpleData>
+		<SimpleData name="height_ctrl">№217</SimpleData>
+		<SimpleData name="ctrl_place">15</SimpleData>
+		<SimpleData name="lvl_line">5500D5C0-6D96-F746-A1ED-BA96C10B586C</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>53.0372729465062,48.6276619605918</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

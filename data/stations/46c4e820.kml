@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="46c4e820" id="46c4e820">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>46c4e820</name>
+  <Placemark id="46c4e820.1">
+	<name>Закладка 1130</name>
+	<description>Грунтовый репер </description>
+	<ExtendedData><SchemaData schemaUrl="#46c4e820">
+		<SimpleData name="ctrl_place">160 оп</SimpleData>
+		<SimpleData name="center_type">Аса,с., 0,5 км к юго-вост от него, 150 м к юго-вост от жел.дор. переезда,100 м к юго-зап от жел.дор.,50 м к вост от развилки дорог гор.Тараз-с.Аса-с.Бирлесу Енбек, 20 м к сев-вост от шоссе гор.Тараз-с.Аса</SimpleData>
+		<SimpleData name="lvl_line">46c4e820-bcf1-4e3a-b5db-9f1ebafd8c4d</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>71.17398,43.023115</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

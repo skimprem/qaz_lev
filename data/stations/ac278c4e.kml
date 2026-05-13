@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="ac278c4e" id="ac278c4e">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>ac278c4e</name>
+  <Placemark id="ac278c4e.1">
+	<name>IV</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#ac278c4e">
+		<SimpleData name="title">грунт. реп.</SimpleData>
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="ext_sign">204,944</SimpleData>
+		<SimpleData name="ctrl_place">160 оп.</SimpleData>
+		<SimpleData name="mark_num">Линия № 2 Иргиз (фунд.реп.7707) - Толыбай (фунд.реп.3780)</SimpleData>
+		<SimpleData name="center_type">Астеусор, зим.,в 24,4км к сев.-вост.от
+нее,в 4,1км к сев.от мог. Сарымола,в 10 м к зап.    от пол.дог.  идущей на зим.
+Акбак, в 0,9 м к сев.от оп.стб.</SimpleData>
+		<SimpleData name="lvl_line">ac278c4e-071a-49b8-979a-dafb37e8abc8</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>61.80026279,49.89851303</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

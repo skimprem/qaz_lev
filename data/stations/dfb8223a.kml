@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="dfb8223a" id="dfb8223a">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>dfb8223a</name>
+  <Placemark id="dfb8223a.1">
+	<name>79</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#dfb8223a">
+		<SimpleData name="title">грунт. реп.</SimpleData>
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="ext_sign">79.400</SimpleData>
+		<SimpleData name="ctrl_place">121 оп</SimpleData>
+		<SimpleData name="mark_num">Линия №1: Аральск - Коккабак, II класс. Участок: грунт. реп. 9049 - грунт. реп. 2665</SimpleData>
+		<SimpleData name="center_type">Токабай, с., в 12.3 км к сев.-вост. от него, в 0.8 км к юго-зап. от развилки полевой дороги, в 0.5 км к юго-вост. от пам. Кылышбек</SimpleData>
+		<SimpleData name="lvl_line">dfb8223a-214d-46e2-9aaa-8bc7fd2fd0a8</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>62.3595114324459,46.9350521783644</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

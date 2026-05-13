@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="192718f1" id="192718f1">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>192718f1</name>
+  <Placemark id="192718f1.1">
+	<name>1622</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#192718f1">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="ext_sign">791.273</SimpleData>
+		<SimpleData name="ctrl_place">146</SimpleData>
+		<SimpleData name="center_type">Каркаралы, гор., в 5.0 км к сев.-вост. от него, в 4.5 км к северу от с.Жанаегиз.</SimpleData>
+		<SimpleData name="lvl_line">192718f1-3519-436c-bc15-485384a83b57</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.4989588565484,49.4508713064032</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

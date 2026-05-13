@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="fd9814fc" id="fd9814fc">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>fd9814fc</name>
+  <Placemark id="fd9814fc.1">
+	<name>6025</name>
+	<description>грунт.реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#fd9814fc">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="ext_sign">29.778</SimpleData>
+		<SimpleData name="ctrl_place">146</SimpleData>
+		<SimpleData name="mark_num">Линия: Аккудук-Караумбет</SimpleData>
+		<SimpleData name="center_type">Киши-Кендирли.к., в 4.4 км к юго-зап.от него, в 1 км к юго-вост.от мог., в 0.5 км к юго-зп. от сухого русла</SimpleData>
+		<SimpleData name="lvl_line">fd9814fc-55ed-4b7a-b8a1-b68b5c752e32</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>54.5987749489735,42.9730605838435</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

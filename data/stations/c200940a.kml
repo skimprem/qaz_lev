@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="c200940a" id="c200940a">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>c200940a</name>
+  <Placemark id="c200940a.1">
+	<name>7212</name>
+	<description>Грунт.реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#c200940a">
+		<SimpleData name="title">Грунтовый репер </SimpleData>
+		<SimpleData name="height_ctrl">7212</SimpleData>
+		<SimpleData name="ctrl_place">121</SimpleData>
+		<SimpleData name="center_type">Оленти. с., в 0.9 км к югу. то. него, в 46 м к вост. от полевой дороги.</SimpleData>
+		<SimpleData name="lvl_line">c200940a-3591-4355-baa9-f45e40cf8f35</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>52.1234493888732,50.0277542696431</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

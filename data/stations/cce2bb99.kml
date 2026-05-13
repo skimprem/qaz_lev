@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="cce2bb99" id="cce2bb99">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>cce2bb99</name>
+  <Placemark id="cce2bb99.1">
+	<name>12</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#cce2bb99">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="ext_sign">1333,271</SimpleData>
+		<SimpleData name="ctrl_place">121 оп. знак</SimpleData>
+		<SimpleData name="mark_num">Линия № 2: Карабута – Белая Школа, II класс (1)
+Участок: ск.реп. 1684 – фунд.реп. 911</SimpleData>
+		<SimpleData name="center_type">Кокбастау, с., в 15.1 км к юго-вост. от него, в 2.1 км к зап. от зим. Абдраман, в 10 м к вост. от полевой дороги</SimpleData>
+		<SimpleData name="lvl_line">cce2bb99-a73a-42a4-9920-82a9d0a033ef</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>82.9650806933934,47.3547180826502</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

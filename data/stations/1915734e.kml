@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="1915734e" id="1915734e">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>1915734e</name>
+  <Placemark id="1915734e.1">
+	<name>Закладка 1047</name>
+	<ExtendedData><SchemaData schemaUrl="#1915734e">
+		<SimpleData name="title">Грунтовый репер </SimpleData>
+		<SimpleData name="ctrl_place">160</SimpleData>
+		<SimpleData name="center_type">Созак,с.,4км к сев-вост от него,0,3 км к зап от шоссе Созак-Жуантобе0,2 км к вост от нефтепровода Шымкент-Павлодар,70 м к вост от лотка,</SimpleData>
+		<SimpleData name="lvl_line">1915734e-c665-4bbb-b513-54d723a19c7b</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>68.4943483333333,44.1863033333333</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="bd7a7149" id="bd7a7149">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>bd7a7149</name>
+  <Placemark id="bd7a7149.1">
+	<name>0585</name>
+	<description>скальный репер</description>
+	<ExtendedData><SchemaData schemaUrl="#bd7a7149">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="ext_sign">690.137</SimpleData>
+		<SimpleData name="ctrl_place">99 оп</SimpleData>
+		<SimpleData name="center_type">Баршатас, с., в 2.5 км к сев. от него, в 30 м к зап. от км. стб. 2/30, в 20 м к зап. от шоссе.</SimpleData>
+		<SimpleData name="lvl_line">bd7a7149-1c89-4b67-a5bb-29e00e739a4f</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>78.684474395832,48.1954549927146</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

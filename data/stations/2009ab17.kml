@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2009ab17" id="2009ab17">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>2009ab17</name>
+  <Placemark id="2009ab17.1">
+	<name>502</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#2009ab17">
+		<SimpleData name="title">z74</SimpleData>
+		<SimpleData name="lvl_line">2009ab17-c4e7-41c6-8ec8-d8e68ba3e6a2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.0732543831883,49.3317689945145</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="b5561e3f" id="b5561e3f">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>b5561e3f</name>
+  <Placemark id="b5561e3f.1">
+	<name>А1811</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#b5561e3f">
+		<SimpleData name="height_ctrl">А1811</SimpleData>
+		<SimpleData name="ctrl_place">162оп</SimpleData>
+		<SimpleData name="center_type">343 м к юго-западу от электр. подстанции, 113 м к северу от железной дороги, 1,4 км к востоку от р. Убаган</SimpleData>
+		<SimpleData name="lvl_line">b5561e3f-2795-418c-9ed8-bee9799bb868</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>64.5835666666667,52.4474983333333</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

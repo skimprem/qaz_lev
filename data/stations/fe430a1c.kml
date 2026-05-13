@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="fe430a1c" id="fe430a1c">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>fe430a1c</name>
+  <Placemark id="fe430a1c.1">
+	<name>6847</name>
+	<description>грунт.реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#fe430a1c">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="ext_sign">208.135</SimpleData>
+		<SimpleData name="ctrl_place">146</SimpleData>
+		<SimpleData name="mark_num">Линия: ск.реп.б/№ Жаманканбай-грунт.реп.2,II класс</SimpleData>
+		<SimpleData name="center_type">Жаксымангтай,колодцы, в 2.5 км к сев.-зап.от них, в 7 м к югу от дороги Кунград-Шевченко</SimpleData>
+		<SimpleData name="lvl_line">fe430a1c-f44a-4bd5-9dff-0e9b4463b1fb</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>55.6149811186136,43.1356968551803</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="cd07e787" id="cd07e787">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>cd07e787</name>
+  <Placemark id="cd07e787.1">
+	<name>R083</name>
+	<description>Фунд.реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#cd07e787">
+		<SimpleData name="height_ctrl">R083</SimpleData>
+		<SimpleData name="ctrl_place">161</SimpleData>
+		<SimpleData name="lvl_line">cd07e787-60f0-4162-a2b9-e46edcc7e154</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>52.1269309,44.13468804</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="ef1c9bda" id="ef1c9bda">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>ef1c9bda</name>
+  <Placemark id="ef1c9bda.1">
+	<name>Закладка M008</name>
+	<description>Грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#ef1c9bda">
+		<SimpleData name="title">Грунтовый репер</SimpleData>
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="height_ctrl">M008</SimpleData>
+		<SimpleData name="ctrl_place">149</SimpleData>
+		<SimpleData name="mark_num">121</SimpleData>
+		<SimpleData name="center_type">Нураталды, с.,в 7.7км к сев.-зап.от него,в 128м к востоку шоссе Караганда-Балхаш,в 33м к западу полевая дорога.</SimpleData>
+		<SimpleData name="lvl_line">ef1c9bda-9481-4c20-8432-f54ba8ff0848</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>73.48997847,49.12479782</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

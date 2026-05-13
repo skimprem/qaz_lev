@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="df4c5ee8" id="df4c5ee8">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>df4c5ee8</name>
+  <Placemark id="df4c5ee8.1">
+	<name>Кора</name>
+	<description>пирамида</description>
+	<ExtendedData><SchemaData schemaUrl="#df4c5ee8">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="ext_sign">1025,362</SimpleData>
+		<SimpleData name="ctrl_place">1 оп</SimpleData>
+		<SimpleData name="mark_num">Линия №1; Сары-Озек - Пржевальск, 1 класс(2) Участок: грунт. реп. 155- грунт.реп. 682</SimpleData>
+		<SimpleData name="center_type">Чунджа, с., в 21.5 км к юго-зап. от него, в 35 м к югу от дороги с.Чунджа- с. Кеген, на 73 км</SimpleData>
+		<SimpleData name="lvl_line">df4c5ee8-c2ff-4437-9029-307d4df62e78</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>79.2949189122495,43.3962259166984</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

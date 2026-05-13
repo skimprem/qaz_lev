@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="4e520d01" id="4e520d01">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>4e520d01</name>
+  <Placemark id="4e520d01.1">
+	<name>3173</name>
+	<description>грунт.реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#4e520d01">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="ext_sign">12.239</SimpleData>
+		<SimpleData name="class_lvl">10.149</SimpleData>
+		<SimpleData name="height_lvl">Контрольный репер № 320 в верхней плоскости монолита</SimpleData>
+		<SimpleData name="ctrl_place">121 оп</SimpleData>
+		<SimpleData name="mark_num">Линия №1: Сайхин-Керей, II класс (1) Участок: грунт.реп. 848 - грунт.реп.805</SimpleData>
+		<SimpleData name="center_type">с. Еламан, в 3,5 км к сев.-вост. от него, в 1.2 км к зап. от зим. Бурганколь, в 56 м к сев.-зап. от перекрёстка дорог с. Коктерек -с. Еламан и аул Жибек - зим. Колжугай</SimpleData>
+		<SimpleData name="lvl_line">4e520d01-00c4-49b0-9ea7-69fcf5e99d7b</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>49.0500918809521,49.3053773579084</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

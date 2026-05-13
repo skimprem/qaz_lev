@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="30275256" id="30275256">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>30275256</name>
+  <Placemark id="30275256.1">
+	<name>3956</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#30275256">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="ext_sign">261.104</SimpleData>
+		<SimpleData name="height_lvl">160 оп</SimpleData>
+		<SimpleData name="mark_num">Линия № 1: Сергеевка-Терсаккан. І класс </SimpleData>
+		<SimpleData name="center_type">Артыкпай.с..в 3.3 км к сев.-вост.от него. в 0.5 км к сев.от брода через р.Кайракты. в 20 м. к зап. от дор. Шурумсай - с. Артыкпай</SimpleData>
+		<SimpleData name="lvl_line">30275256-160c-45e6-a6df-d29dc24ed55c</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.828713793273,51.1125109443506</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

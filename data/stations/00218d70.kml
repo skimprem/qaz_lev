@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="00218d70" id="00218d70">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>00218d70</name>
+  <Placemark id="00218d70.1">
+	<name>1380</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#00218d70">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="ext_sign">-2,106</SimpleData>
+		<SimpleData name="ctrl_place">160 оп знак</SimpleData>
+		<SimpleData name="mark_num">Линия II класса: Богдо-Нов.Уштаган-Малый Арал</SimpleData>
+		<SimpleData name="center_type">Азгир, с., центр фермы № 3, в 2,5 км к зап. от него, в 54 м к югу от дороги Азгир-Балкудук, в 34 м к югу от линии связи</SimpleData>
+		<SimpleData name="lvl_line">00218d70-a9ac-4f53-9030-d029554d908d</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>47.8688080982929,47.8348876599477</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

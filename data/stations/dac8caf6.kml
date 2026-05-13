@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="dac8caf6" id="dac8caf6">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>dac8caf6</name>
+  <Placemark id="dac8caf6.1">
+	<name>2117_0</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#dac8caf6">
+		<SimpleData name="height_ctrl">2117</SimpleData>
+		<SimpleData name="ctrl_place">160оп.</SimpleData>
+		<SimpleData name="center_type">Каркаралинск, с., в 13,9 км к юго-зап. от него, в 120,1 м к сев.-зап. от дороги г.Каркаралинск- с.Жарлы.
+</SimpleData>
+		<SimpleData name="lvl_line">dac8caf6-761f-49cf-b3f9-b0ce8cbc607b</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.4457351439639,49.3766844160955</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

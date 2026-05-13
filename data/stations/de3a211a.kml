@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="de3a211a" id="de3a211a">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>de3a211a</name>
+  <Placemark id="de3a211a.1">
+	<name>2730</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#de3a211a">
+		<SimpleData name="title">грунт.реп.</SimpleData>
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="ext_sign">77,545</SimpleData>
+		<SimpleData name="ctrl_place">160 оп знак</SimpleData>
+		<SimpleData name="mark_num">Линия Жаксыкарсакбас (фунд. реп. 351) - Коккабак (фунд. реп.2)</SimpleData>
+		<SimpleData name="center_type">Караколь, с., в 22,0 км к сев-вост.-вост. от него, в 9,8 км к юго-зап. от г. Косбуйрек, в 0,1 км к юго-зап. от поворотного стб. ЛЭП, в 8 м к зап. от пол. дороги</SimpleData>
+		<SimpleData name="lvl_line">de3a211a-21e4-4bf5-89ac-825de07ac025</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>62.2913951043094,48.2833876838862</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="6438cbac" name="6438cbac">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Schema id="_6438cbac.schema">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Document id="_6438cbac">
+      <name>6438cbac</name>
+      <Placemark id="_6438cbac.1">
+        <description>Колуптас,артезианский колодец,в 7,3 км к сев-зап.от него,в 0,1 км к вост.от фунд.реп.193,в 0,1 км к вост.от дороги с.Караоба-с.Донгузтау</description>
+        <ExtendedData>
+          <SchemaData schemaUrl="#_6438cbac.schema">
+            <SimpleData name="title">1477</SimpleData>
+            <SimpleData name="type">грунтовый репер</SimpleData>
+            <SimpleData name="class_lvl">2</SimpleData>
+            <SimpleData name="height_lvl">98,590</SimpleData>
+            <SimpleData name="height_ctrl">97,588</SimpleData>
+            <SimpleData name="ctrl_place">контрольный репер в верхней плоскости монолита</SimpleData>
+            <SimpleData name="center_type">121оп</SimpleData>
+            <SimpleData name="lvl_line">Линия №1: Кендырлымола.-урочище Таскабак, II класс (1)
+Участок: грунт. реп. 1442 - грунт. реп. 460</SimpleData>
+            <SimpleData name="guid">6438cbac-4e1d-4852-ac05-d922e0f903ab</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            56.6973844616255,47.0623951901071,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

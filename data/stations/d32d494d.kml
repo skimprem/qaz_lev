@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="d32d494d" id="d32d494d">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>d32d494d</name>
+  <Placemark id="d32d494d.1">
+	<name>2502</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#d32d494d">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="ext_sign">348.93</SimpleData>
+		<SimpleData name="height_lvl">160 оп.знак</SimpleData>
+		<SimpleData name="ctrl_place">12</SimpleData>
+		<SimpleData name="mark_num">участок : ф.р.2286-гр. реп. 2502</SimpleData>
+		<SimpleData name="center_type">Баршино. с.. в 6.0 км к сев.от него. в 5.4 км к юго-зап.от мог.Акмыс. в 4.3 км к сев-зап. от дороги Баршино-Кургальджинский. в 0.2 км к сев.от зим.. 5.0м к вост. от р. Кон</SimpleData>
+		<SimpleData name="lvl_line">d32d494d-9289-4dfe-8cb4-d9ca5edb443b</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>69.5402428542867,49.7389180101133</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

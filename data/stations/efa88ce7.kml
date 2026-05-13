@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="efa88ce7" name="efa88ce7">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Schema id="efa88ce7.schema">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Document id="efa88ce7">
+      <name>efa88ce7</name>
+      <Placemark id="efa88ce7.1">
+        <description>Пикет №8. разв.. в 6.8 км к юго-зап.от них. в 0.1 км к югу от мог. Керимбаймола. в 60 м к сев.-зап.от грунт.дороги с. Карсакбай - с. Жосалы</description>
+        <ExtendedData>
+          <SchemaData schemaUrl="#efa88ce7.schema">
+            <SimpleData name="title">929</SimpleData>
+            <SimpleData name="type">грунтовый репер</SimpleData>
+            <SimpleData name="ext_sign">грунт. реп.</SimpleData>
+            <SimpleData name="class_lvl">1</SimpleData>
+            <SimpleData name="height_lvl">245.489</SimpleData>
+            <SimpleData name="height_ctrl">244.359</SimpleData>
+            <SimpleData name="ctrl_place">Контрольный репер №1 в фундаментной плите</SimpleData>
+            <SimpleData name="center_type">116 оп</SimpleData>
+            <SimpleData name="lvl_line">Линия №1: Жосалы - Карсакбай. 1 класс. Участок: грунт.реп. 1500 - грунт.реп. 292</SimpleData>
+            <SimpleData name="guid">efa88ce7-aa99-4936-9107-9f5f3b3b9494</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            65.3578176100035,46.5088568295137,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="2fa2f079" name="2fa2f079">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Schema id="_2fa2f079.schema">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Document id="_2fa2f079">
+      <name>2fa2f079</name>
+      <Placemark id="_2fa2f079.1">
+        <description>Форт-Шевченко, гор., в 30,5 км
+к юго-вост. от него,в 3.0 км
+к сев.-зап. от разв.Каратон, в
+20 м к югу от дороги.
+Контрольный репер- в стенке
+трубы.</description>
+        <ExtendedData>
+          <SchemaData schemaUrl="#_2fa2f079.schema">
+            <SimpleData name="title">51</SimpleData>
+            <SimpleData name="ext_sign">грунт.реп.</SimpleData>
+            <SimpleData name="class_lvl">2</SimpleData>
+            <SimpleData name="center_type">Б</SimpleData>
+            <SimpleData name="lvl_line">Линия нивелирования П класса Кендырли(фунд.реп1501) - Жармыш(фунд.реп.80)
+Участок от грунт.реп.1650 до грунт.реп.1639.</SimpleData>
+            <SimpleData name="guid">2fa2f079-0944-4a2c-89d5-ecb6a56b6ada</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            50.6571260161349,44.4749087342707,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

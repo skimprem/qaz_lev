@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="3064163d" id="3064163d">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>3064163d</name>
+  <Placemark id="3064163d.1">
+	<name>7943</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#3064163d">
+		<SimpleData name="type">3</SimpleData>
+		<SimpleData name="ext_sign">-15,413</SimpleData>
+		<SimpleData name="ctrl_place">15</SimpleData>
+		<SimpleData name="mark_num">Линия III класса: грунт. реп. 3647-грунт. реп. 4404</SimpleData>
+		<SimpleData name="center_type">Кошалак, с., в 29,5 км к юго-зап. от него, в 1,8 км к сев.-зап. от разв. Тасгали, в 70 м к вост. от полевой дороги</SimpleData>
+		<SimpleData name="lvl_line">3064163d-7308-4547-82cc-0a095538bb8e</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>48.6803615288621,47.2182243308675</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

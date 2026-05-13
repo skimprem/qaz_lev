@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2186362e" id="2186362e">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>2186362e</name>
+  <Placemark id="2186362e.1">
+	<name>2006</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#2186362e">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="ext_sign">284.033</SimpleData>
+		<SimpleData name="ctrl_place">160 оп</SimpleData>
+		<SimpleData name="center_type">Колутон, станц., в 4.5 км к сев.-зап..от нее, на 3ПК 650 км жел-дор., в 79 м к юго-вост.от б.стб. № 484, в 75 м к югу от жел-дор. полотна. </SimpleData>
+		<SimpleData name="lvl_line">2186362e-a14d-4c8a-8428-3c2ea35a4ed4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>69.3562799403077,51.7588003631357</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

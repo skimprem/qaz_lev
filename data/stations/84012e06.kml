@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="84012e06" id="84012e06">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>84012e06</name>
+  <Placemark id="84012e06.1">
+	<name>А-9</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#84012e06">
+		<SimpleData name="height_ctrl">530</SimpleData>
+		<SimpleData name="lvl_line">84012e06-1ca1-4d63-87a5-0d7af5a0b436</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>49.2320290116715,50.3637441130979</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

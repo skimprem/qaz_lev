@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="aefe2bdf" id="aefe2bdf">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>aefe2bdf</name>
+  <Placemark id="aefe2bdf.1">
+	<name>17</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#aefe2bdf">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="ext_sign">349,656</SimpleData>
+		<SimpleData name="ctrl_place">160оп</SimpleData>
+		<SimpleData name="mark_num">Линия №1: Сарыкияк - Степное, II класс (1)  Участок: грунт.реп.2 - грунт.реп. 10974</SimpleData>
+		<SimpleData name="center_type">Кумдыколь, оз., в 3,7 км к юго-вост. от него, в 3,1 км к сев.-зап. от зим.Оспанши, в 0,1 км к зап.от пересыхающего русла</SimpleData>
+		<SimpleData name="lvl_line">aefe2bdf-58ad-44c8-abf7-2e92c6dc56bc</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>74.7750443582423,51.0291158158906</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

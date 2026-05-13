@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="da85ca23" id="da85ca23">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>da85ca23</name>
+  <Placemark id="da85ca23.1">
+	<name>692</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#da85ca23">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="ext_sign">123.778</SimpleData>
+		<SimpleData name="ctrl_place">160</SimpleData>
+		<SimpleData name="mark_num">Линия № 3: Золоторунное - Чистовское. II класс Участок: грунт. реп. б/№ - марка 3139</SimpleData>
+		<SimpleData name="center_type">Чистовское, с., в 0.8 км к юго-вост. от него, в 1.3 км к зап. от улучш. грунт, дороги с. Чистовское - с. Узьшколь, в 0.1 км к сев.-зап. от сев.-вост. угла водохранилища, в сев. конце лесополосы</SimpleData>
+		<SimpleData name="lvl_line">da85ca23-c986-4b03-bb74-686dc0dac871</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>70.6353882123014,54.8850455741599</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

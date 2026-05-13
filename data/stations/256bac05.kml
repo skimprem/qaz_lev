@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="256bac05" id="256bac05">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>256bac05</name>
+  <Placemark id="256bac05.1">
+	<name>213</name>
+	<ExtendedData><SchemaData schemaUrl="#256bac05">
+		<SimpleData name="title">Грунт. Реп.</SimpleData>
+		<SimpleData name="ctrl_place">160</SimpleData>
+		<SimpleData name="lvl_line">256bac05-2e67-4e6d-a067-85c08793983d</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>52.01928438,50.70283953</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

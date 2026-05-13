@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="f94953ca" name="f94953ca">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Schema id="f94953ca.schema">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Document id="f94953ca">
+      <name>f94953ca</name>
+      <Placemark id="f94953ca.1">
+        <description>Жарык, станц., в 2,5км к юго-зап. от неё, на 6 ПК 855 км, в 0.1 км к зап. от ж.д. полотна,в 15 м к вост. от опоры ЛЭП</description>
+        <ExtendedData>
+          <SchemaData schemaUrl="#f94953ca.schema">
+            <SimpleData name="title">3298</SimpleData>
+            <SimpleData name="type">скальный репер</SimpleData>
+            <SimpleData name="class_lvl">1</SimpleData>
+            <SimpleData name="height_lvl">658.364</SimpleData>
+            <SimpleData name="center_type">99</SimpleData>
+            <SimpleData name="lvl_line">Линия № 2:Жарык-Моинты, Iкласс(2).Участок:фунд.реп.89-грунт. реп.6262</SimpleData>
+            <SimpleData name="guid">f94953ca-d456-4fd1-bfe0-9b6609393ecd</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            72.8250814060994,48.8376078314994,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

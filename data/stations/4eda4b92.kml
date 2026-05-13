@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="4eda4b92" id="4eda4b92">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>4eda4b92</name>
+  <Placemark id="4eda4b92.1">
+	<name>Теренколь</name>
+	<description>сигнал</description>
+	<ExtendedData><SchemaData schemaUrl="#4eda4b92">
+		<SimpleData name="type">4</SimpleData>
+		<SimpleData name="ext_sign">110,806</SimpleData>
+		<SimpleData name="ctrl_place">1</SimpleData>
+		<SimpleData name="mark_num">Линия: грунт. реп.2967-пир.-штатив Степная, IV класс </SimpleData>
+		<SimpleData name="lvl_line">4eda4b92-0f1e-4572-bc39-613529e8ccf9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>74.8530305567022,53.6689791852753</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

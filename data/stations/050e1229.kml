@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="050e1229" id="050e1229">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>050e1229</name>
+  <Placemark id="050e1229.1">
+	<name>206</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#050e1229">
+		<SimpleData name="title">грунт. реп.</SimpleData>
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="ext_sign">191,423</SimpleData>
+		<SimpleData name="ctrl_place">160 оп.</SimpleData>
+		<SimpleData name="mark_num">Линия № 2 Иргиз (фунд.реп.7707) - Толыбай (фунд.реп.3780)</SimpleData>
+		<SimpleData name="center_type">Бадам,зим., 29,0км к сев.от нее, 2,3км
+к сев. -вост. от п.тр. Темирбай, 12,0м к
+вост.от дороги с.Иргиз-с. Саоыбулак,
+1,3м к сев.от оп.стб.</SimpleData>
+		<SimpleData name="lvl_line">050e1229-0582-4715-ac24-1cabde6df2e4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>61.34594091,49.27835876</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

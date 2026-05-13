@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="3072450f" id="3072450f">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>3072450f</name>
+  <Placemark id="3072450f.1">
+	<name>Контур</name>
+	<description>пирамида</description>
+	<ExtendedData><SchemaData schemaUrl="#3072450f">
+		<SimpleData name="type">4</SimpleData>
+		<SimpleData name="ext_sign">419,925</SimpleData>
+		<SimpleData name="mark_num">Линия № 29: грунт. реп.248-пир. I кл. северный конец базиса, IV класс (12)</SimpleData>
+		<SimpleData name="center_type">Ферма №3 свх. Ульгули-Малыши, в 8.5 км к юго-вост. от нее, в 8.0 км к сев.-вост. от зимовки, в 2.5 км к юго-зап. от дороги ферма №3 свх. Ульгули-Малыши-ОТФ Камышовая</SimpleData>
+		<SimpleData name="lvl_line">3072450f-2660-4821-b920-110b0772ffbd</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>83.18794301198,48.50735553402</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

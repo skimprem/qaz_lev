@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="e50c4fc9" id="e50c4fc9">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>e50c4fc9</name>
+  <Placemark id="e50c4fc9.1">
+	<name>Вековой реп. Кызылорда</name>
+	<description>вековой репер</description>
+	<ExtendedData><SchemaData schemaUrl="#e50c4fc9">
+		<SimpleData name="ctrl_place">175</SimpleData>
+		<SimpleData name="center_type">Кызылорда, с., восточная часть города, в 0.8 км к юго- востоку от кольцевого перекрестка дорог, в
+0.3 км в сев.-вост. от шоссе г. Кызылорда-г. Туркестан, в 0.3 км к северу от АЗС
+</SimpleData>
+		<SimpleData name="lvl_line">e50c4fc9-6324-4e00-aa35-4d614cc9f636</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>65.5661916666666,44.8255111111111</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

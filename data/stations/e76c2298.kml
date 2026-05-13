@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="e76c2298" id="e76c2298">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>e76c2298</name>
+  <Placemark id="e76c2298.1">
+	<name>0539</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#e76c2298">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="ext_sign">2,997</SimpleData>
+		<SimpleData name="ctrl_place">160 оп знак</SimpleData>
+		<SimpleData name="mark_num">Линия II класса: Богдо-Нов.Уштаган-Малый Арал</SimpleData>
+		<SimpleData name="center_type">Азгир, с., центр фермы № 3, в 19,0 км к вост. от него, в 0,3 км к сев. от линии связи, в 49 м к сев.от улучшенной грунтовой дороги</SimpleData>
+		<SimpleData name="lvl_line">e76c2298-810f-4cb6-9fcc-902eebc4097a</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>48.1538519597466,47.8504107903956</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

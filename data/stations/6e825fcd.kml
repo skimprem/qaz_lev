@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="6e825fcd" id="6e825fcd">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>6e825fcd</name>
+  <Placemark id="6e825fcd.1">
+	<name>2470</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#6e825fcd">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="ext_sign">193.453</SimpleData>
+		<SimpleData name="class_lvl">191.993</SimpleData>
+		<SimpleData name="ctrl_place">121 оп</SimpleData>
+		<SimpleData name="center_type">Рахмет, с., в 18.2 км к сев.-вост.от него, в 1.8 км к зап.от кладбища у оз.Узынколь, в 37 м  к зап.от дороги с.Амангельды-с.Байконур.</SimpleData>
+		<SimpleData name="lvl_line">6e825fcd-562a-406c-97de-bf335744a980</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>65.4050100481466,49.4093705231662</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

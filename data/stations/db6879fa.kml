@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="db6879fa" id="db6879fa">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>db6879fa</name>
+  <Placemark id="db6879fa.1">
+	<name>2977</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#db6879fa">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="ext_sign">50.170</SimpleData>
+		<SimpleData name="ctrl_place">160</SimpleData>
+		<SimpleData name="mark_num">Линия нивелирования 1 класса Уральск-Жанибек</SimpleData>
+		<SimpleData name="center_type">Перементная, станцю, в 9.4км к сев.-вост.от нее, на 10пк 1258км жел.дороги Саратов-Уральск, в 47м к югу от оси жел.-дор.полотна, в 45м к юо-вост.от стб.связи 314/50</SimpleData>
+		<SimpleData name="lvl_line">db6879fa-9ce2-48d3-8d0c-9727c5946f8f</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>50.9541686596651,51.2429952722663</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

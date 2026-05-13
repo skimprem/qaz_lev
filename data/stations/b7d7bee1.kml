@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="b7d7bee1" name="b7d7bee1">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Schema id="b7d7bee1.schema">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Document id="b7d7bee1">
+      <name>b7d7bee1</name>
+      <Placemark id="b7d7bee1.1">
+        <description>Каракольмола,кладб.,в 7,0 км к зап .от него,в 2,7 км к юго-вост.от сора,в 0,2 км к зап.от развилки полевых дорог</description>
+        <ExtendedData>
+          <SchemaData schemaUrl="#b7d7bee1.schema">
+            <SimpleData name="title">555</SimpleData>
+            <SimpleData name="type">грунтовый репер</SimpleData>
+            <SimpleData name="class_lvl">2</SimpleData>
+            <SimpleData name="height_lvl">82,482</SimpleData>
+            <SimpleData name="height_ctrl">81,333</SimpleData>
+            <SimpleData name="ctrl_place">Контрольный репер № 1268 в верхней плоскости монолита</SimpleData>
+            <SimpleData name="center_type">121оп</SimpleData>
+            <SimpleData name="lvl_line">Линия № 3 Урочище Таскабак-Казбек. II класс (3)
+</SimpleData>
+            <SimpleData name="guid">b7d7bee1-aa5b-4e7b-a045-aa7fbd6d1110</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            55.3971701550105,46.9184418931585,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

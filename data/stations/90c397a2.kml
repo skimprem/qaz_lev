@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="90c397a2" id="90c397a2">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>90c397a2</name>
+  <Placemark id="90c397a2.1">
+	<name>3269</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#90c397a2">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="ext_sign">-10,420</SimpleData>
+		<SimpleData name="ctrl_place">160 оп знак</SimpleData>
+		<SimpleData name="mark_num">Линия II класса: Богдо-Нов.Уштаган-Малый Арал</SimpleData>
+		<SimpleData name="center_type">Кошалак, с., в 21,0 км к сев.-зап. от него, в 0,2 км к сев. от кладб. Жигалган, в 0,2 км к зап. от полевой дороги</SimpleData>
+		<SimpleData name="lvl_line">90c397a2-6119-4640-ac8d-59107cfdbe2c</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>48.7162385165889,47.4276351570171</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

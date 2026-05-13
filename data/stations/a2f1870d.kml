@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="a2f1870d" id="a2f1870d">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>a2f1870d</name>
+  <Placemark id="a2f1870d.1">
+	<name>XV</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#a2f1870d">
+		<SimpleData name="height_ctrl">XV</SimpleData>
+		<SimpleData name="ctrl_place">162 оп</SimpleData>
+		<SimpleData name="mark_num"></SimpleData>
+		<SimpleData name="center_type">0.2 км к се.-зап. от пересыхающего русла р. Кусак, 2.2 км в юго-зап. от с. Татан, 1.1 км к юго-вост. от дороги с.Татан-с.Береке</SimpleData>
+		<SimpleData name="lvl_line">a2f1870d-c440-4d24-b837-14fb58330eab</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>76.6858566666667,48.683505</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

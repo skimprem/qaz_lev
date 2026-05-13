@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="c512e777" id="c512e777">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>c512e777</name>
+  <Placemark id="c512e777.1">
+	<name>2491</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#c512e777">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="ext_sign">440.825</SimpleData>
+		<SimpleData name="ctrl_place">160</SimpleData>
+		<SimpleData name="mark_num">Линия: Шыганши-Бугаз-Белая-Школа-Боран-Улькен Нарын, II класс (2)
+Участок: фунд.реп. 5491 – грунт.реп. 1486</SimpleData>
+		<SimpleData name="center_type">Боран,с., в 10.0 км к юго-зап. от него, в 3.7 км к юго-вост. от моста через р.Синьцзян, в 71 м к юго-зап. от пересечения полевых дорог, в 16 м к зап. от полевой дороги.</SimpleData>
+		<SimpleData name="lvl_line">c512e777-a7d6-40ab-b40d-9f5a008e8e84</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>85.1095812710558,47.9308056660819</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

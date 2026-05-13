@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="3db98547" id="3db98547">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>3db98547</name>
+  <Placemark id="3db98547.1">
+	<name>8066</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#3db98547">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="ext_sign">284,915</SimpleData>
+		<SimpleData name="mark_num">Ход от грунт. реп. 2099 до грунт. реп. 8286. 2 класс (2) Участок: грунт. реп. 8109 - грунт. реп. 1664</SimpleData>
+		<SimpleData name="center_type">Батсай, мог., в 5.0 км к юго-зап. от неё, в 10 м к сев.-зап. от ЛЭП, к югу от грунт, дороги с. Киши Камкалы -с. Сарыозек</SimpleData>
+		<SimpleData name="lvl_line">3db98547-e8dc-4b19-9473-14ca8466437a</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>71.8040285549356,44.6488005301824</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="fcc4744c" id="fcc4744c">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>fcc4744c</name>
+  <Placemark id="fcc4744c.1">
+	<name>2166_0</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#fcc4744c">
+		<SimpleData name="height_ctrl">2166</SimpleData>
+		<SimpleData name="ctrl_place">160оп.</SimpleData>
+		<SimpleData name="center_type">Жанаорталык, с., в 9,3 км м к сев.-зап. от него, в 52,6 м к юго-зап от съезда дороги г.Балхаш – с.Актогай.
+</SimpleData>
+		<SimpleData name="lvl_line">fcc4744c-19fa-4dc7-b8e6-f0b47a437069</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.5618287070319,47.6584150262022</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

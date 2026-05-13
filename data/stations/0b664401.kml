@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="0b664401" id="0b664401">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>0b664401</name>
+  <Placemark id="0b664401.1">
+	<name>Марка </name>
+	<ExtendedData><SchemaData schemaUrl="#0b664401">
+		<SimpleData name="center_type">На водонапорной башне</SimpleData>
+		<SimpleData name="lvl_line">0b664401-ffd0-4c5b-9e7a-2e7947f71e14</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>46.8385327172996,49.4236358693726</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

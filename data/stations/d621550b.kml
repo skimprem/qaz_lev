@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="d621550b" id="d621550b">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>d621550b</name>
+  <Placemark id="d621550b.1">
+	<name>0005</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#d621550b">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="ext_sign">119,513</SimpleData>
+		<SimpleData name="ctrl_place">121 оп знак</SimpleData>
+		<SimpleData name="mark_num">Линия:Айбас-Кобенсай,II класс Участок:фунд. реп. 180-фунд. реп.3217</SimpleData>
+		<SimpleData name="center_type">Аккудык, а., в 15 км к сев.-вост. от него, в 130 м к вост. от сопки, в 95 м к югу от развилки пол. дорог</SimpleData>
+		<SimpleData name="lvl_line">d621550b-5185-4c47-bb51-75699a17b7f4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.5035352648561,53.2339946933583</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

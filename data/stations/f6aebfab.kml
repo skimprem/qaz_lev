@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="f6aebfab" id="f6aebfab">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>f6aebfab</name>
+  <Placemark id="f6aebfab.1">
+	<name>Айтеке</name>
+	<description>пирамида</description>
+	<ExtendedData><SchemaData schemaUrl="#f6aebfab">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="ext_sign">128,226</SimpleData>
+		<SimpleData name="ctrl_place">1</SimpleData>
+		<SimpleData name="mark_num">Линия:Волотовка-Чапаевский, II класс Участок: грунт. реп. 2859-фунд. реп. 156</SimpleData>
+		<SimpleData name="lvl_line">f6aebfab-05a8-42c8-80ba-8aedf8831c1e</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>74.1022341339221,53.1078569113988</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

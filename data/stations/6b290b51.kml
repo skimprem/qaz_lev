@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="6b290b51" name="6b290b51">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Schema id="_6b290b51.schema">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Document id="_6b290b51">
+      <name>6b290b51</name>
+      <Placemark id="_6b290b51.1">
+        <description>Кендырлымола,кладб.,в 12.0 км к сев-зап.от него,в 38 м к зап.от дороги.Компрессорная станция №11 -гор.Комсомольск-на-Устюрте,в 15 м к югу от оврага</description>
+        <ExtendedData>
+          <SchemaData schemaUrl="#_6b290b51.schema">
+            <SimpleData name="title">1146</SimpleData>
+            <SimpleData name="type">грунтовый репер</SimpleData>
+            <SimpleData name="class_lvl">1</SimpleData>
+            <SimpleData name="height_lvl">161.808</SimpleData>
+            <SimpleData name="height_ctrl">160,678</SimpleData>
+            <SimpleData name="ctrl_place">контрольный репер в верхней плоскости монолита</SimpleData>
+            <SimpleData name="center_type">121оп</SimpleData>
+            <SimpleData name="lvl_line">Линия № 1: Бегимбет-Кендырлымола. 1 класс (2)
+Участок: грунт. реп. 1389 - фунд. реп. 2264</SimpleData>
+            <SimpleData name="guid">6b290b51-59fb-4be1-bcbf-80caac1f9987</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            58.3146327181128,46.7709960126281,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

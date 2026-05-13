@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="6701825a" id="6701825a">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>6701825a</name>
+  <Placemark id="6701825a.1">
+	<name>2405</name>
+	<description>фун.репер</description>
+	<ExtendedData><SchemaData schemaUrl="#6701825a">
+		<SimpleData name="ctrl_place">161оп</SimpleData>
+		<SimpleData name="center_type">Аккудук, с., в 3,1 км югу от него, в 1,03 км к югу от дороги с.Аулиеколь-с.Жолдама, возле полевой дороги.</SimpleData>
+		<SimpleData name="lvl_line">6701825a-1c1e-4079-8bcc-93c2de60374d</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>64.179349131942,52.1999987075595</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

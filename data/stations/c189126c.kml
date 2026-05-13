@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="c189126c" id="c189126c">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>c189126c</name>
+  <Placemark id="c189126c.1">
+	<name>2593</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#c189126c">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="ext_sign">298,547</SimpleData>
+		<SimpleData name="ctrl_place">160 оп.знак</SimpleData>
+		<SimpleData name="mark_num">Ход от грунт. реп. 2099 до грунт. реп. 8286;  II класс                      Участок: грунт. реп. 2099 - пир. 3 кл. Отгон</SimpleData>
+		<SimpleData name="center_type">Сарыозек, с., в 1,2 км к вост. от него, в 0,7 км к зап. от оз. Копбай, в 34 м к сев. От дороги с.Сарыозек-с.Байтал</SimpleData>
+		<SimpleData name="lvl_line">c189126c-013b-43f6-88c5-11340016da7f</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.1480955818929,44.6205852620728</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

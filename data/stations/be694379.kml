@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="be694379" id="be694379">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>be694379</name>
+  <Placemark id="be694379.1">
+	<name>Круглый</name>
+	<description>пирамида</description>
+	<ExtendedData><SchemaData schemaUrl="#be694379">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="ext_sign">344.075</SimpleData>
+		<SimpleData name="ctrl_place">99 оп</SimpleData>
+		<SimpleData name="mark_num">Линия № 4 : грунт.реп.873 - грунт.реп. 4312, II класс</SimpleData>
+		<SimpleData name="center_type">Ашик,  зим., в 1.7 км к сев. от нее, в 0.6 км к зап. от дороги зим.Ашик-с.Каинды.</SimpleData>
+		<SimpleData name="lvl_line">be694379-aa96-4f56-955e-97b5fe7bae62</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>58.9765412933703,48.6605355020797</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

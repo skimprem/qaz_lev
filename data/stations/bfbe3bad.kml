@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="bfbe3bad" name="bfbe3bad">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Schema id="bfbe3bad.schema">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Document id="bfbe3bad">
+      <name>bfbe3bad</name>
+      <Placemark id="bfbe3bad.1">
+        <description>Кумколь. вахт.пос.. в 8.3 км к юго-зап.от него. в 3.7 км к сев.-вост.от арт.к. Мустафа 2-й. в 22 м к сев.от пов.полевой дороги. на небольшом бугре</description>
+        <ExtendedData>
+          <SchemaData schemaUrl="#bfbe3bad.schema">
+            <SimpleData name="title">4575</SimpleData>
+            <SimpleData name="type">грунтовый репер</SimpleData>
+            <SimpleData name="ext_sign">грунт. реп.</SimpleData>
+            <SimpleData name="class_lvl">2</SimpleData>
+            <SimpleData name="height_lvl">100.65</SimpleData>
+            <SimpleData name="center_type">162 оп</SimpleData>
+            <SimpleData name="lvl_line">Линия №3:  Развалины Пикета №8 - Сарысу. 2 класс. Участок: фунд.реп.. 520 - грунт.реп. 1842</SimpleData>
+            <SimpleData name="guid">bfbe3bad-c53a-411d-b42e-50c570f04196</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            65.6284205333673,46.386000654783,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

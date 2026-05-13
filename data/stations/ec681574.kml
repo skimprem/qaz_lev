@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="ec681574" id="ec681574">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>ec681574</name>
+  <Placemark id="ec681574.1">
+	<name>8239</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#ec681574">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="ext_sign">-23,704</SimpleData>
+		<SimpleData name="ctrl_place">160 оп знак</SimpleData>
+		<SimpleData name="mark_num">Линия 1 класса: Атырау-Доссор Участок: фунд. реп. 9167-грунт. реп. 118</SimpleData>
+		<SimpleData name="center_type">Карабатан, раз., в 6.7 км к сев.-вост. от него, на 4 пк 476 км жел. дороги, в 0.3 км к вост, от землянки, в 58 м к сев.-зап. от оси жел.-дор. полотна, в 39 м к юго-зап. и 28 м к юго-вост. от тлф. стб. № 876 и №875</SimpleData>
+		<SimpleData name="lvl_line">ec681574-2db9-49e1-894b-d55ce5635d33</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>52.387023356798,47.3067584057475</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

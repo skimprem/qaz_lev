@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="03826850" id="03826850">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>03826850</name>
+  <Placemark id="03826850.1">
+	<name>299</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#03826850">
+		<SimpleData name="title">грунт. реп.</SimpleData>
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="ext_sign">214,18</SimpleData>
+		<SimpleData name="ctrl_place">160 оп.</SimpleData>
+		<SimpleData name="mark_num">Линия № 2 Иргиз (фунд.реп.7707) - Толыбай (фунд.реп.3780)</SimpleData>
+		<SimpleData name="center_type">Шаяхмет, зим.,3,5км к вост.от нее,О,5км
+к сев.-зап.-зап.от мог. 25м к сев.-
+зап.от пол. дороги,1,2км к сев.-вост. от оп.стб.</SimpleData>
+		<SimpleData name="lvl_line">03826850-bcaf-4c29-be65-21c9f455a99c</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>61.51620245,49.72341085</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

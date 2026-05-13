@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="81471506" id="81471506">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>81471506</name>
+  <Placemark id="81471506.1">
+	<name>418</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#81471506">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="ext_sign">1,109</SimpleData>
+		<SimpleData name="ctrl_place">15 оп  знак</SimpleData>
+		<SimpleData name="mark_num">Линия II класса: Богдо-Нов.Уштаган-Малый Арал</SimpleData>
+		<SimpleData name="center_type">Кошалак, с., в 17,0 км к сев.-зап. от него, в 2,0 км к вост. от кладб. Бек-мухамбетов, в 0,5 км к зап. от полевой дороги</SimpleData>
+		<SimpleData name="lvl_line">81471506-e867-4836-b658-9991bce58c72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>48.7870836495704,47.4766990169105</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

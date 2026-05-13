@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="ae2779af" id="ae2779af">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>ae2779af</name>
+  <Placemark id="ae2779af.1">
+	<name>Алаяк</name>
+	<description>пир.</description>
+	<ExtendedData><SchemaData schemaUrl="#ae2779af">
+		<SimpleData name="type">3</SimpleData>
+		<SimpleData name="ext_sign">-9.664 марка № 919</SimpleData>
+		<SimpleData name="ctrl_place">15</SimpleData>
+		<SimpleData name="mark_num">Линия нивелирования II класса на объекте &quot;Баван-Зелёный, Актонук-Баван, Баван-Керей&quot; 06.03.1751</SimpleData>
+		<SimpleData name="center_type">с. Карасыр, в 13,3 км к вост. от него, в 4,3 км к сев.-вост. от зимовки с колодцем, в 1,5 км к зап. от развалин.</SimpleData>
+		<SimpleData name="lvl_line">ae2779af-8a15-427b-b1b7-7d598f1da3a2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>50.0610741229484,47.4573379697468</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

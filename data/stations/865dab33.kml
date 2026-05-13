@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="865dab33" id="865dab33">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>865dab33</name>
+  <Placemark id="865dab33.1">
+	<name>42</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#865dab33">
+		<SimpleData name="title">грунт. реп.</SimpleData>
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="class_lvl">465,532</SimpleData>
+		<SimpleData name="height_lvl">463,737</SimpleData>
+		<SimpleData name="height_ctrl">репер в верхней плоскости монолита</SimpleData>
+		<SimpleData name="ctrl_place">118</SimpleData>
+		<SimpleData name="mark_num">Линия № I: Георгиевка -Чиганчи, II класс (4) Участок: грунт. реп. 62 -грунт. реп. 51</SimpleData>
+		<SimpleData name="center_type">Кособа, с., в 3.9 км к юго -зап. от него, в 2.7 км к сев. -зап. от мог. Шокабай, в 55 м к вост. от дороги</SimpleData>
+		<SimpleData name="lvl_line">865dab33-e83e-4e53-bca6-9b5775ae5a19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>82.6366592382939,48.5721413863388</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

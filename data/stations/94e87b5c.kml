@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="94e87b5c" name="94e87b5c">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Schema id="_94e87b5c.schema">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Document id="_94e87b5c">
+      <name>94e87b5c</name>
+      <Placemark id="_94e87b5c.1">
+        <description>Шевченко, гор., в 31.0 км к юго-вост.от него, в 1.2 км к юго-вост.от триг.пункта Жантонат, в 20м к западу от старой дороги гор.Шевченко-пгт.Ералиев</description>
+        <ExtendedData>
+          <SchemaData schemaUrl="#_94e87b5c.schema">
+            <SimpleData name="title">1642</SimpleData>
+            <SimpleData name="type">фундаментальный репер</SimpleData>
+            <SimpleData name="class_lvl">1</SimpleData>
+            <SimpleData name="height_lvl">10.105</SimpleData>
+            <SimpleData name="height_ctrl">11.688</SimpleData>
+            <SimpleData name="ctrl_place">Контрольный репер №516 в верхней плоскоти монолита</SimpleData>
+            <SimpleData name="center_type">119 оп</SimpleData>
+            <SimpleData name="lvl_line">Линия : фунд.реп.1642-грунт.реп.1672, 1 класс</SimpleData>
+            <SimpleData name="guid">94e87b5c-747c-4f9a-b6b3-e6f647bcbb1e</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            51.4790252530964,43.4049380709221,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

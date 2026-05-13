@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="abc9c0bf" id="abc9c0bf">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>abc9c0bf</name>
+  <Placemark id="abc9c0bf.1">
+	<name>3579</name>
+	<ExtendedData><SchemaData schemaUrl="#abc9c0bf">
+		<SimpleData name="title">грунтовый репер</SimpleData>
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="ext_sign">740,755</SimpleData>
+		<SimpleData name="ctrl_place">160оп</SimpleData>
+		<SimpleData name="mark_num">Линия №2: Актогай - Акчатау, II класс (1)  Участок: фунд.реп. 4072 - грунт. реп. 6736</SimpleData>
+		<SimpleData name="center_type">Нуркен, с., в 0,3 км к сев.-вост. от него, в 0,2 км к сев.-зап. от дороги с. Актогай - с. Акчатау, в 0,2 км кюгу от вод. поста</SimpleData>
+		<SimpleData name="lvl_line">abc9c0bf-967b-491d-b5a8-a246d4bb57e0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>74.5668895530788,48.1082075747761</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

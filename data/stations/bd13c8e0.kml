@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="bd13c8e0" name="bd13c8e0">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Schema id="bd13c8e0.schema">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Document id="bd13c8e0">
+      <name>bd13c8e0</name>
+      <Placemark id="bd13c8e0.1">
+        <description>12</description>
+        <ExtendedData>
+          <SchemaData schemaUrl="#bd13c8e0.schema">
+            <SimpleData name="title">Дувана</SimpleData>
+            <SimpleData name="type">пирамида</SimpleData>
+            <SimpleData name="class_lvl">2</SimpleData>
+            <SimpleData name="height_lvl">184,103</SimpleData>
+            <SimpleData name="ctrl_place">43</SimpleData>
+            <SimpleData name="mark_num">Линия № 3: Сарысу-Кендырлык (Айгарлык), II класс (1) Участок: грунт, реп. 9741 - пир. 2 кл. Кокпекты</SimpleData>
+            <SimpleData name="lvl_line">L-42-76-А</SimpleData>
+            <SimpleData name="guid">bd13c8e0-fb7c-4d4d-8207-2c8b862645d1</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            67.600001551179,45.9957188740564,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

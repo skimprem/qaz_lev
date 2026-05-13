@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="db790bb8" id="db790bb8">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>db790bb8</name>
+  <Placemark id="db790bb8.1">
+	<name>4</name>
+	<description>скальный репер</description>
+	<ExtendedData><SchemaData schemaUrl="#db790bb8">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="ext_sign">882,151</SimpleData>
+		<SimpleData name="class_lvl">881706/     881,416</SimpleData>
+		<SimpleData name="height_lvl">Контрольный репер в верхней плоскости монолита/ Контрольный репер в скале</SimpleData>
+		<SimpleData name="ctrl_place">111оп</SimpleData>
+		<SimpleData name="mark_num">Линия №3: Актогай-Каркаралинск, II класс (3) Участок: ск. реп.5968 -ск.реп. 9045</SimpleData>
+		<SimpleData name="center_type">Милыбулак, с., на южной окраине его, в 50 м к сев.-зап. от родника, в 25 м к зап. от дороги гор. Каркаралинск-с. Актогай</SimpleData>
+		<SimpleData name="lvl_line">db790bb8-421b-407e-b2f6-8f0662f719a2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.2334542307335,48.9026168327928</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

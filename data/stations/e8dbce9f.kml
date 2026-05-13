@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="e8dbce9f" id="e8dbce9f">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>e8dbce9f</name>
+  <Placemark id="e8dbce9f.1">
+	<name>1001</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#e8dbce9f">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="ext_sign">567.835</SimpleData>
+		<SimpleData name="ctrl_place">160</SimpleData>
+		<SimpleData name="center_type">Белагаш, с., в 15.6 км к юго-западу от его окраины, в 260 метрах к северо-востоку от км.стб. 4/76, в 39 метрах от шоссе по направлению к с.Бесагаш.</SimpleData>
+		<SimpleData name="lvl_line">e8dbce9f-113e-4244-886b-efbd1e636dd6</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>74.0912539113979,49.9977223209084</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

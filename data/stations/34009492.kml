@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="34009492" id="34009492">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>34009492</name>
+  <Placemark id="34009492.1">
+	<name>2124</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#34009492">
+		<SimpleData name="ctrl_place">160 оп</SimpleData>
+		<SimpleData name="center_type">Тайконур, с., в 45,5 км к юго-зап. от него,в 13.1 км к юго-зап. от дороги с. Шиели-с. Тайконыр,  с южной стороны полевой дороги
+</SimpleData>
+		<SimpleData name="lvl_line">34009492-3b53-40cd-85c6-6fe3dca76ad7</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.2196561111111,44.8530163888889</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

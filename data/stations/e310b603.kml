@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="e310b603" id="e310b603">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>e310b603</name>
+  <Placemark id="e310b603.1">
+	<name>2329</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#e310b603">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="ext_sign">264.202</SimpleData>
+		<SimpleData name="ctrl_place">160</SimpleData>
+		<SimpleData name="center_type">Алгабас, с., в 5.3 км к зап. от него, в 3.4 км к сев.-зап. от развалин с.Манен, в 3.2 км к юго-вост. от п.тр.Изгиб, в 247 м к сев. от загона, в 31 м к сев. от излучины реки.</SimpleData>
+		<SimpleData name="lvl_line">e310b603-2035-49d3-be54-b4b96d004d55</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.7937278953068,51.5790482215332</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

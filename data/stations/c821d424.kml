@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="c821d424" id="c821d424">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>c821d424</name>
+  <Placemark id="c821d424.1">
+	<name>5370</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#c821d424">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="ext_sign">131,798</SimpleData>
+		<SimpleData name="ctrl_place">161 оп. знак</SimpleData>
+		<SimpleData name="mark_num">Линия № 1: Кызылорда - Торетоган, 1 класс (1) Участок: грунт. реп. 681 - грунт. реп. 1112</SimpleData>
+		<SimpleData name="center_type">Акжайкын, оз., в 8.0 км к югу от него, в 1.3 км к юго-зап. от к. Бестамак, в 40 м к вост. полевой дороги</SimpleData>
+		<SimpleData name="lvl_line">c821d424-0e0c-4d2e-8262-7679b47b339b</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.7768863358025,44.8647486043451</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

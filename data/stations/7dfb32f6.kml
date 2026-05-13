@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="7dfb32f6" id="7dfb32f6">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>7dfb32f6</name>
+  <Placemark id="7dfb32f6.1">
+	<name>6903</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#7dfb32f6">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="ext_sign">136.352</SimpleData>
+		<SimpleData name="ctrl_place">161</SimpleData>
+		<SimpleData name="center_type">Мукыр., с., в 5.6 км к юго-вост. от него, в 1.0 км от п.тр. Татимек, в 0.9 км к вост. от оз.Сор, в 100 м к вост. от полевой дороги.</SimpleData>
+		<SimpleData name="lvl_line">7dfb32f6-8e85-4888-be07-8b426666500f</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>64.8551957961947,50.5176109143431</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="02209601" id="02209601">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>02209601</name>
+  <Placemark id="02209601.1">
+	<name>749</name>
+	<ExtendedData><SchemaData schemaUrl="#02209601">
+		<SimpleData name="title">грунт.реп.</SimpleData>
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="ext_sign">373.527</SimpleData>
+		<SimpleData name="class_lvl">371.038</SimpleData>
+		<SimpleData name="height_lvl">верхней плоскости монолита</SimpleData>
+		<SimpleData name="ctrl_place">123</SimpleData>
+		<SimpleData name="mark_num">Линия № 2: Макинск - Байулесты, II класс Участок: стен.реп. 0444 -грунт.реп. 7944</SimpleData>
+		<SimpleData name="center_type">Степняк, гор., в 12.9 км к юго-зап. от него, в 45 м к юго-вост. от шоссе гор. Макинск - гор. Степняк, в 26 м к юго-зап. от стб. ЛЭП 220 кВ №119</SimpleData>
+		<SimpleData name="lvl_line">02209601-7c2f-4f7b-acae-fe372a5bbcfa</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>70.6371896383549,52.7364915320074</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

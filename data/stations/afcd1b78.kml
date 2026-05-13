@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="afcd1b78" id="afcd1b78">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>afcd1b78</name>
+  <Placemark id="afcd1b78.1">
+	<name>1230</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#afcd1b78">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="ext_sign">275.583</SimpleData>
+		<SimpleData name="ctrl_place">160 оп</SimpleData>
+		<SimpleData name="center_type">Атбасар, гор., в 1.2 км к юго-вост. от него, в 0.7 км к юго-вост. от моста через р.Жабай, в 55 м к югу от дороги г.Кокшетау-гор.Атбасар, между второй и третьей ЛЭП 10 кВт.</SimpleData>
+		<SimpleData name="lvl_line">afcd1b78-3364-4870-96c5-e3d94581e497</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>68.3592626194478,51.7828304466526</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

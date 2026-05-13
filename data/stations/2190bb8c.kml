@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2190bb8c" id="2190bb8c">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>2190bb8c</name>
+  <Placemark id="2190bb8c.1">
+	<name>ГО-41</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#2190bb8c">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="ext_sign">130,961</SimpleData>
+		<SimpleData name="ctrl_place">160 оп. знак</SimpleData>
+		<SimpleData name="mark_num">Линия № 1: Кызылорда - Торетоган, 1 класс (1) Участок: грунт. реп. 681 - грунт. реп. 1112</SimpleData>
+		<SimpleData name="center_type">Алхан, к., в 2.8 км к зап. от него, в 0.3 км к сев.-вост. от к. Сактапберген. в 20 м к сев. от полевой дороги</SimpleData>
+		<SimpleData name="lvl_line">2190bb8c-69d7-4413-a3e6-dfec99b193bf</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0602066897094,44.8800159667988</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

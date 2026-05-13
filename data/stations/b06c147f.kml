@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="b06c147f" id="b06c147f">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>b06c147f</name>
+  <Placemark id="b06c147f.1">
+	<name>3235</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#b06c147f">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="ext_sign">-12,490</SimpleData>
+		<SimpleData name="ctrl_place">160 оп знак</SimpleData>
+		<SimpleData name="mark_num">Линия II класса: Богдо-Нов.Уштаган-Малый Арал</SimpleData>
+		<SimpleData name="center_type">Асан, с., центр фермы № 3, в 8,1 км к сев.-вост. от него, в 4,0 км к вост. от кладб., в 24 м к сев.-зап. от по-левой дороги</SimpleData>
+		<SimpleData name="lvl_line">b06c147f-2f15-4044-9c32-470c4ecdb08a</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>48.519008450748,47.955131239425</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

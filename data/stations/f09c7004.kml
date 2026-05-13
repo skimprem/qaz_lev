@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="f09c7004" id="f09c7004">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>f09c7004</name>
+  <Placemark id="f09c7004.1">
+	<name>0877</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#f09c7004">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="ext_sign">304,571</SimpleData>
+		<SimpleData name="ctrl_place">160 оп,зн</SimpleData>
+		<SimpleData name="mark_num">Линия № 1: Тюемойнак - Торетоган, I класс (1) Участок: грунт, реп, 2929 - грунт,реп, 1029</SimpleData>
+		<SimpleData name="center_type">Оракбай, кладб,, в 11,6 км к юго-вост, от него, в 0,4 км к югу от солончака, к зап, от полевой дороги</SimpleData>
+		<SimpleData name="lvl_line">f09c7004-d9c5-406c-8b7d-8448bb8cfaeb</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>69.490956395251,46.221800401908</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

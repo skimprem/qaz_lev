@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="584B3EE8" name="584B3EE8">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Schema id="_584B3EE8.schema">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Document id="_584B3EE8">
+      <name>584B3EE8</name>
+      <Placemark id="_584B3EE8.1">
+        <description>Уя, к., в 2,6 км к сев.-востоку от него, в 2,0 км к юго-западу от с.Шебир.</description>
+        <ExtendedData>
+          <SchemaData schemaUrl="#_584B3EE8.schema">
+            <SimpleData name="title">Шебир</SimpleData>
+            <SimpleData name="type">NULL</SimpleData>
+            <SimpleData name="ext_sign">сигнал</SimpleData>
+            <SimpleData name="class_lvl">3</SimpleData>
+            <SimpleData name="height_lvl">-0.628</SimpleData>
+            <SimpleData name="center_type">1</SimpleData>
+            <SimpleData name="guid">584B3EE8-B401-BC48-0ECD-484F8D13CA0A</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            52.0712550234651,44.8020917684082,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

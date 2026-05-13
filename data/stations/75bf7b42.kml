@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="75bf7b42" id="75bf7b42">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>75bf7b42</name>
+  <Placemark id="75bf7b42.1">
+	<name>2841 Аральск</name>
+	<description>Вековой репер</description>
+	<ExtendedData><SchemaData schemaUrl="#75bf7b42">
+		<SimpleData name="ctrl_place">175</SimpleData>
+		<SimpleData name="center_type">Аральск,г.,северная окрайна его, в 203 м к в сев.-вост. от ж/д Аральск-Актобе, в 42 м к западу от полевой дороги.</SimpleData>
+		<SimpleData name="lvl_line">75bf7b42-356c-4f8d-931b-2179fa82252c</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>61.64126,46.8220033333333</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

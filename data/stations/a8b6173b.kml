@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="a8b6173b" id="a8b6173b">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>a8b6173b</name>
+  <Placemark id="a8b6173b.1">
+	<name>1128 (закладка)</name>
+	<description>Грунтовый репер </description>
+	<ExtendedData><SchemaData schemaUrl="#a8b6173b">
+		<SimpleData name="ctrl_place">160 оп знак </SimpleData>
+		<SimpleData name="center_type">Кок-тобе с.,8,3 км сев-зап от него,110 м к юго-зап от км стб 121/152 ,100 м от шоссе Бирлик-Шу, 0,7 м юго-вост от оп стб.</SimpleData>
+		<SimpleData name="lvl_line">a8b6173b-efdd-457f-94cf-66b444da9561</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>73.7586233333333,43.7676416666667</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

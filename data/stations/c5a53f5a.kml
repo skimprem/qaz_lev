@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="c5a53f5a" name="c5a53f5a">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Schema id="c5a53f5a.schema">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Document id="c5a53f5a">
+      <name>c5a53f5a</name>
+      <Placemark id="c5a53f5a.1">
+        <description>Табан, кладб., в 10.9 км к юго-зап. от него, в 4.6 км к 0.3 юго-вост, от кладб. Кызылмола, в 0.5 км к вост. от грунт. дороги гор. Жезказган - с. Сузак. в 0.1 км к юго-зап. от фунд. реп. 25</description>
+        <ExtendedData>
+          <SchemaData schemaUrl="#c5a53f5a.schema">
+            <SimpleData name="title">240</SimpleData>
+            <SimpleData name="type">грунтовый репер</SimpleData>
+            <SimpleData name="ext_sign">грунтовый репер</SimpleData>
+            <SimpleData name="class_lvl">2</SimpleData>
+            <SimpleData name="height_lvl">194,179</SimpleData>
+            <SimpleData name="height_ctrl">193,181</SimpleData>
+            <SimpleData name="ctrl_place">в трубе</SimpleData>
+            <SimpleData name="center_type">118 оп.зн</SimpleData>
+            <SimpleData name="lvl_line">Линия № 4: Кендырлык (Айгарлык) грунт. реп. 9617, II класс (2) Участок: фунд. реп. 25 - грунт. реп. 284</SimpleData>
+            <SimpleData name="guid">c5a53f5a-e05f-4189-ae30-ec67f0589e1a</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            68.221549366818,46.0751490387156,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

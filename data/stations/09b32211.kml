@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="09b32211" id="09b32211">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>09b32211</name>
+  <Placemark id="09b32211.1">
+	<name>ГА4</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#09b32211">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="ext_sign">113.452</SimpleData>
+		<SimpleData name="ctrl_place">160 оп знак</SimpleData>
+		<SimpleData name="mark_num">Линия № 1: Золоторунное - Кобенсай, II класс, Участок: грунт.реп. 957 - грунт.реп. 1Г</SimpleData>
+		<SimpleData name="center_type">Дауит, станц., в 4.9 км к зап. от нее, 10 пикет 137 - й км жел.дор. гор. Кокшетау - гор. Иртыш, в 25 м к югу от жел.дор. полотна, в 2 м к югу от стб. связи</SimpleData>
+		<SimpleData name="lvl_line">09b32211-aa97-4371-bc34-47964a642d41</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>71.3929790157898,53.6069786579312</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

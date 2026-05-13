@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="ad02719a" id="ad02719a">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>ad02719a</name>
+  <Placemark id="ad02719a.1">
+	<name>2377</name>
+	<description>Грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#ad02719a">
+		<SimpleData name="title">Опознавательный знак</SimpleData>
+		<SimpleData name="type">I</SimpleData>
+		<SimpleData name="height_ctrl">2377</SimpleData>
+		<SimpleData name="ctrl_place">162</SimpleData>
+		<SimpleData name="mark_num">Линия нивелирования I класса #102, &quot;Петропавловск-Павлодар&quot;</SimpleData>
+		<SimpleData name="center_type">Павлодарское село, в 170 м к востоку от него, в 55 м к западу от км стб. 925/396 шоссе Павлодар-Омск, в 40 м к востоку от стб. ЛЭП 35 кв. #86, в лесополосе у полевой дороги</SimpleData>
+		<SimpleData name="lvl_line">ad02719a-407e-4767-adc8-d3d5060af4e9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>76.8592483333333,52.4159033333333</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

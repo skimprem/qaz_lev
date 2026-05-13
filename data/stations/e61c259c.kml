@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="e61c259c" id="e61c259c">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>e61c259c</name>
+  <Placemark id="e61c259c.1">
+	<name>2196</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#e61c259c">
+		<SimpleData name="ctrl_place">160оп</SimpleData>
+		<SimpleData name="center_type">Дукен, с., 900 м к юго-зап. от него, в 929 м к сев-зап. от реки Олькейек, в 84 м к сев-зап. от полевой дороги.</SimpleData>
+		<SimpleData name="lvl_line">e61c259c-10ce-4556-b53f-04bea6d67644</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>61.9955541767993,48.9504708295814</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

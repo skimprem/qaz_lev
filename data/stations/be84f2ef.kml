@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="be84f2ef" id="be84f2ef">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>be84f2ef</name>
+  <Placemark id="be84f2ef.1">
+	<name>2877</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#be84f2ef">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="ext_sign">308.879</SimpleData>
+		<SimpleData name="height_lvl">146 оп</SimpleData>
+		<SimpleData name="ctrl_place">12</SimpleData>
+		<SimpleData name="mark_num">Линия № 2: Терсаккан - Кзыл-Сенгир. І класс </SimpleData>
+		<SimpleData name="center_type">Тенгиз. оз.. в 2.9 км к югу от него. в 1.8  км кюго-зап.от развалин. в 30 м к сев.от полевой дороги</SimpleData>
+		<SimpleData name="lvl_line">be84f2ef-5c2c-41f5-b7b1-c07303bb9eeb</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>69.1481317425302,50.1788701635821</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

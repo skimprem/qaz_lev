@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="77a4d39a" id="77a4d39a">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>77a4d39a</name>
+  <Placemark id="77a4d39a.1">
+	<name>2145_0</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#77a4d39a">
+		<SimpleData name="height_ctrl">2145</SimpleData>
+		<SimpleData name="ctrl_place">160оп.</SimpleData>
+		<SimpleData name="center_type">Милыбулак, с., в 22.2 км к югу. от него, в 68 м к вост от полевой дороги.</SimpleData>
+		<SimpleData name="lvl_line">77a4d39a-8afc-46fe-ab63-5e118dae0f3f</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.2383796926771,48.701417557466</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

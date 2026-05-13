@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="ca562369" id="ca562369">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>ca562369</name>
+  <Placemark id="ca562369.1">
+	<name>1288</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#ca562369">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="ext_sign">247.141</SimpleData>
+		<SimpleData name="ctrl_place">121</SimpleData>
+		<SimpleData name="center_type">Державинск, гор., в 5.1 км к зап. от него, в 3.3 км к сев.-зап. от пол. стана, в 0.1 км к югу от р.Кен, в 97 м к сев.от края пашни.</SimpleData>
+		<SimpleData name="lvl_line">ca562369-89bc-4dd6-b040-e3890ad76283</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>66.2318260199522,51.1084588019614</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

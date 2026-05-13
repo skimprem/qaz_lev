@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="1028de23" id="1028de23">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>1028de23</name>
+  <Placemark id="1028de23.1">
+	<name>3207 </name>
+	<description>скальный репер</description>
+	<ExtendedData><SchemaData schemaUrl="#1028de23">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="ext_sign">721.744</SimpleData>
+		<SimpleData name="ctrl_place">99</SimpleData>
+		<SimpleData name="center_type">Карабулак, с., в 7.0 км к сев.-зап. от него, в 1.4 км к сев. от водокачки с.Акышбай, в 31 м к югу от полевой дороги.</SimpleData>
+		<SimpleData name="lvl_line">1028de23-4a8e-4cad-8005-71078388f5c0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.7065142913,48.3274939655967</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

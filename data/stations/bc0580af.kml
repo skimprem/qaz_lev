@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="bc0580af" id="bc0580af">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>bc0580af</name>
+  <Placemark id="bc0580af.1">
+	<name>Закладка 10</name>
+	<ExtendedData><SchemaData schemaUrl="#bc0580af">
+		<SimpleData name="center_type">В 30 м. К югу от трассы Самара-Шымкент </SimpleData>
+		<SimpleData name="lvl_line">bc0580af-96e9-45ae-a83f-5706ec727462</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>65.0104533333333,44.8939616666667</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

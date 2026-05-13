@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="edda126f" id="edda126f">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>edda126f</name>
+  <Placemark id="edda126f.1">
+	<name>V</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#edda126f">
+		<SimpleData name="title">грунт. реп.</SimpleData>
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="ext_sign">175,91</SimpleData>
+		<SimpleData name="ctrl_place">160 оп.</SimpleData>
+		<SimpleData name="mark_num">Линия № 2 Иргиз (фунд.реп.7707) - Толыбай (фунд.реп.3780)</SimpleData>
+		<SimpleData name="center_type">Акбак,зим.,в 4,4км к юго-зэп.от нее,в
+2,9км к сев.от разв., в 7,3м к зап.
+от пол. дороги,в 1,0м к сев.от оп.стб.</SimpleData>
+		<SimpleData name="lvl_line">edda126f-b274-42ab-8aaf-dc2748918e76</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>61.82835388,49.93166535</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

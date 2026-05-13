@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="3a295cdd" id="3a295cdd">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>3a295cdd</name>
+  <Placemark id="3a295cdd.1">
+	<name>0004</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#3a295cdd">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="ext_sign">907.004</SimpleData>
+		<SimpleData name="ctrl_place">160</SimpleData>
+		<SimpleData name="center_type">Косай, зим., в 6.7 км к юго-вост. от него, в 15 м к зап. от пересечения русла с дорогой.</SimpleData>
+		<SimpleData name="lvl_line">3a295cdd-2e7f-4126-ae33-4df5d5137baf</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>76.5731417313003,49.0615917506591</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

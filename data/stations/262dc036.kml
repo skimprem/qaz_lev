@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="262dc036" id="262dc036">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>262dc036</name>
+  <Placemark id="262dc036.1">
+	<name>64</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#262dc036">
+		<SimpleData name="mark_num"></SimpleData>
+		<SimpleData name="center_type">9,5 км. к сев. от с. Абай, 17 м к зап. от полевой дороги, 242 м к юго-зап. от трубы под автодорогой, 1,8 км к юго-зап. от развалин</SimpleData>
+		<SimpleData name="lvl_line">262dc036-aba8-454a-8aba-09ef69f98d04</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>69.5127933333333,50.8097883333333</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

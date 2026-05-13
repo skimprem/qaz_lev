@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="23919171" id="23919171">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>23919171</name>
+  <Placemark id="23919171.1">
+	<name>39</name>
+	<description>Гр.реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#23919171">
+		<SimpleData name="type">ІІ</SimpleData>
+		<SimpleData name="ext_sign">508.312</SimpleData>
+		<SimpleData name="ctrl_place">Тип рельс</SimpleData>
+		<SimpleData name="mark_num">Линия № 2: Талдысай-Жиделисай, ІІ класс (2) Участок: грунт.реп. 3097 - грунт.реп. 2925</SimpleData>
+		<SimpleData name="center_type">Бетбулак, с., в 7.8 км к юго-зап от него, в 2.3 км к сев-вост от могилы, в 75 м к зап от дороги с. Бетбулак - с. Бозтумсык</SimpleData>
+		<SimpleData name="lvl_line">23919171-f614-467b-aa24-2de8214f3355</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.9526147124266,48.8497171371269</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

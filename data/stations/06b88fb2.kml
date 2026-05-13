@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="06b88fb2" id="06b88fb2">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>06b88fb2</name>
+  <Placemark id="06b88fb2.1">
+	<name>Кабан</name>
+	<description>пирамида</description>
+	<ExtendedData><SchemaData schemaUrl="#06b88fb2">
+		<SimpleData name="type">4</SimpleData>
+		<SimpleData name="ext_sign">113,725</SimpleData>
+		<SimpleData name="ctrl_place">1</SimpleData>
+		<SimpleData name="mark_num">Линия: грунт. реп.2521-грунт. реп. 175, IV класс </SimpleData>
+		<SimpleData name="lvl_line">06b88fb2-bf85-4a51-977a-e7a94e302ced</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>74.6062794694269,53.505537661096</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

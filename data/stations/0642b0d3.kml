@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="0642b0d3" id="0642b0d3">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>0642b0d3</name>
+  <Placemark id="0642b0d3.1">
+	<name>Аксай</name>
+	<description>пир.</description>
+	<ExtendedData><SchemaData schemaUrl="#0642b0d3">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="ext_sign">1,715</SimpleData>
+		<SimpleData name="ctrl_place">1 оп</SimpleData>
+		<SimpleData name="mark_num">Линия № 8 Русская Таловка - Керей</SimpleData>
+		<SimpleData name="lvl_line">0642b0d3-1009-4801-9500-4c3a17258f72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>50.2060245818009,49.3407932847169</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

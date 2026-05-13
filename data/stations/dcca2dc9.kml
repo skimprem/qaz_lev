@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="dcca2dc9" id="dcca2dc9">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>dcca2dc9</name>
+  <Placemark id="dcca2dc9.1">
+	<name>А1841</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#dcca2dc9">
+		<SimpleData name="height_ctrl">А1841</SimpleData>
+		<SimpleData name="ctrl_place">162оп</SimpleData>
+		<SimpleData name="center_type">600 м к северо-западу от развилки полевых дорог, 3 м к северу от полевой дороги, 20 км к северо-востоку от с. Краснознаменское </SimpleData>
+		<SimpleData name="lvl_line">dcca2dc9-22e9-428f-bf53-5b10dd4396bf</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>69.187315,51.1511966666667</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

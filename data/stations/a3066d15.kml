@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="a3066d15" id="a3066d15">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>a3066d15</name>
+  <Placemark id="a3066d15.1">
+	<name>1832</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#a3066d15">
+		<SimpleData name="height_ctrl">1832</SimpleData>
+		<SimpleData name="ctrl_place">162оп</SimpleData>
+		<SimpleData name="center_type">1,7 км к юго-востоку от озера Имантау, 1,3 км к юго-востоку от поворота дороги к озеру Имантау, 20 км к западу от озера</SimpleData>
+		<SimpleData name="lvl_line">a3066d15-cb06-4aa3-a49d-34854046a215</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>68.1643216666667,53.05191</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

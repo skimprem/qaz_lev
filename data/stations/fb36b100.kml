@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="fb36b100" id="fb36b100">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>fb36b100</name>
+  <Placemark id="fb36b100.1">
+	<name>VII</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#fb36b100">
+		<SimpleData name="title">грунт. реп.</SimpleData>
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="ext_sign">164,906</SimpleData>
+		<SimpleData name="ctrl_place">160 оп.</SimpleData>
+		<SimpleData name="mark_num">Линия № 2 Иргиз (фунд.реп.7707) - Толыбай (фунд.реп.3780)</SimpleData>
+		<SimpleData name="center_type">Акбак,зим.,  в 3,7км к сев.от нее,в 350 мк сев. -зап.от зим. Кыстауколь,в 15м кзап. от пол. дор.,  в 1 м к сев.-вост.от
+оп.стб.</SimpleData>
+		<SimpleData name="lvl_line">fb36b100-c4fd-4ef0-aa58-702c3ce3b5f9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>61.87803698,50.0136664</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="9b8cc736" id="9b8cc736">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>9b8cc736</name>
+  <Placemark id="9b8cc736.1">
+	<name>Закладка M045</name>
+	<description>Грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#9b8cc736">
+		<SimpleData name="title">Грунтовый репер</SimpleData>
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="height_ctrl">M045</SimpleData>
+		<SimpleData name="ctrl_place">149</SimpleData>
+		<SimpleData name="mark_num">121</SimpleData>
+		<SimpleData name="center_type">Кызылкой, с., 10.7км к сев-востоку от него, в 100м к западу шоссе Караганда-Балхаш, в 13м к востоку полевая дорога.</SimpleData>
+		<SimpleData name="lvl_line">9b8cc736-51da-4516-9978-3ccff3c3cbd4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>73.41997519,49.31180417</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

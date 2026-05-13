@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="3bd204e4" id="3bd204e4">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>3bd204e4</name>
+  <Placemark id="3bd204e4.1">
+	<name>4295</name>
+	<description>Грунтовый репер </description>
+	<ExtendedData><SchemaData schemaUrl="#3bd204e4">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="height_ctrl">4295</SimpleData>
+		<SimpleData name="ctrl_place">160 оп</SimpleData>
+		<SimpleData name="center_type">Улькенсор, с., в 4,1 км к юго-зап. от него, в 3,5  км к юго-вост. От трассы Караменды-Бестауский,  в 20 м к северу от старой полевой дороги разв. Улькенсор- с. Бестауский. </SimpleData>
+		<SimpleData name="lvl_line">3bd204e4-2779-4f55-a0a5-a7a098287f22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>62.9268083333333,51.2757183333333</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

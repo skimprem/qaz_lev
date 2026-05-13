@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="bc5d3373" name="bc5d3373">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Schema id="bc5d3373.schema">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Document id="bc5d3373">
+      <name>bc5d3373</name>
+      <Placemark id="bc5d3373.1">
+        <description>Баутина, пгт, в 52 м к юго-зап.от здания метеостанции, в 150 м к востоку от берега Каспийского моря</description>
+        <ExtendedData>
+          <SchemaData schemaUrl="#bc5d3373.schema">
+            <SimpleData name="title">8383</SimpleData>
+            <SimpleData name="ext_sign">фунд.реп.</SimpleData>
+            <SimpleData name="class_lvl">2</SimpleData>
+            <SimpleData name="height_lvl">-25.625</SimpleData>
+            <SimpleData name="height_ctrl">-26.777</SimpleData>
+            <SimpleData name="ctrl_place">Контрольный репер №8401 в фундаментной плите</SimpleData>
+            <SimpleData name="lvl_line">Висячий ход от марки 427, 2 кл.</SimpleData>
+            <SimpleData name="guid">bc5d3373-0717-402e-97c3-f6d7b84e5d3b</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            50.2411924868024,44.5482125317943,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

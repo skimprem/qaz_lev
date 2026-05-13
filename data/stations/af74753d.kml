@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="af74753d" id="af74753d">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>af74753d</name>
+  <Placemark id="af74753d.1">
+	<name>X</name>
+	<description>скальный репер</description>
+	<ExtendedData><SchemaData schemaUrl="#af74753d">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="ext_sign">1908.313</SimpleData>
+		<SimpleData name="ctrl_place">99 оп. знак</SimpleData>
+		<SimpleData name="mark_num">Линия № 3: Карабута – Белая Школа, II класс , Участок: фунд.реп. 131 – ск.реп. 2274</SimpleData>
+		<SimpleData name="center_type">Предгорное, с., в 15.1 км к сев. от него, в 1.4 км к югу от брода на р. Каракемер, в 70 м к вост. от полевой дороги</SimpleData>
+		<SimpleData name="lvl_line">af74753d-8b66-433f-9a1b-24a0608191b4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>82.8253422566353,47.2176045306059</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

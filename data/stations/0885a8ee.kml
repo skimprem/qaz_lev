@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="0885a8ee" id="0885a8ee">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>0885a8ee</name>
+  <Placemark id="0885a8ee.1">
+	<name>1841</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#0885a8ee">
+		<SimpleData name="height_ctrl">1841</SimpleData>
+		<SimpleData name="ctrl_place">162оп</SimpleData>
+		<SimpleData name="center_type">364 м к западу от развилки полевых дорог, 71 м к северу от озера, 3,7 км к юго-западу от с. Жаныспай</SimpleData>
+		<SimpleData name="lvl_line">0885a8ee-c482-4c8c-9099-45e32481f292</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>66.01434,52.0463333333333</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

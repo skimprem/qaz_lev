@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="50816718" id="50816718">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>50816718</name>
+  <Placemark id="50816718.1">
+	<name>6299</name>
+	<ExtendedData><SchemaData schemaUrl="#50816718">
+		<SimpleData name="title">грунтовый репер</SimpleData>
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="ext_sign">687,879</SimpleData>
+		<SimpleData name="ctrl_place">160оп</SimpleData>
+		<SimpleData name="mark_num">Линия №2: Спасск-Акчатау, II класс (1) Участок: грунт.реп. 3394 - ск.реп. 8110</SimpleData>
+		<SimpleData name="center_type">Кайракты, с., в 5,5 км к сев.от него, в 3,0 км к юго-вост.от г.Машур, в 20 м к зап.от полевой дороги</SimpleData>
+		<SimpleData name="lvl_line">50816718-56bd-4f36-bce9-227a7a8f080d</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>73.5999143460166,48.8981868319677</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

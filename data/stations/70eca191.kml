@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="70eca191" id="70eca191">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>70eca191</name>
+  <Placemark id="70eca191.1">
+	<name>Аулет</name>
+	<description>пирамида</description>
+	<ExtendedData><SchemaData schemaUrl="#70eca191">
+		<SimpleData name="type">4</SimpleData>
+		<SimpleData name="ext_sign">35,783</SimpleData>
+		<SimpleData name="height_ctrl">24203</SimpleData>
+		<SimpleData name="ctrl_place">1</SimpleData>
+		<SimpleData name="mark_num">Линия: грунт.реп. 19 – пир.1 кл Джаман-Тау, IV класс             Участок: грунт. реп. 19-пир. 3 кл Придорожный</SimpleData>
+		<SimpleData name="lvl_line">70eca191-498e-42ef-adb8-860ed2399f37</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>46.7833553384931,48.3652681876906</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

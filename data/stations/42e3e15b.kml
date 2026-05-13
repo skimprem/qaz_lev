@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="42e3e15b" id="42e3e15b">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>42e3e15b</name>
+  <Placemark id="42e3e15b.1">
+	<name>0533</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#42e3e15b">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="ext_sign">124,582</SimpleData>
+		<SimpleData name="mark_num">Линия:Айбас-Кобенсай Участок:фунд. реп. 180-фунд. реп.3217</SimpleData>
+		<SimpleData name="center_type">Молодая Гвардия, с., в 16,5 км к юго-зап. от него, в 2,1 км к юго-зап. р=от разв. зим. Тескудук, в 65 м к юго-зап. от карьерных разработок, в 23 м к сев. от пол. дороги</SimpleData>
+		<SimpleData name="lvl_line">42e3e15b-1842-4444-9942-1bd0948e0388</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.6224790119083,53.2912968968442</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

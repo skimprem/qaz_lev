@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="ed2802aa" id="ed2802aa">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>ed2802aa</name>
+  <Placemark id="ed2802aa.1">
+	<name>9277</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#ed2802aa">
+		<SimpleData name="title">грунт. реп.</SimpleData>
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="ext_sign">119.954</SimpleData>
+		<SimpleData name="ctrl_place">160</SimpleData>
+		<SimpleData name="mark_num">Линия №2: Коккабак-Развалины Пикета №8. II класс. Участок: грунт.реп. 2585 - грунт.реп. 2718</SimpleData>
+		<SimpleData name="center_type">Сарманкожа. кладб.. в 7.1 км к юго-вост.от него. в 3.8 км к сев.-вост.от к. Берме. в 1.1 км к юго-вост.от кладб. Карамола. в 10 м к югу от полевой дороги. на равнине</SimpleData>
+		<SimpleData name="lvl_line">ed2802aa-2ddb-45b1-a958-afbcb08eb496</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>64.0845497942176,47.2358381004016</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="9434f5ef" name="9434f5ef">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Schema id="_9434f5ef.schema">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Document id="_9434f5ef">
+      <name>9434f5ef</name>
+      <Placemark id="_9434f5ef.1">
+        <description>Кендырлымола,кладб.,в 29,6 км к сев-зап.от него,в 0,8 км к сев-вост. от кладбища,в 12 м к юго-зап,от дороги  с.Донгузтау-гор.Челкар</description>
+        <ExtendedData>
+          <SchemaData schemaUrl="#_9434f5ef.schema">
+            <SimpleData name="title">3485</SimpleData>
+            <SimpleData name="type">грунтовый репер</SimpleData>
+            <SimpleData name="class_lvl">2</SimpleData>
+            <SimpleData name="height_lvl">221,084</SimpleData>
+            <SimpleData name="center_type">163оп</SimpleData>
+            <SimpleData name="lvl_line">Линия № 9: Гурьев-Кошкарата, II класс (3)
+Участок: ск.реп.8592-фунд.реп.597</SimpleData>
+            <SimpleData name="guid">9434f5ef-2822-4bd8-b4a2-7bf52650d904</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            58.094581706199,46.8308837714318,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

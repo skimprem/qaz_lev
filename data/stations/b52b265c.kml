@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="b52b265c" id="b52b265c">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>b52b265c</name>
+  <Placemark id="b52b265c.1">
+	<name>Сары-Стан</name>
+	<description>пирамида</description>
+	<ExtendedData><SchemaData schemaUrl="#b52b265c">
+		<SimpleData name="type">4</SimpleData>
+		<SimpleData name="ext_sign">22,437</SimpleData>
+		<SimpleData name="height_ctrl">23940</SimpleData>
+		<SimpleData name="ctrl_place">1</SimpleData>
+		<SimpleData name="mark_num">Линия: грунт.реп. 19 – пир.1 кл Джаман-Тау, IV класс             Участок: грунт. реп. 19-пир. 3 кл Придорожный</SimpleData>
+		<SimpleData name="lvl_line">b52b265c-34d0-40b8-a986-ced40ee5a166</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>46.9783988740208,48.3970334694261</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

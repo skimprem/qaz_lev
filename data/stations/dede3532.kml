@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="dede3532" id="dede3532">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>dede3532</name>
+  <Placemark id="dede3532.1">
+	<name>2690</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#dede3532">
+		<SimpleData name="title">грунт.реп.</SimpleData>
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="ext_sign">79.962</SimpleData>
+		<SimpleData name="class_lvl">78.081</SimpleData>
+		<SimpleData name="height_lvl">Контрольный репер № 493 в верхней плоскости монолита</SimpleData>
+		<SimpleData name="ctrl_place">121оп.</SimpleData>
+		<SimpleData name="mark_num">Линия Жаксыкарсакбас (фунд. реп. 351) - Коккабак (фунд. реп.2)</SimpleData>
+		<SimpleData name="center_type">Таупский, свх., в 17,7 км к вост. от него, в 5.7 км к вост.от  мог. Карсак, в     28 м к зап. от   дороги с. Нура-с.Жайсанбай, на возвышенности</SimpleData>
+		<SimpleData name="lvl_line">dede3532-7d7e-4b91-9574-b3f00036862e</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>62.3122054226466,48.2498378529219</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

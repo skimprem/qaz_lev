@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="eb1c9206" id="eb1c9206">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>eb1c9206</name>
+  <Placemark id="eb1c9206.1">
+	<name>512</name>
+	<description>фундаментальный репер</description>
+	<ExtendedData><SchemaData schemaUrl="#eb1c9206">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="ext_sign">465.259</SimpleData>
+		<SimpleData name="class_lvl">464.09</SimpleData>
+		<SimpleData name="height_lvl">в фундаментной плите</SimpleData>
+		<SimpleData name="height_ctrl">1</SimpleData>
+		<SimpleData name="ctrl_place">160оп</SimpleData>
+		<SimpleData name="mark_num">Линия №1: Торетоган - Берлик, 1 класс  Участок: грунт.реп.9706-фунд.реп.512</SimpleData>
+		<SimpleData name="center_type">Берлик П, станц., в 1,1 км к югу от нее, на 1 ПК 1503, км, в 30 м к югу от кладбища</SimpleData>
+		<SimpleData name="lvl_line">eb1c9206-d4c3-466e-8b9f-16d407287fda</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>73.8253593545677,43.6906379249629</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

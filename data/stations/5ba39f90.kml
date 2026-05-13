@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="5ba39f90" name="5ba39f90">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Schema id="_5ba39f90.schema">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Document id="_5ba39f90">
+      <name>5ba39f90</name>
+      <Placemark id="_5ba39f90.1">
+        <description>Шийли,пир.-штатив 2 кл., в 5.0 км к юго-вост.от нее, в 5.0 км к юго-зап.от пир.-штатива 2 кл.Кокбулак, в 1.1 км к юго-вост.от род.Акшабаз</description>
+        <ExtendedData>
+          <SchemaData schemaUrl="#_5ba39f90.schema">
+            <SimpleData name="title">8638</SimpleData>
+            <SimpleData name="type">ск.реп.</SimpleData>
+            <SimpleData name="class_lvl">2</SimpleData>
+            <SimpleData name="height_lvl">163,898</SimpleData>
+            <SimpleData name="center_type">99 оп</SimpleData>
+            <SimpleData name="lvl_line">Линия №1: грунт.реп.578-фунд.реп.124, II класс (1)                    Участок: пир.2 кл.Мыс-грунт.реп.6-19</SimpleData>
+            <SimpleData name="guid">5ba39f90-b62d-410a-b21a-5dce5e871c93</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            53.7597056021479,44.8656386406764,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="5cabe7ad" id="5cabe7ad">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>5cabe7ad</name>
+  <Placemark id="5cabe7ad.1">
+	<name>Закладка фунд. реп. 6</name>
+	<ExtendedData><SchemaData schemaUrl="#5cabe7ad">
+		<SimpleData name="center_type">На месте утраченного пункта </SimpleData>
+		<SimpleData name="lvl_line">5cabe7ad-1de1-4a91-95c0-d9a916c2e37f</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>62.0116183546904,48.9826475571912</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

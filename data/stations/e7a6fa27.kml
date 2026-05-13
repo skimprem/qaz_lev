@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="e7a6fa27" id="e7a6fa27">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>e7a6fa27</name>
+  <Placemark id="e7a6fa27.1">
+	<name>0117</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#e7a6fa27">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="ext_sign">76.898</SimpleData>
+		<SimpleData name="ctrl_place">160</SimpleData>
+		<SimpleData name="mark_num">Линия нивелирования 1 класса Уральск-Жанибек</SimpleData>
+		<SimpleData name="center_type">Таскаала, станц., юж,окраина ее, в 0.4км к вост.от АЗС КМГ, в 63м к сев.от оси трассы, в 612м к югу от угла забора жилого дома, в 19м к вост.от угла забора метеостанц.</SimpleData>
+		<SimpleData name="lvl_line">e7a6fa27-f2a8-47e5-ad2d-7ee14f3c1aa2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>50.2938477950619,51.0961710111011</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="cc86d0d6" id="cc86d0d6">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>cc86d0d6</name>
+  <Placemark id="cc86d0d6.1">
+	<name>14443</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#cc86d0d6">
+		<SimpleData name="title">грунт.реп.</SimpleData>
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="ext_sign">475.302</SimpleData>
+		<SimpleData name="class_lvl">473.712*</SimpleData>
+		<SimpleData name="height_lvl">верхней
+плоскости монолита</SimpleData>
+		<SimpleData name="ctrl_place">121</SimpleData>
+		<SimpleData name="mark_num">Линия № 2; Акозек - Сарыкамыс, II класс.Участок: грунт.реп.14443 - ск.реп.б/№</SimpleData>
+		<SimpleData name="center_type">Саяк,с.,в 26.8 км к юго-зап.от него,  в 12.7 км к вост.от к.Курланы,в 11.2 км к юго-вост.от мог.Бирликбай</SimpleData>
+		<SimpleData name="lvl_line">cc86d0d6-633b-4a31-9f0a-330363fc0ab8</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>76.9881370739257,46.9026496853348</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="031fa747" id="031fa747">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>031fa747</name>
+  <Placemark id="031fa747.1">
+	<name>2770</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#031fa747">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="ext_sign">893.084</SimpleData>
+		<SimpleData name="ctrl_place">Б</SimpleData>
+		<SimpleData name="center_type">Кокшетау, с., в 15.5 км к зап. от него, в 1.4 км к югу от род.Баракбай.</SimpleData>
+		<SimpleData name="lvl_line">031fa747-c148-42c8-945a-6473079e3c11</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>76.6861894764318,48.9681721325755</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

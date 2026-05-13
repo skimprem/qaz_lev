@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="ee51fff3" id="ee51fff3">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>ee51fff3</name>
+  <Placemark id="ee51fff3.1">
+	<name>Закладка (2)</name>
+	<description>Грунтовый репер </description>
+	<ExtendedData><SchemaData schemaUrl="#ee51fff3">
+		<SimpleData name="ctrl_place">160 оп</SimpleData>
+		<SimpleData name="center_type">Акколь, с.,8 км к сев-вост от него, 5 км к зап от шоссе Акколь-Уланбель, на возвышенности </SimpleData>
+		<SimpleData name="lvl_line">ee51fff3-3f54-494f-9060-aad13e3ce280</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>70.8227776575723,43.493900105028</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

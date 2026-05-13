@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="512ac116" id="512ac116">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>512ac116</name>
+  <Placemark id="512ac116.1">
+	<name>421</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#512ac116">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="ext_sign">408.265</SimpleData>
+		<SimpleData name="class_lvl">407.315</SimpleData>
+		<SimpleData name="height_lvl">Контрольный репер в верхней плоскости монолита</SimpleData>
+		<SimpleData name="ctrl_place">121 оп</SimpleData>
+		<SimpleData name="mark_num">Линия №2: Ивановка-Жана-Арка, II класс (3) Участок: грунт.реп.421-грунт.реп.880</SimpleData>
+		<SimpleData name="center_type">Ивановка,с.,в 4.8 км к югу от него,в 1.1 км к сев-вост.от с.Тассуат,в 0.2 км к юго-зап.от шоссе с.Киевка-с.Казгородок,в 35 м к вост.от ЛЭП</SimpleData>
+		<SimpleData name="lvl_line">512ac116-73a2-439a-9353-818dab4269f3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>71.5131648687009,50.010526551828</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

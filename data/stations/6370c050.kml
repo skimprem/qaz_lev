@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="6370c050" id="6370c050">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>6370c050</name>
+  <Placemark id="6370c050.1">
+	<name>Балаталдык</name>
+	<description>сигнал</description>
+	<ExtendedData><SchemaData schemaUrl="#6370c050">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="ext_sign">205.910</SimpleData>
+		<SimpleData name="ctrl_place">1</SimpleData>
+		<SimpleData name="mark_num">Линия № 7: грунт. реп. 1000 - сигн. 2 кл. Балаталдык</SimpleData>
+		<SimpleData name="center_type">В 11.1 км к сев.-вост. от с.Талдык, в 0.5 км к вост. от полевой дороги, в 0.1 км к зап. от кладбища.</SimpleData>
+		<SimpleData name="lvl_line">6370c050-97ac-4e90-8325-7fe036ea59ec</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>59.9943508460827,49.1086386961396</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

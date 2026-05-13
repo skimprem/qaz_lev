@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="de587148" id="de587148">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>de587148</name>
+  <Placemark id="de587148.1">
+	<name>2250</name>
+	<description>Грунтовый репер </description>
+	<ExtendedData><SchemaData schemaUrl="#de587148">
+		<SimpleData name="title">Опознавательный знак </SimpleData>
+		<SimpleData name="type">І</SimpleData>
+		<SimpleData name="height_ctrl">2250</SimpleData>
+		<SimpleData name="ctrl_place">162</SimpleData>
+		<SimpleData name="mark_num">Линия нивелирования І класса #102 &quot;Петропавловск-Павлодар&quot;</SimpleData>
+		<SimpleData name="center_type">Село Чернорецк 1,5 км к юго-востоку от него, 220 м к юго-востоку от км стб. 953/358, 150 м к западу от стб. #19 ЛЭП 35 кВ, 65 м к востоку от шоссе &quot;Павлодар-Омск&quot;, в лесополосе 12 м от полевой дороги</SimpleData>
+		<SimpleData name="lvl_line">de587148-29db-4b58-8353-d24ff192a144</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>76.6791316666667,52.7389333333333</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

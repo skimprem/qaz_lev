@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="2e428992" name="2e428992">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Schema id="_2e428992.schema">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Document id="_2e428992">
+      <name>2e428992</name>
+      <Placemark id="_2e428992.1">
+        <description>Жанбике,метеостанция,в 1,6 км к югу.от неё в 1,5 км к юго-зап.от р.Эмба,в 0,1 км к юго-вост.от грунт.реп.9156,в 60м к сев-вост.от дороги метеостанция Жанбике-с.Биикжол</description>
+        <ExtendedData>
+          <SchemaData schemaUrl="#_2e428992.schema">
+            <SimpleData name="title">0029</SimpleData>
+            <SimpleData name="type">фундаментальный репер</SimpleData>
+            <SimpleData name="class_lvl">2</SimpleData>
+            <SimpleData name="height_lvl">51,900</SimpleData>
+            <SimpleData name="height_ctrl">50,890</SimpleData>
+            <SimpleData name="ctrl_place">Контрольный репер № 051 в фундаментной плите</SimpleData>
+            <SimpleData name="center_type">161оп</SimpleData>
+            <SimpleData name="lvl_line">Линия № 179: Гурьев-Кошкарата. II класс (12)
+Участок: грунт. реп. 501 - грунт. реп. 0888</SimpleData>
+            <SimpleData name="guid">2e428992-63d8-4868-82cb-c67cfb68c2f6</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            55.1220281634826,47.0150077729117,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

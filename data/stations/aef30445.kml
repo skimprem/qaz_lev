@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="aef30445" id="aef30445">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>aef30445</name>
+  <Placemark id="aef30445.1">
+	<name>4215</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#aef30445">
+		<SimpleData name="title">грунт.реп.</SimpleData>
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="ext_sign">340.515</SimpleData>
+		<SimpleData name="ctrl_place">160 оп</SimpleData>
+		<SimpleData name="mark_num">Линия №2: Есиль-Атбасар, II класс (2) Участок: грунт.реп.4113 - грунт.реп.3995</SimpleData>
+		<SimpleData name="center_type">Перекатная,станц.,в 9.0 км к юго-зап.от нее,в 8.3 км к зап.от с.Беловодское,в 80 м к сев.от жел.-дор.полотна</SimpleData>
+		<SimpleData name="lvl_line">aef30445-2978-47bc-b7f3-e708e0baaf72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.7987487239896,51.8061328632798</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

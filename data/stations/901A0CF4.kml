@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="901A0CF4" id="901A0CF4">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>901A0CF4</name>
+  <Placemark id="901A0CF4.1">
+	<name>Екекудук</name>
+	<ExtendedData><SchemaData schemaUrl="#901A0CF4">
+		<SimpleData name="title">сигнал</SimpleData>
+		<SimpleData name="type">4</SimpleData>
+		<SimpleData name="ctrl_place">1</SimpleData>
+		<SimpleData name="lvl_line">901A0CF4-FEB9-B8A5-01E9-F239A6C1F396</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>52.6875416181528,50.1092140214827</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

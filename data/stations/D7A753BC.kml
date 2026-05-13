@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="D7A753BC" id="D7A753BC">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>D7A753BC</name>
+  <Placemark id="D7A753BC.1">
+	<name>Станция</name>
+	<ExtendedData><SchemaData schemaUrl="#D7A753BC">
+		<SimpleData name="title">сигнал</SimpleData>
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="height_ctrl">1892</SimpleData>
+		<SimpleData name="ctrl_place">1</SimpleData>
+		<SimpleData name="lvl_line">D7A753BC-F5FB-ABF6-D959-D1D1B7BD8B70</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>52.4656961657865,51.1540757703523</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

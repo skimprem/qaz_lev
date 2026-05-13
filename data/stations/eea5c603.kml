@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="eea5c603" id="eea5c603">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>eea5c603</name>
+  <Placemark id="eea5c603.1">
+	<name>262</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#eea5c603">
+		<SimpleData name="title">грунт. реп.</SimpleData>
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="ext_sign">121,401</SimpleData>
+		<SimpleData name="ctrl_place">121 оп.</SimpleData>
+		<SimpleData name="mark_num">Линия № 2 Иргиз (фунд.реп.7707) - Толыбай (фунд.реп.3780)</SimpleData>
+		<SimpleData name="center_type">Иргиз,с.,в 23,7кв к сев.-вост. от него, в4,8км к сев.-зап.от кладб.Аяп.в 52м. к вост.от дороги с. Сарыбулак-с.Иргиз</SimpleData>
+		<SimpleData name="lvl_line">eea5c603-d221-4fba-8f55-04c8232f1d32</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>61.33230031,48.8266217</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

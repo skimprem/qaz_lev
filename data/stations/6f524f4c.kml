@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="6f524f4c" id="6f524f4c">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>6f524f4c</name>
+  <Placemark id="6f524f4c.1">
+	<name>2368</name>
+	<description>Грунтовый репер </description>
+	<ExtendedData><SchemaData schemaUrl="#6f524f4c">
+		<SimpleData name="title">Опознавательный знак </SimpleData>
+		<SimpleData name="type">І</SimpleData>
+		<SimpleData name="height_ctrl">2368</SimpleData>
+		<SimpleData name="ctrl_place">162</SimpleData>
+		<SimpleData name="mark_num">Линия нивелирования І класса #102 &quot;Петропавловск-Павлодар&quot;</SimpleData>
+		<SimpleData name="center_type">Город Петропавловск 3,5 км к востоку от него, 180 м к северу от жд &quot;Транссиб&quot;, 162 м к северу от стб. #180 ЛЭП 6 кВ, 7 м к северу от небольшого леса</SimpleData>
+		<SimpleData name="lvl_line">6f524f4c-05c0-40ff-902f-7e49c0d68b73</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>69.310455,54.8586483333333</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="f1bd0abc" id="f1bd0abc">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>f1bd0abc</name>
+  <Placemark id="f1bd0abc.1">
+	<name>17493</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#f1bd0abc">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="ext_sign">206,639</SimpleData>
+		<SimpleData name="class_lvl">205,526</SimpleData>
+		<SimpleData name="height_lvl">в верхней плоскости монолита</SimpleData>
+		<SimpleData name="height_ctrl">8026</SimpleData>
+		<SimpleData name="ctrl_place">121</SimpleData>
+		<SimpleData name="mark_num">Линия № 1: Туйемойнак - Торыустаган, 1 класс (1) Участок: грунт, реп, 3215 - фунд, реп, 9993</SimpleData>
+		<SimpleData name="center_type">Торыустаган, с,, в 10,4 км к сев,-вост, от него, в 3,0 км к юго-зап, от арт, к, № 4837, в 10 м к зап, полевой дороги</SimpleData>
+		<SimpleData name="lvl_line">f1bd0abc-cc5c-47d0-b95f-329bee99c705</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>69.6992902856977,44.8719792522598</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

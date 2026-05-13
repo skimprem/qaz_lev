@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="bbee2ed6" id="bbee2ed6">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>bbee2ed6</name>
+  <Placemark id="bbee2ed6.1">
+	<name>17432</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#bbee2ed6">
+		<SimpleData name="title">грунт.реп.</SimpleData>
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="ext_sign">369.546</SimpleData>
+		<SimpleData name="class_lvl">368.040</SimpleData>
+		<SimpleData name="height_lvl">Контрольный репер №1235 в фундаментной плите</SimpleData>
+		<SimpleData name="ctrl_place">116 оп.знак</SimpleData>
+		<SimpleData name="mark_num">Линия №2: Ивановка - р.Кон, II класс (I) Участок: грунт.реп.1983 - фунд.реп.2293</SimpleData>
+		<SimpleData name="center_type">Сулуколь, оз., в 3.0 км к юго-зап.от него, в 0.5 км к юго-зап.от пересечения шоссе с.Кургальджинский-с.Баршино с полевой дорогой, в 25 м к сев.-зап.от шоссе</SimpleData>
+		<SimpleData name="lvl_line">bbee2ed6-5528-4326-9d1e-a773aa2ff926</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>69.6775563738074,49.7905959791251</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

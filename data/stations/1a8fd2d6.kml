@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="1a8fd2d6" id="1a8fd2d6">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>1a8fd2d6</name>
+  <Placemark id="1a8fd2d6.1">
+	<name>7003</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#1a8fd2d6">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="ext_sign">33.275</SimpleData>
+		<SimpleData name="ctrl_place">121</SimpleData>
+		<SimpleData name="mark_num">Линия нивелирования 1 класса Уральск-Жанибек</SimpleData>
+		<SimpleData name="center_type">Подтяжки, с., в 1.8км к юго-вост.от него, в 1.5км к зап.от зим.Карагашкудук, в 36м к сев.от дороги</SimpleData>
+		<SimpleData name="lvl_line">1a8fd2d6-e201-4ec7-8f2b-ab62f0441a59</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>49.366204774307,50.760963035622</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

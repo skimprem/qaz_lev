@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="f5e7e725" id="f5e7e725">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>f5e7e725</name>
+  <Placemark id="f5e7e725.1">
+	<name>5613</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#f5e7e725">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="height_ctrl">5613</SimpleData>
+		<SimpleData name="center_type">3,6 км к юго-вост от с. Нижний Бурлук, 1,5 км к юго-зап. от искуственного водоема, 10,2 км. к сев.-зап. от с. Жаксы Жалгызтау</SimpleData>
+		<SimpleData name="lvl_line">f5e7e725-5a6f-40fa-9f22-7058083c6a7b</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>68.182135,52.7361533333333</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

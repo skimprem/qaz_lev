@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="cdca53fd" id="cdca53fd">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>cdca53fd</name>
+  <Placemark id="cdca53fd.1">
+	<name>17095</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#cdca53fd">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="ext_sign">84,509</SimpleData>
+		<SimpleData name="class_lvl">82,244</SimpleData>
+		<SimpleData name="height_lvl">контрольный репер №7540  в верхней плоскости монолита</SimpleData>
+		<SimpleData name="ctrl_place">121</SimpleData>
+		<SimpleData name="mark_num">Линия: Чапаевское -Каратал, II класс Участок:фун. реп.8240-фунд. реп.7481</SimpleData>
+		<SimpleData name="center_type">Кулыколь,а., в 4,5 км к юго-вост. от него, в 215 м к сев. от мусул. кладб.,в 182 м к зап. от грейдера с.Изобильное-с.Голубиновка, в 96 м к зап. от стб. ЛЭП 35 кв №369</SimpleData>
+		<SimpleData name="lvl_line">cdca53fd-042f-488d-a6ab-2abaecf517b0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>73.7842856074997,52.7343049819418</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="39439643" id="39439643">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>39439643</name>
+  <Placemark id="39439643.1">
+	<name>Мазар</name>
+	<description>пирамида</description>
+	<ExtendedData><SchemaData schemaUrl="#39439643">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="ext_sign">481.924</SimpleData>
+		<SimpleData name="class_lvl">9259</SimpleData>
+		<SimpleData name="height_lvl">146</SimpleData>
+		<SimpleData name="ctrl_place">12</SimpleData>
+		<SimpleData name="mark_num">Линия № 5: Талдысай - Тюемойнак. І класс </SimpleData>
+		<SimpleData name="center_type">Акирек. г. в 7.8 км к юго-вост. от нее. в 2.2 км к зап. от оз. Жаксыкопа. в 0.3 км к зап. от дороги</SimpleData>
+		<SimpleData name="lvl_line">39439643-7693-4725-bfeb-126019bb0a9a</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>68.6618356839922,49.1852099192585</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

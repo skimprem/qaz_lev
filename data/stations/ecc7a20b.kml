@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="ecc7a20b" id="ecc7a20b">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>ecc7a20b</name>
+  <Placemark id="ecc7a20b.1">
+	<name>2289</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#ecc7a20b">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="ext_sign">335.285</SimpleData>
+		<SimpleData name="ctrl_place">160 оп</SimpleData>
+		<SimpleData name="center_type">Жайнак, станция, в 2.3 км к юго-вост.от нее, напротив км стб784/783 жел.дор., в 43 м к сев.от бет.стб.№53, в38 м к сев.-вост.от жел.дор.полотна.</SimpleData>
+		<SimpleData name="lvl_line">ecc7a20b-23fd-4037-960a-6012169707e5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>71.1065942722948,51.2978560454912</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

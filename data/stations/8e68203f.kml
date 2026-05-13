@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="8e68203f" id="8e68203f">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>8e68203f</name>
+  <Placemark id="8e68203f.1">
+	<name>1846</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#8e68203f">
+		<SimpleData name="height_ctrl">1846</SimpleData>
+		<SimpleData name="ctrl_place">162оп</SimpleData>
+		<SimpleData name="center_type">40 м к юго-востоку от проселочной дороги, 0,5 км к северо-западу от р. Ново-Одесское, 1,8 км к северо-востоку от поворота полевой дороги</SimpleData>
+		<SimpleData name="lvl_line">8e68203f-778e-4247-9600-e06536c8bb4a</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.260405,50.4137666666667</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

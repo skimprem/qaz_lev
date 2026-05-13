@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="0cc30212" id="0cc30212">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>0cc30212</name>
+  <Placemark id="0cc30212.1">
+	<name>5859</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#0cc30212">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="ext_sign">194,987</SimpleData>
+		<SimpleData name="ctrl_place">160 оп, знак</SimpleData>
+		<SimpleData name="mark_num">Линия № 2: Кызылорда - Торыустаган, 1 класс (3) Участок: грунт, реп, 5541 - фунд, реп, 9993</SimpleData>
+		<SimpleData name="center_type">Шу, с,, в 5,3 км к зап, от него, в 0,2 км к юго-вост, от нов, стб, ЛЭП, в 35 м к югу от грунт, дороги с, Тасты - с, Шу, в 40 м к зап, от разрушенной могилы</SimpleData>
+		<SimpleData name="lvl_line">0cc30212-f3cd-4316-9930-6a72f0e63dab</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>69.3533282194463,44.8169804357055</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

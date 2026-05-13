@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="b120f1a5" id="b120f1a5">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>b120f1a5</name>
+  <Placemark id="b120f1a5.1">
+	<name>1879</name>
+	<description>скальный репер</description>
+	<ExtendedData><SchemaData schemaUrl="#b120f1a5">
+		<SimpleData name="height_ctrl">1879</SimpleData>
+		<SimpleData name="ctrl_place">99оп</SimpleData>
+		<SimpleData name="center_type">69 м к северо-востоку от угла лесополосы, 8 м к северо-востоку от железной дороги, 70 м к югу от полевой дороги</SimpleData>
+		<SimpleData name="lvl_line">b120f1a5-544b-4281-a29a-06454a1033a3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>65.9447883333333,52.05966</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

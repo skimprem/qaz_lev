@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="9f11db95" id="9f11db95">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>9f11db95</name>
+  <Placemark id="9f11db95.1">
+	<name>4141</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#9f11db95">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="ext_sign">64.934</SimpleData>
+		<SimpleData name="ctrl_place">160</SimpleData>
+		<SimpleData name="mark_num">Линия нивелирования 1 класса Уральск-Жанибек</SimpleData>
+		<SimpleData name="center_type">Таскала, станц., в 9.3км к вост.от нее, на 3пк 1217км жел.дороги Саратов-Уральск, в 0.2км к вост.от км стб. 1216/1217, в 49м к югу от жел.-дор.моста</SimpleData>
+		<SimpleData name="lvl_line">9f11db95-14b1-44fa-a5e3-c2ca0ec4c18f</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>50.4227222199492,51.1238541446942</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

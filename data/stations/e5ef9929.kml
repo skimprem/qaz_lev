@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="e5ef9929" id="e5ef9929">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>e5ef9929</name>
+  <Placemark id="e5ef9929.1">
+	<name>б/№</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#e5ef9929">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="ext_sign">269,393</SimpleData>
+		<SimpleData name="mark_num">Линия № 1: Торыустаган - Бирлик, I класс (1) Участок: грунт, реп, 237 - грунт, реп, 1530</SimpleData>
+		<SimpleData name="center_type">Уланбель, с, в 7,6 км к юго-вост, от него, в 0,8 км к юго-зап, от оз, Жаланаш, в 0,4 км к сев,-вост, от км, стб, №214/7</SimpleData>
+		<SimpleData name="lvl_line">e5ef9929-4a2e-4688-9396-c00ef28f085b</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>71.1830008386203,44.7613525644175</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

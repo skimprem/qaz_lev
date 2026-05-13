@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="faf97fb1" id="faf97fb1">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>faf97fb1</name>
+  <Placemark id="faf97fb1.1">
+	<name>Б/№</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#faf97fb1">
+		<SimpleData name="type">3</SimpleData>
+		<SimpleData name="ext_sign">97.962</SimpleData>
+		<SimpleData name="mark_num">Линия №6: сигн. 2 кл. Байболмоласы - грунт. реп. 297, III класс</SimpleData>
+		<SimpleData name="center_type">Жаланашколь, озеро, в 4.2км к юго-зап.от него, в 1.7км к сев.-вост.от проезжей плотины, в 0.3км к юго-зап.от дороги с.Караой-с.Ойыл</SimpleData>
+		<SimpleData name="lvl_line">faf97fb1-ec44-49ab-8938-0b4f8cfe533d</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>54.3705531655117,49.1303264126783</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

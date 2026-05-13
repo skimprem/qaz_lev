@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="bd051e47" id="bd051e47">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>bd051e47</name>
+  <Placemark id="bd051e47.1">
+	<name>7499</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#bd051e47">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="ext_sign">-17,780</SimpleData>
+		<SimpleData name="mark_num">Линия №1 Доссор -Сагиз, учасиок: Марка 4572- грунт. Реп. 3256</SimpleData>
+		<SimpleData name="center_type">Макат,станц., в 10,4 км к юго-зап. от нее, в 56 м к юго-вост. от жел.-дор. полотна, на 1 пк 408 км</SimpleData>
+		<SimpleData name="lvl_line">bd051e47-62b6-4703-94ef-44ac0e6daa7d</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>53.1956575559548,47.6029701757958</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

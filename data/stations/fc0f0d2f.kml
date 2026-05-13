@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="fc0f0d2f" id="fc0f0d2f">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>fc0f0d2f</name>
+  <Placemark id="fc0f0d2f.1">
+	<name>7</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#fc0f0d2f">
+		<SimpleData name="ctrl_place">131</SimpleData>
+		<SimpleData name="mark_num">Линия 1 класса :Аральск -Тактайконыр(фунд.реп.5059 -фунд.реп.83)  Участок :грунт.реп.3254 -фунд.реп.83</SimpleData>
+		<SimpleData name="center_type">Карасу,с.(нежил.),в 1.4 км к югу от него,в 0.4 км к юго-зап.от кладбища,в 33 м к юго-вост.от полевой дороги</SimpleData>
+		<SimpleData name="lvl_line">fc0f0d2f-fc19-4912-9297-f42a6d23f14a</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>64.5964943059942,50.7293157672977</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

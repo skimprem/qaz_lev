@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="29baff4e" id="29baff4e">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>29baff4e</name>
+  <Placemark id="29baff4e.1">
+	<name>Закладка M007</name>
+	<description>Грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#29baff4e">
+		<SimpleData name="title">Грунтовый репер</SimpleData>
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="height_ctrl">M007</SimpleData>
+		<SimpleData name="ctrl_place">149</SimpleData>
+		<SimpleData name="mark_num">121</SimpleData>
+		<SimpleData name="center_type">От пункта Косыбас ,с., в 3.4км сев-зап. от него, в 0.2км к востоку шоссе Караганда-Балхаш,в 23м  к западу полевая дорога.</SimpleData>
+		<SimpleData name="lvl_line">29baff4e-169b-42f9-bb89-c0363f0e73e6</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>73.80079527,48.30818182</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

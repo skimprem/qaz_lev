@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="b8392f9f" id="b8392f9f">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>b8392f9f</name>
+  <Placemark id="b8392f9f.1">
+	<name>1</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#b8392f9f">
+		<SimpleData name="title">грунт.реп.</SimpleData>
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="ext_sign">390.582</SimpleData>
+		<SimpleData name="ctrl_place">116</SimpleData>
+		<SimpleData name="mark_num">Линия №1: Ивановка-р.Кон, ll класс (1). Участок: грунт.реп. 5354-грунт.реп.1719(151)</SimpleData>
+		<SimpleData name="center_type">Топарколь с., в 12,5 км к сев-зап. От  него, в 5,2 км к юго-зап. От зим.Каракудук, в 0,1 км к сев. От полевой дороги</SimpleData>
+		<SimpleData name="lvl_line">b8392f9f-b191-448e-ade4-8efa769ab8aa</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>70.5193817942528,49.8659576118257</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

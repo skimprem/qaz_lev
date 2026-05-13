@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="20d43b14" id="20d43b14">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>20d43b14</name>
+  <Placemark id="20d43b14.1">
+	<name>2913</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#20d43b14">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="ext_sign">-24.502</SimpleData>
+		<SimpleData name="ctrl_place">160</SimpleData>
+		<SimpleData name="mark_num">Линия Астрахань-Гурьев, нивелирование 1 класса, 1983 г. Предприятие №6</SimpleData>
+		<SimpleData name="center_type">Гурьев,гор., в 21.2 км к сев.-зап.от автомобильного моста через р.Урал, в 130 м к югу от арыка, в 56 м к сев-вост.от старого грейдера Гурьев-Астрахань, в 35 м к юго-зап.от стб.ЛЭП№86</SimpleData>
+		<SimpleData name="lvl_line">20d43b14-da0f-47d2-95ec-e6a6a3223a71</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>51.6957428433198,47.2289836998636</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

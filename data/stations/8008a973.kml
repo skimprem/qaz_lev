@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="8008a973" id="8008a973">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>8008a973</name>
+  <Placemark id="8008a973.1">
+	<name>1412</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#8008a973">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="ext_sign">56.535</SimpleData>
+		<SimpleData name="ctrl_place">121</SimpleData>
+		<SimpleData name="mark_num">Линия №1: Уил - Сарбие, II класс. Участок: фунд. реп. б/№ - грунт. реп. 1412</SimpleData>
+		<SimpleData name="center_type">Сарбие, с., в 4.8 км к юго-вост. от него, в 1.0 км к сев.-зап. от развалин, в 0.4 км к сев. от дороги с. Сарбие - с. Уил</SimpleData>
+		<SimpleData name="lvl_line">8008a973-1bc8-42a9-9d94-df76cd5e6a83</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>53.9876924335846,49.228670744212</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

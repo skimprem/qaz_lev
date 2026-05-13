@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="6006cd00" id="6006cd00">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>6006cd00</name>
+  <Placemark id="6006cd00.1">
+	<name>5452</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#6006cd00">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="ext_sign">661.051</SimpleData>
+		<SimpleData name="ctrl_place">161 оп. Знак</SimpleData>
+		<SimpleData name="mark_num">Линия № 1: Оз. Жаланашколь – Аягоз, I класс. Участок: грунт.реп. 1437 – ск.реп. 5328</SimpleData>
+		<SimpleData name="center_type">Таскескен, с., в 8.6 км к сев.-зап. от него, на 3 пк 685 км шоссе гор. Алматы – гор. Усть-Каменогорск, в 70 м к сев.-вост. от шоссе</SimpleData>
+		<SimpleData name="lvl_line">6006cd00-9615-4330-9a12-ceb859cc6b80</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>80.6671614507719,47.2579941534442</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

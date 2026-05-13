@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="b35117b9" id="b35117b9">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>b35117b9</name>
+  <Placemark id="b35117b9.1">
+	<name>Чернорецкий</name>
+	<description>сигнал</description>
+	<ExtendedData><SchemaData schemaUrl="#b35117b9">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="ext_sign">108,543</SimpleData>
+		<SimpleData name="ctrl_place">37</SimpleData>
+		<SimpleData name="mark_num">Линия нивелирования: Павлодар-Урлютюб,II класс Участок:фунд. реп.1015-фунд.реп. 310</SimpleData>
+		<SimpleData name="lvl_line">b35117b9-8825-489e-a876-469528708a21</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>76.6309275903846,52.7970799555675</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

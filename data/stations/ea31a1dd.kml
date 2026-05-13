@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="ea31a1dd" id="ea31a1dd">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>ea31a1dd</name>
+  <Placemark id="ea31a1dd.1">
+	<name>5564</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#ea31a1dd">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="ext_sign">1082.890</SimpleData>
+		<SimpleData name="ctrl_place">160 оп. знак</SimpleData>
+		<SimpleData name="mark_num">Линия № 3: Карабута – Белая Школа, II класс , Участок: фунд.реп. 131 – ск.реп. 2274</SimpleData>
+		<SimpleData name="center_type">Предгорное, с., в 0.7 км к югу от него, в 0.3 км к юго-зап. от моста через р. Акшокы, в 45 м к вост. от линии ЛЭП, между ручьем и грунт. дороги с. Предгорное – с. Карабута</SimpleData>
+		<SimpleData name="lvl_line">ea31a1dd-6860-477a-abe4-b1b07fe6dc85</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>82.7478959983683,47.0703898637698</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

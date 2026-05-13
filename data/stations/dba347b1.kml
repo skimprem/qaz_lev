@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="dba347b1" id="dba347b1">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>dba347b1</name>
+  <Placemark id="dba347b1.1">
+	<name>0408</name>
+	<description>Грунт. реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#dba347b1">
+		<SimpleData name="ctrl_place">тип 162 оп.зн.</SimpleData>
+		<SimpleData name="center_type">Павлодар, гор., сев. – зап. сторона его, в 220 м к зап. от завода «Кассинг» (бывший тракторный завод), в 57 м к сев. – зап. от пересечений дороги        ул. Космонавтов – ул. Жибек-жолы, 
+в 24 м к сев. от дороги по ул. Жибек-жолы, в 29 м к зап. от стб. ЛЭП 35 кВт. № 11, в 0.7 м к вост. от оп. знака</SimpleData>
+		<SimpleData name="lvl_line">dba347b1-3a81-473f-9eff-9c47008e36fb</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>76.9458777777778,52.3304916666667</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="fb88bdcf" id="fb88bdcf">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>fb88bdcf</name>
+  <Placemark id="fb88bdcf.1">
+	<name>Казбек</name>
+	<description>пирамида</description>
+	<ExtendedData><SchemaData schemaUrl="#fb88bdcf">
+		<SimpleData name="title"></SimpleData>
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="ext_sign">89,466</SimpleData>
+		<SimpleData name="ctrl_place">3</SimpleData>
+		<SimpleData name="mark_num">Линия: Айбас-Чапаевское,II класс Участок:фунд. реп.189-фунд. реп. 8240</SimpleData>
+		<SimpleData name="center_type">Береке,а., в 3,1 км к вост. от него, в 0,3 км к зап. от р.Букпа</SimpleData>
+		<SimpleData name="lvl_line">fb88bdcf-ada3-4985-bc69-cb2e058f8393</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>73.6458937136423,52.7336995206243</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

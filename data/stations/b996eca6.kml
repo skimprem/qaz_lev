@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="b996eca6" id="b996eca6">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>b996eca6</name>
+  <Placemark id="b996eca6.1">
+	<name>1884</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#b996eca6">
+		<SimpleData name="height_ctrl">1884</SimpleData>
+		<SimpleData name="ctrl_place">162оп</SimpleData>
+		<SimpleData name="center_type">0,9 км к юго-западу от озера Арынбалык, 177 м к северо-западу от АЗС, 317 м к северо-западу от пересечения автомобильных дорог</SimpleData>
+		<SimpleData name="lvl_line">b996eca6-28dc-4bae-961f-79286ad13994</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>68.1952283333333,52.9354433333333</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

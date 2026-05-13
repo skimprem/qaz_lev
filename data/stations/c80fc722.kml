@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="c80fc722" id="c80fc722">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>c80fc722</name>
+  <Placemark id="c80fc722.1">
+	<name>3252</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#c80fc722">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="ext_sign">341.324</SimpleData>
+		<SimpleData name="class_lvl">339.935</SimpleData>
+		<SimpleData name="ctrl_place">154 оп</SimpleData>
+		<SimpleData name="center_type">Байконур, с., в 33.8 км к сев.-зап. От него, в 1.0 км к зап.от р.Шолак, в 50 м к сев.от грунт.реп.3759, в 20 м к зап.от дороги с.Амангельды-с.Байконур.</SimpleData>
+		<SimpleData name="lvl_line">c80fc722-4f0a-494d-ae8a-cf49466226ba</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>65.8676731815381,48.1126873204251</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="bb729d77" id="bb729d77">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>bb729d77</name>
+  <Placemark id="bb729d77.1">
+	<name>6559</name>
+	<description>стенной репер</description>
+	<ExtendedData><SchemaData schemaUrl="#bb729d77">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="ext_sign">-22,704</SimpleData>
+		<SimpleData name="ctrl_place">143</SimpleData>
+		<SimpleData name="mark_num">Линия 1 класса: Атырау-Доссор Участок: фунд. реп. 9167-грунт. реп. 118</SimpleData>
+		<SimpleData name="center_type">Карабатан, раз., водонапорная башня, южн. сторона фундамента, 10 пк 482 км жел. дороги</SimpleData>
+		<SimpleData name="lvl_line">bb729d77-0600-4180-9c71-1a98b0defacd</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>52.3142514665144,47.2753512547686</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

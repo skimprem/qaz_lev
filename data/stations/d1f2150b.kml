@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="d1f2150b" id="d1f2150b">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>d1f2150b</name>
+  <Placemark id="d1f2150b.1">
+	<name>0855</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#d1f2150b">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="ctrl_place">160 оп</SimpleData>
+		<SimpleData name="lvl_line">d1f2150b-864f-4a76-9152-a0739c99711e</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.7344050329836,50.364369216908</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

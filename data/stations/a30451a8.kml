@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="a30451a8" id="a30451a8">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>a30451a8</name>
+  <Placemark id="a30451a8.1">
+	<name>15800</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#a30451a8">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="ext_sign">266.676</SimpleData>
+		<SimpleData name="ctrl_place">121 оп</SimpleData>
+		<SimpleData name="center_type">Кийма, с., в 5.5 км к сев.-зап. от него, в 3.6 км к сев.-вост. от с.Запорожье, в 125 м к сев. от полевой дороги, в 37 м к сев.-вост. от стб.ЛЭП № 57 35кВт.</SimpleData>
+		<SimpleData name="lvl_line">a30451a8-fcb8-435d-9e8a-b6d97e547805</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.4888431175938,51.6276269405122</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

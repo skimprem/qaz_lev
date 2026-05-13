@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="c600c9e9" id="c600c9e9">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>c600c9e9</name>
+  <Placemark id="c600c9e9.1">
+	<name>Закладка 11</name>
+	<ExtendedData><SchemaData schemaUrl="#c600c9e9">
+		<SimpleData name="center_type">В 30 м к югу от полевой дороги </SimpleData>
+		<SimpleData name="lvl_line">c600c9e9-d063-4034-a42f-78d5bf7e3a60</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>63.0113089566009,49.3417628475609</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

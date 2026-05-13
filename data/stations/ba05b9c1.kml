@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="ba05b9c1" id="ba05b9c1">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>ba05b9c1</name>
+  <Placemark id="ba05b9c1.1">
+	<name>3075</name>
+	<description>скальный репер</description>
+	<ExtendedData><SchemaData schemaUrl="#ba05b9c1">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="ext_sign">898.710</SimpleData>
+		<SimpleData name="ctrl_place">99</SimpleData>
+		<SimpleData name="center_type">Кент, с., в 2.5 км к юго-зап. от него, в 12 м к сев.-вост. от тлгр. стб. 210/61, в 85 м к вост. от дороги с.Кент-с.Талды.</SimpleData>
+		<SimpleData name="lvl_line">ba05b9c1-8254-4449-b5dd-55e1e7050447</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.8478636073397,49.2171606597192</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

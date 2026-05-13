@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="c42000ad" name="c42000ad">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Schema id="c42000ad.schema">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Document id="c42000ad">
+      <name>c42000ad</name>
+      <Placemark id="c42000ad.1">
+        <description>Карсакбай, с., в 0.8 км к к юго-зап. от юго-зап. окраины его, в 0.9 км к юго -вост м от дороги с.Карсакбай –с.Байконур, в 0.4 км к югу от автомобильного моста через реку, в 0.4 км к зап. от кладбища  
+</description>
+        <ExtendedData>
+          <SchemaData schemaUrl="#c42000ad.schema">
+            <SimpleData name="title">Вековой реп.Карсакбай</SimpleData>
+            <SimpleData name="type">вековой репер</SimpleData>
+            <SimpleData name="center_type">174</SimpleData>
+            <SimpleData name="guid">c42000ad-6970-453a-a94d-1b69e7426855</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            66.711725,47.8252194444444,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

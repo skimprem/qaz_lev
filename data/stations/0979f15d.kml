@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="0979f15d" id="0979f15d">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>0979f15d</name>
+  <Placemark id="0979f15d.1">
+	<name>3619</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#0979f15d">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="ext_sign">358.617</SimpleData>
+		<SimpleData name="class_lvl">3619</SimpleData>
+		<SimpleData name="ctrl_place">123</SimpleData>
+		<SimpleData name="center_type">Астана, станция, в 2.7 км к юго-вост. от нее, на 5(6) ПК 494 км ж.д., в 35 м к сев. от ж.д. полотна, в 29 м к зап. от металлического стб. ЛЭП №41.</SimpleData>
+		<SimpleData name="lvl_line">0979f15d-d32f-4a1e-9589-c0fbc1ca0647</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>71.4444627036582,51.1856687950741</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="e5713a31" id="e5713a31">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>e5713a31</name>
+  <Placemark id="e5713a31.1">
+	<name>3591</name>
+	<description>Грунтовый репер </description>
+	<ExtendedData><SchemaData schemaUrl="#e5713a31">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="height_ctrl">3591</SimpleData>
+		<SimpleData name="ctrl_place">160 оп </SimpleData>
+		<SimpleData name="center_type">Шегибай с., в 2.5 км к сев. От него, в 1.7 км км юго-зап.от солончака, 20 м к вост. От полевой дороги. </SimpleData>
+		<SimpleData name="lvl_line">e5713a31-f160-4397-8b75-acf84f8dbd5c</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>63.13101,52.1821966666667</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

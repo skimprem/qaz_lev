@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="bcfc7757" name="bcfc7757">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Schema id="bcfc7757.schema">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Document id="bcfc7757">
+      <name>bcfc7757</name>
+      <Placemark id="bcfc7757.1">
+        <description>Каратон, разв., в 10.5 кмк
+, юго-вост. от них.,в 0.3 км к
+сев.-вост. от мог.Бвльтуран,
+у дороги.</description>
+        <ExtendedData>
+          <SchemaData schemaUrl="#bcfc7757.schema">
+            <SimpleData name="title">5</SimpleData>
+            <SimpleData name="ext_sign">грунт.реп.</SimpleData>
+            <SimpleData name="class_lvl">2</SimpleData>
+            <SimpleData name="center_type">//</SimpleData>
+            <SimpleData name="lvl_line">Линия нивелирования П класса Кендырли(фунд.реп1501) - Жармыш(фунд.реп.80)
+Участок от грунт.реп.1650 до грунт.реп.1639.</SimpleData>
+            <SimpleData name="guid">bcfc7757-301a-498e-8b2f-876e117fd1c6</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            50.8360555137408,44.4535695096331,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

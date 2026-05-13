@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="91401443" id="91401443">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>91401443</name>
+  <Placemark id="91401443.1">
+	<name>Урлютюб Вост.</name>
+	<description>пирамида</description>
+	<ExtendedData><SchemaData schemaUrl="#91401443">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="ext_sign">104,340</SimpleData>
+		<SimpleData name="ctrl_place">1</SimpleData>
+		<SimpleData name="mark_num">Линия: Урлютюб-Шипицыно, II класс Участок: фунд. реп. 310-фунд. реп. 10050</SimpleData>
+		<SimpleData name="lvl_line">91401443-920e-483a-a8df-39b041b12c1c</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.0527380224823,53.7353337941634</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

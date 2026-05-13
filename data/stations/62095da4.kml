@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="62095da4" id="62095da4">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>62095da4</name>
+  <Placemark id="62095da4.1">
+	<name>600</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#62095da4">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="ext_sign">26,205</SimpleData>
+		<SimpleData name="ctrl_place">123</SimpleData>
+		<SimpleData name="mark_num">Линия: фунд. реп.3531-грунт. реп.7, 1 класс</SimpleData>
+		<SimpleData name="center_type">Жанибек,ст., в 5,1 км к югу от нее, в 24 км к юго-зап. от мог., в 11 км к вост. от ЛЭП, в 0,8 км к сев.-вост. от арт. колодца</SimpleData>
+		<SimpleData name="lvl_line">62095da4-8191-408a-b614-c449032347e5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>46.8392730459538,49.365561547694</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

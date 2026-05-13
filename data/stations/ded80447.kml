@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="ded80447" id="ded80447">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>ded80447</name>
+  <Placemark id="ded80447.1">
+	<name>Б/N</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#ded80447">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="ctrl_place">162 оп. знак</SimpleData>
+		<SimpleData name="mark_num">Линия N°1 : оз.Жаланашколь-Аягоз 
+Участок: грунт. реп. 4029-грунт.реп. 4299</SimpleData>
+		<SimpleData name="center_type">Тектурмас, горы., 9.2 км к юго-зап. от него, от км стб. N°24/109 к сев.-зап.0.4 км,  от шоссе станц. Жаланашколь-с.Маканши к юго-зап. 31 м</SimpleData>
+		<SimpleData name="lvl_line">ded80447-8f93-43a6-8d20-23f549cb598f</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>82.2225655285258,46.5565470952871</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

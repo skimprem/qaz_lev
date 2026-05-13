@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="c880af2f" id="c880af2f">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>c880af2f</name>
+  <Placemark id="c880af2f.1">
+	<name>Зимовка</name>
+	<description>пирамида</description>
+	<ExtendedData><SchemaData schemaUrl="#c880af2f">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="ext_sign">377.740</SimpleData>
+		<SimpleData name="ctrl_place">88</SimpleData>
+		<SimpleData name="mark_num">Линия № 4 : грунт.реп.873 - грунт.реп. 4312, II класс</SimpleData>
+		<SimpleData name="center_type">Каинды, с., в 9.2 км к юго-зап. от него, в 1.0 км к сев. отзимовки, в 17 м к вост. от дороги с.Каинды-зим.Ашик</SimpleData>
+		<SimpleData name="lvl_line">c880af2f-131c-409c-936f-806f4a80e3a1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>58.9868167673171,48.7122154193171</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

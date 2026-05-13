@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="3e49ed02" id="3e49ed02">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>3e49ed02</name>
+  <Placemark id="3e49ed02.1">
+	<name>2340</name>
+	<description>Грунтовый репер </description>
+	<ExtendedData><SchemaData schemaUrl="#3e49ed02">
+		<SimpleData name="title">Опознавательный знак </SimpleData>
+		<SimpleData name="type">І</SimpleData>
+		<SimpleData name="height_ctrl">2340</SimpleData>
+		<SimpleData name="ctrl_place">162</SimpleData>
+		<SimpleData name="mark_num">Линия нивелирования І класса #102 &quot;Петропавловск-Павлодар&quot;</SimpleData>
+		<SimpleData name="center_type">Пос. Иртышск его северная окраина, 450 м к северо-востоку от водонапорной башни, 320 м к северу от ул. Жазы Бытыр, 110 м к юго-западу от кладбища</SimpleData>
+		<SimpleData name="lvl_line">3e49ed02-25e6-48eb-b7f7-4d7f506ef6a6</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.4568283333333,53.3513066666667</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

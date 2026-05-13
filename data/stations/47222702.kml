@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="47222702" name="47222702">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Schema id="_47222702.schema">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Document id="_47222702">
+      <name>47222702</name>
+      <Placemark id="_47222702.1">
+        <description>Форт-Шевченко, гор., в 0,5 км к востоку от него, в 0,2 км к юго-востоку от угла забора подстанции ЛЭП, в 63 м к северу от дороги гор.Форт-Шевченко-с.Таучик, в 28 м к востоку от конца поворота забора вокруг кладбища, в 10 м к сев.-востоку от бет.тлф.стб.</description>
+        <ExtendedData>
+          <SchemaData schemaUrl="#_47222702.schema">
+            <SimpleData name="title">4088</SimpleData>
+            <SimpleData name="type">грунтовый репер</SimpleData>
+            <SimpleData name="class_lvl">2</SimpleData>
+            <SimpleData name="height_lvl">-13,977</SimpleData>
+            <SimpleData name="center_type">160 оп.знак</SimpleData>
+            <SimpleData name="lvl_line">Линия нивелирования II класса: ск.реп.171 до марки 427</SimpleData>
+            <SimpleData name="guid">47222702-9428-4ee9-a95b-836d213b885c</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            50.2871075461963,44.4981135960356,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

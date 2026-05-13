@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="1930cff4" id="1930cff4">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>1930cff4</name>
+  <Placemark id="1930cff4.1">
+	<name>9299</name>
+	<description>фундаментальный репер</description>
+	<ExtendedData><SchemaData schemaUrl="#1930cff4">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="ext_sign">60.751</SimpleData>
+		<SimpleData name="ctrl_place">161</SimpleData>
+		<SimpleData name="mark_num">Линия нивелирования 1 класса Уральск-Жанибек</SimpleData>
+		<SimpleData name="center_type">Деркул, станц., в 1.9км к вост.от нее, на 7пк 1238км жел.дороги Саратов-Уральск, в 0.2км к сев.от небольшого пруда, в 160м к сев.от канавы с насыпью, в 99м к югу от жел.-дор.полотна, в 13м к югу от края лесополосы</SimpleData>
+		<SimpleData name="lvl_line">1930cff4-890e-487e-9f15-42ec051df98c</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>50.7170469340195,51.1455844041654</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

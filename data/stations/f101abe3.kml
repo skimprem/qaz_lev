@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="f101abe3" id="f101abe3">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>f101abe3</name>
+  <Placemark id="f101abe3.1">
+	<name>6013</name>
+	<ExtendedData><SchemaData schemaUrl="#f101abe3">
+		<SimpleData name="title">Скал. реп.</SimpleData>
+		<SimpleData name="ctrl_place">99 оп.знак</SimpleData>
+		<SimpleData name="center_type">плато Асы, в 5.3 км к сев.-зап. от него, в 4.8 км к сев. от р.Асы, в 200 м к зап. от реки, в 15 м к вост. от пол. дор.</SimpleData>
+		<SimpleData name="lvl_line">f101abe3-5e28-421f-b241-cd4afe38f544</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>78.05419,43.303735</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

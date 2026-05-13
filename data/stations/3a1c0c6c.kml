@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="3a1c0c6c" id="3a1c0c6c">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>3a1c0c6c</name>
+  <Placemark id="3a1c0c6c.1">
+	<name>Эталонный репер</name>
+	<description>Ск.реп</description>
+	<ExtendedData><SchemaData schemaUrl="#3a1c0c6c">
+		<SimpleData name="type">||</SimpleData>
+		<SimpleData name="ext_sign">759,016</SimpleData>
+		<SimpleData name="class_lvl">698,293</SimpleData>
+		<SimpleData name="ctrl_place">99</SimpleData>
+		<SimpleData name="center_type">Спасское, с., в 10.0 км к югу от него, в .Караганда-гор.Балхаш, в 170 м к зап.от шоссе, от зимника к югу 250 м</SimpleData>
+		<SimpleData name="lvl_line">3a1c0c6c-54b5-4709-8d79-86d4f332aa25</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>73.3187716666667,49.4601266666667</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="b08cdd7a" name="b08cdd7a">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Schema id="b08cdd7a.schema">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Document id="b08cdd7a">
+      <name>b08cdd7a</name>
+      <Placemark id="b08cdd7a.1">
+        <description>Форт-Шевченко, гор., в 14.5км 
+к юго-вост. от него, в 1.2 км
+к сев.-зап. от разв.,в 20 м
+к югу от дороги гор.Форт-Шев-
+ченко-пгт Таучик,</description>
+        <ExtendedData>
+          <SchemaData schemaUrl="#b08cdd7a.schema">
+            <SimpleData name="title">521</SimpleData>
+            <SimpleData name="ext_sign">ск.реп.</SimpleData>
+            <SimpleData name="class_lvl">2</SimpleData>
+            <SimpleData name="center_type">113</SimpleData>
+            <SimpleData name="lvl_line">Линия нивелирования П класса Кендырли(фунд.реп1501) - Жармыш(фунд.реп.80)
+Участок от грунт.реп.1650 до грунт.реп.1639.</SimpleData>
+            <SimpleData name="guid">b08cdd7a-b4b6-447a-a89b-557fda6a9ef8</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            50.4581801726296,44.4821551054755,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

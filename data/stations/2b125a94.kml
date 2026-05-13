@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2b125a94" id="2b125a94">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>2b125a94</name>
+  <Placemark id="2b125a94.1">
+	<name>1001 (1)</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#2b125a94">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="ext_sign">578.696</SimpleData>
+		<SimpleData name="ctrl_place">121</SimpleData>
+		<SimpleData name="center_type">Бозай, с., в 12.7 км к юго-зап. от него, в 3.5 км к югу от зимовки, в 0.4 км к юго-зап. от км.стб. 35/311, в 0.2 км к юго-вост. от телевышки, в 0.1 км к югу от шоссе.</SimpleData>
+		<SimpleData name="lvl_line">2b125a94-beb5-4961-9a87-36e10122afd1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>80.006839086678,47.8408657092714</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

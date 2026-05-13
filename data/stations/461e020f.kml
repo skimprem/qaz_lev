@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="461e020f" id="461e020f">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>461e020f</name>
+  <Placemark id="461e020f.1">
+	<name>II</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#461e020f">
+		<SimpleData name="height_ctrl">II</SimpleData>
+		<SimpleData name="ctrl_place">162 оп</SimpleData>
+		<SimpleData name="center_type">вдоль полевой дороги, 8,8 км к югу от автодороги с.Нарманбек-с.Каракум, 0,9 км к зап. от солончака, 33,7 км к юго-зап от с.Емелтау</SimpleData>
+		<SimpleData name="lvl_line">461e020f-ca92-4a05-b243-6f9c74021009</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.1968266666667,47.4795466666667</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

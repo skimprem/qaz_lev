@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="afc6e13e" id="afc6e13e">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>afc6e13e</name>
+  <Placemark id="afc6e13e.1">
+	<name>1103 (закладка)</name>
+	<description>Грунтовый репер </description>
+	<ExtendedData><SchemaData schemaUrl="#afc6e13e">
+		<SimpleData name="ctrl_place">160 оп знак</SimpleData>
+		<SimpleData name="center_type">Кушала село,5,1 км сев-зап от него, 100 м к югу от ВЛЭП, 80 м к вост от км/стб 40/ 303 , 30 м к сев от шоссе Мойынкум-Бирлик, 0,7 м к югу от оп знака</SimpleData>
+		<SimpleData name="lvl_line">afc6e13e-229f-4544-828f-01662ecc25fc</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>73.1270983333333,44.27264</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

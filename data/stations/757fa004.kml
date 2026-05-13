@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="757fa004" id="757fa004">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>757fa004</name>
+  <Placemark id="757fa004.1">
+	<name>А1827</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#757fa004">
+		<SimpleData name="height_ctrl">А1827</SimpleData>
+		<SimpleData name="ctrl_place">162оп</SimpleData>
+		<SimpleData name="center_type">1 км к юго-востоку от с. Катбагар, 668 м к юго-востоку от электр. подстанции, 1 км к юго-востоку от пересечения проселочной и железной дорог</SimpleData>
+		<SimpleData name="lvl_line">757fa004-dfc3-4799-a9c8-8ab11ee55bf4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>65.048665,52.2848516666667</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

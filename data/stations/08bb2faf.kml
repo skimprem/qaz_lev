@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="08bb2faf" id="08bb2faf">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>08bb2faf</name>
+  <Placemark id="08bb2faf.1">
+	<name>9605</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#08bb2faf">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="ext_sign">352.949</SimpleData>
+		<SimpleData name="ctrl_place">160</SimpleData>
+		<SimpleData name="center_type">Астана, станция, в 2.2 км к сев.-зап.от нее, в 57 м к сев.-зап.от карликовой светофора, в 357 м к вост.от переезда №489, в 7 м к сев.от жел.дор.полотна, в 4 м к  сев.от бет.стб№43 А</SimpleData>
+		<SimpleData name="lvl_line">08bb2faf-6e0e-40a0-8010-db91cfe5e74c</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>71.3845954624029,51.1869065823073</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

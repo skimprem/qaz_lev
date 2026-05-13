@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="e1014aaa" id="e1014aaa">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>e1014aaa</name>
+  <Placemark id="e1014aaa.1">
+	<name>6731</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#e1014aaa">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="ext_sign">444.363</SimpleData>
+		<SimpleData name="height_lvl">160 оп.знак</SimpleData>
+		<SimpleData name="ctrl_place">12</SimpleData>
+		<SimpleData name="mark_num">Линия № 4: р. Кон - Талдысай. І класс </SimpleData>
+		<SimpleData name="center_type">Отд. №3 свх. Талдысай. в 11.8 км к зап. от него. в 3.0 км. к юго-зап. от г. Кудайберды. в 0.4 км к сев. от к.. в 0.3 км к югу от мог. на буг.. в 22 м к сев. от пол. дор. </SimpleData>
+		<SimpleData name="lvl_line">e1014aaa-b336-4a8b-b040-5274b6b2f374</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>68.6822464874249,49.3493037301459</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

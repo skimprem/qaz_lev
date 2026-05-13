@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="fbdc8b98" id="fbdc8b98">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>fbdc8b98</name>
+  <Placemark id="fbdc8b98.1">
+	<name>2118</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#fbdc8b98">
+		<SimpleData name="type">3</SimpleData>
+		<SimpleData name="height_ctrl">2118</SimpleData>
+		<SimpleData name="center_type">5,1 км с юу от с. Жаксы Жалгызтау, 1 км к сев.-вост. от с. Приозёрное, 0,85 км к юго-вост. отберега оз. Жаксы Жалгызтау</SimpleData>
+		<SimpleData name="lvl_line">fbdc8b98-5a7f-4045-8ef5-e45d29d3a1fd</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>68.227075,52.58632</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

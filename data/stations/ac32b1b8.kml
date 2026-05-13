@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="ac32b1b8" id="ac32b1b8">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>ac32b1b8</name>
+  <Placemark id="ac32b1b8.1">
+	<name>9781</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#ac32b1b8">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="ext_sign">58.166</SimpleData>
+		<SimpleData name="ctrl_place">160 оп</SimpleData>
+		<SimpleData name="mark_num">Линия №1: Айтеке Би (Новоказалинск) - Ащылысай, 2 класс. Участок: грунт.реп. 0921 - фунд.реп. 3920</SimpleData>
+		<SimpleData name="center_type">Биркудык, арт.к., в 8,6 км к юго-вост.от нее, в 1,1 км к юго-зап.от мог. Нарымбай, в 50 м к вост.от сух.русла Ащысай</SimpleData>
+		<SimpleData name="lvl_line">ac32b1b8-b0db-4ffb-aa85-441a6f3d5638</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>62.073251031776,44.9952548366389</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

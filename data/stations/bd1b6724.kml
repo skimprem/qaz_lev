@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="bd1b6724" id="bd1b6724">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>bd1b6724</name>
+  <Placemark id="bd1b6724.1">
+	<name>6360</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#bd1b6724">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="ext_sign">295,478</SimpleData>
+		<SimpleData name="ctrl_place">159</SimpleData>
+		<SimpleData name="mark_num">Линия № 1: Туйемойнак - Торыустаган, І класс (1) Участок: грунт, реп, 2520 - грунт,реп, 5187</SimpleData>
+		<SimpleData name="center_type">Балакандым, к,, в 11,5 км к сев,-зап, от него, в 8,8 км к сев,-вост, от соя, род, Сорбулак, в 25 м к зап, от полевой дороги</SimpleData>
+		<SimpleData name="lvl_line">bd1b6724-535d-446b-b036-af1a4541b257</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>69.5532306860734,45.8353122807578</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

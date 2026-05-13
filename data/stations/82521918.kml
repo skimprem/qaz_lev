@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="82521918" id="82521918">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>82521918</name>
+  <Placemark id="82521918.1">
+	<name>1158</name>
+	<description>стенной репер</description>
+	<ExtendedData><SchemaData schemaUrl="#82521918">
+		<SimpleData name="title">стен.реп.</SimpleData>
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="mark_num">Линия № 1: Володарское - Максимовка, II класс, Участок: грунт.реп. 5806 - фунд. реп. 2883</SimpleData>
+		<SimpleData name="center_type">Максимовка, с., к юго-зап. от угла здания библиотеки</SimpleData>
+		<SimpleData name="lvl_line">82521918-5fc5-42ae-bb49-c9d9e455ad4b</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>68.6246883333333,52.3958266666667</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

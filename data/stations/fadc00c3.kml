@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="fadc00c3" id="fadc00c3">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>fadc00c3</name>
+  <Placemark id="fadc00c3.1">
+	<name>4033</name>
+	<ExtendedData><SchemaData schemaUrl="#fadc00c3">
+		<SimpleData name="title">грунт.реп</SimpleData>
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="ext_sign">930.064</SimpleData>
+		<SimpleData name="ctrl_place">160</SimpleData>
+		<SimpleData name="mark_num">Линпмя №2: Сузак-Туркестан, II класс (3) Участок: грунт.реп. 10178-грунт.реп. 1695</SimpleData>
+		<SimpleData name="center_type">Баджи,пер. в 30 м к сев.от него, у дороги с.Сузак-пер. Баджи</SimpleData>
+		<SimpleData name="lvl_line">fadc00c3-9c1c-45c0-a1e3-7ed94dff9451</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>68.2068820623948,43.8995020588257</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

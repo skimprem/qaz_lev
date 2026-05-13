@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="53529550" id="53529550">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>53529550</name>
+  <Placemark id="53529550.1">
+	<name>9994</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#53529550">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="ext_sign">95.384</SimpleData>
+		<SimpleData name="ctrl_place">160 оп</SimpleData>
+		<SimpleData name="mark_num">линия №1: Аральск - Семиозерное, I класс Участок: грунт.реп. 114 - грунт.реп. 11</SimpleData>
+		<SimpleData name="center_type">Торгай, с., в 3,2 км к сев.-вост.от него, в 638 м к зап.от автодороги с покрытием, в 497 м к сев.от насосной станции</SimpleData>
+		<SimpleData name="lvl_line">53529550-a46a-424e-8658-4457d418ab62</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>63.5183943386356,49.6687940294614</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

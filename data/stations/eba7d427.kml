@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="eba7d427" name="eba7d427">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Schema id="eba7d427.schema">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Document id="eba7d427">
+      <name>eba7d427</name>
+      <Placemark id="eba7d427.1">
+        <description>Форт-Шевченко, гор., в 1,5 км к юго-востоку от него, в 0,6 км к юго-западу от каменного карьера, в 20 м к западу от дороги с.Караменды-гор.Форт-Шевченко.</description>
+        <ExtendedData>
+          <SchemaData schemaUrl="#eba7d427.schema">
+            <SimpleData name="title">12-221</SimpleData>
+            <SimpleData name="type">скальный репер</SimpleData>
+            <SimpleData name="class_lvl">2</SimpleData>
+            <SimpleData name="height_lvl">58,317</SimpleData>
+            <SimpleData name="center_type">9оп.знак</SimpleData>
+            <SimpleData name="lvl_line">Линия нивелирования I класса: грунт.реп.36 до марки 341</SimpleData>
+            <SimpleData name="guid">eba7d427-797b-44f6-a142-63f0b2e6f2b9</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            50.2746688973977,44.4872362880767,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2cabeb06" id="2cabeb06">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>2cabeb06</name>
+  <Placemark id="2cabeb06.1">
+	<name>б/№</name>
+	<ExtendedData><SchemaData schemaUrl="#2cabeb06">
+		<SimpleData name="title">грунт.реп</SimpleData>
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="ext_sign">1052.475</SimpleData>
+		<SimpleData name="mark_num">Висячий ход от грунт.реп, 682, II класс</SimpleData>
+		<SimpleData name="center_type">Темирлик, с., в 1,0 км. к вост, от него, в 0,2 км к вост. от моста через р.Темирлик, водомерный пост</SimpleData>
+		<SimpleData name="lvl_line">2cabeb06-3067-4f94-8140-1347b8274880</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>79.1962727163705,43.2986024733609</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

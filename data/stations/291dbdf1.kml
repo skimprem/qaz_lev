@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="291dbdf1" id="291dbdf1">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>291dbdf1</name>
+  <Placemark id="291dbdf1.1">
+	<name>0043</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#291dbdf1">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="ext_sign">597.610</SimpleData>
+		<SimpleData name="ctrl_place">160</SimpleData>
+		<SimpleData name="center_type">Шокай, станц., в 7.0 км к юго-зап. от нее, на 2 пк 645 км, в 47 м к сев.-вост. от стб. №913, в 70 м к сев.-зап. от ж.д. моста, в 49 м к сев. от ж.д. полотна.</SimpleData>
+		<SimpleData name="lvl_line">291dbdf1-c017-45f1-9fd6-586d02a5d499</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.9324885943026,50.3873529838444</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

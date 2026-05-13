@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="3e40225d" id="3e40225d">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>3e40225d</name>
+  <Placemark id="3e40225d.1">
+	<name>4194</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#3e40225d">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="ctrl_place">121</SimpleData>
+		<SimpleData name="mark_num">Линия II класса: Есиль - Семиозерный. Участок: грунт. реп. 3961 - фунд. реп. 349</SimpleData>
+		<SimpleData name="center_type">Разъезд №74, в 0.9 км к сев.-зап. от него, на 315 км, в 0.2 км к сев.-зап. от жел.-дор. казармы, в 0.1 км к сев.-вост. от жел.-дор. полотна</SimpleData>
+		<SimpleData name="lvl_line">3e40225d-9cb7-4ed8-bd39-5954c3d9c89f</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>64.8725893642981,52.3410069549343</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

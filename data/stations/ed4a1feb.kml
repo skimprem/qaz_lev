@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="ed4a1feb" id="ed4a1feb">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>ed4a1feb</name>
+  <Placemark id="ed4a1feb.1">
+	<name>7563</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#ed4a1feb">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="ext_sign">284.223</SimpleData>
+		<SimpleData name="ctrl_place">121</SimpleData>
+		<SimpleData name="center_type">Атбасар, станц., в 7.5 км к вост. от нее, на 9 пикете 585 км жел. дор. в 26 м к югу от жел-дор. полотна, на 30 м к юго-вост. от бетон. стб. №196, в 15  м к юго-вост. от стб. ЛЭП № 133.</SimpleData>
+		<SimpleData name="lvl_line">ed4a1feb-54fe-40cc-aa87-fe90fe371af7</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>68.4983653033798,51.7963995046597</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

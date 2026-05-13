@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="ddf3d398" id="ddf3d398">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>ddf3d398</name>
+  <Placemark id="ddf3d398.1">
+	<name>1292(закладка)</name>
+	<description>Грунтовых репер</description>
+	<ExtendedData><SchemaData schemaUrl="#ddf3d398">
+		<SimpleData name="lvl_line">ddf3d398-7927-4bb8-a558-ce88882cc5a1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>71.6951220096051,49.7176912053426</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="e3e30ebc" name="e3e30ebc">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Schema id="e3e30ebc.schema">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Document id="e3e30ebc">
+      <name>e3e30ebc</name>
+      <Placemark id="e3e30ebc.1">
+        <description>Форт-Шевченко, гор., сев. окраина его, в 55 м к востоку от дороги гор.Форт-Шевченко-с.Баутино, в 32 м к сев.-востоку от ракушечного забора спорт.площадки дома пионеров, в южной части скалы.</description>
+        <ExtendedData>
+          <SchemaData schemaUrl="#e3e30ebc.schema">
+            <SimpleData name="title">4902</SimpleData>
+            <SimpleData name="type">скальный репер</SimpleData>
+            <SimpleData name="class_lvl">2</SimpleData>
+            <SimpleData name="height_lvl">-9,480</SimpleData>
+            <SimpleData name="center_type">99</SimpleData>
+            <SimpleData name="lvl_line">Линия нивелирования II класса: ск.реп.171 до марки 427</SimpleData>
+            <SimpleData name="guid">e3e30ebc-c5e9-40a7-8f59-0f40add1792c</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            50.2644229460906,44.5159316532115,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

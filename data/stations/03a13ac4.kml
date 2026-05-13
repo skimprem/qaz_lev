@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="03a13ac4" id="03a13ac4">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>03a13ac4</name>
+  <Placemark id="03a13ac4.1">
+	<name>73</name>
+	<description>фундаментальный репер</description>
+	<ExtendedData><SchemaData schemaUrl="#03a13ac4">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="ext_sign">10.594</SimpleData>
+		<SimpleData name="class_lvl">11.632</SimpleData>
+		<SimpleData name="height_lvl">Контрольный репер в трубе</SimpleData>
+		<SimpleData name="ctrl_place">119</SimpleData>
+		<SimpleData name="mark_num">Линия №2: Доссор-Бейнеу-Шевченко-форт Шевченко, 1 класс         Участок: фунд.реп.358-грунт.реп.12-18</SimpleData>
+		<SimpleData name="center_type">Бекбеке, с., в 14.0 км к юго-вост.от него, в 0.2 км к зап.от жел.-дор.переезда, в 0.2 км к вост.от кладб.Джумабай</SimpleData>
+		<SimpleData name="lvl_line">03a13ac4-cf46-4964-8b9c-523179b514f2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>53.7856241683792,47.3418823131028</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

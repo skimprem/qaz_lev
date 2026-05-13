@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="cbcc528f" name="cbcc528f">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Schema id="cbcc528f.schema">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Document id="cbcc528f">
+      <name>cbcc528f</name>
+      <Placemark id="cbcc528f.1">
+        <description>Аланбай, кладб., в 1,6км к юго-зап. от него, в 1,2 км к сев.-зап. от развилка на р.Сарысу, в 190м к сев.-зап. от км. стб. 1013/373, в 80м к сев.-зап. от ВЛЭП, в 28м к сев.-зап. от шоссе Кызылорда -Жезказган, в 15м к вост.от охранного стб. кабеля</description>
+        <ExtendedData>
+          <SchemaData schemaUrl="#cbcc528f.schema">
+            <SimpleData name="title">340</SimpleData>
+            <SimpleData name="type">грунтовый репер</SimpleData>
+            <SimpleData name="ext_sign">грунтовый репер</SimpleData>
+            <SimpleData name="class_lvl">2</SimpleData>
+            <SimpleData name="lvl_line">Участок : фунд.реп.13-пир.4 кл. Койкун</SimpleData>
+            <SimpleData name="guid">cbcc528f-bc71-4230-b6dc-96541463ffb4</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            67.9692816477477,47.3736989421324,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

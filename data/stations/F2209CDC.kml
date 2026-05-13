@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="F2209CDC" id="F2209CDC">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>F2209CDC</name>
+  <Placemark id="F2209CDC.1">
+	<name>Угол</name>
+	<ExtendedData><SchemaData schemaUrl="#F2209CDC">
+		<SimpleData name="title">пирамида</SimpleData>
+		<SimpleData name="height_ctrl">1864</SimpleData>
+		<SimpleData name="ctrl_place">146</SimpleData>
+		<SimpleData name="lvl_line">F2209CDC-BDDA-49E4-8ECF-49EBFEAC7755</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>52.7880910620258,50.7869078644923</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

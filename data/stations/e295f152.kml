@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="e295f152" id="e295f152">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>e295f152</name>
+  <Placemark id="e295f152.1">
+	<name>8847</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#e295f152">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="ext_sign">18.769</SimpleData>
+		<SimpleData name="ctrl_place">160</SimpleData>
+		<SimpleData name="mark_num">Линия нивелирования 1 класса Уральск-Жанибек</SimpleData>
+		<SimpleData name="lvl_line">e295f152-0644-41e8-a0b2-b3f792e8be84</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>48.8630380045561,49.8475303299303</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

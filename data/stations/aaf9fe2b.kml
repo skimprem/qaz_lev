@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="aaf9fe2b" id="aaf9fe2b">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>aaf9fe2b</name>
+  <Placemark id="aaf9fe2b.1">
+	<name>Акмырза</name>
+	<description>пирамида</description>
+	<ExtendedData><SchemaData schemaUrl="#aaf9fe2b">
+		<SimpleData name="type">3</SimpleData>
+		<SimpleData name="ext_sign">461.77199999999999</SimpleData>
+		<SimpleData name="mark_num">Линия № 60: грунт. реп. 276-грунт. реп. 274 IV класс (3)</SimpleData>
+		<SimpleData name="center_type">в 5.5 км к юго-зап. от с. Казнаковка, в 1.3 км к юго-вост. от с. Бастауши, в 0.1 км к югу от полевой дороги</SimpleData>
+		<SimpleData name="lvl_line">aaf9fe2b-196a-4541-9774-fd5bedd06e59</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>83.26882760002,48.86282981399</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

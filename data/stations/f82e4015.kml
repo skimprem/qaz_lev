@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="f82e4015" id="f82e4015">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>f82e4015</name>
+  <Placemark id="f82e4015.1">
+	<name>6606</name>
+	<description>грунт.реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#f82e4015">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="ext_sign">199.67</SimpleData>
+		<SimpleData name="ctrl_place">146</SimpleData>
+		<SimpleData name="mark_num">Линия: грунт.реп.I-фунд.реп..5,II класс</SimpleData>
+		<SimpleData name="center_type">Накуказган,колодцы, в 1.6 км к сев.-вост.от ни, в ур.Ильтеке, в 10 м к югу от дороги Кунград-Шевченко</SimpleData>
+		<SimpleData name="lvl_line">f82e4015-864d-4b62-825c-09527d860d53</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>55.8121467958972,43.1091105928573</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

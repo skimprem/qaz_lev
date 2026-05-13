@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="e7fb591d" id="e7fb591d">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>e7fb591d</name>
+  <Placemark id="e7fb591d.1">
+	<name>A1834</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#e7fb591d">
+		<SimpleData name="height_ctrl">A1834</SimpleData>
+		<SimpleData name="ctrl_place">162оп</SimpleData>
+		<SimpleData name="center_type">3,2 км к востоку от кладбища Таубай, 50 м к северу от полевой дороги, 600 м к юго-востоку от пересечения полевых дорог (угла пашни)</SimpleData>
+		<SimpleData name="lvl_line">e7fb591d-e2d0-44ea-8145-6706e6ac3cbd</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>69.874745,50.6887366666667</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

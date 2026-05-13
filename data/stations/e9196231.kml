@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="e9196231" id="e9196231">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>e9196231</name>
+  <Placemark id="e9196231.1">
+	<name>4420</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#e9196231">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="ext_sign">114,745</SimpleData>
+		<SimpleData name="ctrl_place">146</SimpleData>
+		<SimpleData name="mark_num">Линия нивелирования: Павлодар-Урлютюб,II класс Участок:фунд. реп.1015-фунд.реп. 310</SimpleData>
+		<SimpleData name="center_type">Моисеевка,с.,в 1,8 км сев.-вост. от него, в 125 м к сев. от асф.,в 15 м к зап. от пол. дороги, около линии связи</SimpleData>
+		<SimpleData name="lvl_line">e9196231-9c0e-450b-829f-a425e97fc550</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.4914643590577,53.4357025905998</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

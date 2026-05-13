@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="5E9B075E" id="5E9B075E">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>5E9B075E</name>
+  <Placemark id="5E9B075E.1">
+	<name>Аккудукоба</name>
+	<ExtendedData><SchemaData schemaUrl="#5E9B075E">
+		<SimpleData name="title">пирамида</SimpleData>
+		<SimpleData name="type">4</SimpleData>
+		<SimpleData name="ctrl_place">56</SimpleData>
+		<SimpleData name="lvl_line">5E9B075E-C9AD-4DAE-D822-D6DF0475F9D8</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>52.8178259729838,50.8096942057521</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="3a3462c1" id="3a3462c1">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>3a3462c1</name>
+  <Placemark id="3a3462c1.1">
+	<name>9670</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#3a3462c1">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="ext_sign">-6,319</SimpleData>
+		<SimpleData name="ctrl_place">121 оп знак</SimpleData>
+		<SimpleData name="mark_num">Линия II класса: Богдо-Нов.Уштаган-Малый Арал</SimpleData>
+		<SimpleData name="center_type">Асан, с., центр фермы № 3, в 6,9 км к юго-зап. от него, в 2,1 км к сев.-зап. от кошары свх. Балкудукский, в 55 м к югу от грунтовой дороги</SimpleData>
+		<SimpleData name="lvl_line">3a3462c1-b39b-4e1e-b667-791e5da5a739</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>48.2815538691046,47.8616035085752</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

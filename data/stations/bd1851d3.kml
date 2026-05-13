@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="bd1851d3" id="bd1851d3">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>bd1851d3</name>
+  <Placemark id="bd1851d3.1">
+	<name>9875</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#bd1851d3">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="ext_sign">109.366</SimpleData>
+		<SimpleData name="ctrl_place">160 оп. знак</SimpleData>
+		<SimpleData name="mark_num">Линия №1 : Аральск - Тактайконыр, I класс. Участок: грунт. реп. 9144 - грунт. реп. 8047</SimpleData>
+		<SimpleData name="center_type">Даулетжага, буг., в 5.4 км к сев.-зап. от него, в 2.2 км к юго-вост. от лет. Бекетай, в 0.2 км к сев.-вост. от шоссе с. Ыргыз - гор. Аральск</SimpleData>
+		<SimpleData name="lvl_line">bd1851d3-c15e-484b-b7c3-5c83e854075c</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>61.3369555255022,47.8497070292595</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

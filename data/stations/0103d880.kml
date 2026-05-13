@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="0103d880" id="0103d880">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>0103d880</name>
+  <Placemark id="0103d880.1">
+	<name>301</name>
+	<description>скальный репер</description>
+	<ExtendedData><SchemaData schemaUrl="#0103d880">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="ext_sign">341,147</SimpleData>
+		<SimpleData name="ctrl_place">99</SimpleData>
+		<SimpleData name="mark_num">Линия №1: Карасорвкий - Сарыкияк, II класс (1) Участок: ск. реп. 6100 - грунт. реп. 8674</SimpleData>
+		<SimpleData name="center_type">Александровка, с., в 6.5 км к юго-вост. от него, в 1.3 км к зап. от кладб. Анкак, в 40 м к сев. от полевой дороги и ЛЭП</SimpleData>
+		<SimpleData name="lvl_line">0103d880-ce48-4845-8baa-fc77588696b5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.7075008125361,50.9238448984003</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

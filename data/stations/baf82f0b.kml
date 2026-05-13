@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="baf82f0b" id="baf82f0b">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>baf82f0b</name>
+  <Placemark id="baf82f0b.1">
+	<name>Куркулдак</name>
+	<description>сигнал</description>
+	<ExtendedData><SchemaData schemaUrl="#baf82f0b">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="ext_sign">113,406</SimpleData>
+		<SimpleData name="height_ctrl">288</SimpleData>
+		<SimpleData name="ctrl_place">1</SimpleData>
+		<SimpleData name="mark_num">Линия:Чапаевский-Волотовка, II класс Участок: фунд. реп. 8240-фунд. реп. 166</SimpleData>
+		<SimpleData name="lvl_line">baf82f0b-dc9c-4436-b711-a9289684d8e5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>73.8266119109487,52.909292653665</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

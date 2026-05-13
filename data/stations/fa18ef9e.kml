@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="fa18ef9e" id="fa18ef9e">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>fa18ef9e</name>
+  <Placemark id="fa18ef9e.1">
+	<name>2099</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#fa18ef9e">
+		<SimpleData name="type">4</SimpleData>
+		<SimpleData name="ext_sign">110,880</SimpleData>
+		<SimpleData name="class_lvl">109,687</SimpleData>
+		<SimpleData name="height_lvl">контрольный репер   в верхней плоскости монолита</SimpleData>
+		<SimpleData name="ctrl_place">121</SimpleData>
+		<SimpleData name="mark_num">Линия:сигн. Казбек-пир. Майнак, IV класс</SimpleData>
+		<SimpleData name="center_type">Горностаевка,с., в 3,5 км к юго-вост. от него, впрво у дороги с.Горностаевка-отд. №5 свх. Суворовский, в 1 км к  сев.-вост. от ур.Казбек</SimpleData>
+		<SimpleData name="lvl_line">fa18ef9e-9712-4d62-b5fc-f63df08a7784</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>74.493384425025,53.4529879318096</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

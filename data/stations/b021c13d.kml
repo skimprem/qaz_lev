@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="b021c13d" id="b021c13d">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>b021c13d</name>
+  <Placemark id="b021c13d.1">
+	<name>3999</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#b021c13d">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="ext_sign">105.103</SimpleData>
+		<SimpleData name="ctrl_place">160 оп.знак</SimpleData>
+		<SimpleData name="mark_num">Линия № 4 Майлыозек-Кумкала II  класс . Участок : грунт. Реп.б№-фунд. реп. 24607</SimpleData>
+		<SimpleData name="center_type">Шыбык, буг., в 7.2 км к зап. от него, в 5.2 км   к сев.-зап. от разв. Жанакала, в 32 м к зап. от полевой дороги</SimpleData>
+		<SimpleData name="lvl_line">b021c13d-5a5e-4ffe-9bd8-7dd8ab2ceb4a</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>64.0645474587552,44.5963170472886</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

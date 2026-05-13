@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="dc582716" id="dc582716">
+	<SimpleField name="title" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="ext_sign" type="string"></SimpleField>
+	<SimpleField name="class_lvl" type="string"></SimpleField>
+	<SimpleField name="height_lvl" type="string"></SimpleField>
+	<SimpleField name="height_ctrl" type="string"></SimpleField>
+	<SimpleField name="ctrl_place" type="string"></SimpleField>
+	<SimpleField name="mark_num" type="string"></SimpleField>
+	<SimpleField name="center_type" type="string"></SimpleField>
+	<SimpleField name="lvl_line" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+</Schema>
+<Folder><name>dc582716</name>
+  <Placemark id="dc582716.1">
+	<name>5126</name>
+	<description>грунтовый репер</description>
+	<ExtendedData><SchemaData schemaUrl="#dc582716">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="ext_sign">442,223</SimpleData>
+		<SimpleData name="ctrl_place">146 оп</SimpleData>
+		<SimpleData name="mark_num">Линия № 2 :       Усть-Каменогорск - Зайсан, II класс(1) Участок :                 ск.реп. 2906 - грунт.реп. 9861</SimpleData>
+		<SimpleData name="center_type">Дорбин, зим., в 1,5 км к юго-вост. от нее, в 1,0 км к зап. от зимовки с двойным колодцем,  в 5 м к сев. от полевой дороги</SimpleData>
+		<SimpleData name="lvl_line">dc582716-3d08-44a7-9f8a-8617a7878134</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.2935158450384,48.3416570917669</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

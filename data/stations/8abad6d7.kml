@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="8abad6d7" name="8abad6d7">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Schema id="_8abad6d7.schema">
+      <SimpleField name="title" type="string"/>
+      <SimpleField name="type" type="string"/>
+      <SimpleField name="ext_sign" type="string"/>
+      <SimpleField name="class_lvl" type="string"/>
+      <SimpleField name="height_lvl" type="string"/>
+      <SimpleField name="height_ctrl" type="string"/>
+      <SimpleField name="ctrl_place" type="string"/>
+      <SimpleField name="mark_num" type="string"/>
+      <SimpleField name="center_type" type="string"/>
+      <SimpleField name="lvl_line" type="string"/>
+      <SimpleField name="guid" type="string"/>
+    </Schema>
+    <Document id="_8abad6d7">
+      <name>8abad6d7</name>
+      <Placemark id="_8abad6d7.1">
+        <description>Каукай, кладб., в 6,0км к сев.-вост. от него, в 4,6км к юго-вост, от кладб. Алтынбай, в 350м к сев.-зап. от развилка пол. дор., в 141м к зап. От пов. р. Каракенгир, в 125м к сев.-зап. от лет., в 85м к зап.от пол. дор., в 30м к вост. от параллельно идущей пол. дор.</description>
+        <ExtendedData>
+          <SchemaData schemaUrl="#_8abad6d7.schema">
+            <SimpleData name="title">6400</SimpleData>
+            <SimpleData name="type">грунтовый репер</SimpleData>
+            <SimpleData name="ext_sign">грунтовый репер</SimpleData>
+            <SimpleData name="class_lvl">2</SimpleData>
+            <SimpleData name="height_lvl">292.418</SimpleData>
+            <SimpleData name="lvl_line">Участок: грунт.реп.9042-грунт.реп.9447</SimpleData>
+            <SimpleData name="guid">8abad6d7-bd02-4e52-9290-f69719c27ac8</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            67.9773580148657,47.4879646682813,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>
