@@ -132,9 +132,32 @@ unchecked_gdf['kml_link'] = unchecked_gdf.apply(
 #     if not os.path.exists(row['kml']):
 #         station_gdf.to_file(row['kml'], driver='KML')
 
-index_map = kazakhstan.explore(
-    name='Kazakhstan Border',
+index_map = folium.Map(
+    location=[48.0, 68.0],  # Центр Казахстана
+    zoom_start=5,
+    tiles=None
+)
+
+# Добавить CartoDB Positron с правильным названием
+folium.TileLayer(
     tiles='CartoDB positron',
+    name='CartoDB Positron',
+    overlay=False,
+    control=True
+).add_to(index_map)
+
+# Опционально: добавить другие варианты
+folium.TileLayer(
+    tiles='https://mt1.google.com/vt/lyrs=s&x={x}&y={y}&z={z}',
+    attr='Google',
+    name='Google Satellite',
+    overlay=False,
+    control=True
+).add_to(index_map)
+
+kazakhstan.explore(
+    m=index_map,
+    name='Kazakhstan Border',
     zoom_start=5,
     tooltip=False,
     popup=False,
