@@ -227,13 +227,19 @@ MeasureControl(
 # Комбинированный поисковый индекс по всем слоям (без дополнительных Leaflet-слоёв)
 def build_search_index(unchecked, checked, selected):
     data = []
-    for gdf, name_col in [(unchecked, 'name'), (checked, 'title'), (selected, 'name')]:
+    for gdf, name_col, desc_col in [
+        (unchecked, 'name', 'location_description'),
+        (checked, 'title', 'description'),
+        (selected, 'name', 'location_description')
+    ]:
         mask = gdf.geometry.notna() & ~gdf.geometry.is_empty
         for _, row in gdf[mask].iterrows():
             n = row.get(name_col)
             if n and str(n).strip():
+                desc = row.get(desc_col)
                 data.append({
                     'name': str(n),
+                    'desc': str(desc) if desc and str(desc) not in ('None', 'nan', '') else '',
                     'lat': round(row.geometry.y, 6),
                     'lng': round(row.geometry.x, 6)
                 })
@@ -305,8 +311,16 @@ custom_search = f'''
         }}).slice(0, 20);
         matches.forEach(function(d) {{
             var el = document.createElement('div');
-            el.textContent = d.name;
-            el.title = d.name;
+            var nameSpan = document.createElement('span');
+            nameSpan.textContent = d.name;
+            el.appendChild(nameSpan);
+            if (d.desc) {{
+                var descSpan = document.createElement('span');
+                descSpan.textContent = '  ' + d.desc;
+                descSpan.style.cssText = 'color:#aaa; font-size:11px; margin-left:6px;';
+                el.appendChild(descSpan);
+            }}
+            el.title = d.name + (d.desc ? ' — ' + d.desc : '');
             el.addEventListener('click', function() {{
                 var mapObj = window["{map_var}"];
                 if (mapObj) mapObj.setView([d.lat, d.lng], 14);
