@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="9170cc57" id="9170cc57">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>9170cc57</name>
+  <Placemark id="9170cc57.1">
+	<name>6</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#9170cc57">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">557.549</SimpleData>
+		<SimpleData name="benchmark_number">106</SimpleData>
+		<SimpleData name="control_location">Линия №49: грунт.реп.128 - грунт.реп.92005,II класс (2)</SimpleData>
+		<SimpleData name="benchmark_type">Карабас, с., в 6,3 км к юго-зап.от него, в 0,3 км к сев.-вост.от с.Топар, в 0,2 км к вост.от дороги с.Карабас-с.Топар</SimpleData>
+		<SimpleData name="location_description">9170cc57-153d-423f-a57b-6d2d866201c3</SimpleData>
+		<SimpleData name="status">data/stations/9170cc57.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/9170cc57.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8388577661483,49.5275749742796</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

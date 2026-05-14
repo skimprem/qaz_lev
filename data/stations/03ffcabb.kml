@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="03ffcabb" id="03ffcabb">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>03ffcabb</name>
+  <Placemark id="03ffcabb.1">
+	<name>65</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#03ffcabb">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">615,337</SimpleData>
+		<SimpleData name="leveling_order">612,464</SimpleData>
+		<SimpleData name="control_height">контрольный репер №141 в верхней плоскости монолита</SimpleData>
+		<SimpleData name="benchmark_number">123 оп</SimpleData>
+		<SimpleData name="control_location">Линия №1: Коянды-Каркаралинск, II класс (I). Участок: грунт.реп.3423-грунт.реп.9313</SimpleData>
+		<SimpleData name="benchmark_type">Осибай, с., в 13,5 км к сев.-вост.от него, в 2,5 км к сев.-вост.от развилки шоссе с.Айнабулак-с.Егиндыбулак и полевой дорогой, в 12 м к сев.от ЛЭП</SimpleData>
+		<SimpleData name="location_description">03ffcabb-4683-420a-bf01-542aab692ae0</SimpleData>
+		<SimpleData name="status">data/stations/03ffcabb.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/03ffcabb.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>76.7909988500517,49.9488614332221</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

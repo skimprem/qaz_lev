@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="f99192d4" id="f99192d4">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>f99192d4</name>
+  <Placemark id="f99192d4.1">
+	<name>7184</name>
+	<name>грунт,реп,</name>
+	<ExtendedData><SchemaData schemaUrl="#f99192d4">
+		<SimpleData name="type">I</SimpleData>
+		<SimpleData name="view">306.915</SimpleData>
+		<SimpleData name="leveling_order">305,083</SimpleData>
+		<SimpleData name="control_height">контрольный  репер №3499 в верхней плоскости монолита </SimpleData>
+		<SimpleData name="benchmark_number">121</SimpleData>
+		<SimpleData name="control_location">Линия №1:Целиноград - Амангельды, I класс (I) участок: грунт,реп,2386 - грунт,реп,2218</SimpleData>
+		<SimpleData name="benchmark_type">Валиханова,с,,в 17,6 км к зап,от него,в 4,6 км к юго-зап,от полевого стана,к вост,от пересечения дорог</SimpleData>
+		<SimpleData name="location_description">f99192d4-b7de-4c54-989e-ac6cccb9e875</SimpleData>
+		<SimpleData name="status">data/stations/f99192d4.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/f99192d4.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>66.2112449545752,50.8905487693006</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

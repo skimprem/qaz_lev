@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="b1a4c15a" id="b1a4c15a">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>b1a4c15a</name>
+  <Placemark id="b1a4c15a.1">
+	<name>574</name>
+	<name>грунт,реп</name>
+	<ExtendedData><SchemaData schemaUrl="#b1a4c15a">
+		<SimpleData name="type">I</SimpleData>
+		<SimpleData name="view">100.816</SimpleData>
+		<SimpleData name="benchmark_number">160 оп,знак</SimpleData>
+		<SimpleData name="control_location">Линия № 1: Челябинск - Петропавловск, I класс, Участок: стен,реп,3669 - стен,реп,1969</SimpleData>
+		<SimpleData name="benchmark_type">Затон, ст,, жел,дор, Курган - Петропавловск, в 0,2 км к зап,от нее, 1 пк 2613 км, в 18 м к сев,от жел,дор,полотна</SimpleData>
+		<SimpleData name="location_description">b1a4c15a-36d9-44b8-8086-02643db61053</SimpleData>
+		<SimpleData name="status">data/stations/b1a4c15a.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/b1a4c15a.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>68.9896604936852,54.85640258256</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

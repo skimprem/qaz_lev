@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="da1eb331" id="da1eb331">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>da1eb331</name>
+  <Placemark id="da1eb331.1">
+	<name>92375</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#da1eb331">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">357.069</SimpleData>
+		<SimpleData name="leveling_order">355.624</SimpleData>
+		<SimpleData name="control_height">Контрольный репер №160 в фундаментной плите</SimpleData>
+		<SimpleData name="benchmark_number">116 оп.знак</SimpleData>
+		<SimpleData name="control_location">Линия №2: Ивановка - р.Кон, II класс (I) Участок: грунт.реп.1983 - фунд.реп.2290</SimpleData>
+		<SimpleData name="benchmark_type">Саумалколь, оз., в 0.8 км к сев.-зап.от него, в 0.4 км к юго-зап.от кладб.Кардаман, в 30 м к сев.-зап.от полевой дороги</SimpleData>
+		<SimpleData name="location_description">da1eb331-f49d-4902-b307-457f6e4d5c4a</SimpleData>
+		<SimpleData name="status">data/stations/da1eb331.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/da1eb331.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>69.8613666038889,49.8473087859457</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="03b9b807" id="03b9b807">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>03b9b807</name>
+  <Placemark id="03b9b807.1">
+	<name>5426</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#03b9b807">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">197,092</SimpleData>
+		<SimpleData name="control_location">Линия № 1: Жезказган - Caрысу. ІІ класс (2) Участок: - грунт реп. 730 - грунт.реп. 9470</SimpleData>
+		<SimpleData name="benchmark_type">Копирбай. кладб., в 7.6 км к юго-зап.  от него, в 2.5 км к сев.-вост. от кладб. Ширук, в 1.2 км к зап. от р. Сарысу</SimpleData>
+		<SimpleData name="location_description">03b9b807-289a-4e53-9e68-e5304d1de42e</SimpleData>
+		<SimpleData name="status">data/stations/03b9b807.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/03b9b807.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.135892073555,46.1143725052473</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

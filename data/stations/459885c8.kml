@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="459885c8" id="459885c8">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>459885c8</name>
+  <Placemark id="459885c8.1">
+	<name>440</name>
+	<name>грунт. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#459885c8">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">1135.356</SimpleData>
+		<SimpleData name="leveling_order">1133.952</SimpleData>
+		<SimpleData name="control_height">репер № 448 в фундаментной плите </SimpleData>
+		<SimpleData name="benchmark_number">116</SimpleData>
+		<SimpleData name="control_location">Линия № 1:           Эмбек - Березовка, 2 класс (1), Участок: фунд. реп. 490 - грунт. реп. 180</SimpleData>
+		<SimpleData name="benchmark_type">Кабарга, с., в 2.0 км к юго-вост. от него, в 0.1 км к сев. от дома лесника, в 40 м к вост. от дороги с.Урыль - с.Катон-Карагай</SimpleData>
+		<SimpleData name="leveling_line_section">Не найден по объекту  F.07.13.4284</SimpleData>
+		<SimpleData name="location_description">459885c8-6881-43e8-9480-2e9461757ada</SimpleData>
+		<SimpleData name="status">data/stations/459885c8.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/459885c8.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>85.7247603327708,49.1523730232407</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

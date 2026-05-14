@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="d5a431ff" id="d5a431ff">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>d5a431ff</name>
+  <Placemark id="d5a431ff.1">
+	<name>16588</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#d5a431ff">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">178.745</SimpleData>
+		<SimpleData name="benchmark_number">121</SimpleData>
+		<SimpleData name="control_location">Линия №1: Чапаевский-Каратал, II класс (I) Участок: грунт.реп. 17964-грунт.реп. I</SimpleData>
+		<SimpleData name="leveling_line_section">утрачен</SimpleData>
+		<SimpleData name="location_description">d5a431ff-44d9-4196-8a51-21e6e13396c6</SimpleData>
+		<SimpleData name="status">data/stations/d5a431ff.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/d5a431ff.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>73.3154468555627,52.4391917965405</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

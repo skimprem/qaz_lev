@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="eaf9eecf" id="eaf9eecf">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>eaf9eecf</name>
+  <Placemark id="eaf9eecf.1">
+	<name>92287</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#eaf9eecf">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">354.755</SimpleData>
+		<SimpleData name="leveling_order">353.257</SimpleData>
+		<SimpleData name="control_height">Контрольный репер №1252 в фундаментной плите</SimpleData>
+		<SimpleData name="benchmark_number">116 оп.знак</SimpleData>
+		<SimpleData name="control_location">Линия №2: Ивановка - р.Кон, II класс (I) Участок: грунт.реп.1983 - фунд.реп.2288</SimpleData>
+		<SimpleData name="benchmark_type">Кызылту, зим., в 4.5 км к юго-вост.от нее, в 2.1 км к вост.от оз.Саумалколь, в 30 м к сев.от полевой дороги</SimpleData>
+		<SimpleData name="location_description">eaf9eecf-5f93-4ffa-bdbe-5a6ac8f3a619</SimpleData>
+		<SimpleData name="status">data/stations/eaf9eecf.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/eaf9eecf.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>69.9362968780263,49.8207081003432</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

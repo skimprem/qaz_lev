@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="be1f121c" id="be1f121c">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>be1f121c</name>
+  <Placemark id="be1f121c.1">
+	<name>б/№</name>
+	<name>грунт. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#be1f121c">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">145,947</SimpleData>
+		<SimpleData name="benchmark_number">160 оп</SimpleData>
+		<SimpleData name="control_location">Линия № 3: Семиярск-Михайловка, II класс (2) Участок: фунд. реп. 4422-грунт. реп., 446 </SimpleData>
+		<SimpleData name="benchmark_type">Семиярка, с., в 6.4 км к сев.-зап. от него, в 0.6 км к сев. от полевой дороги, в 1 м к вост. от оп. стб., на краю пашни</SimpleData>
+		<SimpleData name="location_description">be1f121c-4a14-4e21-99f6-405cf2051735</SimpleData>
+		<SimpleData name="status">data/stations/be1f121c.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/be1f121c.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>78.2919211196271,50.9509214527604</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

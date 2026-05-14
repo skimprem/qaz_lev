@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="cabe41b3" id="cabe41b3">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>cabe41b3</name>
+  <Placemark id="cabe41b3.1">
+	<name>Белая Школа</name>
+	<description>пирамида</description>
+	<ExtendedData><SchemaData schemaUrl="#cabe41b3">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">447,888</SimpleData>
+		<SimpleData name="benchmark_number">39</SimpleData>
+		<SimpleData name="control_location">Линия № 1: Бугаз – Белая Школа, II класс (2)
+Участок: пир. 3 кл. Придорожная – фунд.реп. 5491</SimpleData>
+		<SimpleData name="benchmark_type">Белая Школа, с., в 2.2 км к сев.-зап. от него, в 0.9 км к вост. от зимовки, в 0.3 км к сев. от шоссе с. Кокпекты – гор. Зайсан</SimpleData>
+		<SimpleData name="location_description">cabe41b3-4ae7-469d-a384-dc5b59bd485c</SimpleData>
+		<SimpleData name="status">data/stations/cabe41b3.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/cabe41b3.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>83.4061230188417,47.8582500276032</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

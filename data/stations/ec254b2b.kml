@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="ec254b2b" id="ec254b2b">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>ec254b2b</name>
+  <Placemark id="ec254b2b.1">
+	<name>3785</name>
+	<description>грунт. реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#ec254b2b">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">126.595</SimpleData>
+		<SimpleData name="benchmark_number">160оп</SimpleData>
+		<SimpleData name="control_location">Линия № 1:Целиноград-Кулунда,  I класс (1) Участок : грунт.реп.8224-грунт.реп.1360</SimpleData>
+		<SimpleData name="benchmark_type">Торткудук, с., в 8,5 км к юго-зваю от него, на 1 ПК 372 км ж/д, в 4 м к сев.-зап. от линии связи</SimpleData>
+		<SimpleData name="location_description">ec254b2b-4f60-4809-aaa0-c288ca391766</SimpleData>
+		<SimpleData name="status">data/stations/ec254b2b.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/ec254b2b.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>76.1473228494784,51.9990453110286</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

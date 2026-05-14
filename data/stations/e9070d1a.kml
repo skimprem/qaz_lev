@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="e9070d1a" id="e9070d1a">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>e9070d1a</name>
+  <Placemark id="e9070d1a.1">
+	<name>8345</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#e9070d1a">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">237,029</SimpleData>
+		<SimpleData name="control_location">Линия № 1: Кендырлык (Айгарлык) - Кичиктай. 2 класс (2) Участок: грунт, реп. 8261 - грунт.реп. 3385</SimpleData>
+		<SimpleData name="benchmark_type">Аппак, разв., в 5.3 км к югу от них, в 3.7 км к ссв.-зап. от такыра Оксикбай, в 65 м к зап. от грунт, дороги гор. Жезказган - с. Созак</SimpleData>
+		<SimpleData name="location_description">e9070d1a-cffd-4bf6-96ac-3f10b93d345c</SimpleData>
+		<SimpleData name="status">data/stations/e9070d1a.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/e9070d1a.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>68.1150566852115,45.5841026380829</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

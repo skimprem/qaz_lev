@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="9960ddf9" id="9960ddf9">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>9960ddf9</name>
+  <Placemark id="9960ddf9.1">
+	<name>972</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#9960ddf9">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">166,640</SimpleData>
+		<SimpleData name="leveling_order">165,162</SimpleData>
+		<SimpleData name="control_height">репер № 303     в верхней плоскости монолита</SimpleData>
+		<SimpleData name="benchmark_number">121</SimpleData>
+		<SimpleData name="control_location">Линия № 1 :       Семиярск - Семипалатинск,  2 класс (3) Участок : грунт.реп. 584 - грунт.реп. 94</SimpleData>
+		<SimpleData name="benchmark_type">Долонь, с., в 4,5 км к вост. от него, в 2,2 км к сев.-вост. от р.Иртыш, в 25 м к югу от дороги с.Долонь - с.Бестерек</SimpleData>
+		<SimpleData name="leveling_line_section">утрачен</SimpleData>
+		<SimpleData name="location_description">9960ddf9-1144-4b7e-a298-fc89c6a9bf4d</SimpleData>
+		<SimpleData name="status">data/stations/9960ddf9.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/9960ddf9.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>79.378558990454,50.6639205432073</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

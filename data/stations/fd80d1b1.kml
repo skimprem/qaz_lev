@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="fd80d1b1" id="fd80d1b1">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>fd80d1b1</name>
+  <Placemark id="fd80d1b1.1">
+	<name>677</name>
+	<name>грунт. реп. уничтожен</name>
+	<ExtendedData><SchemaData schemaUrl="#fd80d1b1">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">582.249</SimpleData>
+		<SimpleData name="leveling_order">581.209*</SimpleData>
+		<SimpleData name="control_height">Контрольный репер в верхней плоскости монолита</SimpleData>
+		<SimpleData name="benchmark_number">118</SimpleData>
+		<SimpleData name="control_location">Висячий ход от фунд.реп. 712, II класс </SimpleData>
+		<SimpleData name="benchmark_type">Лайбулак, с., в 0.1 км к сев. от него, в 0.2 км к зап. от р. Лайбулак, в 15 м к сев. от шоссе с. Таскескен – с. Бахты</SimpleData>
+		<SimpleData name="leveling_line_section">утрачен</SimpleData>
+		<SimpleData name="location_description">fd80d1b1-1457-4e01-9c89-d2f4ec8e94a5</SimpleData>
+		<SimpleData name="status">data/stations/fd80d1b1.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/fd80d1b1.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>81.1669378448263,47.1411373313627</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

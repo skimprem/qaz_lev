@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="3e6c6e9c" id="3e6c6e9c">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>3e6c6e9c</name>
+  <Placemark id="3e6c6e9c.1">
+	<name>1961</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#3e6c6e9c">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">196.608</SimpleData>
+		<SimpleData name="control_location">Линия №5: грунт. реп. 1901-грунт. реп.4430, II класс</SimpleData>
+		<SimpleData name="benchmark_type">Ирысбек, к.,в 3.8 км к юга.-васт. от него, в 0.4 км к юго.-зап. от к. Рысбек, в 0.2 км к югу. от зимовки</SimpleData>
+		<SimpleData name="location_description">3e6c6e9c-9597-4fcb-9a32-3df076eb296c</SimpleData>
+		<SimpleData name="status">data/stations/3e6c6e9c.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/3e6c6e9c.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0114501388702,42.6903582991179</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

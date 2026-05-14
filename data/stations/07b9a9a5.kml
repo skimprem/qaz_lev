@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="07b9a9a5" id="07b9a9a5">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>07b9a9a5</name>
+  <Placemark id="07b9a9a5.1">
+	<name>2540</name>
+	<description>марка</description>
+	<ExtendedData><SchemaData schemaUrl="#07b9a9a5">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">132.120</SimpleData>
+		<SimpleData name="control_location">Линия № 4: Кызылорда - Арыс, I класс. Ход от марки 2377 до марки 2837.  Участок: грунт.реп. 1323 - грунт.реп. 1275 (1375)</SimpleData>
+		<SimpleData name="benchmark_type">Бирказан, станц., в 4.0 км к сев.-зап.от неё, в 3.0 км к вост. от раз.Бурабай, 2394 км жел.дор., в жел.-дор.будке</SimpleData>
+		<SimpleData name="location_description">07b9a9a5-e71b-481a-a449-12535747dd2a</SimpleData>
+		<SimpleData name="status">data/stations/07b9a9a5.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/07b9a9a5.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>65.7099746690445,44.7967852150855</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="ebd71613" id="ebd71613">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>ebd71613</name>
+  <Placemark id="ebd71613.1">
+	<name>4371</name>
+	<name>грав.пункт-спутник</name>
+	<ExtendedData><SchemaData schemaUrl="#ebd71613">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">224.027</SimpleData>
+		<SimpleData name="benchmark_number">Д</SimpleData>
+		<SimpleData name="control_location">Линия 2: Есиль-Атбасар. II  класс (1)
+Участок: фунд.реп.3198 - грунт.реп.3151. Ход.от стен.реп.4014 до грунт.реп.72, II класс (1)</SimpleData>
+		<SimpleData name="benchmark_type">Есиль, rop., в 3.5 км к сев.-вост.от угла здания аэропорта, в 21 м к юго-зап.от колодца, в сев.-вост.углу ограды</SimpleData>
+		<SimpleData name="location_description">ebd71613-6748-48e6-b825-88dc892249bd</SimpleData>
+		<SimpleData name="status">data/stations/ebd71613.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/ebd71613.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>66.4187971651428,51.9725944823451</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

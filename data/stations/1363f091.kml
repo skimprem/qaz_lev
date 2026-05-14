@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="1363f091" id="1363f091">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>1363f091</name>
+  <Placemark id="1363f091.1">
+	<name>9468</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#1363f091">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">552,153</SimpleData>
+		<SimpleData name="benchmark_number">160оп</SimpleData>
+		<SimpleData name="control_location">Линия №3: Семипалатинск - Коянды, II класс (2) Участок: грунт. реп. 1180 - грунт. реп. 71</SimpleData>
+		<SimpleData name="benchmark_type">Муржик, с., в 13,5 км к юго-вост. от него, в 2,1 км к югу от зим.Ербакир, в 37 м к вост. от дороги с.Самай-с.Муржик</SimpleData>
+		<SimpleData name="location_description">1363f091-2ebd-4dc9-89d0-0923f7842160</SimpleData>
+		<SimpleData name="status">data/stations/1363f091.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/1363f091.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.4486588689262,50.0272247122698</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="ae75de65" id="ae75de65">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>ae75de65</name>
+  <Placemark id="ae75de65.1">
+	<name>4726</name>
+	<name>грунт.реп.</name>
+	<description>грунт.реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#ae75de65">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">660.173</SimpleData>
+		<SimpleData name="leveling_order">658.573*</SimpleData>
+		<SimpleData name="control_height">в верхней
+плоскости монолита</SimpleData>
+		<SimpleData name="benchmark_number">121</SimpleData>
+		<SimpleData name="benchmark_type">Кабыргаший,с.,в 11.5 км к юго- зап.от него,в 2.8 км к юго-вост.
+от колодца,в 0.2 км к югу от
+пересыхающего русла р.Кояндыозек,
+на,равнине</SimpleData>
+		<SimpleData name="location_description">ae75de65-9a59-40b8-8b8a-680045c9192f</SimpleData>
+		<SimpleData name="status">data/stations/ae75de65.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/ae75de65.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>76.8809900519649,47.6735708766382</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

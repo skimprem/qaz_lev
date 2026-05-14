@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="85b1e33c" id="85b1e33c">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>85b1e33c</name>
+  <Placemark id="85b1e33c.1">
+	<name>76</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#85b1e33c">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">577.280</SimpleData>
+		<SimpleData name="control_location">Линия №4: фунд.реп. 8657-фунд.реп. 5438, II класс</SimpleData>
+		<SimpleData name="benchmark_type">Ворошилово,с., 1.4 км к сев.от него,в 0.9 км к юго-вост.от кладбища,в 0.3 км к юго-вост.от карьера, у подножия склонов г. Кишибурыл</SimpleData>
+		<SimpleData name="location_description">85b1e33c-cb46-4978-a2dc-716e32e2c7ee</SimpleData>
+		<SimpleData name="status">data/stations/85b1e33c.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/85b1e33c.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>71.3275693767045,42.9864145526876</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

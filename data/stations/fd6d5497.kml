@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="fd6d5497" id="fd6d5497">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>fd6d5497</name>
+  <Placemark id="fd6d5497.1">
+	<name>5041</name>
+	<name>грунт. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#fd6d5497">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="leveling_height">160 оп. знак</SimpleData>
+		<SimpleData name="benchmark_number">Линия № 1: Алажиде – Оз. Жаланашколь, I класс 
+Участок: грунт. реп. 7982 – грунт. реп. 5195
+</SimpleData>
+		<SimpleData name="control_location">Кольбай, с., в 14.2 км к вост. от него, в 0.2 км к юго-зап. от км. стб. 497/584 шоссе гор. Алматы – гор. Усть-Каменогорск, в 19 м к юго-вост. от шоссе</SimpleData>
+		<SimpleData name="benchmark_type">L-44-77-Г</SimpleData>
+		<SimpleData name="location_description">fd6d5497-2aca-4714-8eb0-947cbcd6cc86</SimpleData>
+		<SimpleData name="status">data/stations/fd6d5497.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/fd6d5497.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>80.4733164969846,45.8163492391987</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

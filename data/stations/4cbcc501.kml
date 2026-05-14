@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="4cbcc501" id="4cbcc501">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>4cbcc501</name>
+  <Placemark id="4cbcc501.1">
+	<name>2016</name>
+	<description>грунт. Реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#4cbcc501">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">150.650</SimpleData>
+		<SimpleData name="benchmark_number">146 оп</SimpleData>
+		<SimpleData name="control_location">Линия №1 : Целиноград-Токтайконыр, I класс . Участок : грунт. Реп. 2445-грунт. Реп. 1972</SimpleData>
+		<SimpleData name="benchmark_type">Коммунизмжол, свх. , в 1.5 км к юго-зап. От него, в 44 м к зап. От тлф. стб. № 252, в 28 м к сев.-зап. От дороги гор. Аркалык- с. Амангельды</SimpleData>
+		<SimpleData name="location_description">4cbcc501-8e86-40b0-b642-f7fc4dc35243</SimpleData>
+		<SimpleData name="status">data/stations/4cbcc501.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/4cbcc501.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>65.3519781807446,50.2835818198546</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

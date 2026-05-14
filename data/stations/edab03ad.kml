@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="edab03ad" id="edab03ad">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>edab03ad</name>
+  <Placemark id="edab03ad.1">
+	<name>7571</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#edab03ad">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">321.569</SimpleData>
+		<SimpleData name="benchmark_number">146 оп.знак</SimpleData>
+		<SimpleData name="control_location">Линия №1: Кзыл-Сенгир = Жумай, II класса (1) Участок: фунд.реп.5003 - гркнт.реп.2940</SimpleData>
+		<SimpleData name="benchmark_type">Алмас,с., в 8.0 км к юго-зап.от него, в 0.1 км к юго-вост.от стб.ЛЭП №125/84, в 75 м к югу от стб.ЛЭП № 124</SimpleData>
+		<SimpleData name="location_description">edab03ad-bc5c-403c-b006-9bc8b2c7f2da</SimpleData>
+		<SimpleData name="status">data/stations/edab03ad.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/edab03ad.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>69.7124228750275,50.3205149107206</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

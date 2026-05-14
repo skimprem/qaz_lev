@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="df53940d" id="df53940d">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>df53940d</name>
+  <Placemark id="df53940d.1">
+	<name>4334</name>
+	<name>грунт.реп.</name>
+	<description>грунт.реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#df53940d">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">534.499</SimpleData>
+		<SimpleData name="leveling_order">532.914*</SimpleData>
+		<SimpleData name="control_height">В верхней плоскости монолита  </SimpleData>
+		<SimpleData name="benchmark_number">121 оп</SimpleData>
+		<SimpleData name="control_location">Линия № 3:Акозек -Сарыкамыс, II класс                       Участок: фунд.реп. 121 - грунт.реп. 4334</SimpleData>
+		<SimpleData name="benchmark_type">Акыжан,мог.,в 5.6 км к зап.от нее,в 1.6 км к сев.-зап.от р.Ащыозек,в 0.8 км к юго-зап.от родника и развалин </SimpleData>
+		<SimpleData name="location_description">df53940d-1c84-4908-8112-ea4872ee606b</SimpleData>
+		<SimpleData name="status">data/stations/df53940d.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/df53940d.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.0354608710042,47.3300276403825</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

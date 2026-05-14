@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="8660066f" id="8660066f">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>8660066f</name>
+  <Placemark id="8660066f.1">
+	<name>3651</name>
+	<name>грунт.реп.</name>
+	<description>грунт.реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#8660066f">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">371,760</SimpleData>
+		<SimpleData name="benchmark_number">160 оп.знак</SimpleData>
+		<SimpleData name="control_location">Линия № 3-Бурубайтал-Каратурангы II класс           Участок: фунд. реп.127 -грунт.реп.705</SimpleData>
+		<SimpleData name="benchmark_type">Бурубайтал,станц.,в 8,5км к юго-вост.от нее, в 5,7км к зап.от оз.Алаколь,в50м к сев.от шоссе гор.Мирный-шоссе с. Бурубайтал-гор.Алматы</SimpleData>
+		<SimpleData name="location_description">8660066f-c718-490d-b02d-644bbaf95485</SimpleData>
+		<SimpleData name="status">data/stations/8660066f.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/8660066f.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>74.0514658727312,44.8668015152746</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

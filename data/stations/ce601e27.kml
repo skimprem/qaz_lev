@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="ce601e27" id="ce601e27">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>ce601e27</name>
+  <Placemark id="ce601e27.1">
+	<name>4230</name>
+	<name>грунт. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#ce601e27">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">598,803</SimpleData>
+		<SimpleData name="leveling_order">596,940</SimpleData>
+		<SimpleData name="control_height">репер № 124 в фундаментной плите</SimpleData>
+		<SimpleData name="benchmark_number">116</SimpleData>
+		<SimpleData name="control_location">Линия №1: Жангиз - Тобе - Акбулак , 2 класс (1) Участок: грунт. реп. 4449- фунд. реп. 1519 </SimpleData>
+		<SimpleData name="benchmark_type">Санкы, разв., в 9.2 км к юго-вост. от них, в 0.6 км к юго-зап. от родника, в 20 м к югу от дороги с. Кайнар - с. Бестамак (свх. Кызылту)</SimpleData>
+		<SimpleData name="location_description">ce601e27-d301-4def-9ae3-8657dfa503dc</SimpleData>
+		<SimpleData name="status">data/stations/ce601e27.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/ce601e27.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>78.0300203555457,49.4044560421753</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="db37cabd" id="db37cabd">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>db37cabd</name>
+  <Placemark id="db37cabd.1">
+	<name>0201</name>
+	<name>грунт.реп.</name>
+	<description>грунт.реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#db37cabd">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">614.824</SimpleData>
+		<SimpleData name="benchmark_number">160 оп.знак</SimpleData>
+		<SimpleData name="control_location">Линия № 1:Аркарлы-Мойынты II класс
+Участок: грунт.реп.121 - грунт.реп.415</SimpleData>
+		<SimpleData name="benchmark_type">Шолакеспе,с.,в 8.0 км к юго-вост.от него,в 3.0 км к вост.от р.Шажагай,в 50 м к сев.от полевой дороги</SimpleData>
+		<SimpleData name="location_description">db37cabd-9493-43b8-a5f8-6d2e26cacae9</SimpleData>
+		<SimpleData name="status">data/stations/db37cabd.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/db37cabd.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.1797431778336,47.3088846849543</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

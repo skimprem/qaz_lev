@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="b93d2959" id="b93d2959">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>b93d2959</name>
+  <Placemark id="b93d2959.1">
+	<name>2785</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#b93d2959">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">656.655</SimpleData>
+		<SimpleData name="control_location">Линия №21: пир. 2 кл. Аэропорт-фунд.реп. 2, II класс</SimpleData>
+		<SimpleData name="benchmark_type">Джамбул,гор.,в 2.3 км к юго-зап.от него,в 1.8 км к юго-вост.от аэропорта, в 10 м к зап.от жел.-бет.лотков,в сев.углу кладбища</SimpleData>
+		<SimpleData name="location_description">b93d2959-d17c-424a-9e9b-43d60d553f82</SimpleData>
+		<SimpleData name="status">data/stations/b93d2959.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/b93d2959.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>71.3201833097276,42.8551483601651</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="c2a1b77d" id="c2a1b77d">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>c2a1b77d</name>
+  <Placemark id="c2a1b77d.1">
+	<name>репер 1013</name>
+	<description>пирамида</description>
+	<ExtendedData><SchemaData schemaUrl="#c2a1b77d">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">514.768</SimpleData>
+		<SimpleData name="leveling_height">1013</SimpleData>
+		<SimpleData name="benchmark_number">118</SimpleData>
+		<SimpleData name="control_location">Линия № 4: Таскарасу - Чилик. П класс (2)  Участок; грунт.реп, 1411 - фунд.реп. 2208</SimpleData>
+		<SimpleData name="benchmark_type">Ортакудук, разв., в 4,2 км к юго-зап. от них, в 25 м к югу от  дороги с.Чилик-с.Чарын</SimpleData>
+		<SimpleData name="location_description">c2a1b77d-7f29-4b2b-9547-98dec6e8469d</SimpleData>
+		<SimpleData name="status">data/stations/c2a1b77d.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/c2a1b77d.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>78.7567065112658,43.7307162314344</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

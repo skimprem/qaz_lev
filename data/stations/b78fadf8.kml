@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="b78fadf8" id="b78fadf8">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>b78fadf8</name>
+  <Placemark id="b78fadf8.1">
+	<name>1001</name>
+	<name>стен. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#b78fadf8">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">592.671</SimpleData>
+		<SimpleData name="control_location">Ход от стен. реп. 09 до стен. реп. 015, II класс </SimpleData>
+		<SimpleData name="benchmark_type">Талдыкорган, гор., ул. Акын Сары № 120/122, в юго-зап. углу зап. стены зд. СПТУ № 3</SimpleData>
+		<SimpleData name="location_description">b78fadf8-18f7-40d3-bb52-22ccaae46193</SimpleData>
+		<SimpleData name="status">data/stations/b78fadf8.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/b78fadf8.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>78.3797354010189,45.0167643666977</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

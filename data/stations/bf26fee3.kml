@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="bf26fee3" id="bf26fee3">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>bf26fee3</name>
+  <Placemark id="bf26fee3.1">
+	<name>1359</name>
+	<description>грунт. реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#bf26fee3">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">128.295</SimpleData>
+		<SimpleData name="leveling_height">0</SimpleData>
+		<SimpleData name="benchmark_number">146 оп</SimpleData>
+		<SimpleData name="benchmark_type">В 3,0 км к юго-зап.от разъезда №120, в 40 м к сев-зап.от км стб. 376/377, в 5 м к сев-зап.от линии связи</SimpleData>
+		<SimpleData name="leveling_line_section">утрачен</SimpleData>
+		<SimpleData name="location_description">bf26fee3-a7ef-459d-8b90-ce7d235b5a2a</SimpleData>
+		<SimpleData name="status">data/stations/bf26fee3.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/bf26fee3.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>76.1967157505649,52.0209336455925</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

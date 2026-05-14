@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="b6f7509e" id="b6f7509e">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>b6f7509e</name>
+  <Placemark id="b6f7509e.1">
+	<name>31</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#b6f7509e">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">443.42</SimpleData>
+		<SimpleData name="control_location">Линия №1:р. Кон-Талдысай, II класс (I) Участок: фунд.реп.5865 - грунт.реп.32</SimpleData>
+		<SimpleData name="benchmark_type">Шоптыколь,с., в 8.7 км к зап.от него,в 0.2 км к сев.от р. Жаксы-Кон , у полевой дороги</SimpleData>
+		<SimpleData name="location_description">b6f7509e-d15d-45f7-b567-b6f3e6b4a5e9</SimpleData>
+		<SimpleData name="status">data/stations/b6f7509e.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/b6f7509e.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>68.726651673603,49.345983044647</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

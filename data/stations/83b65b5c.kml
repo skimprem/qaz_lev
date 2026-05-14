@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="83b65b5c" id="83b65b5c">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>83b65b5c</name>
+  <Placemark id="83b65b5c.1">
+	<name>402</name>
+	<name>грунт.реп.</name>
+	<description>грунт.реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#83b65b5c">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">646.695</SimpleData>
+		<SimpleData name="leveling_order">644.048*</SimpleData>
+		<SimpleData name="control_height">в верхней плоскости монолита</SimpleData>
+		<SimpleData name="benchmark_number">121 оп.знак</SimpleData>
+		<SimpleData name="control_location">Линия № 1:Аркарлы-Мойынты II класс
+Участок: грунт.реп.121 - грунт.реп.415</SimpleData>
+		<SimpleData name="benchmark_type">Шолакеспе,с.,в 25.6 км к юго-вост.от него,в 1.5 км к зап.от р.Сарыбулак, в 0.5 км к сев.от полевой дороги</SimpleData>
+		<SimpleData name="location_description">83b65b5c-8352-4165-b0da-8ab2c7474c64</SimpleData>
+		<SimpleData name="status">data/stations/83b65b5c.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/83b65b5c.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.4199512480477,47.2920601674886</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

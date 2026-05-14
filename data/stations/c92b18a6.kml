@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="c92b18a6" id="c92b18a6">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>c92b18a6</name>
+  <Placemark id="c92b18a6.1">
+	<name>6416</name>
+	<name>грунт,реп,</name>
+	<ExtendedData><SchemaData schemaUrl="#c92b18a6">
+		<SimpleData name="type">I</SimpleData>
+		<SimpleData name="view">122.728</SimpleData>
+		<SimpleData name="leveling_order">120,963</SimpleData>
+		<SimpleData name="control_height">№ 1038 в верхней плоскости монолита</SimpleData>
+		<SimpleData name="control_location">Линия № 1: Петропавловск - Мариановка, I класс Участок: фунп реп, 454 - грунт, реп, 5381</SimpleData>
+		<SimpleData name="benchmark_type">Зарослое, станц,, в 3,0 км к сев,-зап, от нее, на 7 пикете 231 км, в 44 м к сев,-вост, от жел,-дор, полотна</SimpleData>
+		<SimpleData name="leveling_line_section">репер утрачен</SimpleData>
+		<SimpleData name="location_description">c92b18a6-ca00-4e33-99dc-48c99dad9595</SimpleData>
+		<SimpleData name="status">data/stations/c92b18a6.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/c92b18a6.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>70.5987890597806,54.9105669580614</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

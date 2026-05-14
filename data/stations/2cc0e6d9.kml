@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2cc0e6d9" id="2cc0e6d9">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>2cc0e6d9</name>
+  <Placemark id="2cc0e6d9.1">
+	<name>б/№</name>
+	<name>марка</name>
+	<ExtendedData><SchemaData schemaUrl="#2cc0e6d9">
+		<SimpleData name="type">I</SimpleData>
+		<SimpleData name="view">363.481</SimpleData>
+		<SimpleData name="control_location">Линия №2: Тюемойнак-Жарык, I класс (2) Участок: фунд,реп,497 - пир, 1 кл,Арал-Тюбе</SimpleData>
+		<SimpleData name="benchmark_type">Тюемойнак, станция, в 4,7 км к сев,-вост, от нее, на 4 пк
+294 км, с сев, стороны водопропускной трубы</SimpleData>
+		<SimpleData name="location_description">2cc0e6d9-9c57-4669-ba77-47356f741108</SimpleData>
+		<SimpleData name="status">data/stations/2cc0e6d9.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/2cc0e6d9.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>69.1699947160991,48.1960578354156</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="db3a087c" id="db3a087c">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>db3a087c</name>
+  <Placemark id="db3a087c.1">
+	<name>2518</name>
+	<description>грунт.реп</description>
+	<ExtendedData><SchemaData schemaUrl="#db3a087c">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">263.748</SimpleData>
+		<SimpleData name="benchmark_number">160</SimpleData>
+		<SimpleData name="control_location">Линия №1: Аральск-Шалкар, 1 класс (1). Участок: грунт.реп. 0137 -грует.реп. 2495</SimpleData>
+		<SimpleData name="benchmark_type">Кособа, разъезд, в 2.8 км к юго-зап..от него, на 1 пикете 2200 км жел.-дор., в 81 м к сев.от км.стб.2199/2200, в 24 м к сев.от полевой  дороги</SimpleData>
+		<SimpleData name="location_description">db3a087c-df8c-435b-a7c5-f3870b0c79dd</SimpleData>
+		<SimpleData name="status">data/stations/db3a087c.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/db3a087c.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>60.1397035443787,47.6692932837429</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

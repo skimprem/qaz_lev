@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="104e291a" id="104e291a">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>104e291a</name>
+  <Placemark id="104e291a.1">
+	<name>3010</name>
+	<name>фундаментальный репер</name>
+	<ExtendedData><SchemaData schemaUrl="#104e291a">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">492,242</SimpleData>
+		<SimpleData name="leveling_height">491,726/490,974</SimpleData>
+		<SimpleData name="benchmark_number">в трубе/в верхней плоскости монолита</SimpleData>
+		<SimpleData name="control_location">Линия № 2: Аркарлы - Актас. 2 класс ( 2 ) Участок: фунд. реп. 23 - фунд. реп. 3030</SimpleData>
+		<SimpleData name="benchmark_type">Пыстан, г., в 8.3 км к юго-вост, от нее, в 0.7 км к югу от к. Узынтас, в 0.1 км к зап. от перекрестка полевых дорог</SimpleData>
+		<SimpleData name="location_description">104e291a-51a4-4f2c-87c5-31be22ebe78f</SimpleData>
+		<SimpleData name="status">data/stations/104e291a.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/104e291a.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>70.8827518512606,46.6453298908995</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

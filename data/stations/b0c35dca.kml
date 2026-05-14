@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="b0c35dca" id="b0c35dca">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>b0c35dca</name>
+  <Placemark id="b0c35dca.1">
+	<name>11391</name>
+	<name>грунт. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#b0c35dca">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">637.596</SimpleData>
+		<SimpleData name="leveling_order">636.036*</SimpleData>
+		<SimpleData name="control_height">Контрольный репер в верхней плоскости монолита</SimpleData>
+		<SimpleData name="benchmark_number">121 оп</SimpleData>
+		<SimpleData name="control_location">Линия № 2: Баршатас - Катбар, II класс 
+Участок: ск.реп. 12247 – фунд.реп. 521
+</SimpleData>
+		<SimpleData name="benchmark_type">Зим. клх. Мадениет, в 11.5 км к юго-вост. от нее, в 7.0 км к сев.-зап. от двух могил и родника, в 2.6 км к югу от родника</SimpleData>
+		<SimpleData name="location_description">b0c35dca-a5a3-443a-8ccb-054a69592093</SimpleData>
+		<SimpleData name="status">data/stations/b0c35dca.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/b0c35dca.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>78.198145376982,47.1099599517141</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

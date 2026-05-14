@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="fc467037" id="fc467037">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>fc467037</name>
+  <Placemark id="fc467037.1">
+	<name>423</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#fc467037">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">707.493</SimpleData>
+		<SimpleData name="leveling_order">705.283</SimpleData>
+		<SimpleData name="control_height">Контрольный репер в верхней плоскости монолита</SimpleData>
+		<SimpleData name="benchmark_number">121</SimpleData>
+		<SimpleData name="control_location">Линия №31: Каркаралинск - Чурбай-Нура, II класс (4). Участок: грунт.реп.429 - грунт.реп. 323</SimpleData>
+		<SimpleData name="benchmark_type">Бригада клх.им.Ленина, в 2.7 км к юго-вост. от нее, в 1.8 км к юго-зап. от МТФ №1, в 0.2 км к вост. от дороги МТФ №1- МТФ №2</SimpleData>
+		<SimpleData name="location_description">fc467037-2be8-410a-8d82-9c641eeef449</SimpleData>
+		<SimpleData name="status">data/stations/fc467037.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/fc467037.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>73.632522192997,49.4021100726396</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

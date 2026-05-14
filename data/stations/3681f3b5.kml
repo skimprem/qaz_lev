@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="3681f3b5" id="3681f3b5">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>3681f3b5</name>
+  <Placemark id="3681f3b5.1">
+	<name>1799</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#3681f3b5">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">554,782</SimpleData>
+		<SimpleData name="benchmark_number">160оп</SimpleData>
+		<SimpleData name="control_location">Линия №1: Карасорский-Каркаралинск, II класс (1) Участок: грунт.реп. 50 - грунт.реп.0224</SimpleData>
+		<SimpleData name="benchmark_type">Маяжон, с., в 9,9 км к юго-вост. от него, в 0,1 км к сев.-зап. от линии связи, в 30 м к зап. от дороги с. Баянаул – гор. Каркаралинск</SimpleData>
+		<SimpleData name="location_description">3681f3b5-9521-4b41-96b7-ad38117c1738</SimpleData>
+		<SimpleData name="status">data/stations/3681f3b5.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/3681f3b5.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.6688684448664,50.506935158686</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

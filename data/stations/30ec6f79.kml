@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="30ec6f79" id="30ec6f79">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>30ec6f79</name>
+  <Placemark id="30ec6f79.1">
+	<name>7905</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#30ec6f79">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">534.224</SimpleData>
+		<SimpleData name="benchmark_number">160 оп, знак</SimpleData>
+		<SimpleData name="control_location">Линия № 3: Жосалы - Карсакбай, 1 класс (1) Участок: грунт, реп, 114 - фунд, реп, 3</SimpleData>
+		<SimpleData name="benchmark_type">Карсакбай, с,, в 3,4 км к юго-зап, от него, в 2,8 км к сев,- вост, от пересечения р, Шауыпкельсай и грунт, дороги с, Карсакбай - с, Жосалы, в 44 м к юго-вост, от грунт, дороги</SimpleData>
+		<SimpleData name="location_description">30ec6f79-0685-4a9c-9fe2-3fba43fdf480</SimpleData>
+		<SimpleData name="status">data/stations/30ec6f79.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/30ec6f79.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>66.6736200442812,47.8180729916013</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

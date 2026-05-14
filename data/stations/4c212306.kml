@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="4c212306" id="4c212306">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>4c212306</name>
+  <Placemark id="4c212306.1">
+	<name>1660</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#4c212306">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">130.091</SimpleData>
+		<SimpleData name="benchmark_number">121 оп.знак</SimpleData>
+		<SimpleData name="control_location">Линия № 6: Ишим - Петропавловск, II класс Участок: грунт.реп.  </SimpleData>
+		<SimpleData name="benchmark_type">Новопавловка, с., сев.-вост. Окраина его, в 0.1 км к сев.- зап. От км стб. № 10/26, в 43 м к сев.-вост. От железобетонного стб. ЛЭП № 95 </SimpleData>
+		<SimpleData name="location_description">4c212306-ff58-4e53-817f-52ee9012b707</SimpleData>
+		<SimpleData name="status">data/stations/4c212306.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/4c212306.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>69.1207461773959,54.9533603088012</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

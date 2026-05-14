@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2fdf7ae0" id="2fdf7ae0">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>2fdf7ae0</name>
+  <Placemark id="2fdf7ae0.1">
+	<name>1111</name>
+	<description>грунт.реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#2fdf7ae0">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">653.743</SimpleData>
+		<SimpleData name="benchmark_number">160 оп.знак</SimpleData>
+		<SimpleData name="control_location">Линия: Свры-Озек — Локоть (06,03.0541 и 06.03.1235), I класс,</SimpleData>
+		<SimpleData name="benchmark_type">Мойынкум, станц., в 6,1км к югу от
+неё, на 3 ПК 1443км жел. дор., в 27м
+к юго-зап. от тлф. стб. №111, в 19м к
+сев.-вост. от ПК стб. 3/4, в 11м к
+сев.-вост. от жел.-дор. Полотна</SimpleData>
+		<SimpleData name="location_description">2fdf7ae0-fb27-40d2-bd1e-79935b1444f1</SimpleData>
+		<SimpleData name="status">data/stations/2fdf7ae0.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/2fdf7ae0.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.9198509649598,44.69271739888</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

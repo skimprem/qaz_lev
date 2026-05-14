@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="52644280" id="52644280">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>52644280</name>
+  <Placemark id="52644280.1">
+	<name>16122</name>
+	<name>грунт.реп.</name>
+	<description>грунт.реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#52644280">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">650.783</SimpleData>
+		<SimpleData name="leveling_order">649.291*</SimpleData>
+		<SimpleData name="control_height">в верхней
+плоскости монолита</SimpleData>
+		<SimpleData name="benchmark_number">121</SimpleData>
+		<SimpleData name="control_location">Линия. №І: Акозек -Карасу,II класс
+Участок: грунт.реп.16122 - ск.реп 14</SimpleData>
+		<SimpleData name="benchmark_type">Косабай (Караирек),с., І9.6 км.к югу
+от него,в 3.8 км к юго-зап.от водокачки,в 0.7 км к вост.от полевой,дороги</SimpleData>
+		<SimpleData name="location_description">52644280-5942-49eb-a4e5-ce1ecc22fc48</SimpleData>
+		<SimpleData name="status">data/stations/52644280.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/52644280.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.0716528664796,47.6792804789667</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

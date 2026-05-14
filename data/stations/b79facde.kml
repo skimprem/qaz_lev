@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="b79facde" id="b79facde">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>b79facde</name>
+  <Placemark id="b79facde.1">
+	<name>1021</name>
+	<description>ск. реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#b79facde">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">633.629</SimpleData>
+		<SimpleData name="benchmark_number">99</SimpleData>
+		<SimpleData name="control_location">Участок: ск.реп.20341-фунд.реп.89</SimpleData>
+		<SimpleData name="benchmark_type">Дарья, станц., в 5.0 км к юго-зап. от нее, на 3 ПК 829 км, в 48 м к сев.-зап. от ж.д. полотна</SimpleData>
+		<SimpleData name="leveling_line_section">не найден</SimpleData>
+		<SimpleData name="location_description">b79facde-dc45-4c7c-ac4f-306402965050</SimpleData>
+		<SimpleData name="status">data/stations/b79facde.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/b79facde.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8964251815758,49.0538320768703</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

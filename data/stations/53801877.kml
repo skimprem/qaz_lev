@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="53801877" id="53801877">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>53801877</name>
+  <Placemark id="53801877.1">
+	<name>3425</name>
+	<name>грунт. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#53801877">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">352,646</SimpleData>
+		<SimpleData name="benchmark_number">160 оп</SimpleData>
+		<SimpleData name="control_location">Линия № 1: Сары- Озек -Локоть, I класс (1) Участок: грунт. реп. 4038- грунт. реп. 7703</SimpleData>
+		<SimpleData name="benchmark_type">Бельагаш, с., в 0.6 км к вост. от него, в 48 км к юго-зап. от км стб. № 604/605, в 3 м к зап. от двойного стб. линии связи с трансформатором, на углу лесополосы.</SimpleData>
+		<SimpleData name="location_description">53801877-2225-4347-9ac3-d4efc77b5942</SimpleData>
+		<SimpleData name="status">data/stations/53801877.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/53801877.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>80.6101148943803,50.7105071266064</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="dea24eef" id="dea24eef">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>dea24eef</name>
+  <Placemark id="dea24eef.1">
+	<name>2859</name>
+	<name>грунт. реп</name>
+	<ExtendedData><SchemaData schemaUrl="#dea24eef">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">118,296</SimpleData>
+		<SimpleData name="benchmark_number">160</SimpleData>
+		<SimpleData name="control_location">Линия № 5: Жалагаш - Жанадария, 2 класс (5). Участок: фунд. реп. 2716</SimpleData>
+		<SimpleData name="benchmark_type">Акжарма, в 2,6 км к сев.-вост. от него, в 1,0 км к югу от гидроузла, в 0,1 км к зап. от кан. Жана Ширкейли, в 20 м к югу от развилки шоссе с полевой дороги</SimpleData>
+		<SimpleData name="location_description">dea24eef-a833-4cff-996f-34568969312e</SimpleData>
+		<SimpleData name="status">data/stations/dea24eef.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/dea24eef.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>64.7937643424803,44.8989548560707</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

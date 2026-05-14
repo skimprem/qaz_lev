@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="f87d05ba" id="f87d05ba">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>f87d05ba</name>
+  <Placemark id="f87d05ba.1">
+	<name>б/№</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#f87d05ba">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">129.066</SimpleData>
+		<SimpleData name="benchmark_number">160 оп знак</SimpleData>
+		<SimpleData name="control_location">Линия № 1: Золоторунное - Чистовское, II класс Участок: пир. 2 кл. Жарык-Куль - грунт. реп. 532</SimpleData>
+		<SimpleData name="benchmark_type">Писаревка, с., в 2.0 км к сев.-зап. от него, в 1.5 км к зап. от МТФ, в 0.1 км к сев. от стб. ЛЭП № 204, в 60 м к вост. от улучшенной грунт. дороги с. Чистовское - с. Писаревка </SimpleData>
+		<SimpleData name="leveling_line_section">утрачен</SimpleData>
+		<SimpleData name="location_description">f87d05ba-6b12-45db-8766-9a44b9b5d0c1</SimpleData>
+		<SimpleData name="status">data/stations/f87d05ba.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/f87d05ba.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>70.6979702333362,54.6360883569385</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

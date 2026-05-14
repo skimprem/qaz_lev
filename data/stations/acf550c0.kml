@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="acf550c0" id="acf550c0">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>acf550c0</name>
+  <Placemark id="acf550c0.1">
+	<name>2877</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#acf550c0">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">308.879</SimpleData>
+		<SimpleData name="benchmark_number">160 оп</SimpleData>
+		<SimpleData name="control_location">Линия № 2: Терсаккан = Кзыл-Сенгир, II класс (2)  Участок: грунт.реп.2116 - фунд.реп.5003</SimpleData>
+		<SimpleData name="benchmark_type">Тенгиз,оз., в 7.0 км к юго-вост.от него, в 0.7 км к зап.от плотины, в 30 м к сев.от полевой дороги</SimpleData>
+		<SimpleData name="location_description">acf550c0-37b6-4845-8683-2a06c3c871b8</SimpleData>
+		<SimpleData name="status">data/stations/acf550c0.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/acf550c0.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>69.1461153566823,50.177864354439</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

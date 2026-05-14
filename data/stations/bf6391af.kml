@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="bf6391af" id="bf6391af">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>bf6391af</name>
+  <Placemark id="bf6391af.1">
+	<name>868</name>
+	<name>марка</name>
+	<ExtendedData><SchemaData schemaUrl="#bf6391af">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">264,29</SimpleData>
+		<SimpleData name="control_location">Линия №2: Семиярское-Карасорский, II класс (2). Участок: сигн.2кл. Токкудук-грунт.реп. 558</SimpleData>
+		<SimpleData name="benchmark_type">Карашенгель, с., в 16,5 км к сев-вост. от него, в 2,0 км к юго-вост. от озера, в 30 м к вост. от полевой дороги, на выступающей скале.</SimpleData>
+		<SimpleData name="location_description">bf6391af-6504-43e6-9ee0-a2e56e7c7a65</SimpleData>
+		<SimpleData name="status">data/stations/bf6391af.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/bf6391af.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.0869749626862,50.85516914689</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

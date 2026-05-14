@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="737028aa" id="737028aa">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>737028aa</name>
+  <Placemark id="737028aa.1">
+	<name>1387</name>
+	<name>стен.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#737028aa">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">431,820</SimpleData>
+		<SimpleData name="benchmark_number">143</SimpleData>
+		<SimpleData name="control_location">Висячий ход от марки 1407,             2 класс (2)</SimpleData>
+		<SimpleData name="benchmark_type">Котовка, с., в 2,7 км к юго-вост. от него, 145 км, во втором устое жел.дор. трубы с зап. стороны </SimpleData>
+		<SimpleData name="leveling_line_section">утрачен</SimpleData>
+		<SimpleData name="location_description">737028aa-31b6-4d6d-aa26-8c9adbc7063a</SimpleData>
+		<SimpleData name="status">data/stations/737028aa.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/737028aa.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>81.9507367486563,50.4241056410532</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

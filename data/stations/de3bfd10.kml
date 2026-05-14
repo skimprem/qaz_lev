@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="de3bfd10" id="de3bfd10">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>de3bfd10</name>
+  <Placemark id="de3bfd10.1">
+	<name>0427</name>
+	<name>ск.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#de3bfd10">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">281.788</SimpleData>
+		<SimpleData name="leveling_order">328.292</SimpleData>
+		<SimpleData name="benchmark_number">99</SimpleData>
+		<SimpleData name="control_location">Линия №2: Шортанды -Нецветаевка, II класса (3) Участок: фунд.реп.140 - грунт.реп.8925</SimpleData>
+		<SimpleData name="benchmark_type">Жолымбет,с., в 11.7 км к сев.-зап.от него, в 1.6 км к сев.-вост.от плотины на р. Ащылыайрык, к югу от шоссе с.Степок-с.Жолымбет</SimpleData>
+		<SimpleData name="location_description">de3bfd10-4458-46b2-b561-3823e57aaf52</SimpleData>
+		<SimpleData name="status">data/stations/de3bfd10.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/de3bfd10.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>71.859034484666,51.8193910724664</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

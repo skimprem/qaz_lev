@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="ba8bac2e" id="ba8bac2e">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>ba8bac2e</name>
+  <Placemark id="ba8bac2e.1">
+	<name>600</name>
+	<name>грунт,реп,</name>
+	<ExtendedData><SchemaData schemaUrl="#ba8bac2e">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">442.421</SimpleData>
+		<SimpleData name="leveling_order">440,61</SimpleData>
+		<SimpleData name="control_height">в верхней плоскости монолита</SimpleData>
+		<SimpleData name="benchmark_number">118</SimpleData>
+		<SimpleData name="control_location">Линия №18: марка б/№-грунт,реп,535, III класс Участок: марка б/№-
+грунт,реп,600</SimpleData>
+		<SimpleData name="benchmark_type">Уйшеаул-Каратау, г,, в 2,8 км югу от нее, в 1,7 км к юго-вост,от водохранилища, между двух полевых дорог</SimpleData>
+		<SimpleData name="location_description">ba8bac2e-b7b1-4c59-97a5-349bf8d1dc08</SimpleData>
+		<SimpleData name="status">data/stations/ba8bac2e.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/ba8bac2e.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>68.6974339208812,41.7583394386896</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

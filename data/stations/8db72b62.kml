@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="8db72b62" id="8db72b62">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>8db72b62</name>
+  <Placemark id="8db72b62.1">
+	<name>1359</name>
+	<name>ск.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#8db72b62">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">503,480</SimpleData>
+		<SimpleData name="leveling_order">503,359</SimpleData>
+		<SimpleData name="control_height">Контрольный репер № 988 в боковой грани монолита</SimpleData>
+		<SimpleData name="benchmark_number">А</SimpleData>
+		<SimpleData name="control_location">Линия №4: Карабастуз - Каркаралинск, II класс (3) Участок: ск. реп. 1678 - грунт. реп. 71</SimpleData>
+		<SimpleData name="benchmark_type">Муржик, с., в 10,0 км к вост. от него, в 2,5 км к юго-вост. от р.Ирису, в 50 м к югу от дороги с.Муржик-с.Молдары</SimpleData>
+		<SimpleData name="leveling_line_section">утрачен</SimpleData>
+		<SimpleData name="location_description">8db72b62-7b45-4dda-b596-e32080c43c00</SimpleData>
+		<SimpleData name="status">data/stations/8db72b62.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/8db72b62.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.4328488942855,50.0734156607692</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="fb6c20ed" id="fb6c20ed">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>fb6c20ed</name>
+  <Placemark id="fb6c20ed.1">
+	<name>1307</name>
+	<name>грунт. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#fb6c20ed">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="benchmark_number">121</SimpleData>
+		<SimpleData name="control_location">Ход от грунт.реп. 3402 до грунт.реп. 5624, I класс</SimpleData>
+		<SimpleData name="benchmark_type">Бозай (Буденное), с., в 4.3 км к сев.-зап. от него, в 0.6 км к югу от зим. Копалы, в 30 м к сев.-зап. от шоссе гор. Аягоз – с. Баршатас</SimpleData>
+		<SimpleData name="location_description">fb6c20ed-efdc-447e-a6af-61f80183a5a3</SimpleData>
+		<SimpleData name="status">data/stations/fb6c20ed.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/fb6c20ed.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>80.1156459709623,47.8879817668946</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

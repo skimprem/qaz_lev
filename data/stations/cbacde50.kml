@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="cbacde50" id="cbacde50">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>cbacde50</name>
+  <Placemark id="cbacde50.1">
+	<name>3049</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#cbacde50">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">604.504</SimpleData>
+		<SimpleData name="benchmark_number">160</SimpleData>
+		<SimpleData name="control_location">Линия № 2: Баршатас - Катбар, II класс. Участок: грунт.реп. 7661 – ск.реп. 44-331</SimpleData>
+		<SimpleData name="benchmark_type">Бидайык, с., в 31.4 км к юго-зап. от него, в 1.8 км к сев.-вост. от буг. Жайдак, в 0.7 км к сев. от сух. колодца, в 
+2 м к сев. от полевой дороги
+</SimpleData>
+		<SimpleData name="location_description">cbacde50-c7c0-4f9f-96cb-03d557545a7e</SimpleData>
+		<SimpleData name="status">data/stations/cbacde50.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/cbacde50.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>78.4376132249855,47.6039664803802</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

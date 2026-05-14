@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="7f99b500" id="7f99b500">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>7f99b500</name>
+  <Placemark id="7f99b500.1">
+	<name>479</name>
+	<name>грунт. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#7f99b500">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">389.041</SimpleData>
+		<SimpleData name="control_location">Линия № 2: Коктума(фунд.реп.3002) - Учарал(фунд.реп.25), II класс. Участок: фунд.реп. 3002 – грунт.реп. 272</SimpleData>
+		<SimpleData name="benchmark_type">Акши, с., в 0.5 км к юго-зап. от него, в 0.3 км к юго-зап. от жел. дор., в 0.1 км к юго-вост. от развалин</SimpleData>
+		<SimpleData name="location_description">7f99b500-435c-49ec-b103-64bf49791fbc</SimpleData>
+		<SimpleData name="status">data/stations/7f99b500.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/7f99b500.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>81.5412297507397,45.9489107210359</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

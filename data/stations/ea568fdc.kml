@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="ea568fdc" id="ea568fdc">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>ea568fdc</name>
+  <Placemark id="ea568fdc.1">
+	<name>5880</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#ea568fdc">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">212,712</SimpleData>
+		<SimpleData name="control_location">Ход от грунт. реп.5516 до грунт, реп, 8306, 2 класс (3)</SimpleData>
+		<SimpleData name="benchmark_type">Шыганак, с., в 2.2 км к югу от него, в 0.9 км к юго-зап. от развилки шоссе с. Жуантобе - с. Уланбель - с. Шыганак, в 14 м к вост, от грунт, дороги, идущей по вост, берегу оз. Улькен Камкалы</SimpleData>
+		<SimpleData name="leveling_line_section">уничтожен</SimpleData>
+		<SimpleData name="location_description">ea568fdc-0967-4d34-8f39-c986c733990d</SimpleData>
+		<SimpleData name="status">data/stations/ea568fdc.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/ea568fdc.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>70.009145083839,44.8047423316946</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

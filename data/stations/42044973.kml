@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="42044973" id="42044973">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>42044973</name>
+  <Placemark id="42044973.1">
+	<name>2125</name>
+	<name>грунт. реп. </name>
+	<ExtendedData><SchemaData schemaUrl="#42044973">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">677,549</SimpleData>
+		<SimpleData name="leveling_order">676,155</SimpleData>
+		<SimpleData name="control_height">репер № 2003 в фундаментной плите</SimpleData>
+		<SimpleData name="benchmark_number">116 оп</SimpleData>
+		<SimpleData name="control_location">Линия № 1: Жангиз-Тобе-Ак-Булак, II класс (1) Участок: грунт. реп. 7833-грунт. реп. 2545</SimpleData>
+		<SimpleData name="benchmark_type">Бестамак (свх. Кызылту), с., в 13.3 км к юго-вост. от него, в 3.8 км к сев.-зап. от кладб. Жолдыбай, в 0.7 км к вост. от р. Шаган</SimpleData>
+		<SimpleData name="location_description">42044973-c729-42a4-8d43-df7ff5c43c7f</SimpleData>
+		<SimpleData name="status">data/stations/42044973.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/42044973.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>78.5030770984429,49.1521536076407</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

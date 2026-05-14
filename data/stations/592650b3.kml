@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="592650b3" id="592650b3">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>592650b3</name>
+  <Placemark id="592650b3.1">
+	<name>Кстау</name>
+	<name>пирамида 3 кл.</name>
+	<ExtendedData><SchemaData schemaUrl="#592650b3">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">661.947</SimpleData>
+		<SimpleData name="leveling_height">2392</SimpleData>
+		<SimpleData name="benchmark_number">8</SimpleData>
+		<SimpleData name="control_location">Линия № 1: Оз. Жаланашколь – Аягоз, I класс. Участок: грунт.реп. 1437 – ск.реп. 5330</SimpleData>
+		<SimpleData name="benchmark_type">Таскескен, с., в 14.5 км к сев.-зап. от него, в 1.7 км к вост. от пов. стб. ЛЭП, в 0.6 км к юго-зап. от шоссе гор. Алматы – гор. Усть-Каменогорск</SimpleData>
+		<SimpleData name="location_description">592650b3-c22f-4975-8051-aecd443c8203</SimpleData>
+		<SimpleData name="status">data/stations/592650b3.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/592650b3.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>80.6135990007608,47.3003987960786</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="b696b073" id="b696b073">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>b696b073</name>
+  <Placemark id="b696b073.1">
+	<name>5104,</name>
+	<name>грунт.реп.</name>
+	<description>грунт.реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#b696b073">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">605.348</SimpleData>
+		<SimpleData name="benchmark_number">160оп.знак</SimpleData>
+		<SimpleData name="control_location">Линия №2:Балхаш-Акчатау II класс                            Участок:грунт.реп.2857-грунт.реп. 4786</SimpleData>
+		<SimpleData name="location_description">b696b073-a162-4e63-9d87-3025d13c8550</SimpleData>
+		<SimpleData name="status">data/stations/b696b073.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/b696b073.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>74.289585172276,47.7035224649255</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

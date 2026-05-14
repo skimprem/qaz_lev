@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="49dc387b" id="49dc387b">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>49dc387b</name>
+  <Placemark id="49dc387b.1">
+	<name>2993</name>
+	<name>ск. реп. </name>
+	<ExtendedData><SchemaData schemaUrl="#49dc387b">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="benchmark_number">99 оп. знак</SimpleData>
+		<SimpleData name="control_location">Линия № 1: Каркаралинск – Аягоз, I класс
+Участок: грунт.реп. 4041 – фунд.реп. 1027</SimpleData>
+		<SimpleData name="benchmark_type">Аягоз, гор., в 13.0 км к юго-зап. от него, в 0.4 км к юго-вост. от км. стб. 15/331, в 70 м к сев.-зап. от пов. стб. линии связи</SimpleData>
+		<SimpleData name="location_description">49dc387b-dff4-48cb-8ce7-ce10ba0da33f</SimpleData>
+		<SimpleData name="status">data/stations/49dc387b.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/49dc387b.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>80.2543335672015,47.9141496032484</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

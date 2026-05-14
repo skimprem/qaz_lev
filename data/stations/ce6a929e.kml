@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="ce6a929e" id="ce6a929e">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>ce6a929e</name>
+  <Placemark id="ce6a929e.1">
+	<name>659</name>
+	<name>грунт. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#ce6a929e">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">400,320</SimpleData>
+		<SimpleData name="benchmark_number">133</SimpleData>
+		<SimpleData name="control_location">Линия №1: Каракас - Шиганши, 2 класс (4) Участок: грунт. реп. 225 - грунт. реп. 657</SimpleData>
+		<SimpleData name="benchmark_type">Комсомол, ферма, в 5.0 км к юго-вост. от неё, в 0.6 км к юго-зап. от МТФ</SimpleData>
+		<SimpleData name="location_description">ce6a929e-532d-4abf-a20c-1654a43ba190</SimpleData>
+		<SimpleData name="status">data/stations/ce6a929e.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/ce6a929e.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>83.1534038669914,48.2993215652741</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="6151c3b4" id="6151c3b4">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>6151c3b4</name>
+  <Placemark id="6151c3b4.1">
+	<name>7875</name>
+	<name>грунт реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#6151c3b4">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">164,924</SimpleData>
+		<SimpleData name="leveling_order">163,566</SimpleData>
+		<SimpleData name="benchmark_number">116 оп</SimpleData>
+		<SimpleData name="control_location">Линия №1: Соль-Илецк-Каратогай, 1 класс. Участок: марка 0878-марка 3260</SimpleData>
+		<SimpleData name="benchmark_type">Разъезд №33, в 2,5 км к юго-вост. от него, на 7 пикете 1699 км, в 61 м к юго-вост. от пикетного стб. №6/7, в 39 м к юго-зап. от жел.-дор.полотна</SimpleData>
+		<SimpleData name="location_description">6151c3b4-7323-42fe-9ed2-0829775ef37a</SimpleData>
+		<SimpleData name="status">data/stations/6151c3b4.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/6151c3b4.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>56.3627141443563,50.7388780797124</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

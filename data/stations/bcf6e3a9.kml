@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="bcf6e3a9" id="bcf6e3a9">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>bcf6e3a9</name>
+  <Placemark id="bcf6e3a9.1">
+	<name>7367</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#bcf6e3a9">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">302.646</SimpleData>
+		<SimpleData name="benchmark_number">160 оп, знак</SimpleData>
+		<SimpleData name="control_location">Линия № 1: Торыустаган - Бирлик, 1 класс (1) Участок: грунт, реп, 1284 - грунт, реп, 7842</SimpleData>
+		<SimpleData name="benchmark_type">Киши Камкалы, с, в 15,8 км к юго-вост, от него, в 0,5 км к сев,-зап, от км, стб, 48/173 шоссе с, Уланбель -
+с, Мойынкум, в 30 м к сев, от шоссе, на возвышенности</SimpleData>
+		<SimpleData name="location_description">bcf6e3a9-b832-43f2-9258-1f40ee9f7ecb</SimpleData>
+		<SimpleData name="status">data/stations/bcf6e3a9.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/bcf6e3a9.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>71.6346944276622,44.6114251653471</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

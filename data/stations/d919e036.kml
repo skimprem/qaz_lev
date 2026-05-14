@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="d919e036" id="d919e036">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>d919e036</name>
+  <Placemark id="d919e036.1">
+	<name>5774</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#d919e036">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">67.538</SimpleData>
+		<SimpleData name="benchmark_number">121</SimpleData>
+		<SimpleData name="control_location">Линия: Славгородское- Айбас, II класс (2). Участок:  гр. рп. 10390-гр. рп. 92804</SimpleData>
+		<SimpleData name="benchmark_type">Степное, с., в 1.0 км к востоку от него, по дороге с.Степное-с.Муртук, в 30 м влево от развилка дороги, идущей от оз.Теке в с.Степное, восьочнее скотного двора</SimpleData>
+		<SimpleData name="location_description">d919e036-8041-4f5f-abc2-41aa72a1130b</SimpleData>
+		<SimpleData name="status">data/stations/d919e036.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/d919e036.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.805874756401,53.7439148246469</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

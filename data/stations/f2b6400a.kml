@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="f2b6400a" id="f2b6400a">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>f2b6400a</name>
+  <Placemark id="f2b6400a.1">
+	<name>1520</name>
+	<description>грунт. реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#f2b6400a">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">87,304</SimpleData>
+		<SimpleData name="leveling_order">85,516</SimpleData>
+		<SimpleData name="leveling_height">Контрольный репер в верхней плоскости монолита </SimpleData>
+		<SimpleData name="benchmark_number">118</SimpleData>
+		<SimpleData name="control_location">Линия №1: Ходжейли - Кумкала, 1 класс. Участок: грунт.реп. 729 - грунт.реп. 1039</SimpleData>
+		<SimpleData name="benchmark_type">Ширикрабат, разв., в 1,2 км к юго-зап.от них, в 0,1 км к югу от сух.р. Жанадария, в 23 м к вост.от грунт.дороги гор. Кызылорда - с. Кекирели</SimpleData>
+		<SimpleData name="location_description">f2b6400a-a153-4ef8-8fc9-df750a1f1a90</SimpleData>
+		<SimpleData name="status">data/stations/f2b6400a.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/f2b6400a.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>62.8962153986292,44.0748740367596</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

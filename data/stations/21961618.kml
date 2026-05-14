@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="21961618" id="21961618">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>21961618</name>
+  <Placemark id="21961618.1">
+	<name>3745</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#21961618">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">367.085</SimpleData>
+		<SimpleData name="benchmark_number">160 оп</SimpleData>
+		<SimpleData name="control_location">Линия №1: Атбасар-Жумай, ll (l) Участок: грунт. реп. 0072-фунд. реп. 7120</SimpleData>
+		<SimpleData name="benchmark_type">Бес-Бидаик, станц., в 9,2 км к юго-вост. 95.9 от нее, в 0.4 км к юго-вост. От жел.-дор. Переезда, в 80 м и к сев.-зап. От км. Стб. 81/82 жел.дор.</SimpleData>
+		<SimpleData name="location_description">21961618-7088-4ca8-894b-f9bf2dd83b2b</SimpleData>
+		<SimpleData name="status">data/stations/21961618.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/21961618.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>69.0692702747444,51.2539654214184</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

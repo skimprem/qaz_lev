@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="e509df53" id="e509df53">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>e509df53</name>
+  <Placemark id="e509df53.1">
+	<name>263</name>
+	<name>стен,реп,</name>
+	<ExtendedData><SchemaData schemaUrl="#e509df53">
+		<SimpleData name="type">I</SimpleData>
+		<SimpleData name="view">350.629</SimpleData>
+		<SimpleData name="control_location">Линия №2: Тюемойнак-Жарык, I класс (2) Участок: фунд,реп,497 - пир, 1 кл,Арал-Тюбе</SimpleData>
+		<SimpleData name="benchmark_type">280 км, раз,, в 2,8 км к юго-зап, от него, на 9 пк 283 км, с
+сев, стороны водопропускной трубы</SimpleData>
+		<SimpleData name="location_description">e509df53-dea3-4eb9-b343-0caacc3c0c88</SimpleData>
+		<SimpleData name="status">data/stations/e509df53.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/e509df53.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>69.3086874174785,48.2200510265694</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

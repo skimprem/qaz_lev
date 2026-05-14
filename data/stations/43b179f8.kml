@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="43b179f8" id="43b179f8">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>43b179f8</name>
+  <Placemark id="43b179f8.1">
+	<name>4030</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#43b179f8">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">392.183</SimpleData>
+		<SimpleData name="leveling_height">391.288</SimpleData>
+		<SimpleData name="benchmark_number">121</SimpleData>
+		<SimpleData name="control_location">Линия № 1: Целиноград-Ивановка ,II класс.                                  Ход от грунт.реп. б\№ до грунт.реп. 441 ,II класс.                        Висячий ход от фунд.реп. 1938, II класс</SimpleData>
+		<SimpleData name="benchmark_type">Киевка , с., сев.окрайна его, в 0.4 км к югу от шоссе с. Щербаковский- с. Киевка, в 0.1 км к юго-вост.от фунд.реп. 1938 </SimpleData>
+		<SimpleData name="leveling_line_section">утрачен</SimpleData>
+		<SimpleData name="location_description">43b179f8-5e64-4221-9935-49e7afef050b</SimpleData>
+		<SimpleData name="status">data/stations/43b179f8.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/43b179f8.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>71.5492299867273,50.2686748345822</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="e28fcd2c" id="e28fcd2c">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>e28fcd2c</name>
+  <Placemark id="e28fcd2c.1">
+	<name>8660</name>
+	<name>грунт. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#e28fcd2c">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">173,843</SimpleData>
+		<SimpleData name="benchmark_number">146</SimpleData>
+		<SimpleData name="control_location">Ход: от грунт. реп. 15-грунт. реп. 2660, II класс (5)</SimpleData>
+		<SimpleData name="benchmark_type">Бескарагай, с., в 2.1 км к сев.-зап. от него, в 1.9 км к сев.-зап. от кладбища, в 0.1 км к вост. от полевой дороги, в 62 м к юго-зап. от тлф. стб.связи № 110 и стб. ЛЭП № 223</SimpleData>
+		<SimpleData name="location_description">e28fcd2c-dc8c-424b-98da-ebb94395d298</SimpleData>
+		<SimpleData name="status">data/stations/e28fcd2c.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/e28fcd2c.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.9749086911764,51.3264714509488</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

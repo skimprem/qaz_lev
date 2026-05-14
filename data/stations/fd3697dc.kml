@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="fd3697dc" id="fd3697dc">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>fd3697dc</name>
+  <Placemark id="fd3697dc.1">
+	<name>4585</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#fd3697dc">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">828,228</SimpleData>
+		<SimpleData name="leveling_order">826,162</SimpleData>
+		<SimpleData name="control_height">контрольный репер №1672 в фундаментальной плите </SimpleData>
+		<SimpleData name="benchmark_number">116оп</SimpleData>
+		<SimpleData name="control_location">Линия №2: Карааул - Акбулак, II класс (2) Участок: грунт. реп. 5242 - грунт. реп. 5248</SimpleData>
+		<SimpleData name="benchmark_type">Кайнар, с., в 1,0 км к сев. от него, в 1,5 км к зап. от р. Карасу, в 70 м к зап. от дороги с. Кайнар - с. Каркаралинск</SimpleData>
+		<SimpleData name="location_description">fd3697dc-a72b-4790-b71a-aedbd00b4d64</SimpleData>
+		<SimpleData name="status">data/stations/fd3697dc.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/fd3697dc.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.3874452984759,49.2101953803686</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

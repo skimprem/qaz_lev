@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="ee0cbd13" id="ee0cbd13">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>ee0cbd13</name>
+  <Placemark id="ee0cbd13.1">
+	<name>1359</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#ee0cbd13">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">372,668</SimpleData>
+		<SimpleData name="leveling_height">371,606</SimpleData>
+		<SimpleData name="benchmark_number">в верхней плоскости монолита </SimpleData>
+		<SimpleData name="control_location">Линия № 5: Актас - р. Чу, 2 класс (1) Участок: фунд. реп. 2280 - грунт, реп. 687</SimpleData>
+		<SimpleData name="benchmark_type">Кишикыр, к., в 5.7 км к юго-зап. от него, в 3.0 км к юго­ зап. от к. № 670, у полевой дороги </SimpleData>
+		<SimpleData name="location_description">ee0cbd13-0c1e-4588-ac20-f9379cce0b30</SimpleData>
+		<SimpleData name="status">data/stations/ee0cbd13.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/ee0cbd13.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>71.3740328244401,45.567537656468</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

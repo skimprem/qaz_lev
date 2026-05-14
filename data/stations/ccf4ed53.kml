@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="ccf4ed53" id="ccf4ed53">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>ccf4ed53</name>
+  <Placemark id="ccf4ed53.1">
+	<name>308</name>
+	<name>грунт.реп.</name>
+	<description>грунт.реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#ccf4ed53">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">372.45?</SimpleData>
+		<SimpleData name="leveling_order">370.977*</SimpleData>
+		<SimpleData name="control_height">В трубе</SimpleData>
+		<SimpleData name="benchmark_number">А</SimpleData>
+		<SimpleData name="control_location">Линия № 3:Бурубайтал-Каратурангы II класс                                          Участок: грунт.реп. 3484-фунд.реп. 412</SimpleData>
+		<SimpleData name="benchmark_type">??????а??? ?.,? 18.2 ?? ? ?? ?? ????, ? 8.3 ?? ? ????.?? ???.1 ??. ???????,? 0.7 ?? ? ???.?? ???????
+??????</SimpleData>
+		<SimpleData name="location_description">ccf4ed53-26d7-44e2-8a76-152492bfb9bb</SimpleData>
+		<SimpleData name="status">data/stations/ccf4ed53.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/ccf4ed53.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.2676920884683,44.900531668026</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

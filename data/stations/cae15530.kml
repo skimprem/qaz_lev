@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="cae15530" id="cae15530">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>cae15530</name>
+  <Placemark id="cae15530.1">
+	<name>2144</name>
+	<name>грунт.реп</name>
+	<ExtendedData><SchemaData schemaUrl="#cae15530">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">342.445</SimpleData>
+		<SimpleData name="benchmark_number">160 оп</SimpleData>
+		<SimpleData name="control_location">Линия № 5 Астана (Целиноград) - Жумай. II класс (6)
+Участок: фунд.реп. 483 - грунт реп 7276</SimpleData>
+		<SimpleData name="benchmark_type">Астана, гор., в 4.6 км к юго-зап. от него, в 57 м к юго-
+вост. от стб. ЛЭП, в 43 м к сев.-зап. от дороги гор.
+Астана- с. Родионовка</SimpleData>
+		<SimpleData name="leveling_line_section">утрачен</SimpleData>
+		<SimpleData name="location_description">cae15530-ab49-4306-ba84-0fd3a05e91ae</SimpleData>
+		<SimpleData name="status">data/stations/cae15530.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/cae15530.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>71.324033032062,51.1410090662991</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

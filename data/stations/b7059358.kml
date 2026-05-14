@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="b7059358" id="b7059358">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>b7059358</name>
+  <Placemark id="b7059358.1">
+	<name>2374</name>
+	<name>грунт,реп,</name>
+	<ExtendedData><SchemaData schemaUrl="#b7059358">
+		<SimpleData name="type">I</SimpleData>
+		<SimpleData name="view">275.947</SimpleData>
+		<SimpleData name="benchmark_number">160 оп</SimpleData>
+		<SimpleData name="control_location">Линия №1:Целиноград - Амангельды, I класс (I) участок: грунт,реп,2386 - грунт,реп,2208</SimpleData>
+		<SimpleData name="benchmark_type">Далабай,с,,в 3,0 км к зап,от него,в 1,8 км к юго-вост,от оз Шункырколь,в 0,1 км к юго-вост, от стб,электолкабеля №15</SimpleData>
+		<SimpleData name="location_description">b7059358-593f-498e-ae76-414f042785fe</SimpleData>
+		<SimpleData name="status">data/stations/b7059358.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/b7059358.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>66.7122361685195,51.2136529210615</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="b97258ac" id="b97258ac">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>b97258ac</name>
+  <Placemark id="b97258ac.1">
+	<name>669</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#b97258ac">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">330,768</SimpleData>
+		<SimpleData name="leveling_order">328,158</SimpleData>
+		<SimpleData name="control_height">контрольный репер №410 в верхней плоскости монолита</SimpleData>
+		<SimpleData name="benchmark_number">121оп</SimpleData>
+		<SimpleData name="control_location">Линия №6: Семиярское - Карасорский, II класс (1) Участок: грунт. реп. 617 - ск. реп. 6100</SimpleData>
+		<SimpleData name="benchmark_type">Баянауыл, с., в 13.9 км к сев.-вост. от него,  в 0.3 км к вост, от зим. Акбаз, в 0.1 км к юго-вост. от кладбища</SimpleData>
+		<SimpleData name="location_description">b97258ac-a6d8-4cdb-b698-6071bc007f42</SimpleData>
+		<SimpleData name="status">data/stations/b97258ac.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/b97258ac.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.8717929223487,50.8849538246663</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

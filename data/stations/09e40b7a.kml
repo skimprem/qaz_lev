@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="09e40b7a" id="09e40b7a">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>09e40b7a</name>
+  <Placemark id="09e40b7a.1">
+	<name>740</name>
+	<description>грунт.реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#09e40b7a">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">251.673</SimpleData>
+		<SimpleData name="leveling_order">250,573</SimpleData>
+		<SimpleData name="benchmark_number">121</SimpleData>
+		<SimpleData name="control_location">Линия №1: Карабутак-Жанатурмыс, II класс. Участок: грунт.реп.231-грунт.реп.228</SimpleData>
+		<SimpleData name="benchmark_type">Сарат, с., в 7.1 км к вост. от него, в 2.5 км к югу от оз. Кыз, в 25 м к юго-вост. от дороги с. Сарат - с. Аксуат</SimpleData>
+		<SimpleData name="location_description">09e40b7a-30c5-4b46-8e05-69af06547b31</SimpleData>
+		<SimpleData name="status">data/stations/09e40b7a.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/09e40b7a.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>61.1256447217346,50.1088452672576</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

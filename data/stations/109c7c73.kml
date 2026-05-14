@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="109c7c73" id="109c7c73">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>109c7c73</name>
+  <Placemark id="109c7c73.1">
+	<name>1037</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#109c7c73">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">255.276</SimpleData>
+		<SimpleData name="benchmark_number">161 оп, знак</SimpleData>
+		<SimpleData name="control_location">Линия № 1: Туйемойнак - Торыустаган, І класс (1) Участок: грунт, реп, 2520 - грунт,реп, 5187</SimpleData>
+		<SimpleData name="benchmark_type">Токсары, к,, в 4,0 км к югу от него, в 0,1 км к сев,-зап, от к, Коскудык, в 30 м к зап, от грунт, дороги с, Бетпакдала - с, Тасты</SimpleData>
+		<SimpleData name="location_description">109c7c73-d9e8-4949-89de-4b566aeb908d</SimpleData>
+		<SimpleData name="status">data/stations/109c7c73.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/109c7c73.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>69.6677582301453,45.3850862306805</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

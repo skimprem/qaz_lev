@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="0113cf2d" id="0113cf2d">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>0113cf2d</name>
+  <Placemark id="0113cf2d.1">
+	<name>5292</name>
+	<description>грунт. реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#0113cf2d">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">555.312</SimpleData>
+		<SimpleData name="leveling_order">554,221</SimpleData>
+		<SimpleData name="control_height">Контрольный репер №6421 в фундаментальной плите</SimpleData>
+		<SimpleData name="benchmark_number">116 оп</SimpleData>
+		<SimpleData name="control_location">Линия №4: Тюемойнак-Жарык, I класс (1) Участок: грунт. реп. 4017-фунд.реп. 89</SimpleData>
+		<SimpleData name="benchmark_type">Разъезд 33 км, в 9.3 км к зап. от него, на 10 ПК 39 км, в 30 м к сев. от ж.д. полотна, в 1,9 км к сев.-зап. от мог. Токебай </SimpleData>
+		<SimpleData name="location_description">0113cf2d-15ec-4e5d-878d-8d92d6f431a7</SimpleData>
+		<SimpleData name="status">data/stations/0113cf2d.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/0113cf2d.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.3589249025314,48.7373462963616</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

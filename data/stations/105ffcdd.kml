@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="105ffcdd" id="105ffcdd">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>105ffcdd</name>
+  <Placemark id="105ffcdd.1">
+	<name>1367</name>
+	<description>грунт.репер</description>
+	<ExtendedData><SchemaData schemaUrl="#105ffcdd">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">254.721</SimpleData>
+		<SimpleData name="leveling_order">253,085</SimpleData>
+		<SimpleData name="benchmark_number">121</SimpleData>
+		<SimpleData name="control_location">Линия № 1:Карабутак-Жанатурмыс, II класс(I) Участок :грунт.реп.138-грунт.реп.347</SimpleData>
+		<SimpleData name="benchmark_type">Уркаш, с. ,в 17.0 км к зап. от него, в 8.2 км к юго-вост. от с.Талдыколь,в 18 м к югу от дорогиоз.Талдыколь-с. Уркаш</SimpleData>
+		<SimpleData name="location_description">105ffcdd-6602-4b5d-afbb-458f03aace1e</SimpleData>
+		<SimpleData name="status">data/stations/105ffcdd.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/105ffcdd.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>62.0803242715361,51.3465033767131</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

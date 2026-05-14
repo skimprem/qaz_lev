@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="98283bdf" id="98283bdf">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>98283bdf</name>
+  <Placemark id="98283bdf.1">
+	<name>4030</name>
+	<name>стенной репер</name>
+	<ExtendedData><SchemaData schemaUrl="#98283bdf">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">145,141</SimpleData>
+		<SimpleData name="control_location">Висячий ход от Фунд. реп. 6013. 2 класс (1)</SimpleData>
+		<SimpleData name="benchmark_type">Тартогай, станц., в 3.0 км к юго-вост, от неё, 2901 км жел. дор., в устое жел.-дор. моста</SimpleData>
+		<SimpleData name="location_description">98283bdf-32b0-4f45-81db-66b204aff342</SimpleData>
+		<SimpleData name="status">data/stations/98283bdf.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/98283bdf.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>66.2812561677698,44.4348676566424</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

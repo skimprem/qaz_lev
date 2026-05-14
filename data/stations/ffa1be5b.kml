@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="ffa1be5b" id="ffa1be5b">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>ffa1be5b</name>
+  <Placemark id="ffa1be5b.1">
+	<name>б/№</name>
+	<description>фунд. реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#ffa1be5b">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">123.895</SimpleData>
+		<SimpleData name="leveling_order">123.384 122.082</SimpleData>
+		<SimpleData name="leveling_height">контрольный репер в рельсе  контрольный репер в верхней плоскости монолита</SimpleData>
+		<SimpleData name="benchmark_number">124</SimpleData>
+		<SimpleData name="control_location">Линия №1 : Наурзум (Аксуат ) - Иргиз , I класс . Участок : грунт. Реп. 2947-грунт. Реп. 15</SimpleData>
+		<SimpleData name="benchmark_type">Кайга, с., в 3,1 км к югу от него, в 73 м к югу от грунт.реп. 368, в 38 м к вост. от дороги с.Кайга-с.Карасу</SimpleData>
+		<SimpleData name="location_description">ffa1be5b-2763-4c84-ae80-671c60cbfbae</SimpleData>
+		<SimpleData name="status">data/stations/ffa1be5b.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/ffa1be5b.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>64.7135797547964,50.9078841583494</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

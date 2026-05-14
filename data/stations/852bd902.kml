@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="852bd902" id="852bd902">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>852bd902</name>
+  <Placemark id="852bd902.1">
+	<name>1535</name>
+	<description>грунт.реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#852bd902">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="benchmark_number">5 (146)</SimpleData>
+		<SimpleData name="benchmark_type">Кудукшилик с., в 4.0 км на сев. от кладбища, в 0.15 км на юг от км стб. 13/76, в 30 м на запад от полотна шоссе Урицкий - Ленинское, 15 м на север от стб. связи №73/66</SimpleData>
+		<SimpleData name="leveling_line_section">не найден</SimpleData>
+		<SimpleData name="location_description">852bd902-2ca0-4052-9dd1-7ae877d268f8</SimpleData>
+		<SimpleData name="status">data/stations/852bd902.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/852bd902.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>65.5951035901786,53.4176318976688</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="7477e60a" id="7477e60a">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>7477e60a</name>
+  <Placemark id="7477e60a.1">
+	<name>706</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#7477e60a">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="benchmark_number">123 (уничтожен)</SimpleData>
+		<SimpleData name="control_location">Линия № 1: Макинск - Байулесты, II класс, Участок: грунт.реп. 0586 - грунт. реп.732 Ход от грунт.реп 739 до грунт.реп.724, II класс </SimpleData>
+		<SimpleData name="benchmark_type">Алга, с., в 0.7 км к юго-зап.от него, в 0.4 км к югу от болота</SimpleData>
+		<SimpleData name="location_description">7477e60a-7d63-47ab-86fa-d9355f165a11</SimpleData>
+		<SimpleData name="status">data/stations/7477e60a.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/7477e60a.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>71.6789635792434,52.8082163705453</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

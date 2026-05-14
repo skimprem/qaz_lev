@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="7dad8cc7" id="7dad8cc7">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>7dad8cc7</name>
+  <Placemark id="7dad8cc7.1">
+	<name>640</name>
+	<name>грунт. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#7dad8cc7">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">364.427</SimpleData>
+		<SimpleData name="leveling_order">363,209</SimpleData>
+		<SimpleData name="control_height">Контрольный репер в фундаментной плите</SimpleData>
+		<SimpleData name="benchmark_number">116</SimpleData>
+		<SimpleData name="control_location">Линия № 3: Сайкан  – Учарал , II класс </SimpleData>
+		<SimpleData name="benchmark_type">Раз. № 8, в 1.5 км к сев.-зап. от него, в 0.1 км к юго-зап. от км. стб. 122/123 жел. дор.</SimpleData>
+		<SimpleData name="location_description">7dad8cc7-dc7c-4ab6-8682-a59771f541b7</SimpleData>
+		<SimpleData name="status">data/stations/7dad8cc7.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/7dad8cc7.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>80.8895444118683,46.2907473699089</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

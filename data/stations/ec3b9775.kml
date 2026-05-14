@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="ec3b9775" id="ec3b9775">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>ec3b9775</name>
+  <Placemark id="ec3b9775.1">
+	<name>8623</name>
+	<description>грунт. реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#ec3b9775">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">127.004</SimpleData>
+		<SimpleData name="leveling_height">0</SimpleData>
+		<SimpleData name="benchmark_number">146 оп</SimpleData>
+		<SimpleData name="benchmark_type">В 2,2 км к сев-вост.от разъезда №120, в 60 м к сев-зап.от км стб. 381/382</SimpleData>
+		<SimpleData name="leveling_line_section">утрачен</SimpleData>
+		<SimpleData name="location_description">ec3b9775-f2e7-4166-868d-68e5bbfd3c56</SimpleData>
+		<SimpleData name="status">data/stations/ec3b9775.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/ec3b9775.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>76.2571589763132,52.0463687813911</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

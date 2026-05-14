@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="c2168124" id="c2168124">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>c2168124</name>
+  <Placemark id="c2168124.1">
+	<name>31</name>
+	<description>грунт. реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#c2168124">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">713.758</SimpleData>
+		<SimpleData name="control_height">Контрольный репер № 157 в верхней плоскости моналита</SimpleData>
+		<SimpleData name="benchmark_number">123оп.</SimpleData>
+		<SimpleData name="control_location">Линия № 1: Ульяновский_Каркаралинск, I класс (2) Участок: фундаментальный репер 489-фундаментальный репер 1679</SimpleData>
+		<SimpleData name="benchmark_type">Койтас, с., в 18,3 км к юго-вост. от него, в 0,5 км к зап. от р. Жарым, в 1,6 км к сев. от шоссе с. Койтас-гор. Каркаралинск</SimpleData>
+		<SimpleData name="location_description">c2168124-06f0-4fa7-b0e0-f82dbe1889ef</SimpleData>
+		<SimpleData name="status">data/stations/c2168124.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/c2168124.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.3213148548212,49.5545209296906</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

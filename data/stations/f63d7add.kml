@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="f63d7add" id="f63d7add">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>f63d7add</name>
+  <Placemark id="f63d7add.1">
+	<name>23</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#f63d7add">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">539,978</SimpleData>
+		<SimpleData name="leveling_order">537,360</SimpleData>
+		<SimpleData name="control_height">Контрольный репер в верхней плоскости монолита</SimpleData>
+		<SimpleData name="benchmark_number">121</SimpleData>
+		<SimpleData name="control_location">Линия №4: Актасты- Чурбай-Нура, II класс (6) Участок: фунд.реп. 485 -грунт.реп. 33</SimpleData>
+		<SimpleData name="benchmark_type">Красный Кут, с. в 2,1 км к юго-зап. от него, в 0,5 км к зап. от р. Ошаганды, в 10 м к зап. от полевой дороги</SimpleData>
+		<SimpleData name="location_description">f63d7add-c24e-40f4-b0ee-313e8e3a9d09</SimpleData>
+		<SimpleData name="status">data/stations/f63d7add.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/f63d7add.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.7146202198963,50.2912946902535</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

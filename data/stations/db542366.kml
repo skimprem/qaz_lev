@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="db542366" id="db542366">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>db542366</name>
+  <Placemark id="db542366.1">
+	<name>5001</name>
+	<name>грунт. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#db542366">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">73.866</SimpleData>
+		<SimpleData name="benchmark_number">160 оп. знак</SimpleData>
+		<SimpleData name="control_location">Линия №1: Аральск - Коккабак, II класс. Участок: грунт. реп. 9049 - грунт. реп. 2665</SimpleData>
+		<SimpleData name="benchmark_type">Токабай, с., в 15.8 км к сев.-вост. от него, в 3.9 км к сев.-зап. от зим. Кулыс, в 20 м к югу от грунтовой дороги с. Жинишкекум - с. Жаксыкылыш</SimpleData>
+		<SimpleData name="location_description">db542366-c519-459b-ad06-dd8537406421</SimpleData>
+		<SimpleData name="status">data/stations/db542366.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/db542366.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>62.4091076170273,46.9552228121534</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

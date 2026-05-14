@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="97c42e41" id="97c42e41">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>97c42e41</name>
+  <Placemark id="97c42e41.1">
+	<name>7730</name>
+	<name>грунт,реп</name>
+	<ExtendedData><SchemaData schemaUrl="#97c42e41">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">195.206</SimpleData>
+		<SimpleData name="benchmark_number">160 оп</SimpleData>
+		<SimpleData name="control_location">Линия I: Аральск (Аральское море) - Арысь,  I класс(1)Участок: грунт,реп,4929 - грунт,реп,9399</SimpleData>
+		<SimpleData name="benchmark_type">Акшокат, раз,,в 4,5 км к юго-вост, от него, на 3-ем ПК 3155 км жел,дор,, в 7 м к вост, от тлф,стб, 68/1010</SimpleData>
+		<SimpleData name="leveling_line_section">утрачен</SimpleData>
+		<SimpleData name="location_description">97c42e41-5bcc-44ab-a508-ffe20e50861d</SimpleData>
+		<SimpleData name="status">data/stations/97c42e41.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/97c42e41.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>68.4167552431686,42.8645735052949</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

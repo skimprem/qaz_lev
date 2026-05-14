@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="8bdf2d90" id="8bdf2d90">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>8bdf2d90</name>
+  <Placemark id="8bdf2d90.1">
+	<name>44240</name>
+	<description>скальный реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#8bdf2d90">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">662.621</SimpleData>
+		<SimpleData name="control_location">Линия № 1:Жарык-Моинты, I класс (1)   Участок: марка 17-грунт.реп. 2435</SimpleData>
+		<SimpleData name="benchmark_type">ЛПЗ 906 км, в 8,3 км к юго-вост. от них, в 0,1 км к юго-зап. от желез-дор. полотна, у ПК стб. 7/8 914 км желез.-дор. </SimpleData>
+		<SimpleData name="location_description">8bdf2d90-672b-4162-82ed-b4dc719bd153</SimpleData>
+		<SimpleData name="status">data/stations/8bdf2d90.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/8bdf2d90.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.7549859038202,48.3937496895289</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

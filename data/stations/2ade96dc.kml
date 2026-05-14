@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2ade96dc" id="2ade96dc">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>2ade96dc</name>
+  <Placemark id="2ade96dc.1">
+	<name>14443</name>
+	<name>грунт.реп.</name>
+	<description>грунт.реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#2ade96dc">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">475.302</SimpleData>
+		<SimpleData name="leveling_order">473.712*</SimpleData>
+		<SimpleData name="control_height">верхней
+плоскости монолита</SimpleData>
+		<SimpleData name="benchmark_number">121</SimpleData>
+		<SimpleData name="control_location">Линия № 2; Акозек - Сарыкамыс, II класс.Участок: грунт.реп.14443 - ск.реп.б/№</SimpleData>
+		<SimpleData name="benchmark_type">Саяк,с.,в 26.8 км к юго-зап.от него,  в 12.7 км к вост.от к.Курланы,в 11.2 км к юго-вост.от мог.Бирликбай</SimpleData>
+		<SimpleData name="location_description">2ade96dc-5fcd-4e70-8ace-a220efb26370</SimpleData>
+		<SimpleData name="status">data/stations/2ade96dc.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/2ade96dc.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>76.9881683089875,46.9026236242019</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="f3c43add" id="f3c43add">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>f3c43add</name>
+  <Placemark id="f3c43add.1">
+	<name>3875</name>
+	<name>марка</name>
+	<ExtendedData><SchemaData schemaUrl="#f3c43add">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">262.087</SimpleData>
+		<SimpleData name="control_location">Линия №1: Челкар-Изембет, I   класс. Участок: фунд.реп. 144-марка 4264</SimpleData>
+		<SimpleData name="benchmark_type">Тобылгы, раз., зд. Разъезда</SimpleData>
+		<SimpleData name="leveling_line_section">утрачена</SimpleData>
+		<SimpleData name="location_description">f3c43add-e547-4c36-bf51-7e48af04be15</SimpleData>
+		<SimpleData name="status">data/stations/f3c43add.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/f3c43add.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>58.931853746541,48.303070956068</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

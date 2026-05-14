@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="19185126" id="19185126">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>19185126</name>
+  <Placemark id="19185126.1">
+	<name>2041</name>
+	<name>грунт, реп,</name>
+	<ExtendedData><SchemaData schemaUrl="#19185126">
+		<SimpleData name="type">I</SimpleData>
+		<SimpleData name="view">399.768</SimpleData>
+		<SimpleData name="leveling_order">398,499</SimpleData>
+		<SimpleData name="control_height">репер № 8308 в фундаментальной плите</SimpleData>
+		<SimpleData name="benchmark_number">116 оп,знак</SimpleData>
+		<SimpleData name="control_location">Линия № 1: Карсакпай - Тюемойнак, I класс
+Участок: марка 240 - грунт,реп, 3646</SimpleData>
+		<SimpleData name="benchmark_type">Тюемойнак, станц,, в 19,5 км к юго-зап, от нее, на 4 пк
+319 км, в 53 м к сев, от жел,-дор, полотна</SimpleData>
+		<SimpleData name="location_description">19185126-e2c2-463b-9498-47a1779bf45d</SimpleData>
+		<SimpleData name="status">data/stations/19185126.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/19185126.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>68.8507669454556,48.1552558903869</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="f006b4af" id="f006b4af">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>f006b4af</name>
+  <Placemark id="f006b4af.1">
+	<name>245</name>
+	<name>грунт. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#f006b4af">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">1041.857</SimpleData>
+		<SimpleData name="leveling_order">1040.391</SimpleData>
+		<SimpleData name="control_height">репер № 327 в фундаментной плите </SimpleData>
+		<SimpleData name="benchmark_number">116</SimpleData>
+		<SimpleData name="control_location">Линия № 1:           Эмбек - Березовка, 2 класс (1), Участок: фунд. реп. 490 - грунт. реп. 180</SimpleData>
+		<SimpleData name="benchmark_type">Белькарагай (Орнек), с., в 2.5 км к сев-вост. от него, в 1.0 км к югу от заимки, в 10 м к югу от дороги с.Большенарымское - с.Катон-Карагай</SimpleData>
+		<SimpleData name="leveling_line_section">Утрачен по объекту F.07.13.4284</SimpleData>
+		<SimpleData name="location_description">f006b4af-4561-4c22-a95b-cf6bb83b1022</SimpleData>
+		<SimpleData name="status">data/stations/f006b4af.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/f006b4af.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>85.2441520706567,49.1748385988622</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

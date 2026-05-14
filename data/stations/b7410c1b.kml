@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="b7410c1b" id="b7410c1b">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>b7410c1b</name>
+  <Placemark id="b7410c1b.1">
+	<name>4733</name>
+	<description>грунт.репер</description>
+	<ExtendedData><SchemaData schemaUrl="#b7410c1b">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="benchmark_number">146</SimpleData>
+		<SimpleData name="control_location">Линия №2 Наурзум (Аксуат) -Жанатурмыс Участок грунт.реп.1709 -грунт.реп.415</SimpleData>
+		<SimpleData name="location_description">b7410c1b-fff3-42e8-961f-9f81d4447808</SimpleData>
+		<SimpleData name="status">data/stations/b7410c1b.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/b7410c1b.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>63.8995051174457,51.3507574534249</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

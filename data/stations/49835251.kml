@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="49835251" id="49835251">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>49835251</name>
+  <Placemark id="49835251.1">
+	<name>7186</name>
+	<name>грунт. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#49835251">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">872,726</SimpleData>
+		<SimpleData name="benchmark_number">146 оп</SimpleData>
+		<SimpleData name="control_location">Линия № 122: Усть-Каменогорск - Чтганчи, II класс (14) Участок: ск. реп. 8987 - грунт. реп. 0979</SimpleData>
+		<SimpleData name="benchmark_type">Самарка, с., в 15.1 км к сев.-вост. от него, в 1.2 км к вост. от с. Пантелеймоновка, в 0.2 км к зап. от км. стб. 18, в 12 м к сев.- от дороги с. Самарка - гор. Усть-Каменогорск</SimpleData>
+		<SimpleData name="location_description">49835251-1935-4253-aff2-d2f3dd51850e</SimpleData>
+		<SimpleData name="status">data/stations/49835251.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/49835251.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>83.2849462316278,49.1565535971475</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

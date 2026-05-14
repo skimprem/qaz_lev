@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="fed5ef4c" id="fed5ef4c">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>fed5ef4c</name>
+  <Placemark id="fed5ef4c.1">
+	<name>41</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#fed5ef4c">
+		<SimpleData name="type">ІІ</SimpleData>
+		<SimpleData name="view">505.586</SimpleData>
+		<SimpleData name="control_location">Линия № 2: Талдысай-Жиделисай, ІІ класс (2) Участок: грунт.реп. 3097 - грунт.реп. 2925</SimpleData>
+		<SimpleData name="benchmark_type">Бетбулак, с., в 20.5 км к юго-зап от него, в 3.5 км к юго-вост от к. Аккудук, в 0.3 км к сев от родника</SimpleData>
+		<SimpleData name="location_description">fed5ef4c-5bd4-49ff-b105-b9ab1a8aab73</SimpleData>
+		<SimpleData name="status">data/stations/fed5ef4c.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/fed5ef4c.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.9121517647438,48.7112986576942</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

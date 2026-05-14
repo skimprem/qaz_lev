@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="3f3589d3" id="3f3589d3">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>3f3589d3</name>
+  <Placemark id="3f3589d3.1">
+	<name>143</name>
+	<name>грунт.реп</name>
+	<ExtendedData><SchemaData schemaUrl="#3f3589d3">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">463.353</SimpleData>
+		<SimpleData name="leveling_height">462.185</SimpleData>
+		<SimpleData name="benchmark_number">репер в верзхней плоскости монолита</SimpleData>
+		<SimpleData name="control_location">Линия № 1:Сузак- Коскызыл, 2 класс (1), Участок: грунт.реп.7355-грунт.реп.б/№ (202). Ход от грунт.реп.140 до грунт.реп.143,  2 класс (2)</SimpleData>
+		<SimpleData name="benchmark_type">Чулаккурган, с., в 21.5 км к сев.-зап.от него, в 0.4 км к югу от шоссе с.Сузак-с.Чулаккурган,в 40 м к вост.от сухого русла Акжар</SimpleData>
+		<SimpleData name="location_description">3f3589d3-6b99-4914-b1f3-36e2a55621bf</SimpleData>
+		<SimpleData name="status">data/stations/3f3589d3.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/3f3589d3.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>68.9581500234044,43.8939549905785</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

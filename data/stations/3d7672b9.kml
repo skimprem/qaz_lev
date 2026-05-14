@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="3d7672b9" id="3d7672b9">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>3d7672b9</name>
+  <Placemark id="3d7672b9.1">
+	<name>16558</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#3d7672b9">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">748,691</SimpleData>
+		<SimpleData name="leveling_order">747,441</SimpleData>
+		<SimpleData name="control_height">репер № 1374           в верхней плоскости монолита</SimpleData>
+		<SimpleData name="benchmark_number">121</SimpleData>
+		<SimpleData name="control_location">Линия  :              Иня - Лениногорск, 2 класс, Участок : грунт.реп. 968 - грунт.реп. 606 (2); грунт.реп. 606 - фунд.реп. 191 (1)</SimpleData>
+		<SimpleData name="benchmark_type">Лениногорск, гор.,  в 1 км  к сев.-вост. от него, в 0,6 км к сев.-вост. от слияния р. Бол. Таловка и р. Филипповка, в 0,1 км к югу от с. 7-я фабрика </SimpleData>
+		<SimpleData name="location_description">3d7672b9-ed05-4ca8-a04f-9315becb6bd2</SimpleData>
+		<SimpleData name="status">data/stations/3d7672b9.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/3d7672b9.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>83.5849007264792,50.376787859444</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

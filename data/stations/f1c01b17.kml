@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="f1c01b17" id="f1c01b17">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>f1c01b17</name>
+  <Placemark id="f1c01b17.1">
+	<name>763</name>
+	<name>грунт реп</name>
+	<ExtendedData><SchemaData schemaUrl="#f1c01b17">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">586.310
+труба согнута</SimpleData>
+		<SimpleData name="leveling_order">586.487  центр I</SimpleData>
+		<SimpleData name="benchmark_number">118</SimpleData>
+		<SimpleData name="control_location">Линия № 1: Оз. Жаланашколь – Аягоз, I класс. Участок: грунт.реп. 1437 – ск.реп. 5336. Ход от грунт.реп 6534 до грунт.реп 2086, II класс Участок:грунт.реп763-грунт.реп 2086</SimpleData>
+		<SimpleData name="benchmark_type">Ай, с., в 12.7 км к югу от него, в 1.2 км к сев. от моста, в 20 м к вост. от шоссе гор. Алматы – гор. Усть-Каменогорск</SimpleData>
+		<SimpleData name="location_description">f1c01b17-c5f1-464b-83fa-f40bfe2ae5a0</SimpleData>
+		<SimpleData name="status">data/stations/f1c01b17.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/f1c01b17.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>80.5817403609728,47.3746733586825</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

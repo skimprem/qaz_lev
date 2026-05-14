@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="77922db2" id="77922db2">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>77922db2</name>
+  <Placemark id="77922db2.1">
+	<name>620</name>
+	<name>грунт,реп</name>
+	<ExtendedData><SchemaData schemaUrl="#77922db2">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">879.005</SimpleData>
+		<SimpleData name="control_height">репер в верхней
+плоскости монолита</SimpleData>
+		<SimpleData name="benchmark_number">160оп</SimpleData>
+		<SimpleData name="control_location">Линия №1: Арысь=Сары-Озек, I класс </SimpleData>
+		<SimpleData name="benchmark_type">Майлыкожа, станц,, в 1,1 км к зап,от неё, на 10 ПК 3385 км, в 13 м к югу от стб,б/№</SimpleData>
+		<SimpleData name="location_description">77922db2-6b28-4ec7-8692-6de3b347cdec</SimpleData>
+		<SimpleData name="status">data/stations/77922db2.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/77922db2.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>70.3869543116125,42.4831828227905</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

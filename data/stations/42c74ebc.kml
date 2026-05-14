@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="42c74ebc" id="42c74ebc">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>42c74ebc</name>
+  <Placemark id="42c74ebc.1">
+	<name>4624</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#42c74ebc">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">339,608</SimpleData>
+		<SimpleData name="control_location">Линия № 3: Сасыккудык - фунд. реп. 2723, 2 класс (1,2) Участок: фунд. реп. 3245 - грунт. реп. 1215</SimpleData>
+		<SimpleData name="benchmark_type">Карасу, к., в 6.3 км к юго-зап. от него, в 3.1 км к зап. от кладб. Улькен. в 20 м к сев. от полевой дороги</SimpleData>
+		<SimpleData name="location_description">42c74ebc-02e6-46fb-8043-d3958f68f136</SimpleData>
+		<SimpleData name="status">data/stations/42c74ebc.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/42c74ebc.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>69.5563494895646,47.3485015205319</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="e1226f24" id="e1226f24">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>e1226f24</name>
+  <Placemark id="e1226f24.1">
+	<name>432</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#e1226f24">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">378.801</SimpleData>
+		<SimpleData name="leveling_order">377.171</SimpleData>
+		<SimpleData name="control_height">Контрольный репер в верхней плоскости монолита</SimpleData>
+		<SimpleData name="benchmark_number">122 оп.знак</SimpleData>
+		<SimpleData name="control_location">Линия №4: р.Кон-Разъезд 189 км, II класс (I) Участок: фунд.реп.2286 - грунт.реп.945</SimpleData>
+		<SimpleData name="benchmark_type">Бестамак, с., в 8.7 км к юго-вост.от него, в 3.1 км к сев.-зап.от зим.Карамола, в 0.1 км к зап.от р.Ащылы</SimpleData>
+		<SimpleData name="location_description">e1226f24-7ba0-485f-90f5-eb7d5fed4155</SimpleData>
+		<SimpleData name="status">data/stations/e1226f24.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/e1226f24.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>69.8551452500189,49.5451369908724</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="cdf09f15" id="cdf09f15">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>cdf09f15</name>
+  <Placemark id="cdf09f15.1">
+	<name>3317</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#cdf09f15">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">666,015</SimpleData>
+		<SimpleData name="leveling_order">665,012</SimpleData>
+		<SimpleData name="control_height">в трубе</SimpleData>
+		<SimpleData name="benchmark_number">А</SimpleData>
+		<SimpleData name="control_location">Линия № 1 :       Акбулак - Чубартау,              I класс(1);  Участок : грунт.реп. 7183 - фунд.реп. 527</SimpleData>
+		<SimpleData name="benchmark_type">Киязбай-Биик, мог., в 7,7 км к сев.-вост. от нее, в 5,0 км к сев. от к. Когускен, в 22 м к югу от дороги гор. Каркаралинск - с.Баршатас (Чубартау)</SimpleData>
+		<SimpleData name="location_description">cdf09f15-3b0f-4b9a-8a90-02b2204301a5</SimpleData>
+		<SimpleData name="status">data/stations/cdf09f15.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/cdf09f15.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>78.0500285661226,48.2564430584078</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

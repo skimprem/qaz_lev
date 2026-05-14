@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="fa1f1ac5" id="fa1f1ac5">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>fa1f1ac5</name>
+  <Placemark id="fa1f1ac5.1">
+	<name>1084</name>
+	<name>ск.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#fa1f1ac5">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">2012.87</SimpleData>
+		<SimpleData name="benchmark_number">99</SimpleData>
+		<SimpleData name="control_location">Линия № 12: Беловодск-Курметы, II класс, Участок: фунд. реп. 143-фунд. реп. 7959</SimpleData>
+		<SimpleData name="benchmark_type">Курметы, с., в 4.8 км к юго-зап. от него, в 0.2 км к вост. от зимовки, на склоне торы</SimpleData>
+		<SimpleData name="location_description">fa1f1ac5-06f4-4c41-b01a-d05ce02bdb75</SimpleData>
+		<SimpleData name="status">data/stations/fa1f1ac5.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/fa1f1ac5.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>78.2777216683751,42.9840698812681</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

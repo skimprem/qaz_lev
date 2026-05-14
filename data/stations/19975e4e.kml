@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="19975e4e" id="19975e4e">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>19975e4e</name>
+  <Placemark id="19975e4e.1">
+	<name>б/№</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#19975e4e">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">381,093</SimpleData>
+		<SimpleData name="control_location">Висячий ход от марки 10, 2 класс (2)</SimpleData>
+		<SimpleData name="benchmark_type">Жезды, разв,, юго-вост,            окраина их, в 0,1 км к вост, от  кладбища, в 0,1 км к юго-вост,             от фунт, дороги с, Карсакбай -               с, Жезказган</SimpleData>
+		<SimpleData name="location_description">19975e4e-9572-4c74-be51-edc35046f569</SimpleData>
+		<SimpleData name="status">data/stations/19975e4e.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/19975e4e.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.2294455997333,47.8290806793428</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

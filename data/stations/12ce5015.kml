@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="12ce5015" id="12ce5015">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>12ce5015</name>
+  <Placemark id="12ce5015.1">
+	<name>1181</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#12ce5015">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">528,771</SimpleData>
+		<SimpleData name="control_location">Линия № 2: Аркарлы - Актас. 2 класс ( 2 ) Участок: фунд. реп. 23 - фунд. реп. 3018</SimpleData>
+		<SimpleData name="benchmark_type">Косбосага, к., в 7.5 км к юго-зап. от него, в 3.0 км к сев.- вост. от ур. Жаунды, в 12 м к вост, от грунт, дороги с. Шалгинский - с. Жайлауколь</SimpleData>
+		<SimpleData name="location_description">12ce5015-3667-45e7-8451-e58a320b5fe9</SimpleData>
+		<SimpleData name="status">data/stations/12ce5015.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/12ce5015.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>70.8601229692177,46.9749454445176</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

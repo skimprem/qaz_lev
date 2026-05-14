@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="d18cf42f" id="d18cf42f">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>d18cf42f</name>
+  <Placemark id="d18cf42f.1">
+	<name>27</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#d18cf42f">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">219,999</SimpleData>
+		<SimpleData name="leveling_order">217,64</SimpleData>
+		<SimpleData name="control_height">Контрольный репер в верхней плоскости монолита</SimpleData>
+		<SimpleData name="benchmark_number">124</SimpleData>
+		<SimpleData name="control_location">Линия №2: Каратал - Экибастуз, II класс (1). Участок:  грунт. реп. 26 - грунт. реп. 25</SimpleData>
+		<SimpleData name="benchmark_type">Болшикбай, зим. , в 0.9 км к сев.-вост. от неё, в 0.2 км к сев. от р. Оленти, в 0.1 км к югу от полевой дороги </SimpleData>
+		<SimpleData name="location_description">d18cf42f-b9b4-4c81-922d-db665537b095</SimpleData>
+		<SimpleData name="status">data/stations/d18cf42f.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/d18cf42f.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>74.0370951253302,51.9170158263064</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

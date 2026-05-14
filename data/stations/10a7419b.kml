@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="10a7419b" id="10a7419b">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>10a7419b</name>
+  <Placemark id="10a7419b.1">
+	<name>0925</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#10a7419b">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">179.362</SimpleData>
+		<SimpleData name="leveling_order">209.374</SimpleData>
+		<SimpleData name="benchmark_number">160 оп.знак</SimpleData>
+		<SimpleData name="control_location">Линия №3: Володарское - Сергеевка, II класс. Участок: грунт.реп. 8034 - фунд.реп. 0709</SimpleData>
+		<SimpleData name="benchmark_type">Новопокровка, с., в 5.0 км к сев.-зап.от него, в 0.1 км к сев.от улучшенной грунт.дороги с. Новопокровка - с. Кривощеково, на углу леса</SimpleData>
+		<SimpleData name="location_description">10a7419b-9d2b-41ab-a5af-29cae6e791b4</SimpleData>
+		<SimpleData name="status">data/stations/10a7419b.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/10a7419b.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.6623674570538,53.7376178977566</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

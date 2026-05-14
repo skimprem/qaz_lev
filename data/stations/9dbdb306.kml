@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="9dbdb306" id="9dbdb306">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>9dbdb306</name>
+  <Placemark id="9dbdb306.1">
+	<name>1019</name>
+	<description>грунт.реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#9dbdb306">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">190.396</SimpleData>
+		<SimpleData name="benchmark_number">146 оп</SimpleData>
+		<SimpleData name="control_location">Линия № І : Троицк - Кустанай, II класс                     Участок : марка 3468 - грунт.реп. 931</SimpleData>
+		<SimpleData name="benchmark_type">Успеновка, станц., в 7.8 км к сев.-зап. от нее, 222-й км жел.дор., в 74 м к сев.-вост. от пк. 9/10, в 23 м к сев.-зап. от км.стб.222/223, в 18 м к сев. от ближайшего рельса</SimpleData>
+		<SimpleData name="leveling_line_section">утрачен</SimpleData>
+		<SimpleData name="location_description">9dbdb306-b94c-4454-892d-3af910f63595</SimpleData>
+		<SimpleData name="status">data/stations/9dbdb306.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/9dbdb306.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>62.8795897242467,53.5751543308939</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="fd7699a2" id="fd7699a2">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>fd7699a2</name>
+  <Placemark id="fd7699a2.1">
+	<name>17036</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#fd7699a2">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">258.658</SimpleData>
+		<SimpleData name="benchmark_number">121</SimpleData>
+		<SimpleData name="control_location">Линия №4:  Байлюсты (Карасу) - Нецветаевка, II класс. Участок:  грунт. реп. 746 - фунд. реп. 188</SimpleData>
+		<SimpleData name="benchmark_type">Байулесты, нежил.а., в 10.3км к югу от него, в 2км к юго-зап.от развилки полевых дорог, в 0.8км к вост.от дороги в а.Аксу</SimpleData>
+		<SimpleData name="location_description">fd7699a2-64e7-4086-bce4-8569e538f6a7</SimpleData>
+		<SimpleData name="status">data/stations/fd7699a2.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/fd7699a2.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.1001194490248,52.6834703093283</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

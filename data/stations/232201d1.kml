@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="232201d1" id="232201d1">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>232201d1</name>
+  <Placemark id="232201d1.1">
+	<name>8374</name>
+	<name>марка</name>
+	<ExtendedData><SchemaData schemaUrl="#232201d1">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">329,195</SimpleData>
+		<SimpleData name="benchmark_number">144</SimpleData>
+		<SimpleData name="control_location">Линяи №260:         Локоть -Усть-Каменогорск,  2 класс (16) Участок: стен. реп. 1410 -марка 1381</SimpleData>
+		<SimpleData name="benchmark_type">Железная дорога Локоть-Защита 2, 125 км. жел.-дор. труба</SimpleData>
+		<SimpleData name="location_description">232201d1-106b-4126-a289-b9c3aa91df68</SimpleData>
+		<SimpleData name="status">data/stations/232201d1.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/232201d1.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>81.9075163696802,50.5188453195708</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

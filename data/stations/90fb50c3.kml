@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="90fb50c3" id="90fb50c3">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>90fb50c3</name>
+  <Placemark id="90fb50c3.1">
+	<name>4223</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#90fb50c3">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">462,918</SimpleData>
+		<SimpleData name="control_location">Линия № 2: Аркарлы - Актас. 2 класс (1) Участок: грунт, реп. 5365 - грунт.реп. 4779</SimpleData>
+		<SimpleData name="benchmark_type">Узынтас. буг.. в 6.5 км к юго-вост, от него, в 3.1 км к сев. от г. Бииктау. в 6 м к вост, от полевой дороги</SimpleData>
+		<SimpleData name="location_description">90fb50c3-ad2b-4099-a919-a9d8cfd77ee0</SimpleData>
+		<SimpleData name="status">data/stations/90fb50c3.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/90fb50c3.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>70.9169337393683,46.5035228691801</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

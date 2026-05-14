@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="01ff3a1d" id="01ff3a1d">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>01ff3a1d</name>
+  <Placemark id="01ff3a1d.1">
+	<name>1085</name>
+	<name>грунт. реп</name>
+	<ExtendedData><SchemaData schemaUrl="#01ff3a1d">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">120,700</SimpleData>
+		<SimpleData name="leveling_order">119,766</SimpleData>
+		<SimpleData name="benchmark_number">118 оп. знак</SimpleData>
+		<SimpleData name="control_location">Ход от грунт. реп. 1323 до грунт. реп. 1286, 2 класс (3,9). Участок: грунт. реп. 1085 - грунт. реп 1286</SimpleData>
+		<SimpleData name="benchmark_type">Когалыколь, с., в 11,5 км к юго-зап. от него, в 17 м к юго-вост. от пол. дороги,  в 2 м к вост. от  пол.дороги. к сев. от бархана, к югу от арыка</SimpleData>
+		<SimpleData name="location_description">01ff3a1d-2300-4eba-aa3a-1ca4e3dcd3b1</SimpleData>
+		<SimpleData name="status">data/stations/01ff3a1d.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/01ff3a1d.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>64.4049261535321,44.7645189433831</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

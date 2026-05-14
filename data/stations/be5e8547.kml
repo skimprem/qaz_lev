@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="be5e8547" id="be5e8547">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>be5e8547</name>
+  <Placemark id="be5e8547.1">
+	<name>33</name>
+	<name>грунт. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#be5e8547">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">99.792</SimpleData>
+		<SimpleData name="benchmark_number">121</SimpleData>
+		<SimpleData name="control_location">Висячий ход от грунт. реп. 15102</SimpleData>
+		<SimpleData name="benchmark_type">Мортык, арт.к., в 8.2  км к югу  от него, в 1.8 км кюгу от к.Каракоз, в 25 м к вост. от полевой дороги</SimpleData>
+		<SimpleData name="location_description">be5e8547-5e27-4d3a-ae70-65314d6446d9</SimpleData>
+		<SimpleData name="status">data/stations/be5e8547.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/be5e8547.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>64.2973510286999,44.1394965595435</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

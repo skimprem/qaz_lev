@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="aa996e1b" id="aa996e1b">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>aa996e1b</name>
+  <Placemark id="aa996e1b.1">
+	<name>91699</name>
+	<description>грунт. реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#aa996e1b">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">497.308</SimpleData>
+		<SimpleData name="leveling_order">495,612</SimpleData>
+		<SimpleData name="control_height">Контрольный репер № 234 в верхней плоскости монолита</SimpleData>
+		<SimpleData name="benchmark_number">121 оп</SimpleData>
+		<SimpleData name="control_location">Линия № 2: Нуринская-Жарык, I класс (1)  Участок: триг.пункт 2139 -2338</SimpleData>
+		<SimpleData name="benchmark_type">Солонички, станц., в 2,5 км к сев. от нее, на 3 ПК 698 км, 68 м к зап. от ж/д полотна</SimpleData>
+		<SimpleData name="location_description">aa996e1b-70b5-4991-bec3-2ab6ef8bcdfd</SimpleData>
+		<SimpleData name="status">data/stations/aa996e1b.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/aa996e1b.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>73.2184586514406,50.0654472214575</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

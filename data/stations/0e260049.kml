@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="0e260049" id="0e260049">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>0e260049</name>
+  <Placemark id="0e260049.1">
+	<name>3874</name>
+	<description>грунт.реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#0e260049">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">181.483</SimpleData>
+		<SimpleData name="leveling_order">179.188</SimpleData>
+		<SimpleData name="benchmark_number">141</SimpleData>
+		<SimpleData name="control_location">Линия № 2: Тран-Отряд-Апабуга, II класс                       Участок: фунд.реп.3874 - грунт.реп.7411</SimpleData>
+		<SimpleData name="benchmark_type">Каратерек, с., в 3.0 км к югу от него, в 1.4 км к сев.от с.Тран, в 35 м к вост.от дороги</SimpleData>
+		<SimpleData name="location_description">0e260049-ed0e-4776-90e6-07f61bdcea87</SimpleData>
+		<SimpleData name="status">data/stations/0e260049.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/0e260049.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>65.5177328870545,53.9899891467565</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="be26f7c7" id="be26f7c7">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>be26f7c7</name>
+  <Placemark id="be26f7c7.1">
+	<name>18</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#be26f7c7">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">376,909</SimpleData>
+		<SimpleData name="control_location">Линия № 4: Жезказган (фунд, реп. 495) - Древний Курган (фунд, реп. 1377), 2 класс (5)</SimpleData>
+		<SimpleData name="benchmark_type">Перевалочная, станц,, в 1,0 км           к юго-вост, от неё, в 0,4 км                                                              к югу от жел, дор,,                               у А-образного стб, ЛЭП</SimpleData>
+		<SimpleData name="location_description">be26f7c7-e1bd-414d-83fa-085d8532b87a</SimpleData>
+		<SimpleData name="status">data/stations/be26f7c7.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/be26f7c7.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.4640520135424,47.845050685594</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

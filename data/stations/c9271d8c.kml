@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="c9271d8c" id="c9271d8c">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>c9271d8c</name>
+  <Placemark id="c9271d8c.1">
+	<name>Х</name>
+	<name>грунт.реп</name>
+	<ExtendedData><SchemaData schemaUrl="#c9271d8c">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">260.069</SimpleData>
+		<SimpleData name="benchmark_number">121</SimpleData>
+		<SimpleData name="control_location">Линия №2:  Нецветаевка - им.Сталина (р.Оленты), 2 класс. Участок: грунт.реп.Х1У - грунт.реп. Х</SimpleData>
+		<SimpleData name="benchmark_type">Шийлинка, с., в 1.0 км к вост. От него, в 20 м к югу от дороги с.Шийлинка - с.Карасу</SimpleData>
+		<SimpleData name="location_description">c9271d8c-7487-4710-ae5d-5f46f69d560e</SimpleData>
+		<SimpleData name="status">data/stations/c9271d8c.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/c9271d8c.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>73.0185388098385,52.0408964622889</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

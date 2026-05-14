@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="8c2ff688" id="8c2ff688">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>8c2ff688</name>
+  <Placemark id="8c2ff688.1">
+	<name>11440</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#8c2ff688">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">1396.347</SimpleData>
+		<SimpleData name="leveling_order">1395.259*</SimpleData>
+		<SimpleData name="leveling_height">567</SimpleData>
+		<SimpleData name="control_height">Контрольный репер в верхней плоскости монолита</SimpleData>
+		<SimpleData name="benchmark_number">121 оп</SimpleData>
+		<SimpleData name="control_location">Линия № 9: Жаланаш-Кольбастау, II класс, Участок: фунд. реп. 8462-фунд. реп. 8059</SimpleData>
+		<SimpleData name="benchmark_type">Жаланаш, с., в 14.0 км к сев. от него, в 45 м к вост. от дороги с. Байсеит-с. Жаланаш</SimpleData>
+		<SimpleData name="location_description">8c2ff688-aebf-449b-be0f-afa572920b05</SimpleData>
+		<SimpleData name="status">data/stations/8c2ff688.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/8c2ff688.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>78.6725105968915,43.1782048124932</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

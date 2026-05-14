@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="105a0ad2" id="105a0ad2">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>105a0ad2</name>
+  <Placemark id="105a0ad2.1">
+	<name>2296</name>
+	<name>грунт,реп,</name>
+	<ExtendedData><SchemaData schemaUrl="#105a0ad2">
+		<SimpleData name="type">I</SimpleData>
+		<SimpleData name="view">312.094</SimpleData>
+		<SimpleData name="benchmark_number">160оп</SimpleData>
+		<SimpleData name="control_location">Линия №1 Астана (Целиноград) - Амангельды, I класс (I), Участок: грунт,реп,7834</SimpleData>
+		<SimpleData name="benchmark_type">Жалтыр, станц,, в 2,2 км к юго-вост,от нее, в 62 м к вост,от старой водокачки, в 26 м к югу от жел,-дор,полотна</SimpleData>
+		<SimpleData name="location_description">105a0ad2-5da6-4cc3-88b1-3c5efc54c8c5</SimpleData>
+		<SimpleData name="status">data/stations/105a0ad2.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/105a0ad2.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>69.868375259007,51.6237852262393</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

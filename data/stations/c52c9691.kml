@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="c52c9691" id="c52c9691">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>c52c9691</name>
+  <Placemark id="c52c9691.1">
+	<name>3691</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#c52c9691">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="control_height">в трубе</SimpleData>
+		<SimpleData name="benchmark_number">121 оп.знак</SimpleData>
+		<SimpleData name="control_location">Линия № 3:  Максимовка - Макинск, II класс 
+Участок: фунд. реп. 2883 - грунт. реп. 3490 </SimpleData>
+		<SimpleData name="benchmark_type">Максимовка, с., в 4.9 км к юго-вост. от него, в 1.7 км к
+сев.-вост. от пол. ст., в 0.1 км к вост. от грунт, дороги с.
+Максимовка - с. Богословка
+Контрольный репер в верхней плоскости монолита
+</SimpleData>
+		<SimpleData name="location_description">c52c9691-f328-4801-980e-514dda7fd6bc</SimpleData>
+		<SimpleData name="status">data/stations/c52c9691.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/c52c9691.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>68.7018937908499,52.3868396982037</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

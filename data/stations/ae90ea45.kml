@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="ae90ea45" id="ae90ea45">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>ae90ea45</name>
+  <Placemark id="ae90ea45.1">
+	<name>56</name>
+	<name>грунт. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#ae90ea45">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">953,56</SimpleData>
+		<SimpleData name="leveling_order">952,082</SimpleData>
+		<SimpleData name="control_height">репер № 50 в фундаментной плите </SimpleData>
+		<SimpleData name="benchmark_number">116</SimpleData>
+		<SimpleData name="control_location">Линия № 1:           Эмбек - Березовка, 2 класс (1), Участок: фунд. реп. 490 - грунт. реп. 180</SimpleData>
+		<SimpleData name="benchmark_type">Топкаин, с., в 3.5 км к юго-зап. от него, в 0.2 км к зап. от моста, 26  м к югу от дороги с.Большенарымское - с.Катон-Карагай</SimpleData>
+		<SimpleData name="location_description">ae90ea45-83ae-4a1a-abca-9f98409f7b7c</SimpleData>
+		<SimpleData name="status">data/stations/ae90ea45.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/ae90ea45.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>85.3853227429368,49.1777986771982</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

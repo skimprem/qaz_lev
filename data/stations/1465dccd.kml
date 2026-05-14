@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="1465dccd" id="1465dccd">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>1465dccd</name>
+  <Placemark id="1465dccd.1">
+	<name>124</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#1465dccd">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">320,607</SimpleData>
+		<SimpleData name="leveling_height">319,523</SimpleData>
+		<SimpleData name="benchmark_number">в верхней плоскости монолита</SimpleData>
+		<SimpleData name="control_location">Участок: грунт. реп. 3663 - грунт.реп. 880</SimpleData>
+		<SimpleData name="benchmark_type">Туратсайган, к., в 12.0 км к сев.-вост. от него, в 0.8 км к вост. от пересечения грунт. дороги зим. Бетпак-Дала - с.Тасты с полевой дорогой, в 25 м к сев. от грунт. дороги</SimpleData>
+		<SimpleData name="location_description">1465dccd-8154-4f7e-a18d-fc514c70753f</SimpleData>
+		<SimpleData name="status">data/stations/1465dccd.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/1465dccd.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>69.7660951228451,46.0060268397112</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

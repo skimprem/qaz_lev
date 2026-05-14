@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="8f995acf" id="8f995acf">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>8f995acf</name>
+  <Placemark id="8f995acf.1">
+	<name>111</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#8f995acf">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">504.249</SimpleData>
+		<SimpleData name="leveling_order">503,244</SimpleData>
+		<SimpleData name="benchmark_number">121 оп</SimpleData>
+		<SimpleData name="control_location">Линия №2: Ивановка - Жана-Арка, II класс (4) Участок: грунт.реп.4029 - фунд.реп.501</SimpleData>
+		<SimpleData name="benchmark_type">Коскопа,с.,в 13.5 км к юго-вост.от него,в 0.2 км к юго-вост.от развалин,в 30 м к вост.от дороги с.Акмешит-с.Алгабас</SimpleData>
+		<SimpleData name="leveling_line_section">утрачен</SimpleData>
+		<SimpleData name="location_description">8f995acf-a4dc-4b5b-aba7-f2fa6f2b5a9f</SimpleData>
+		<SimpleData name="status">data/stations/8f995acf.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/8f995acf.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>59.8339824566768,49.1625648673235</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="ea223a7f" id="ea223a7f">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>ea223a7f</name>
+  <Placemark id="ea223a7f.1">
+	<name>26</name>
+	<name>грунт.реп</name>
+	<ExtendedData><SchemaData schemaUrl="#ea223a7f">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">405.159</SimpleData>
+		<SimpleData name="benchmark_number">138</SimpleData>
+		<SimpleData name="control_location">Линия № 1: Каратас - Аягоз, I класс 
+Участок: фунд.реп.  3000 – грунт.реп. 4998
+</SimpleData>
+		<SimpleData name="benchmark_type">Раз. № 30, в 4.7 км к югу от него, в 0.1 км к сев.-зап. от пк.стб. 7/8, в 0.1 км к зап. от жел.дор.</SimpleData>
+		<SimpleData name="location_description">ea223a7f-4001-4b66-9ded-054ad818f5ba</SimpleData>
+		<SimpleData name="status">data/stations/ea223a7f.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/ea223a7f.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>79.7573377979704,47.1697916267399</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

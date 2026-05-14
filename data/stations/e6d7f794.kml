@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="e6d7f794" id="e6d7f794">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>e6d7f794</name>
+  <Placemark id="e6d7f794.1">
+	<name>2697</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#e6d7f794">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="benchmark_number">121</SimpleData>
+		<SimpleData name="control_location">Линия №4: грунт.реп. 2607 - ск.реп. 3105, III  класс Участок: грунт.реп. 2607 - ск.реп. 2995</SimpleData>
+		<SimpleData name="benchmark_type">Караозек, с., в 5.5 км к сев.зап.от него, в 0.2 км к сев.-вост.от ур. Батпакколь, в 8 м к югу от полевой дороги </SimpleData>
+		<SimpleData name="location_description">e6d7f794-74d9-43c0-bc3f-6c40e262f10d</SimpleData>
+		<SimpleData name="status">data/stations/e6d7f794.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/e6d7f794.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>70.1812294887046,52.5989187212116</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

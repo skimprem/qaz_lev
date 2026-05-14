@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="16aac55d" id="16aac55d">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>16aac55d</name>
+  <Placemark id="16aac55d.1">
+	<name>7004</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#16aac55d">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">457,200</SimpleData>
+		<SimpleData name="benchmark_number">146 оп</SimpleData>
+		<SimpleData name="control_location">Линия № 93 :    Семипалатинск - Каркаралинск, 2 класс (13)  Участок: грунт.реп. 5213 - грунт.реп. 7487</SimpleData>
+		<SimpleData name="benchmark_type">Знаменка, с., в 15,8 км к сев.-вост. от него, в 5,8 км к сев.-вост. от с.Щербаковка, в 0,1 км к сев.-зап. от дороги с.Знаменка - с.Щербаковка, у км стб. 227/43</SimpleData>
+		<SimpleData name="location_description">16aac55d-f6c6-438e-a922-f084d708f81f</SimpleData>
+		<SimpleData name="status">data/stations/16aac55d.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/16aac55d.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>79.7563073478523,50.1767999841328</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

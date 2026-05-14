@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="e28003cd" id="e28003cd">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>e28003cd</name>
+  <Placemark id="e28003cd.1">
+	<name>01</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#e28003cd">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">240.795</SimpleData>
+		<SimpleData name="control_location">Линия №I: Чимли-Мергенбай, класс</SimpleData>
+		<SimpleData name="benchmark_type">Орынбай, отгон, в 11.3 км к юга.-зап. от него,в 0.8 км к вост. от  кладбища,в 21 м к сев. от  полевой дороги </SimpleData>
+		<SimpleData name="location_description">e28003cd-d862-404f-a902-5c0ed1c21cda</SimpleData>
+		<SimpleData name="status">data/stations/e28003cd.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/e28003cd.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>66.0924298615598,42.0396015703586</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

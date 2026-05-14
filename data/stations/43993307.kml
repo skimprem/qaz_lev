@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="43993307" id="43993307">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>43993307</name>
+  <Placemark id="43993307.1">
+	<name>3</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#43993307">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">177,667</SimpleData>
+		<SimpleData name="benchmark_number">121оп</SimpleData>
+		<SimpleData name="control_location">Линия №2: грунт. реп. 17 - грунт. реп. 189, II класс (2) Участо: пир. 4 кл. Совхоз (Гр.рп.0576) - грунт. реп. 189</SimpleData>
+		<SimpleData name="benchmark_type">Сооружение №103 канала Иртыш-Караганда, в 2,2 км к сев.-зап. от него, в 0,5 км к сев.-вост. от плотины, в 3,0 км к сев.-зап. от р. Жынгылды</SimpleData>
+		<SimpleData name="location_description">43993307-79d6-4e90-99fe-558ee05f7ef1</SimpleData>
+		<SimpleData name="status">data/stations/43993307.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/43993307.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.2379077369049,51.8290450987973</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

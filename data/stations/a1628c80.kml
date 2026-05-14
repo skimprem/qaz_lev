@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="a1628c80" id="a1628c80">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>a1628c80</name>
+  <Placemark id="a1628c80.1">
+	<name>15</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#a1628c80">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">115.275</SimpleData>
+		<SimpleData name="leveling_height">0</SimpleData>
+		<SimpleData name="benchmark_number">106</SimpleData>
+		<SimpleData name="benchmark_type">В 3,2 км к юго-вост.от г. аксу, в 0,2 км к сев-зап.от развалин, в 0,1 км к сев-вост.от остановки</SimpleData>
+		<SimpleData name="location_description">a1628c80-e12c-432f-aa15-d4063b6a8e45</SimpleData>
+		<SimpleData name="status">data/stations/a1628c80.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/a1628c80.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>76.9596002869737,52.0089147577304</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

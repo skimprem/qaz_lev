@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="eabdd7db" id="eabdd7db">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>eabdd7db</name>
+  <Placemark id="eabdd7db.1">
+	<name>1009</name>
+	<name>ск.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#eabdd7db">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">2177.62</SimpleData>
+		<SimpleData name="benchmark_number">99</SimpleData>
+		<SimpleData name="control_location">Участок: ск. реп. 1213-фунд. реп. 8659</SimpleData>
+		<SimpleData name="benchmark_type">Асы, с., в 1.5 км к сев.-вост. от него, в 0.1 км к вост. от старых могил, в 0.1 км к сев. от р. Асы</SimpleData>
+		<SimpleData name="location_description">eabdd7db-8525-43b7-89ad-8cc58c7cf858</SimpleData>
+		<SimpleData name="status">data/stations/eabdd7db.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/eabdd7db.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>78.1199568787866,43.2898288598</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="38fb393b" id="38fb393b">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>38fb393b</name>
+  <Placemark id="38fb393b.1">
+	<name>5912</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#38fb393b">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">793.008</SimpleData>
+		<SimpleData name="benchmark_number">146 оп</SimpleData>
+		<SimpleData name="control_location">Линия № 2: Каратурук - Асы, 2класс, Участок: фунд.реп. 5285 - ск.реп. 8161</SimpleData>
+		<SimpleData name="benchmark_type">Таусугурский, свх., в 0,5 км к 10,0 югу от него, в 0,2 км к сев.- зап. от могилок, в 5 м к юго-зап. от угла пашня </SimpleData>
+		<SimpleData name="location_description">38fb393b-16b6-416a-8ad3-b28ca4746fb6</SimpleData>
+		<SimpleData name="status">data/stations/38fb393b.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/38fb393b.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.9536486558605,43.4862219741153</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

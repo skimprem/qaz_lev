@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="ddb34570" id="ddb34570">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>ddb34570</name>
+  <Placemark id="ddb34570.1">
+	<name>7266</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#ddb34570">
+		<SimpleData name="type">ІІ</SimpleData>
+		<SimpleData name="view">584.030</SimpleData>
+		<SimpleData name="benchmark_number">146</SimpleData>
+		<SimpleData name="control_location">Линия № 1: Жиделисай - Бала-Терсаккан, ІІ класс (1) Участок: грунт.реп. 599 - ск.реп. 7585 </SimpleData>
+		<SimpleData name="benchmark_type">Улытау, с., в 10.4 км к сев от него, в 2.9 км к юго-зап от зим. Ичвай, в 50 м к зап от шоссе с. Коргасын - с. Улытау</SimpleData>
+		<SimpleData name="location_description">ddb34570-e861-4d57-9c1e-7018a9c2bc10</SimpleData>
+		<SimpleData name="status">data/stations/ddb34570.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/ddb34570.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.027509059514,48.7449477608447</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

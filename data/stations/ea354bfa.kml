@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="ea354bfa" id="ea354bfa">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>ea354bfa</name>
+  <Placemark id="ea354bfa.1">
+	<name>878</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#ea354bfa">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">106.222</SimpleData>
+		<SimpleData name="benchmark_number">146</SimpleData>
+		<SimpleData name="control_location">Линия: Урлютюп - Омск II класс(I) Участок: фнд.рп.310 -гр. рп.9181</SimpleData>
+		<SimpleData name="benchmark_type">Урлютюб, с.,в 7,1 км к сев.-вост. от него ,в 80 м вправо от дороги с.Урлютюб- с.Ольховка, у  стб.№663 линии связи,на границе РФ и РК </SimpleData>
+		<SimpleData name="location_description">ea354bfa-6d9d-4db7-8895-0312ea4e51a0</SimpleData>
+		<SimpleData name="status">data/stations/ea354bfa.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/ea354bfa.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.0538402456122,53.7954365268368</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

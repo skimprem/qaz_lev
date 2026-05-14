@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="ebc226bb" id="ebc226bb">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>ebc226bb</name>
+  <Placemark id="ebc226bb.1">
+	<name>1022</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#ebc226bb">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">504,069</SimpleData>
+		<SimpleData name="benchmark_number">118</SimpleData>
+		<SimpleData name="control_location">Линия №4; Таскарасу - Чилик, II класс (1) Участок: фунд. реп. 1407 - грунт. реп. 2438 </SimpleData>
+		<SimpleData name="benchmark_type">Чарын, с., в 26.5 км к зап. от него, в 3.7 км к зап. от зим. Сарышаган, в 87 м к югу от дороги с. Чилик - с. Чарын </SimpleData>
+		<SimpleData name="location_description">ebc226bb-db92-4005-b2d2-9ac3c6d6eebd</SimpleData>
+		<SimpleData name="status">data/stations/ebc226bb.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/ebc226bb.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>79.0467999044687,43.7792461151704</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

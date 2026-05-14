@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="32b38729" id="32b38729">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>32b38729</name>
+  <Placemark id="32b38729.1">
+	<name>2051</name>
+	<name>марка</name>
+	<ExtendedData><SchemaData schemaUrl="#32b38729">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">102.574</SimpleData>
+		<SimpleData name="control_location">Линия №1: Сагиз-Кандагач, І класс Участок: марка-2864-грнут.реп.1615</SimpleData>
+		<SimpleData name="benchmark_type">Сагиз, станц., в 18.5км к сев.-вост.от нее, на 2пикете 236км, жел.-дор.мост</SimpleData>
+		<SimpleData name="location_description">32b38729-b233-4fe9-b2cb-744858ff23d3</SimpleData>
+		<SimpleData name="status">data/stations/32b38729.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/32b38729.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>55.0192157052806,48.3966620325265</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

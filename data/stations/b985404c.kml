@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="b985404c" id="b985404c">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>b985404c</name>
+  <Placemark id="b985404c.1">
+	<name>0120</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#b985404c">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">179,712</SimpleData>
+		<SimpleData name="control_location">Линия № 2: Жезказган - Сарысу, 2 класс (2) Участок: грунт. реп. 9710 - фунд. реп. 815</SimpleData>
+		<SimpleData name="benchmark_type">Сынгыртек, к., в 2.9 км к юго-вост. от него, в 2.8 км к зап. от р. Сарысу, в 30 м к сев. от сухого русла, в 18 м к вост. от полевой дороги</SimpleData>
+		<SimpleData name="location_description">b985404c-27a7-4781-9c9e-5723145ef0a0</SimpleData>
+		<SimpleData name="status">data/stations/b985404c.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/b985404c.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.1431482064392,45.9277506452431</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

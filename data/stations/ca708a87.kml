@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="ca708a87" id="ca708a87">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>ca708a87</name>
+  <Placemark id="ca708a87.1">
+	<name>44</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#ca708a87">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">559.86</SimpleData>
+		<SimpleData name="leveling_order">558,698</SimpleData>
+		<SimpleData name="benchmark_number">121 оп</SimpleData>
+		<SimpleData name="control_location">Линия №2: Ивановка - Жана-Арка, II класс (4) Участок: грунт.реп.4029 - фунд.реп.501</SimpleData>
+		<SimpleData name="benchmark_type">Интымак,с.,в 16.3 км к сев.-зап.от него,в 3.5 км к юго-зап.от род.Каскабулак,в 30 м к вост.от дороги с.Акмешит-с.Алгабас</SimpleData>
+		<SimpleData name="location_description">ca708a87-680d-44f7-91f0-55359fdc88e7</SimpleData>
+		<SimpleData name="status">data/stations/ca708a87.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/ca708a87.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>71.5434509889432,48.9599054370236</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

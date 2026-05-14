@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="cb9c7676" id="cb9c7676">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>cb9c7676</name>
+  <Placemark id="cb9c7676.1">
+	<name>500</name>
+	<name>фунд. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#cb9c7676">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">1931,399</SimpleData>
+		<SimpleData name="leveling_order">1931,227</SimpleData>
+		<SimpleData name="control_height">репер № 778 в скале</SimpleData>
+		<SimpleData name="benchmark_number">114</SimpleData>
+		<SimpleData name="control_location">Линия №1: Кош-Агаш - Эмбек, 2 класс (1) Участок: ск.реп. 332 - грунт. реп. 133</SimpleData>
+		<SimpleData name="benchmark_type">Усть-Шиндагатуй, с., в 9.0 км к вост. от него, в 0.1 км к вост. от моста через р. Талды-Булак, в 10 м к югу от полевой дороги с. Усть-Шиндагатуй - с. Бертек</SimpleData>
+		<SimpleData name="location_description">cb9c7676-9b47-4efd-a41a-771a4a21f7af</SimpleData>
+		<SimpleData name="status">data/stations/cb9c7676.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/cb9c7676.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>87.0998738594644,49.230419068749</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

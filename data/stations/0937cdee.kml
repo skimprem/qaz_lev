@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="0937cdee" id="0937cdee">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>0937cdee</name>
+  <Placemark id="0937cdee.1">
+	<name>5200</name>
+	<name>грунт.реп.</name>
+	<description>грунт.реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#0937cdee">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">378.921</SimpleData>
+		<SimpleData name="benchmark_number">160оп.знак</SimpleData>
+		<SimpleData name="control_location">Линия № 5:Капчагай- Акколь II класс                                         Участок: грунт.реп.8478 - фунд.реп. 8890</SimpleData>
+		<SimpleData name="benchmark_type">??????,?.,? 5.2 ?? ? ????.?? ????, ? 62 ? ? ???-???.?? ????.???.73/914,6 ? 35 ? ? ???-???.?? ??????. 259/6 ????? ?.??????-?.???????, ? 21? ? ???-???.?? ?????</SimpleData>
+		<SimpleData name="location_description">0937cdee-ba52-405b-85da-e6044713679c</SimpleData>
+		<SimpleData name="status">data/stations/0937cdee.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/0937cdee.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.7298057774674,45.0144226103862</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

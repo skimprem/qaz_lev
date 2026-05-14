@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="755d1672" id="755d1672">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>755d1672</name>
+  <Placemark id="755d1672.1">
+	<name>б/н</name>
+	<name>ск.реп.</name>
+	<description>ск.реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#755d1672">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">694.133</SimpleData>
+		<SimpleData name="benchmark_number">99</SimpleData>
+		<SimpleData name="benchmark_type">Косабай (Караирек),с.,в І9.5 км к 
+ юго-зап.от него,в 9.0 км.к юго-
+вост.от с.Кабыргаший,в 2.2 км к
+сев,-вост.от колодца</SimpleData>
+		<SimpleData name="location_description">755d1672-1a9a-4c61-93d1-894723d2c061</SimpleData>
+		<SimpleData name="status">data/stations/755d1672.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/755d1672.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>76.993193593508,47.6824695988134</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

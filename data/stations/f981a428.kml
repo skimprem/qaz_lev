@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="f981a428" id="f981a428">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>f981a428</name>
+  <Placemark id="f981a428.1">
+	<name>4736</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#f981a428">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">177,253</SimpleData>
+		<SimpleData name="control_location">Участок: грунт, реп. 9314 - грунт.реп. 5741</SimpleData>
+		<SimpleData name="benchmark_type">Бульдырык, род., в 9.3 км к сев.-зап. от него, в 3.9 км к юго-зап. от пир.      4 кл. Туз. в 3.3 км к сев.-вост. от   пир. 2 кл. Кокпекты</SimpleData>
+		<SimpleData name="location_description">f981a428-5294-4974-a96b-a8af9348926f</SimpleData>
+		<SimpleData name="status">data/stations/f981a428.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/f981a428.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.7902618554062,46.0282829543513</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

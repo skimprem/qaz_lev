@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="e4785158" id="e4785158">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>e4785158</name>
+  <Placemark id="e4785158.1">
+	<name>26</name>
+	<description>марка</description>
+	<ExtendedData><SchemaData schemaUrl="#e4785158">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">634.722</SimpleData>
+		<SimpleData name="control_location">Участок: ск.реп.20341-фунд.реп.89</SimpleData>
+		<SimpleData name="benchmark_type">Дария, станц., в 7.0 км к юго-зап. от нее, на 7 ПК 831 км, водопропускная труба</SimpleData>
+		<SimpleData name="location_description">e4785158-bdac-4bc1-8bc5-f0ad00a3533d</SimpleData>
+		<SimpleData name="status">data/stations/e4785158.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/e4785158.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8736431915659,49.0426228790797</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="fa516377" id="fa516377">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>fa516377</name>
+  <Placemark id="fa516377.1">
+	<name>2929</name>
+	<description>грунт. реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#fa516377">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">208.281</SimpleData>
+		<SimpleData name="benchmark_number">146 оп</SimpleData>
+		<SimpleData name="control_location">линия №1 Целиноград-Токтайконыр, I класс Участок: грунт.реп. 2929 - грунт.реп. 200</SimpleData>
+		<SimpleData name="benchmark_type">Карынсалдинский, свх., в 2.3 км к зап. От него, в 65 км к юго-зап. От пересечения дороги с оврагом, в 20 м к сев.-зап. От дороги свх. Карынсалдинский-свх. Горняк</SimpleData>
+		<SimpleData name="location_description">fa516377-0f59-4374-a552-81da6e5bf5c5</SimpleData>
+		<SimpleData name="status">data/stations/fa516377.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/fa516377.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>66.0088463052197,50.7728669609358</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

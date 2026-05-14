@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="3818c612" id="3818c612">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>3818c612</name>
+  <Placemark id="3818c612.1">
+	<name>2979</name>
+	<name>грунт. реп. </name>
+	<ExtendedData><SchemaData schemaUrl="#3818c612">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="control_location">160</SimpleData>
+		<SimpleData name="benchmark_type">
+Линия № 1: Алажиде – Оз. Жаланашколь, I класс 
+Участок: пир. 3 кл. Шагамбай – грунт. реп. 8618</SimpleData>
+		<SimpleData name="leveling_line_section">не найден</SimpleData>
+		<SimpleData name="location_description">3818c612-30d5-4236-9192-02f45b3a5943</SimpleData>
+		<SimpleData name="status">data/stations/3818c612.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/3818c612.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>79.3819644562598,45.4046845558086</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

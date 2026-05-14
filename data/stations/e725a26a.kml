@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="e725a26a" id="e725a26a">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>e725a26a</name>
+  <Placemark id="e725a26a.1">
+	<name>5337</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#e725a26a">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">121.106</SimpleData>
+		<SimpleData name="leveling_height">0</SimpleData>
+		<SimpleData name="benchmark_number">Б</SimpleData>
+		<SimpleData name="benchmark_type">В 12,0 км к юго-зап.от с. Потанина, в 1,7 км к сев.зап.от зим. Бекет, в 15 м к зап.от дороги с. Потанина - оз.бол. Калкаман</SimpleData>
+		<SimpleData name="leveling_line_section">утрачен</SimpleData>
+		<SimpleData name="location_description">e725a26a-520e-4fe5-8c9b-4c2aa0d2503b</SimpleData>
+		<SimpleData name="status">data/stations/e725a26a.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/e725a26a.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>76.6976673466455,52.130726853165</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

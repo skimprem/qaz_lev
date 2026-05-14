@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="e9631b87" id="e9631b87">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>e9631b87</name>
+  <Placemark id="e9631b87.1">
+	<name>218</name>
+	<name>грунт. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#e9631b87">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">414,507</SimpleData>
+		<SimpleData name="leveling_order">412,385</SimpleData>
+		<SimpleData name="control_height">репер в верхней плоскости монолита</SimpleData>
+		<SimpleData name="benchmark_number">123</SimpleData>
+		<SimpleData name="control_location">Линия№ 1: Березовка - Каракас, II класс (1) Участок: грунт. реп. 210 - грунт. реп 219</SimpleData>
+		<SimpleData name="benchmark_type">Куйган, с., в 1.8 км к сев.-зап. от него, к вост. от полевой дороги, идущей из с. Куйган к берегу Бухтарминского водохранилища</SimpleData>
+		<SimpleData name="location_description">e9631b87-70dd-497c-8db5-b8bda929f4a2</SimpleData>
+		<SimpleData name="status">data/stations/e9631b87.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/e9631b87.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>83.4702026849252,48.6895797618968</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="0f79466a" id="0f79466a">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>0f79466a</name>
+  <Placemark id="0f79466a.1">
+	<name>1520</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#0f79466a">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">238.194</SimpleData>
+		<SimpleData name="control_location">Линия №1: Куракбулак-Чардара, ІІ класс  Участок: грунт.реп.1905-грунт.реп.869</SimpleData>
+		<SimpleData name="benchmark_type">Баспанды,с.,в 5.1 км к зап.от него,в 2.5 км к юго-вост.от к.Сев.Кумкудук, в 8 м к зап.от поворота полевой дороги</SimpleData>
+		<SimpleData name="location_description">0f79466a-170c-4dd9-b9a3-9f3f5adb3767</SimpleData>
+		<SimpleData name="status">data/stations/0f79466a.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/0f79466a.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.8761898282598,41.6190895868107</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

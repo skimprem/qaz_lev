@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="ca7810bd" id="ca7810bd">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>ca7810bd</name>
+  <Placemark id="ca7810bd.1">
+	<name>4915</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#ca7810bd">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">757,204</SimpleData>
+		<SimpleData name="leveling_order">755.609</SimpleData>
+		<SimpleData name="control_height">Контрольный репер в верхней плоскости монолита </SimpleData>
+		<SimpleData name="benchmark_number">121 оп. знак</SimpleData>
+		<SimpleData name="control_location">Линия № 2: Карабута – Белая Школа, II класс (1)
+Участок: грунт.реп. 93 –  фунд.реп. 5491</SimpleData>
+		<SimpleData name="benchmark_type">Ойчилик, с., в 0.8 км к сев. от него, в 0.2 км к зап. от пол. ст., в 38 м к вост. от грунт. дороги с. Аксуат – с. Ойчилик</SimpleData>
+		<SimpleData name="location_description">ca7810bd-2285-4c95-a0f6-fb5ef527789a</SimpleData>
+		<SimpleData name="status">data/stations/ca7810bd.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/ca7810bd.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>83.0026141292607,47.5567046211151</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="fabfe264" id="fabfe264">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>fabfe264</name>
+  <Placemark id="fabfe264.1">
+	<name>4115</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#fabfe264">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">380.46</SimpleData>
+		<SimpleData name="benchmark_number">160 оп, знак</SimpleData>
+		<SimpleData name="control_location">Линия № 3: Жосалы - Карсакбай, 1 класс (1) Участок: грунт, реп, 114 - фунд, реп, 2 </SimpleData>
+		<SimpleData name="benchmark_type">Сатан, г,, в 7,0 км к юго-зап, от неё, в 1,0 км к юго-зап, от мог, Байкас, в 14 м к зап, от грунт, дороги с, Карсакбай - с, Жосалы</SimpleData>
+		<SimpleData name="location_description">fabfe264-46d1-492b-bb19-e2cf953d236f</SimpleData>
+		<SimpleData name="status">data/stations/fabfe264.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/fabfe264.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>66.229090962455,47.5073495319022</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

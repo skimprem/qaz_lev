@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="d81293ad" id="d81293ad">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>d81293ad</name>
+  <Placemark id="d81293ad.1">
+	<name>7872</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#d81293ad">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">268,363</SimpleData>
+		<SimpleData name="control_location">Линия № 1. Древний Курган - Кендырлык (Айгарлык), 2 класс (2) Участок: грунт, реп. 8417 - грунт, реп. 242</SimpleData>
+		<SimpleData name="benchmark_type">Мыйбулак, с., в 3.7 км к юго-вост, от него, в 15 м к сев.- вост. от грунт, дороги с. Мыйбулак - с. Аккенсе, на бугре</SimpleData>
+		<SimpleData name="location_description">d81293ad-9bbc-4d74-ab39-eda77d59023b</SimpleData>
+		<SimpleData name="status">data/stations/d81293ad.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/d81293ad.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>68.272156026273,46.9230403841526</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

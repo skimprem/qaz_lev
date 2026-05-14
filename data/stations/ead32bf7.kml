@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="ead32bf7" id="ead32bf7">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>ead32bf7</name>
+  <Placemark id="ead32bf7.1">
+	<name>939</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#ead32bf7">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">582,49</SimpleData>
+		<SimpleData name="benchmark_number">146 оп</SimpleData>
+		<SimpleData name="control_location">Линия №1; Сары-Озек - Пржевальск, 1 класс(2) Участок: грунт. реп. 155- грунт.реп. 682</SimpleData>
+		<SimpleData name="benchmark_type">Чунджа, с., в 19.8 км к сев. от него, в 35 м к югу от тлгр.стб. 408/39, в 10 м к зап.от дороги с.Коктал - с.Чунджа</SimpleData>
+		<SimpleData name="location_description">ead32bf7-5756-49e2-bd72-0b73fd0cced6</SimpleData>
+		<SimpleData name="status">data/stations/ead32bf7.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/ead32bf7.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>79.4520906010378,43.7179579152786</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

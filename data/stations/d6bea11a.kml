@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="d6bea11a" id="d6bea11a">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>d6bea11a</name>
+  <Placemark id="d6bea11a.1">
+	<name>5373</name>
+	<name>грунт.реп</name>
+	<ExtendedData><SchemaData schemaUrl="#d6bea11a">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">350.853</SimpleData>
+		<SimpleData name="control_location">Линия №1: Сузак-Коскызыл, II класс (1). Участок: грунт.реп. 8722-фунд.реп. IV</SimpleData>
+		<SimpleData name="benchmark_type">Ушарал, с., в 23.0 км к юго-зап.от него, в 72 м к вост.от фунд.реп. 6032, в 48 м к югу от полевой дороги</SimpleData>
+		<SimpleData name="location_description">d6bea11a-b130-4e2a-b436-9f40ebb41edf</SimpleData>
+		<SimpleData name="status">data/stations/d6bea11a.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/d6bea11a.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>70.2383361502471,43.8107529471726</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

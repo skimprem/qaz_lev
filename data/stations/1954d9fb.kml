@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="1954d9fb" id="1954d9fb">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>1954d9fb</name>
+  <Placemark id="1954d9fb.1">
+	<name>12-571</name>
+	<name>грунт,реп,</name>
+	<ExtendedData><SchemaData schemaUrl="#1954d9fb">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">462.438</SimpleData>
+		<SimpleData name="leveling_order">461,325</SimpleData>
+		<SimpleData name="leveling_height">12-454</SimpleData>
+		<SimpleData name="control_height">в фундаментной плите</SimpleData>
+		<SimpleData name="benchmark_number">116 оп</SimpleData>
+		<SimpleData name="control_location">Линия № I: Арысь - Хаваст, 1 класс
+Участок: грунт,реп, 12-317 = фунд,реп,12-762</SimpleData>
+		<SimpleData name="benchmark_type">Джилга,станц, ,в 8,0 км к юго-вост,от
+неё,на 2 ПК 3318 км,в 30 м к сев,-
+вост,от жел, дор,</SimpleData>
+		<SimpleData name="location_description">1954d9fb-a625-414f-a900-d8a726de715e</SimpleData>
+		<SimpleData name="status">data/stations/1954d9fb.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/1954d9fb.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>69.0688860708462,41.6596788282637</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

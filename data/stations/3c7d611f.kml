@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="3c7d611f" id="3c7d611f">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>3c7d611f</name>
+  <Placemark id="3c7d611f.1">
+	<name>672</name>
+	<name>грунтовый репер</name>
+	<description>1</description>
+	<ExtendedData><SchemaData schemaUrl="#3c7d611f">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">102.989</SimpleData>
+		<SimpleData name="leveling_order">101.498</SimpleData>
+		<SimpleData name="control_height">Контрольный репер №124 в верхней плоскости монолита</SimpleData>
+		<SimpleData name="benchmark_number">121</SimpleData>
+		<SimpleData name="control_location">Линия №3: Качиры - Павлодар, II класс Участок: фунд.реп.312 - грунт.реп.900</SimpleData>
+		<SimpleData name="benchmark_type">Кызылту, с., в 1.3 км к сев. От него, в 30 м к зап. От дороги с.Песчаное-гор.Павлодар</SimpleData>
+		<SimpleData name="location_description">3c7d611f-552d-4482-86d7-ff595ff6fa40</SimpleData>
+		<SimpleData name="status">data/stations/3c7d611f.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/3c7d611f.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>76.6162573205136,52.8239146846899</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

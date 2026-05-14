@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="e71ed31a" id="e71ed31a">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>e71ed31a</name>
+  <Placemark id="e71ed31a.1">
+	<name>111-й км</name>
+	<description>пирамида</description>
+	<ExtendedData><SchemaData schemaUrl="#e71ed31a">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">382.591</SimpleData>
+		<SimpleData name="leveling_height">25</SimpleData>
+		<SimpleData name="benchmark_number">2 оп </SimpleData>
+		<SimpleData name="control_location">Линия № 3: Сайкан  – Учарал , II класс </SimpleData>
+		<SimpleData name="benchmark_type">Сайкан, станц., в 10.4 км к юго-вост. от нее, в 0.4 км к сев. от жел. дор.</SimpleData>
+		<SimpleData name="location_description">e71ed31a-3997-4f88-aa9b-db97c8980912</SimpleData>
+		<SimpleData name="status">data/stations/e71ed31a.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/e71ed31a.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>80.7825132282671,46.3611255471054</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

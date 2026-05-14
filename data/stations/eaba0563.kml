@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="eaba0563" id="eaba0563">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>eaba0563</name>
+  <Placemark id="eaba0563.1">
+	<name>8676</name>
+	<description>грунт.реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#eaba0563">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">342.872</SimpleData>
+		<SimpleData name="benchmark_number">160 оп.знак</SimpleData>
+		<SimpleData name="control_location">Линия №1:Сарышаган - Бурубайтал, I класс 
+Участок: марка 2212 - ск.реп,0607</SimpleData>
+		<SimpleData name="benchmark_type">Мынарал,станц.,в 11.4 км к юго-вост.
+от нее,на I ПК 1297 км,в 45 м к юго-
+эап.от жел.-дор.полотна</SimpleData>
+		<SimpleData name="location_description">eaba0563-5b66-4aec-94ed-08b8d9bc9a33</SimpleData>
+		<SimpleData name="status">data/stations/eaba0563.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/eaba0563.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>73.7066123582336,45.3526111865918</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

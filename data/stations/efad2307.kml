@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="efad2307" id="efad2307">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>efad2307</name>
+  <Placemark id="efad2307.1">
+	<name>79</name>
+	<name>грунт. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#efad2307">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">312,903</SimpleData>
+		<SimpleData name="leveling_order">310,191</SimpleData>
+		<SimpleData name="control_height">Контрольный репер № 149 в верхней плоскости монолита</SimpleData>
+		<SimpleData name="benchmark_number">123</SimpleData>
+		<SimpleData name="control_location">Линия № 2: Карабас -Туз -Каркаралинск, II класс (3) Участок: фунд. реп. 86-А - грунт. реп. 76</SimpleData>
+		<SimpleData name="benchmark_type">Киши Шалкарсор, оз., в 7.0 км к юго -вост. от него, в 1.1 км к югу от шоссе зим. Косшокы -с. Жазык, в 40 м к югу от полевой дороги</SimpleData>
+		<SimpleData name="location_description">efad2307-34eb-4e78-b8b5-c95c2be89f93</SimpleData>
+		<SimpleData name="status">data/stations/efad2307.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/efad2307.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>78.3113534458645,50.1532275715935</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

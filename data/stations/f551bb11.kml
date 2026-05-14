@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="f551bb11" id="f551bb11">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>f551bb11</name>
+  <Placemark id="f551bb11.1">
+	<name>3185</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#f551bb11">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">399.977</SimpleData>
+		<SimpleData name="benchmark_number">146 оп.знак</SimpleData>
+		<SimpleData name="control_location">Линия № 2: Макинск - Байулесты, II класс Участок: стен.реп. 0444 -грунт.реп. 7944</SimpleData>
+		<SimpleData name="benchmark_type">Макинск, гор., в 4.0 км к сев.-вост. от него, в 0.1 км к юго-вост. от км.стб. 4/236, в 0.1 км к югу от шоссе гор. Макинск - гор. степняк, в 42 м к юго-вост. от стб. ЛЭП 110 кВ №565</SimpleData>
+		<SimpleData name="location_description">f551bb11-8343-4871-b982-754d94a67cb6</SimpleData>
+		<SimpleData name="status">data/stations/f551bb11.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/f551bb11.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>70.4817312453607,52.6722732268432</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

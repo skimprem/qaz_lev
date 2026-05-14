@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="d816bf11" id="d816bf11">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>d816bf11</name>
+  <Placemark id="d816bf11.1">
+	<name>VIII</name>
+	<name>грунт. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#d816bf11">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">278,139</SimpleData>
+		<SimpleData name="leveling_order">278,139</SimpleData>
+		<SimpleData name="control_height">Контрольный репер № XVIII в верхней плоскости монолита</SimpleData>
+		<SimpleData name="benchmark_number">121оп</SimpleData>
+		<SimpleData name="control_location">Линия № 2: Нецветаека-Каратал, II класс (1)    Участок: пир. 3 кл. Тогузколь-фунд. реп. 2</SimpleData>
+		<SimpleData name="benchmark_type">Масакпай, зим., в 11,3 км к вост. от него, в 1,6 км к сев.-зап. от разв. Нукеш, в 0,3 км к юго-вост. от полевой дороги</SimpleData>
+		<SimpleData name="location_description">d816bf11-ae17-4209-91e5-964d85b5cba1</SimpleData>
+		<SimpleData name="status">data/stations/d816bf11.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/d816bf11.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>73.6584545908204,51.9906043257857</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

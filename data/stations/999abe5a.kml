@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="999abe5a" id="999abe5a">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>999abe5a</name>
+  <Placemark id="999abe5a.1">
+	<name>4552</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#999abe5a">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">277.973</SimpleData>
+		<SimpleData name="benchmark_number">160 оп.знак</SimpleData>
+		<SimpleData name="control_location">Линия 2: Есиль-Атбасар. II  класс (2)
+Участок: фунд.реп.3198 - грунт.реп.3151</SimpleData>
+		<SimpleData name="benchmark_type">Красивое,станция,в 5.0 км к вост.от нее,в 3.3 км к юго-вост.от ХШ,в 1.4 км
+к вост.от жел.-дор. переезда, в 0,1 км к
+сев.-вост.от жел.-дор.моста</SimpleData>
+		<SimpleData name="location_description">999abe5a-cfda-40a7-b9c3-a27c79109cfa</SimpleData>
+		<SimpleData name="status">data/stations/999abe5a.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/999abe5a.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>66.8209837462224,51.8728574143743</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

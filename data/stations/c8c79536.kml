@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="c8c79536" id="c8c79536">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>c8c79536</name>
+  <Placemark id="c8c79536.1">
+	<name>Г</name>
+	<name>грунт. реп</name>
+	<ExtendedData><SchemaData schemaUrl="#c8c79536">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">108,971</SimpleData>
+		<SimpleData name="benchmark_number">160</SimpleData>
+		<SimpleData name="control_location">Линия № 4: Тасбулак - Жалагаш, 2 класс (4). Участок: грунт. реп. 5310 - фунд. реп 5618</SimpleData>
+		<SimpleData name="benchmark_type">Каракеткен, с., в 17,5 км к сев.-вост. от него, в 3,5 км к юго-зап. от мог. Агжилит, в 1,6 км к сев. от прот. Караозек</SimpleData>
+		<SimpleData name="location_description">c8c79536-81c7-4272-ab38-d3c09b95679f</SimpleData>
+		<SimpleData name="status">data/stations/c8c79536.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/c8c79536.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>64.7305552943699,45.2411012920692</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="b7695641" id="b7695641">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>b7695641</name>
+  <Placemark id="b7695641.1">
+	<name>7258</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#b7695641">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">366.17</SimpleData>
+		<SimpleData name="benchmark_number">160 оп.знак</SimpleData>
+		<SimpleData name="control_location">Линия № 5: Кызыл-Джар - фунд.реп. 2723 II класс (4) Участок: фунд.реп. 498 - грунт.реп.0088</SimpleData>
+		<SimpleData name="benchmark_type">Кызылжар, станция, в 11.9 км к юго-вост. от нее, в 4.2 км к югу от жел.дор., в 40 м к зап. от полевой дороги</SimpleData>
+		<SimpleData name="location_description">b7695641-c061-4bbd-8203-d41334c473bb</SimpleData>
+		<SimpleData name="status">data/stations/b7695641.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/b7695641.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>69.8079643786503,48.2850848962879</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

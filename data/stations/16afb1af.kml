@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="16afb1af" id="16afb1af">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>16afb1af</name>
+  <Placemark id="16afb1af.1">
+	<name>215</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#16afb1af">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">318,704</SimpleData>
+		<SimpleData name="control_location">Линия № 1: фунд. реп. 9617 - Актас, 2 класс (1) Участок: грунт, реп. 215 - грунт, реп. 0024</SimpleData>
+		<SimpleData name="benchmark_type">Бетпакдала, зим., в 2.9 км к югу от неё, в 2.0 км к сев.- зап. от колодца, в 10 м к вост, от грунт, дороги зим. Бетпакдала - с. Жайлауколь </SimpleData>
+		<SimpleData name="location_description">16afb1af-c5cb-4a38-ab51-49767a3fb866</SimpleData>
+		<SimpleData name="status">data/stations/16afb1af.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/16afb1af.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>70.2050389476285,46.0049402247238</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

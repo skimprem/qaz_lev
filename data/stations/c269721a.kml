@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="c269721a" id="c269721a">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>c269721a</name>
+  <Placemark id="c269721a.1">
+	<name>3288</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#c269721a">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">680,437</SimpleData>
+		<SimpleData name="leveling_order">679,434</SimpleData>
+		<SimpleData name="control_height">в трубе</SimpleData>
+		<SimpleData name="benchmark_number">Б</SimpleData>
+		<SimpleData name="control_location">Линия № 1 :       Акбулак - Чубартау,              I класс(1);  Участок : грунт.реп. 7183 - фунд.реп. 527</SimpleData>
+		<SimpleData name="benchmark_type">Баршатас (Чубартау), с., в 5,5 км к сев.-зап. от него, в 71 м к югу от дороги гор. Каркаралинск - с.Баршатас (Чубартау),  в 50 м к югу от к. Жалгызкудук</SimpleData>
+		<SimpleData name="location_description">c269721a-0687-4960-8047-06ef688a003a</SimpleData>
+		<SimpleData name="status">data/stations/c269721a.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/c269721a.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>78.4848080005296,48.1795388013558</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

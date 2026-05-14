@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="3db2803e" id="3db2803e">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>3db2803e</name>
+  <Placemark id="3db2803e.1">
+	<name>4636</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#3db2803e">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">806,917</SimpleData>
+		<SimpleData name="benchmark_number">160оп</SimpleData>
+		<SimpleData name="control_location">Линия № 1: Спасск -Акчатау, II класс (1) Участок: грунт.реп.5961 -фунд.реп.0868</SimpleData>
+		<SimpleData name="benchmark_type">Батыстау. С., в 8,5 км к сев.-зап.от него. В 0,2 км к сев.-зап.от моста, в 0,1 км к зап.от км.стб. № 174 шоссе Караганда-Балхаш</SimpleData>
+		<SimpleData name="location_description">3db2803e-ac44-4e86-a5cb-b1a4106797a3</SimpleData>
+		<SimpleData name="status">data/stations/3db2803e.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/3db2803e.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>73.7267834081174,48.4140109239823</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

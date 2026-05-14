@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="8811141d" id="8811141d">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>8811141d</name>
+  <Placemark id="8811141d.1">
+	<name>1004</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#8811141d">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">148.421</SimpleData>
+		<SimpleData name="leveling_order">154.765</SimpleData>
+		<SimpleData name="control_height">№ 1439 в верхней плоскости монолита</SimpleData>
+		<SimpleData name="benchmark_number">121</SimpleData>
+		<SimpleData name="control_location">Линия № 2: Макушино - Благовещенка. II класс 
+Участок: грунт. реп. 2714 - фунд. реп. 3109</SimpleData>
+		<SimpleData name="benchmark_type">Благовещенка, с., в 0.8 км к сев. от него, в 1.0 км к вост.
+от полевой дороги, в 45 м к зап. от шоссе с. Пресновка -
+с. Благовешенка</SimpleData>
+		<SimpleData name="location_description">8811141d-3f94-4115-829a-08c70a794dfa</SimpleData>
+		<SimpleData name="status">data/stations/8811141d.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/8811141d.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>66.953552070418,54.3756399719631</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="bd2ac365" id="bd2ac365">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>bd2ac365</name>
+  <Placemark id="bd2ac365.1">
+	<name>0104</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#bd2ac365">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">295,955</SimpleData>
+		<SimpleData name="benchmark_number">146 оп</SimpleData>
+		<SimpleData name="control_location">Линия № 29 :       Семипалатинск - Каркаралинск,         II класс (6) Участок : грунт.реп. 1975 -грунт.реп. 5235 </SimpleData>
+		<SimpleData name="benchmark_type">Саржал, с., в 58,0 км к сев.-вост. от него, в 27,0 км к юго-зап. от  с. Знаменка, в 58 м к сев.-зап. от дороги с.Знаменка - с.Саржал,                                         у км стб. 182/88</SimpleData>
+		<SimpleData name="location_description">bd2ac365-7b08-473d-b9e4-c354552a7ed1</SimpleData>
+		<SimpleData name="status">data/stations/bd2ac365.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/bd2ac365.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>79.2763583048392,49.9359985533062</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

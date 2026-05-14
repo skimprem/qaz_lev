@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="5f7e689e" id="5f7e689e">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>5f7e689e</name>
+  <Placemark id="5f7e689e.1">
+	<name>4836</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#5f7e689e">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">113.547</SimpleData>
+		<SimpleData name="leveling_height">0</SimpleData>
+		<SimpleData name="benchmark_number">160 оп</SimpleData>
+		<SimpleData name="benchmark_type">В 1,6 км к юго-вост.от фермы №3 с. Потанинский, в 1,0 км к сев-зап.от с. Шестой аул, в 25 м к сев-вост.от дороги с. Шестой аул - ферма №3 с. Потанинский</SimpleData>
+		<SimpleData name="leveling_line_section">утрачен</SimpleData>
+		<SimpleData name="location_description">5f7e689e-3681-4cd7-8b92-314abf2eab78</SimpleData>
+		<SimpleData name="status">data/stations/5f7e689e.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/5f7e689e.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>76.8547391570057,52.1499326675012</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="ba59ed48" id="ba59ed48">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>ba59ed48</name>
+  <Placemark id="ba59ed48.1">
+	<name>5262</name>
+	<name>грунт, реп,</name>
+	<ExtendedData><SchemaData schemaUrl="#ba59ed48">
+		<SimpleData name="type">I</SimpleData>
+		<SimpleData name="view">388.104</SimpleData>
+		<SimpleData name="leveling_order">386,935</SimpleData>
+		<SimpleData name="control_height">репер № 5635 в фундаментальной плите</SimpleData>
+		<SimpleData name="benchmark_number">116 оп,знак</SimpleData>
+		<SimpleData name="control_location">Линия № 1: Карсакпай - Тюемойнак, I класс
+Участок: марка 240 - грунт,реп, 3646</SimpleData>
+		<SimpleData name="benchmark_type">Теректы, станц,, в 1,0 км к сев,-вост, от нее, на 1 пк 342
+км, в 49 м к сев,-зап, от жел,-дор, полотна, в 4 м к зап, от
+линии связи</SimpleData>
+		<SimpleData name="location_description">ba59ed48-9737-4ce0-9522-83f4a3b2871e</SimpleData>
+		<SimpleData name="status">data/stations/ba59ed48.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/ba59ed48.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>68.5694799866064,48.0734788347134</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

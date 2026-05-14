@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="0165a86d" id="0165a86d">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>0165a86d</name>
+  <Placemark id="0165a86d.1">
+	<name>176</name>
+	<name>грунт.реп</name>
+	<ExtendedData><SchemaData schemaUrl="#0165a86d">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">440.085</SimpleData>
+		<SimpleData name="leveling_height">438.948</SimpleData>
+		<SimpleData name="benchmark_number">репер в верхней плоскости монолита</SimpleData>
+		<SimpleData name="control_location">Линия №1: Коскызыл - Джамбул, II класс                   Участок: грунт.реп. 171 - грунт.реп. 132</SimpleData>
+		<SimpleData name="benchmark_type">Ерназар, с., в 4.8 км к сев.-зап. от него, в 0.1 км кзап.от вехи Акшуак, в 30 м к югу от арыка, на дамбе</SimpleData>
+		<SimpleData name="location_description">0165a86d-2e0b-4a41-97c4-46937c182a12</SimpleData>
+		<SimpleData name="status">data/stations/0165a86d.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/0165a86d.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>70.779875790668,43.1681648741428</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

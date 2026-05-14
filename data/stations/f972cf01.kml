@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="f972cf01" id="f972cf01">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>f972cf01</name>
+  <Placemark id="f972cf01.1">
+	<name>1088</name>
+	<name>марка</name>
+	<ExtendedData><SchemaData schemaUrl="#f972cf01">
+		<SimpleData name="type">І</SimpleData>
+		<SimpleData name="view">409.969</SimpleData>
+		<SimpleData name="control_location">Линия № 1: Тюемойнак - Жарык, І класс (1) Участок: грунт,реп, 5222 - грунт,реп, 1644</SimpleData>
+		<SimpleData name="benchmark_type">Раз, 189 км, в стене зд, Жел-дор школы</SimpleData>
+		<SimpleData name="location_description">f972cf01-9114-427e-a19e-1434d414b54c</SimpleData>
+		<SimpleData name="status">data/stations/f972cf01.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/f972cf01.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>70.4415604556376,48.5450773611905</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

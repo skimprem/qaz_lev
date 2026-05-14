@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="eace552b" id="eace552b">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>eace552b</name>
+  <Placemark id="eace552b.1">
+	<name>2605</name>
+	<name>грунт. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#eace552b">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">46.294</SimpleData>
+		<SimpleData name="benchmark_number">160 оп. знак</SimpleData>
+		<SimpleData name="control_location">Линия №1: Аральск - Коккабак, II класс. Участок: грунт. реп. 9049 - грунт. реп. 2665</SimpleData>
+		<SimpleData name="benchmark_type">Сайкудык, зим., в 11.0 км к сев.-зап. от него, в 3.8 км к сев.-вост. от арт. к. Кашыбай 2-й, в 8 м к югу от грунтовой дороги с. Жинишкекум - с. Жаксыкылыш </SimpleData>
+		<SimpleData name="location_description">eace552b-1e6e-4685-a4c2-2d29e55e0f14</SimpleData>
+		<SimpleData name="status">data/stations/eace552b.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/eace552b.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>62.6913245090758,47.007586533128</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

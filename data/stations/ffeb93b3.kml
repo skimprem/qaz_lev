@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="ffeb93b3" id="ffeb93b3">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>ffeb93b3</name>
+  <Placemark id="ffeb93b3.1">
+	<name>113</name>
+	<name>грунт. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#ffeb93b3">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">1133,702</SimpleData>
+		<SimpleData name="leveling_order">1132,272</SimpleData>
+		<SimpleData name="control_height">репер № 341 в фундаментной плите </SimpleData>
+		<SimpleData name="benchmark_number">116</SimpleData>
+		<SimpleData name="control_location">Линия № 1:           Эмбек - Березовка, 2 класс (1), Участок: фунд. реп. 490 - грунт. реп. 180</SimpleData>
+		<SimpleData name="benchmark_type">Катон-Карагай, с., в 1.0 км к вост. от него, в 30 м к юго-зап. от моста, в 20 м к югу от додроги с.Урыль - с.Катон-Карагай </SimpleData>
+		<SimpleData name="location_description">ffeb93b3-c893-4c82-8e92-b8fc86513f6a</SimpleData>
+		<SimpleData name="status">data/stations/ffeb93b3.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/ffeb93b3.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>85.6325191376791,49.1666036789377</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

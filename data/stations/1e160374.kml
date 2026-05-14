@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="1e160374" id="1e160374">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>1e160374</name>
+  <Placemark id="1e160374.1">
+	<name>579</name>
+	<name>грунт. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#1e160374">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">562,287</SimpleData>
+		<SimpleData name="leveling_order">560,697</SimpleData>
+		<SimpleData name="control_height">репер в верхней плоскости монолита</SimpleData>
+		<SimpleData name="benchmark_number">121</SimpleData>
+		<SimpleData name="control_location">Линия № 4: Бугаз -Аягуз , II класс (2) Участок : грунт. реп. 28 -грунт. реп. 1293</SimpleData>
+		<SimpleData name="benchmark_type">Жанабаза, зим., в 6.7 км к юго -зап. от нее, в 0.7 км к югу от р. Бугаз, в 0.6 км к сев. от мог. Исмаилкожа</SimpleData>
+		<SimpleData name="location_description">1e160374-fca9-4d43-b330-eecfc11691c5</SimpleData>
+		<SimpleData name="status">data/stations/1e160374.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/1e160374.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>82.3972036658243,48.0016158819683</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

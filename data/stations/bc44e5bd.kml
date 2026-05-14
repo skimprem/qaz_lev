@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="bc44e5bd" id="bc44e5bd">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>bc44e5bd</name>
+  <Placemark id="bc44e5bd.1">
+	<name>6213</name>
+	<description>грунт. реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#bc44e5bd">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">155.515</SimpleData>
+		<SimpleData name="benchmark_number">160 оп</SimpleData>
+		<SimpleData name="control_location">Линия №212 : пир. 3 кл. Каракша Южн.-грунт.реп. 1610. 4 класс (13) </SimpleData>
+		<SimpleData name="benchmark_type">с. Сага в 22.8 км к сев.-вост. от него в 2.7 км к сев.-вост. от сигн. 3 кл. Каракша Южн., в 0.9 км к юго-зап. от полевой дороги</SimpleData>
+		<SimpleData name="location_description">bc44e5bd-2316-4ac9-be79-823cbdde8997</SimpleData>
+		<SimpleData name="status">data/stations/bc44e5bd.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/bc44e5bd.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>64.3331909878577,50.6818139012879</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="be070e0c" id="be070e0c">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>be070e0c</name>
+  <Placemark id="be070e0c.1">
+	<name>426</name>
+	<name>стен. реп</name>
+	<ExtendedData><SchemaData schemaUrl="#be070e0c">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">127.377</SimpleData>
+		<SimpleData name="leveling_order">136.725</SimpleData>
+		<SimpleData name="control_height">в трубе</SimpleData>
+		<SimpleData name="control_location">Линия № 1: Золоторунное - Чистовское, II класс Участок: пир. 2 кл. Жарык-Куль - грунт. реп. 532</SimpleData>
+		<SimpleData name="benchmark_type">Молодогвардейское, с., в 5.5 км к сев. от него, в трубе узкоколейное жел. дор. </SimpleData>
+		<SimpleData name="location_description">be070e0c-a702-47bd-9e57-904c6a200dd4</SimpleData>
+		<SimpleData name="status">data/stations/be070e0c.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/be070e0c.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>70.8358999308157,54.1551583920512</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

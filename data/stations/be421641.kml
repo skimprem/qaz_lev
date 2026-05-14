@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="be421641" id="be421641">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>be421641</name>
+  <Placemark id="be421641.1">
+	<name>4874</name>
+	<description>грунт. реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#be421641">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">101.983</SimpleData>
+		<SimpleData name="benchmark_number">160 оп.знак</SimpleData>
+		<SimpleData name="control_location">Линия № 3 :Молалы-Кумкала , I класс . Участок : грунт. реп. 15362-фунд. реп. 24607</SimpleData>
+		<SimpleData name="benchmark_type">Орын ,арт. к, в 4.7  км к сев. от него, в 4.0 км к югу от к.Каракоз,  в 23 м к юго.-вост. от полевой дороги</SimpleData>
+		<SimpleData name="location_description">be421641-2db2-43ed-a769-2180796b448c</SimpleData>
+		<SimpleData name="status">data/stations/be421641.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/be421641.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>64.2971040737902,44.1196551192813</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

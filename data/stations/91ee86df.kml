@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="91ee86df" id="91ee86df">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>91ee86df</name>
+  <Placemark id="91ee86df.1">
+	<name>9039</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#91ee86df">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">333,507</SimpleData>
+		<SimpleData name="control_location">Участок: грунт. реп. 9240 - грунт.реп. 255</SimpleData>
+		<SimpleData name="benchmark_type">Бетпак-Дала, зим., в 16.3 км к              зап. от нее, в 0.9 км к юго­ зап.              от могилы, в 10 м к югу от                 грунт. дороги зим. Бетпак-               Дала - с.Тасты</SimpleData>
+		<SimpleData name="location_description">91ee86df-a8b4-4cd4-8905-89ddfe23c1d0</SimpleData>
+		<SimpleData name="status">data/stations/91ee86df.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/91ee86df.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>69.9908240458972,46.0105972157914</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

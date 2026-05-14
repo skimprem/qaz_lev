@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="585bdeda" id="585bdeda">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>585bdeda</name>
+  <Placemark id="585bdeda.1">
+	<name>1840</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#585bdeda">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">539.124</SimpleData>
+		<SimpleData name="benchmark_number">146</SimpleData>
+		<SimpleData name="control_location">Линия №3: грунт.реп.1006 - грунт.реп. XXII, II класс (3). Учасотк: грунт.реп. 1006 - п.п. 168</SimpleData>
+		<SimpleData name="benchmark_type">Тихоновка, с., в 4.6 км к сев.-зап. от него, в 3.8 км к зап. от развилки дороги гор.Караганда-гор.Темиртау-дом отдыха</SimpleData>
+		<SimpleData name="location_description">585bdeda-e9d8-46e0-9672-3ffd8498295e</SimpleData>
+		<SimpleData name="status">data/stations/585bdeda.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/585bdeda.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>73.001553097541,49.9405285582054</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

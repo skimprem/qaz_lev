@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="f97133fb" id="f97133fb">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>f97133fb</name>
+  <Placemark id="f97133fb.1">
+	<name>714</name>
+	<name>стен.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#f97133fb">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">257.619</SimpleData>
+		<SimpleData name="leveling_order">277,993</SimpleData>
+		<SimpleData name="control_height">Контрольный репер № XXX в верхней плоскости монолита</SimpleData>
+		<SimpleData name="control_location">Линия №2:Есиль-Державинск,II класс(3.6) Участок:пир.3 кл.Джарлы-Агач-фунд.реп.4783 ход от грунт.реп.7472 до фунд.реп.4778,,II класс (1.6)</SimpleData>
+		<SimpleData name="benchmark_type">Державинск,гр.,жел.-дор.станц.водоемное здание </SimpleData>
+		<SimpleData name="leveling_line_section">уничтожен</SimpleData>
+		<SimpleData name="location_description">f97133fb-e6f7-4b74-93be-0e126f676729</SimpleData>
+		<SimpleData name="status">data/stations/f97133fb.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/f97133fb.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>66.2878329474905,51.0993803514352</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

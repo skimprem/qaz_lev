@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="e8eeaa1d" id="e8eeaa1d">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>e8eeaa1d</name>
+  <Placemark id="e8eeaa1d.1">
+	<name>240</name>
+	<name>марка</name>
+	<ExtendedData><SchemaData schemaUrl="#e8eeaa1d">
+		<SimpleData name="type">I</SimpleData>
+		<SimpleData name="view">366.853</SimpleData>
+		<SimpleData name="control_location">Линия № 1: Карсакпай - Тюемойнак, I класс
+Участок: марка 240 - грунт,реп, 3646</SimpleData>
+		<SimpleData name="benchmark_type">№ 366, раз,, в 2,4км к сев,-вост, от него, на 3 пк 364 км,
+с вост, стороны трубы</SimpleData>
+		<SimpleData name="location_description">e8eeaa1d-b555-4bec-8cc7-c9a83e8081a8</SimpleData>
+		<SimpleData name="status">data/stations/e8eeaa1d.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/e8eeaa1d.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>68.2957781374934,47.9907702662789</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

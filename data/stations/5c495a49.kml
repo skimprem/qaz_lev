@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="5c495a49" id="5c495a49">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>5c495a49</name>
+  <Placemark id="5c495a49.1">
+	<name>5782</name>
+	<name>грунт,реп,</name>
+	<ExtendedData><SchemaData schemaUrl="#5c495a49">
+		<SimpleData name="type">І</SimpleData>
+		<SimpleData name="view">428.942</SimpleData>
+		<SimpleData name="leveling_order">427, 858</SimpleData>
+		<SimpleData name="control_height">Контрольный репер № 6065 в фундаментной плите</SimpleData>
+		<SimpleData name="benchmark_number">116</SimpleData>
+		<SimpleData name="control_location">Линия № 1: Тюемойнак - Жарык, І класс (1) Участок: грунт,реп, 5222 - грунт,реп, 1644</SimpleData>
+		<SimpleData name="benchmark_type">Манадырь, станция, в 6,0 км к вост от нее, на 4 пк 170 км жел-дор,, в 25 м к сев-зап от жел дор,, в 4 м к югу от линии связи</SimpleData>
+		<SimpleData name="location_description">5c495a49-e1f8-4c6b-aa09-6498fc539172</SimpleData>
+		<SimpleData name="status">data/stations/5c495a49.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/5c495a49.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>70.7005772969868,48.552702835783</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

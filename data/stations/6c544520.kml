@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="6c544520" id="6c544520">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>6c544520</name>
+  <Placemark id="6c544520.1">
+	<name>9314</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#6c544520">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">172,998</SimpleData>
+		<SimpleData name="control_location">Участок: грунт, реп. 9741 - пир. 2 кл. Кокпекты </SimpleData>
+		<SimpleData name="benchmark_type">Булдырык, арт. к., в 3.3 км к сев.-вост. от него, в 0.4 км к зап. от род. Булдырык, в 47 м к сев.-зап. от полевой дороги</SimpleData>
+		<SimpleData name="location_description">6c544520-8ac8-4795-83cf-db5a9d7c20d8</SimpleData>
+		<SimpleData name="status">data/stations/6c544520.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/6c544520.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.7163585162498,45.99638344787</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

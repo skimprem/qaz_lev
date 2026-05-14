@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="475ab633" id="475ab633">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>475ab633</name>
+  <Placemark id="475ab633.1">
+	<name>3087</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#475ab633">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">198.732</SimpleData>
+		<SimpleData name="control_location">Линия № 4: Тимур- Баиркум,  II класс</SimpleData>
+		<SimpleData name="benchmark_type">Сарыколь, с., в 4.0 км к сев.-вост.от него, в 1.5 км к югу от буг.Айсентобе, в 0.5 км к зап.от шоссе с.Шаульдер-с.Коксарай</SimpleData>
+		<SimpleData name="leveling_line_section">утрачен</SimpleData>
+		<SimpleData name="location_description">475ab633-e9ab-41de-af3b-6586eb3af999</SimpleData>
+		<SimpleData name="status">data/stations/475ab633.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/475ab633.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>68.3173731172229,42.6659828096992</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

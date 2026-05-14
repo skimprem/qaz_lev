@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="677a8255" id="677a8255">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>677a8255</name>
+  <Placemark id="677a8255.1">
+	<name>1541</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#677a8255">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">215.605</SimpleData>
+		<SimpleData name="control_location">Линия № 5: Баиркум-Куракбулак, II класс</SimpleData>
+		<SimpleData name="benchmark_type">Баиркумская переправа, в 1.1 км к сев.зап.от нее, в 5 м к сев.от дороги свх.Байркум-с.Боктулен, на левом берегу р.Сырдарьи</SimpleData>
+		<SimpleData name="leveling_line_section">уничтожен</SimpleData>
+		<SimpleData name="location_description">677a8255-beaa-4c7b-90c6-545c6bb88973</SimpleData>
+		<SimpleData name="status">data/stations/677a8255.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/677a8255.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>68.2231199411697,42.1018303885958</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

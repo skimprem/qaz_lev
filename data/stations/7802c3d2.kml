@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="7802c3d2" id="7802c3d2">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>7802c3d2</name>
+  <Placemark id="7802c3d2.1">
+	<name>9740</name>
+	<description>грунт.реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#7802c3d2">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">345.965</SimpleData>
+		<SimpleData name="benchmark_number">160оп.знак</SimpleData>
+		<SimpleData name="control_location">Линия № 1:Сарышаган-Каратас I класс  (2)                          Участок: фунд.реп. 0653-грунт.реп. 1601</SimpleData>
+		<SimpleData name="benchmark_type">Акжайдак,станц.,в  1.6  км  к  юго-вост.  
+ от  неё,в  0.5  км  к  юго-зап.от  жел.-дор.
+полотна,в  35м   к  севм.от  дороги  станц.
+Акжайдак  - с.Саяк</SimpleData>
+		<SimpleData name="location_description">7802c3d2-c5dd-4a33-8782-31608a994fee</SimpleData>
+		<SimpleData name="status">data/stations/7802c3d2.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/7802c3d2.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.9586776463459,46.8250754558439</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

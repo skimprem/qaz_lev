@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="1c124423" id="1c124423">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>1c124423</name>
+  <Placemark id="1c124423.1">
+	<name>93</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#1c124423">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">449,057</SimpleData>
+		<SimpleData name="leveling_order">447.237</SimpleData>
+		<SimpleData name="control_height">Контрольный репер в верхней плоскости монолита </SimpleData>
+		<SimpleData name="benchmark_number">118 оп. знак</SimpleData>
+		<SimpleData name="control_location">Линия № 1: Бугаз – Белая Школа, II класс (2)
+Участок: пир. 3 кл. Придорожная – фунд.реп. 5491</SimpleData>
+		<SimpleData name="benchmark_type">Белая Школа, с., в 0.5 км к вост. от него, в 0.6 км к югу от шоссе с. Кокпекты – гор. Зайсан, у тлгр. стб. 164/31</SimpleData>
+		<SimpleData name="location_description">1c124423-07a2-4427-9701-69f375fc410b</SimpleData>
+		<SimpleData name="status">data/stations/1c124423.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/1c124423.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>83.4396361381967,47.8481517562873</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

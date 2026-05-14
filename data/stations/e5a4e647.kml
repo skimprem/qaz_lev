@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="e5a4e647" id="e5a4e647">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>e5a4e647</name>
+  <Placemark id="e5a4e647.1">
+	<name>6</name>
+	<description>грунт. реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#e5a4e647">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">516.129</SimpleData>
+		<SimpleData name="leveling_order">513,316</SimpleData>
+		<SimpleData name="control_height">Контрольный репер № 81 в верхней плоскости монолита</SimpleData>
+		<SimpleData name="benchmark_number">123</SimpleData>
+		<SimpleData name="control_location">Линия № 3: Нуринская-Каркаралинск, I класс (1,2)  Участок: триг. пункт. 1 разр. 2139-грунт. реп. 11</SimpleData>
+		<SimpleData name="benchmark_type">Петровка, с., в 6,0 км к вост. от него, в 3,1 км к юго-зап. от с. Ботакара, в 62 м к югу от шоссе с. Петровка – с. Ульяновский</SimpleData>
+		<SimpleData name="location_description">e5a4e647-cf49-43fb-a432-5e447bd465ab</SimpleData>
+		<SimpleData name="status">data/stations/e5a4e647.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/e5a4e647.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>73.5909581014978,50.0804597911732</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="caabde54" id="caabde54">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>caabde54</name>
+  <Placemark id="caabde54.1">
+	<name>110</name>
+	<name>грунт,реп,</name>
+	<ExtendedData><SchemaData schemaUrl="#caabde54">
+		<SimpleData name="type">I</SimpleData>
+		<SimpleData name="view">388.749</SimpleData>
+		<SimpleData name="leveling_order">385,883</SimpleData>
+		<SimpleData name="control_height">Контрольный репер №1632 в верхней плоскости монолита </SimpleData>
+		<SimpleData name="benchmark_number">131</SimpleData>
+		<SimpleData name="control_location">Линия №2: Астана(Целиноград)-Амангельды, I класса (2)   Участок: грунт,реп,105-грунт,реп,7852</SimpleData>
+		<SimpleData name="benchmark_type">Караадыр,станция,в 1,9 км к зап,от нее, 
+на 2 ПК 723 км жел,дор,,в 50 м к сев,от
+жел,-дор,полотна,в 10 м к сев,от грунтовой
+дороги</SimpleData>
+		<SimpleData name="location_description">caabde54-d4a5-490d-89b7-b2d104b7b065</SimpleData>
+		<SimpleData name="status">data/stations/caabde54.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/caabde54.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>70.3166857672538,51.4964688940573</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

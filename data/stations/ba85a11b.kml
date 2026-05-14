@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="ba85a11b" id="ba85a11b">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>ba85a11b</name>
+  <Placemark id="ba85a11b.1">
+	<name>8087</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#ba85a11b">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">143,167</SimpleData>
+		<SimpleData name="control_location">Линия № 2: Кендырлык (Айгарлык) - Кичиктай, 2 класс (3) Участок: грунт. реп. 2938 - фунд. реп. 7911</SimpleData>
+		<SimpleData name="benchmark_type">Шолакеспе, разв., в 5.3 км к сев.-зап. от них, в 4.8 км к юго-вост. от к. Итаяк, к вост. от грунт. дороги гор. Жезказган - с. Созак</SimpleData>
+		<SimpleData name="location_description">ba85a11b-6323-47b3-8712-88c299897f44</SimpleData>
+		<SimpleData name="status">data/stations/ba85a11b.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/ba85a11b.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>68.1077837298833,45.2331344293855</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

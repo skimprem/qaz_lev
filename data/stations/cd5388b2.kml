@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="cd5388b2" id="cd5388b2">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>cd5388b2</name>
+  <Placemark id="cd5388b2.1">
+	<name>4(40)</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#cd5388b2">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">184,649</SimpleData>
+		<SimpleData name="benchmark_number">118</SimpleData>
+		<SimpleData name="control_location">Линия № 1 :       Семиярск - Семипалатинск,  2 класс (3) Висячий ход от грунт.реп. 735, 2 класс (3)</SimpleData>
+		<SimpleData name="benchmark_type">Белокаменка, с., в 5,0 км к сев.-зап. от него, в 0,2 км к вост. от грунт.реп. 735</SimpleData>
+		<SimpleData name="leveling_line_section">утрачен</SimpleData>
+		<SimpleData name="location_description">cd5388b2-92cb-465d-bd2a-ef4a99ef2fc9</SimpleData>
+		<SimpleData name="status">data/stations/cd5388b2.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/cd5388b2.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>79.5412491919966,50.571674887677</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

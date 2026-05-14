@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="bedd3e42" id="bedd3e42">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>bedd3e42</name>
+  <Placemark id="bedd3e42.1">
+	<name>8261</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#bedd3e42">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">198,608</SimpleData>
+		<SimpleData name="control_location">Линия № 1: Кендырлык (Айгарлык) - Кичиктай. 2 класс (2) Участок: грунт, реп. 8261 - грунт.реп. 3385</SimpleData>
+		<SimpleData name="benchmark_type">Кызылмола, кладб., в 10.7 км к юго-вост, от него, в 3.1 км к сев.-вост. от род. Кендирлик, в 30 м к вост, от грунт, дороги гор. Жезказган - с. Созак</SimpleData>
+		<SimpleData name="location_description">bedd3e42-5178-485a-bb7e-a141343a36b1</SimpleData>
+		<SimpleData name="status">data/stations/bedd3e42.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/bedd3e42.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>68.2013661155883,46.0032133408466</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

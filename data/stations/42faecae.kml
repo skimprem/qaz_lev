@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="42faecae" id="42faecae">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>42faecae</name>
+  <Placemark id="42faecae.1">
+	<name>4250</name>
+	<description>грунт. реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#42faecae">
+		<SimpleData name="type">3</SimpleData>
+		<SimpleData name="view">105.084</SimpleData>
+		<SimpleData name="leveling_order">103,563</SimpleData>
+		<SimpleData name="benchmark_number">121 оп</SimpleData>
+		<SimpleData name="control_location">Линия № 2: грунт.реп. 65 - грунт.реп. 4788, III класс </SimpleData>
+		<SimpleData name="benchmark_type">Каракога, с., в 7.5 км к сев.-зап. от него, в 0.7 км к югу от р. Тобылги, в 25 м к сев. от дороги с. Кумкещу - с. Тауш</SimpleData>
+		<SimpleData name="location_description">42faecae-eda9-4908-8d67-be7fe27e7c01</SimpleData>
+		<SimpleData name="status">data/stations/42faecae.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/42faecae.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>64.1208807368355,49.9018934153409</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

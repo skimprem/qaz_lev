@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="c8b2e148" id="c8b2e148">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>c8b2e148</name>
+  <Placemark id="c8b2e148.1">
+	<name>1812</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#c8b2e148">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">196.717</SimpleData>
+		<SimpleData name="leveling_order">154.275</SimpleData>
+		<SimpleData name="benchmark_number">160 оп.знак</SimpleData>
+		<SimpleData name="control_location">Линия №1: Костанай - Петропавловска, I класс. Участок: грунт.реп. 0712 - грунт.реп. 0731. Ход: от грунт.реп. 11 - пир. 2 кл. Куприяновка, II класс</SimpleData>
+		<SimpleData name="benchmark_type">Мичурино, с., в 7.5 км к юго-зап.от него, в 0.3 км к югу от улучшенной грунт.дороги с. Ленинское - с. Мичурино, в 15 м к сев.от проселочной дороги</SimpleData>
+		<SimpleData name="location_description">c8b2e148-cb43-49a6-a50a-0a4a86846a84</SimpleData>
+		<SimpleData name="status">data/stations/c8b2e148.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/c8b2e148.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>66.5026781562076,53.3820201759041</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

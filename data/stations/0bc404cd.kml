@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="0bc404cd" id="0bc404cd">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>0bc404cd</name>
+  <Placemark id="0bc404cd.1">
+	<name>0024</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#0bc404cd">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">201.487</SimpleData>
+		<SimpleData name="control_location">Линия № 4: Тимур- Баиркум,  II класс</SimpleData>
+		<SimpleData name="benchmark_type">Ызаколь, с., в 7.7 км к сев.от него, в 0.1 км к сев.-зап.от зимовок, в 5 м к зап.от полевой пороги</SimpleData>
+		<SimpleData name="leveling_line_section">утрачен</SimpleData>
+		<SimpleData name="location_description">0bc404cd-f453-4604-b37b-0a4c1b952f2a</SimpleData>
+		<SimpleData name="status">data/stations/0bc404cd.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/0bc404cd.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>68.2452472371981,42.5782098361519</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

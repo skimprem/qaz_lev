@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="03eb9778" id="03eb9778">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>03eb9778</name>
+  <Placemark id="03eb9778.1">
+	<name>19-Д</name>
+	<name>грунт.реп.</name>
+	<description>грунт.реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#03eb9778">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">670,188</SimpleData>
+		<SimpleData name="leveling_order">669,600*</SimpleData>
+		<SimpleData name="control_height">В  боковой грани  пилона</SimpleData>
+		<SimpleData name="benchmark_number">А</SimpleData>
+		<SimpleData name="control_location">Линия № 1: грунт.реп. 11-Д  =  грунт.реп.23-Д, II класс                           Участок:  грунт.реп.13-Д  - грунт.реп.20-Д</SimpleData>
+		<SimpleData name="benchmark_type">Центр,зим.,в  4,2  км  к  вост.от  нее,в  2,0 км  к  юго-вост,от  зимовки,у  дороги  с.Бурубаитал-станц. Эспе</SimpleData>
+		<SimpleData name="location_description">03eb9778-e4db-439e-8fa9-ad7ffc721b77</SimpleData>
+		<SimpleData name="status">data/stations/03eb9778.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/03eb9778.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>74.1618452611756,44.0646285023327</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

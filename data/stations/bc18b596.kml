@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="bc18b596" id="bc18b596">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>bc18b596</name>
+  <Placemark id="bc18b596.1">
+	<name>0469</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#bc18b596">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">464.882</SimpleData>
+		<SimpleData name="leveling_order">585.011</SimpleData>
+		<SimpleData name="control_height">Контрольный репер  в верхней плоскости монолита</SimpleData>
+		<SimpleData name="benchmark_number">160 оп</SimpleData>
+		<SimpleData name="control_location">Линия №2: Талдысай-Жиделысай, II класс (2) Участок: грунт.реп.41-фунд.реп.0539</SimpleData>
+		<SimpleData name="benchmark_type">Малшыбай,с.,в 12.7 км к сев.от него,в 6.0 км к юго-зап.от род.Тузбулак,к зап.от дороги с.Егинди-с.Малшыбай</SimpleData>
+		<SimpleData name="location_description">bc18b596-2369-4278-aaa9-0ac8dc75976b</SimpleData>
+		<SimpleData name="status">data/stations/bc18b596.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/bc18b596.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.8194412773923,48.508855594037</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

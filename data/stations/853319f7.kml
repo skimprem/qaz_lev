@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="853319f7" id="853319f7">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>853319f7</name>
+  <Placemark id="853319f7.1">
+	<name>2708</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#853319f7">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">328.951</SimpleData>
+		<SimpleData name="leveling_order">354,540</SimpleData>
+		<SimpleData name="benchmark_number">160 оп</SimpleData>
+		<SimpleData name="control_location">Линия №1: Атбасар-Жумай, ll (l) Участок: грунт. реп. 0072-фунд. реп. 7120</SimpleData>
+		<SimpleData name="benchmark_type">Абай с., в 2,4 км к вост. От него, в 2,8 км к сев.-зап. От водокачки у плотины, в 28 м к югу от шоссе с.Абай-гор. Акмола</SimpleData>
+		<SimpleData name="location_description">853319f7-0eff-49b8-bd37-5f90161956ce</SimpleData>
+		<SimpleData name="status">data/stations/853319f7.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/853319f7.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>69.5598538119672,50.719594124154</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

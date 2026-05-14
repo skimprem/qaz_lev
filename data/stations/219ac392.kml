@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="219ac392" id="219ac392">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>219ac392</name>
+  <Placemark id="219ac392.1">
+	<name>5</name>
+	<name>фундаментальный репер</name>
+	<ExtendedData><SchemaData schemaUrl="#219ac392">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">152.496</SimpleData>
+		<SimpleData name="leveling_order">150.656</SimpleData>
+		<SimpleData name="control_height">Контрольный репер  в верхней плоскости монолита</SimpleData>
+		<SimpleData name="benchmark_number">119</SimpleData>
+		<SimpleData name="benchmark_type">Павлодар, станц., в 3,5 км к сев-зап.от нее, в 1,6 км к сев.от элеватора.</SimpleData>
+		<SimpleData name="location_description">219ac392-55bf-467c-8990-6a4f16df24fd</SimpleData>
+		<SimpleData name="status">data/stations/219ac392.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/219ac392.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>76.9352726306908,52.3221133233068</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="a0124166" id="a0124166">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>a0124166</name>
+  <Placemark id="a0124166.1">
+	<name>695</name>
+	<description>грунт. реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#a0124166">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">127.743</SimpleData>
+		<SimpleData name="benchmark_number">160 оп. знак</SimpleData>
+		<SimpleData name="control_location">Линия № 2: Кызылорда - Торыустаган, I класс. Участок: фунд.реп. 3047 - грунт.реп. 300</SimpleData>
+		<SimpleData name="benchmark_type">Алман, к., в 5.4 км к сев.-вост. от него, в 0.2 км к юго-зап. от разв,  в 6 м к зап. от полевой дороги </SimpleData>
+		<SimpleData name="leveling_line_section">репер в хорошем состоянии</SimpleData>
+		<SimpleData name="location_description">a0124166-d79b-4a3c-a41e-e8f6dc944b3e</SimpleData>
+		<SimpleData name="status">data/stations/a0124166.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/a0124166.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>65.8669323216916,44.9036320495414</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="115901f8" id="115901f8">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>115901f8</name>
+  <Placemark id="115901f8.1">
+	<name>796</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#115901f8">
+		<SimpleData name="type">III</SimpleData>
+		<SimpleData name="view">133.787</SimpleData>
+		<SimpleData name="control_height">в верхней плоскости монолита</SimpleData>
+		<SimpleData name="benchmark_number">121 оп.знак</SimpleData>
+		<SimpleData name="control_location">Линия № 4: грунт, реп. 796 - грунт, реп. 3361. Участок: грунт, реп. 796 - грунт, реп. 1455</SimpleData>
+		<SimpleData name="benchmark_type">Коломозино, с., в 9 км к юго - зап. от него, в 4,7 км к юго - зап. от водохранилища, в 30 м к вост. от полевой дороги</SimpleData>
+		<SimpleData name="location_description">115901f8-2329-489d-b3d0-b1f47494cea8</SimpleData>
+		<SimpleData name="status">data/stations/115901f8.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/115901f8.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>70.3831939424682,55.1797742339296</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

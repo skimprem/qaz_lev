@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="06fdbee4" id="06fdbee4">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>06fdbee4</name>
+  <Placemark id="06fdbee4.1">
+	<name>13028</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#06fdbee4">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">115.960</SimpleData>
+		<SimpleData name="leveling_order">113.781</SimpleData>
+		<SimpleData name="leveling_height">0</SimpleData>
+		<SimpleData name="control_height">контр.реп. № 20957 в верх. Плос. Монолита</SimpleData>
+		<SimpleData name="benchmark_number">121</SimpleData>
+		<SimpleData name="control_location">Линия №3: Разумовка-Зеленая Роща, IІ класс (1) Участок:  фунд. реп. 168-грунт. реп. 12608</SimpleData>
+		<SimpleData name="benchmark_type">Егинсай, оз., в 3.5 км к сев. - 18.3 -вост. от него, в 2.5 км к югу от оз. Каракаска, в 30м к зап. от полевой дороги</SimpleData>
+		<SimpleData name="location_description">06fdbee4-48d0-42b2-8486-a273dc360602</SimpleData>
+		<SimpleData name="status">data/stations/06fdbee4.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/06fdbee4.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.1575044280086,52.6973205935738</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="fb109fa5" id="fb109fa5">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>fb109fa5</name>
+  <Placemark id="fb109fa5.1">
+	<name>191</name>
+	<name>фунд.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#fb109fa5">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">746,536</SimpleData>
+		<SimpleData name="leveling_order">745,715</SimpleData>
+		<SimpleData name="control_height">марка № 17264 в трубе</SimpleData>
+		<SimpleData name="benchmark_number">А</SimpleData>
+		<SimpleData name="control_location">Линия  :             Усть-Каменогорск - Лениногорск, 2 класс, Участок : марка 1400 - марка 1408 (3); марка 1408 - фунд.реп. 191 (1)</SimpleData>
+		<SimpleData name="benchmark_type">Лениногорск, гор., ул. Горноспасательная, в 0,2 км к зап. от ГСМ лесоуправления комбината (рудника), на седловине г. Свинцовая, в 50 м от старого карьера, в 99 м к югу от грунт. реп. 17242</SimpleData>
+		<SimpleData name="location_description">fb109fa5-8256-42e2-b8db-6640c2f1dac3</SimpleData>
+		<SimpleData name="status">data/stations/fb109fa5.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/fb109fa5.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>83.5079721392585,50.3577924451803</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

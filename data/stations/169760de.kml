@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="169760de" id="169760de">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>169760de</name>
+  <Placemark id="169760de.1">
+	<name>9601</name>
+	<description>грунт. реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#169760de">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">98.261</SimpleData>
+		<SimpleData name="benchmark_number">160 оп</SimpleData>
+		<SimpleData name="control_location">Линия №1 : Аральск - Айтеке Би (Новоказалинск) - Жосалы . I класс . Участок : грунт. реп. 553 - марка 4359</SimpleData>
+		<SimpleData name="benchmark_type">Разв. № 103. в 26 км к сев.- зап. от него. в 18 м к югу от км. стб. 2584/2585. в 21 м к юго- зап. от оси жел.- дор. полотна</SimpleData>
+		<SimpleData name="location_description">169760de-e8fb-4e4f-94a3-92855bd2e319</SimpleData>
+		<SimpleData name="status">data/stations/169760de.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/169760de.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>63.1902792490065,45.6709985572035</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

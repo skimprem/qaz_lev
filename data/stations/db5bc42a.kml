@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="db5bc42a" id="db5bc42a">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>db5bc42a</name>
+  <Placemark id="db5bc42a.1">
+	<name>3650</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#db5bc42a">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">343.158</SimpleData>
+		<SimpleData name="benchmark_number">160</SimpleData>
+		<SimpleData name="control_location">Линия № 2: Урочище Куйган – Лепсы
+Участок: пир. 3 кл. Аксор – фунд.реп. 5699
+</SimpleData>
+		<SimpleData name="benchmark_type">Тулебаево, с., в 3.7 км к вост. от него, в 3.7 км к сев.-вост. от с. Красный Рыбак, в 84 м к сев. от полевой дороги, в 4 м к зап. от стб. ЛЭП</SimpleData>
+		<SimpleData name="location_description">db5bc42a-fd13-4a35-80e0-22e437727c43</SimpleData>
+		<SimpleData name="status">data/stations/db5bc42a.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/db5bc42a.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>78.379206202769,46.2923177503962</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

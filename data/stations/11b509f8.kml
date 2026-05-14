@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="11b509f8" id="11b509f8">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>11b509f8</name>
+  <Placemark id="11b509f8.1">
+	<name>1522</name>
+	<name>грунт. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#11b509f8">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">591,427</SimpleData>
+		<SimpleData name="leveling_order">590,408</SimpleData>
+		<SimpleData name="control_height">репер в верхней плоскости монолита</SimpleData>
+		<SimpleData name="benchmark_number">121</SimpleData>
+		<SimpleData name="control_location">Линия № 4: Бугаз -Аягуз , II класс (2) Участок : грунт. реп. 28 -грунт. реп. 1293</SimpleData>
+		<SimpleData name="benchmark_type">Жананесеп, с., в 15.2 км к вост. от него, в 0.2 км к сев. от р. Бугаз, в 25 м к югу от тропы, идущей вдоль р. Бугаз</SimpleData>
+		<SimpleData name="location_description">11b509f8-9307-473a-ae0a-c7c7a8962e97</SimpleData>
+		<SimpleData name="status">data/stations/11b509f8.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/11b509f8.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>82.3157565599567,48.0133703119655</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="02546233" id="02546233">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>02546233</name>
+  <Placemark id="02546233.1">
+	<name>688</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#02546233">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">126.004</SimpleData>
+		<SimpleData name="benchmark_number">160 оп знак</SimpleData>
+		<SimpleData name="control_location">Линия № 1: Золоторунное - Чистовское, II класс Участок: пир. 2 кл. Жарык-Куль - грунт. реп. 532</SimpleData>
+		<SimpleData name="benchmark_type">Возвышенка, с., в 5.0 км к югу от него, в 15 м к зап. от разобранной жел.-дор., в 7 м к вост. от лесополосы</SimpleData>
+		<SimpleData name="location_description">02546233-e2d4-4587-8ce6-7eb622c80914</SimpleData>
+		<SimpleData name="status">data/stations/02546233.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/02546233.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>70.8972086178515,54.402298966032</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

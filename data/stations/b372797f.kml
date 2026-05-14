@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="b372797f" id="b372797f">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>b372797f</name>
+  <Placemark id="b372797f.1">
+	<name>6131</name>
+	<description>грунт. реп</description>
+	<ExtendedData><SchemaData schemaUrl="#b372797f">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">112,112</SimpleData>
+		<SimpleData name="leveling_order">111,075</SimpleData>
+		<SimpleData name="leveling_height">Контрольный репер в трубе</SimpleData>
+		<SimpleData name="benchmark_number">118</SimpleData>
+		<SimpleData name="control_location">Линия № 2: Кумкала -- Кызылорда, 1 класс (2,5). Участок: грунт. реп. 6131 - грунт. реп. 3086</SimpleData>
+		<SimpleData name="benchmark_type">Мырзабай Акын, с., в 22,6 км к югу от него, в 6,1 км к вост. от кладб. Кулназар, в 20 м к юго-вост. от полевой дороги</SimpleData>
+		<SimpleData name="location_description">b372797f-b557-497c-aea9-f2e17e5f84e7</SimpleData>
+		<SimpleData name="status">data/stations/b372797f.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/b372797f.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>64.4574626867962,44.6432711567225</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

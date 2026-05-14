@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="b3222654" id="b3222654">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>b3222654</name>
+  <Placemark id="b3222654.1">
+	<name>17562</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#b3222654">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">74.841</SimpleData>
+		<SimpleData name="benchmark_number">121</SimpleData>
+		<SimpleData name="control_location">Линия №1: Айбас-Чапаевский, II класс. Участок:  грунт. реп. 14492-фунд. реп. 156 </SimpleData>
+		<SimpleData name="benchmark_type">Жамантуз, сол.оз., в 1.2км к югу от него, в 2.8км к сев.-вост.от асфальтированнной дороги, в 0.9км к юго-вост.от кладбища</SimpleData>
+		<SimpleData name="location_description">b3222654-695b-49a0-ad27-f2e3e56fcf35</SimpleData>
+		<SimpleData name="status">data/stations/b3222654.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/b3222654.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>73.1406480584646,52.9290832627506</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

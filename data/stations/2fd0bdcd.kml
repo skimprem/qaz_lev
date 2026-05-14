@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2fd0bdcd" id="2fd0bdcd">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>2fd0bdcd</name>
+  <Placemark id="2fd0bdcd.1">
+	<name>5459</name>
+	<description>грунт.реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#2fd0bdcd">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">256,064</SimpleData>
+		<SimpleData name="benchmark_number">146 оп</SimpleData>
+		<SimpleData name="control_location">Линия №2: Новоильиновка-Актасты,II класс Участок: грунт.реп.6577-грунт.реп.175</SimpleData>
+		<SimpleData name="benchmark_type">Туфановка с.,в 1,0 км к югу от него,в 17 м к сев.-зап.от стб.ЛЭП 46/1966,в 12м к вост.от дороги с.Туфановка-с.Жаилма </SimpleData>
+		<SimpleData name="location_description">2fd0bdcd-c260-4636-8ecf-d15fa4433d00</SimpleData>
+		<SimpleData name="status">data/stations/2fd0bdcd.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/2fd0bdcd.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>61.6203262055266,51.6080543730334</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

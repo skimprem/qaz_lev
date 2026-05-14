@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="e4b03fbd" id="e4b03fbd">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>e4b03fbd</name>
+  <Placemark id="e4b03fbd.1">
+	<name>5778</name>
+	<description>стен.реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#e4b03fbd">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">55.780</SimpleData>
+		<SimpleData name="control_location">Линия №4 Аральск-Жосалы, I класс . Участок: фунд. реп. 5059- стен.реп. 5778</SimpleData>
+		<SimpleData name="benchmark_type">Сапак, станц., в стене зд.водокачки</SimpleData>
+		<SimpleData name="location_description">e4b03fbd-8ec5-40e4-a289-9b6159f39e21</SimpleData>
+		<SimpleData name="status">data/stations/e4b03fbd.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/e4b03fbd.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>61.7940453157105,46.6166392228783</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

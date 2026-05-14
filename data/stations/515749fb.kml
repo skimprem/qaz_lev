@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="515749fb" id="515749fb">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>515749fb</name>
+  <Placemark id="515749fb.1">
+	<name>б/№</name>
+	<name>ск. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#515749fb">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">932,761</SimpleData>
+		<SimpleData name="benchmark_number">99</SimpleData>
+		<SimpleData name="control_location">Линия: Яровское - Лениногорск, II класс (1) Участок: фунд. реп. 198 - грунт. реп. 6965</SimpleData>
+		<SimpleData name="benchmark_type">Инское (Харьковка), с., в 10 км к юго-вост. от него, в 7 м от правого берега р. Калмыцкий, в 2.5 км к северу от устья, в 2 м влево от тропы в с. Старый Белопорожний. </SimpleData>
+		<SimpleData name="location_description">515749fb-e893-402a-82bb-38085968108b</SimpleData>
+		<SimpleData name="status">data/stations/515749fb.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/515749fb.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>83.3147960335244,50.9776793532215</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

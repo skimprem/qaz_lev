@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="8ccbe32a" id="8ccbe32a">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>8ccbe32a</name>
+  <Placemark id="8ccbe32a.1">
+	<name>6298</name>
+	<name>стен.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#8ccbe32a">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="benchmark_number">Линия № 5: фунд.реп. 389 – марка 20827, II класс</SimpleData>
+		<SimpleData name="control_location">Аягоз, гор., ул. Поповича № 40, школа № 1, в сев.-зап. углу здания</SimpleData>
+		<SimpleData name="benchmark_type">L-44-5-Б</SimpleData>
+		<SimpleData name="location_description">8ccbe32a-637e-4511-b9c6-6ba294d73dcc</SimpleData>
+		<SimpleData name="status">data/stations/8ccbe32a.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/8ccbe32a.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>80.4396373912214,47.9745623805869</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

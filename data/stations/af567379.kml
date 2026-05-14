@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="af567379" id="af567379">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>af567379</name>
+  <Placemark id="af567379.1">
+	<name>3855</name>
+	<name>грунт. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#af567379">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">163,619</SimpleData>
+		<SimpleData name="leveling_order">161,019</SimpleData>
+		<SimpleData name="control_height">марка № 497 в верхней плоскости монолита</SimpleData>
+		<SimpleData name="benchmark_number">121 оп.</SimpleData>
+		<SimpleData name="control_location">Линия № 1: Михайловка- Семиярск, II класс (1) Участок: грунт. реп. 3957- грунт. реп. 0142</SimpleData>
+		<SimpleData name="benchmark_type">Коянбай, с., в 13.1 км к зап. от него, в 1.5 км к юго-вост. от зимовки, в 50 м к вост. от полевой дороги, в 1 м к юго-зап. оп . стб.</SimpleData>
+		<SimpleData name="location_description">af567379-ebe3-423e-b373-b430172f36fc</SimpleData>
+		<SimpleData name="status">data/stations/af567379.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/af567379.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>79.1117577162694,51.5776505803782</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

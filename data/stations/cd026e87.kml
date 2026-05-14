@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="cd026e87" id="cd026e87">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>cd026e87</name>
+  <Placemark id="cd026e87.1">
+	<name>6374</name>
+	<name>грунт. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#cd026e87">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">120.777</SimpleData>
+		<SimpleData name="benchmark_number">15</SimpleData>
+		<SimpleData name="control_location">Линия № 6 Белькора-Сазды    II  класс .     Участок : фунд.реп.1772-пир.2 кл. Бархан</SimpleData>
+		<SimpleData name="benchmark_type">Кокбике, арт.к., в 10.0  км к юго.-зап.  от него, в 2.4 км к сев.-вост. от арт.колодца и вдхр., в 0.6 км к вост.от  полевой дороги, на бархане</SimpleData>
+		<SimpleData name="location_description">cd026e87-acbf-44fe-a8fb-9f98c74c4616</SimpleData>
+		<SimpleData name="status">data/stations/cd026e87.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/cd026e87.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>64.132260953348,44.1223087125449</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

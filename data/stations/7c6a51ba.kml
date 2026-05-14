@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="7c6a51ba" id="7c6a51ba">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>7c6a51ba</name>
+  <Placemark id="7c6a51ba.1">
+	<name>5859</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#7c6a51ba">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">194.987</SimpleData>
+		<SimpleData name="benchmark_number">160 оп, знак</SimpleData>
+		<SimpleData name="control_location">Линия № 2: Кызылорда - Торыустаган, 1 класс (3) Участок: грунт, реп, 5541 - фунд, реп, 9993</SimpleData>
+		<SimpleData name="benchmark_type">Шу, с,, в 5,3 км к зап, от него, в 0,2 км к юго-вост, от нов, стб, ЛЭП, в 35 м к югу от грунт, дороги с, Тасты - с, Шу, в 40 м к зап, от разрушенной могилы</SimpleData>
+		<SimpleData name="location_description">7c6a51ba-efc8-499f-bbf7-eb2d86439d6a</SimpleData>
+		<SimpleData name="status">data/stations/7c6a51ba.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/7c6a51ba.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>69.3533580590401,44.8169682038476</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="ced95f47" id="ced95f47">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>ced95f47</name>
+  <Placemark id="ced95f47.1">
+	<name>2801</name>
+	<description>ск.реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#ced95f47">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">743.461</SimpleData>
+		<SimpleData name="benchmark_number">99</SimpleData>
+		<SimpleData name="control_location">Линия № 1:Жарык-Моинты I класс                            Участок: грунт.реп. 6770-грунт.реп. 6236</SimpleData>
+		<SimpleData name="benchmark_type">Акшагыл, станц., в 5,0км к югу от нее, на 2ПК 1005км, в 27м к вост. от жел.-дор. полотна</SimpleData>
+		<SimpleData name="location_description">ced95f47-2411-44e1-9ad1-86d7588d648e</SimpleData>
+		<SimpleData name="status">data/stations/ced95f47.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/ced95f47.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.9166584378837,47.6379627309792</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

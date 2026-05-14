@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="3f20796b" id="3f20796b">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>3f20796b</name>
+  <Placemark id="3f20796b.1">
+	<name>1211</name>
+	<description>грунт.реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#3f20796b">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">188.517</SimpleData>
+		<SimpleData name="benchmark_number">146 оп</SimpleData>
+		<SimpleData name="control_location">Линия  № 1 : Карталы - Семиозерный, I класс                            Участок : грунт.реп.0859 - грунт.реп.1416</SimpleData>
+		<SimpleData name="benchmark_type">Тобол, станц., в 6.7 км к юго-вост.от нее, в начале 6 пк. 149 км жел.-дор.полотна, в 11 м к юго-вост.от створа стб.ЛЭП № 151 и 152</SimpleData>
+		<SimpleData name="location_description">3f20796b-4883-4b8f-a4cf-3086d124fb26</SimpleData>
+		<SimpleData name="status">data/stations/3f20796b.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/3f20796b.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>62.6781233282125,52.6654271644541</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

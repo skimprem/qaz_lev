@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="a1a61a7b" id="a1a61a7b">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>a1a61a7b</name>
+  <Placemark id="a1a61a7b.1">
+	<name>3381</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#a1a61a7b">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">675,566</SimpleData>
+		<SimpleData name="leveling_order">674,567</SimpleData>
+		<SimpleData name="control_height">в трубе</SimpleData>
+		<SimpleData name="benchmark_number">А оп</SimpleData>
+		<SimpleData name="control_location">Линия № 1 :       Акбулак - Чубартау,              I класс(1);  Участок : грунт.реп. 7183 - фунд.реп. 527</SimpleData>
+		<SimpleData name="benchmark_type">Курбаканас, р., в 15,0 км к зап. от нее, в 9,6 км к сев.-вост. от к. Когускен, в 71 м к сев. от дороги гор. Каркаралинск - с.Баршатас (Чубартау)</SimpleData>
+		<SimpleData name="location_description">a1a61a7b-fca1-4855-921f-168a7c2fcd27</SimpleData>
+		<SimpleData name="status">data/stations/a1a61a7b.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/a1a61a7b.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>78.1823261379856,48.2264844959072</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

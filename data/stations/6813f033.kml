@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="6813f033" id="6813f033">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>6813f033</name>
+  <Placemark id="6813f033.1">
+	<name>2742</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#6813f033">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">333.977</SimpleData>
+		<SimpleData name="benchmark_number">161 оп.знак</SimpleData>
+		<SimpleData name="control_location">Линия №1: Кзыл-Сенгир - р.Кон, II класс (2)</SimpleData>
+		<SimpleData name="benchmark_type">Тасмола, зим., в 4.1 км к сев.от нее, в 2.1 км кюгу от с.Отарбай, в 70 м к зап.от дороги с.Отарбай-с.Баршино</SimpleData>
+		<SimpleData name="location_description">6813f033-0c99-48d8-a7c2-c54fdfd34d2e</SimpleData>
+		<SimpleData name="status">data/stations/6813f033.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/6813f033.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>69.4953513333796,49.9692231337768</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

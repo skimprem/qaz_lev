@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="d41731f2" id="d41731f2">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>d41731f2</name>
+  <Placemark id="d41731f2.1">
+	<name>7882</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#d41731f2">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">245.250</SimpleData>
+		<SimpleData name="leveling_order">385.580</SimpleData>
+		<SimpleData name="control_height">Контрольный репер № 2408 в верхней плоскости монолига</SimpleData>
+		<SimpleData name="control_location">Линия № 3: Есиль - Державинск, II класс (3)
+Участок: фунд.реп.3198 - пкр.З кл.Конская</SimpleData>
+		<SimpleData name="benchmark_type">Есиль, станция, в 15.5 км к юго-зап.от от нее, на 9 пикете 17 км жел.дор., в
+0.2 км к вост.от оси жел.-дор.полотна</SimpleData>
+		<SimpleData name="location_description">d41731f2-fee4-4e66-b505-ffc0240c6594</SimpleData>
+		<SimpleData name="status">data/stations/d41731f2.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/d41731f2.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>66.2617996896906,51.8445437527116</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="58620131" id="58620131">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>58620131</name>
+  <Placemark id="58620131.1">
+	<name>Карабута</name>
+	<description>пирамида</description>
+	<ExtendedData><SchemaData schemaUrl="#58620131">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">740.114</SimpleData>
+		<SimpleData name="benchmark_number">37 оп</SimpleData>
+		<SimpleData name="control_location">Линия № 3: Карабута – Белая Школа, II класс , Участок: фунд.реп. 131 – ск.реп. 2274</SimpleData>
+		<SimpleData name="benchmark_type">Карабута, с., в 1.1 км к зап. от него, в 2.0 км к вост. от р. Лай, у полевой дороги</SimpleData>
+		<SimpleData name="location_description">58620131-110e-43f2-a268-2ff069d078be</SimpleData>
+		<SimpleData name="status">data/stations/58620131.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/58620131.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>82.5651810717313,46.8781785261332</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

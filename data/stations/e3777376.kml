@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="e3777376" id="e3777376">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>e3777376</name>
+  <Placemark id="e3777376.1">
+	<name>8028</name>
+	<name>фундаментальный репер</name>
+	<ExtendedData><SchemaData schemaUrl="#e3777376">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">479,127</SimpleData>
+		<SimpleData name="leveling_order">477,027</SimpleData>
+		<SimpleData name="control_height">Контрольный репер № 8027 в фундаментной плите</SimpleData>
+		<SimpleData name="benchmark_number">161оп</SimpleData>
+		<SimpleData name="control_location">Линия № 1:Каржунколь-Степное,  II класс (1) Участок : ск.реп.1186-ск.реп.1207</SimpleData>
+		<SimpleData name="benchmark_type">Тельманское, с., в 10,5 км к сев.-зап. от него, в 7,8 км к вост. от лет. Ключи, в 0,1 км к зап. от полевой дороги</SimpleData>
+		<SimpleData name="location_description">e3777376-e1e9-413d-97d2-b1e18d0c40ee</SimpleData>
+		<SimpleData name="status">data/stations/e3777376.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/e3777376.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>73.238669589571,50.9189572734125</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

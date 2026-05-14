@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="bad9cf2c" id="bad9cf2c">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>bad9cf2c</name>
+  <Placemark id="bad9cf2c.1">
+	<name>0088</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#bad9cf2c">
+		<SimpleData name="type">ІІ</SimpleData>
+		<SimpleData name="view">373.152</SimpleData>
+		<SimpleData name="benchmark_number">160</SimpleData>
+		<SimpleData name="control_location">Линия № 3: Кызыл-Джар - фунд.реп. 2723, ІІ класс (4) Участок: грунт.реп. 20 - грунт.реп. 0764</SimpleData>
+		<SimpleData name="benchmark_type">Жомарт, с., в 6.1 км к сев-зап от него, в70 м к вост от мог. Самбуга, в 40 м к зап от дороги с. Тогускен - с. Шалгинский</SimpleData>
+		<SimpleData name="location_description">bad9cf2c-4e74-4666-aaab-a017f2aa7e4e</SimpleData>
+		<SimpleData name="status">data/stations/bad9cf2c.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/bad9cf2c.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>70.0037878746072,48.1559612240847</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

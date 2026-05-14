@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="fdf71617" id="fdf71617">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>fdf71617</name>
+  <Placemark id="fdf71617.1">
+	<name>24</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#fdf71617">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">261,015</SimpleData>
+		<SimpleData name="control_location">Линия № 1: Жезказган - Сарысу. II класс (1) Участок: грунт, реп. 683 - грунт, реп. 626</SimpleData>
+		<SimpleData name="benchmark_type">Койкун, кладб., в 2.7 км к сев.-зап. от него, в 0.5 км к вост. от км. стб. 92 по шоссе гор. Жезказган - гор.
+Кызылорда</SimpleData>
+		<SimpleData name="location_description">fdf71617-d428-40f6-84de-54e00cd93d72</SimpleData>
+		<SimpleData name="status">data/stations/fdf71617.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/fdf71617.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.8005647163453,47.0244518929182</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

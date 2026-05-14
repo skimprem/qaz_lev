@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="be9291e8" id="be9291e8">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>be9291e8</name>
+  <Placemark id="be9291e8.1">
+	<name>233</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#be9291e8">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">634,030</SimpleData>
+		<SimpleData name="benchmark_number">160оп</SimpleData>
+		<SimpleData name="control_location">Линия № 1:Каржунколь-Степное,  II класс (1) Участок : ск.реп.1186-ск.реп.1207</SimpleData>
+		<SimpleData name="benchmark_type">Белодымская Дача, кордон, в 6,0 км к югу от него, в 2,1 км к сев. от пересыхающей р. Карабука, в 0,6 км к вост. от полевой дороги</SimpleData>
+		<SimpleData name="location_description">be9291e8-9450-46ee-8f0d-77152d0c988c</SimpleData>
+		<SimpleData name="status">data/stations/be9291e8.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/be9291e8.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>73.2466940782005,51.1968576988279</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

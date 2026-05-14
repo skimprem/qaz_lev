@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="cc6ee775" id="cc6ee775">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>cc6ee775</name>
+  <Placemark id="cc6ee775.1">
+	<name>297</name>
+	<name>грунт. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#cc6ee775">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">573.655</SimpleData>
+		<SimpleData name="leveling_order">572.369</SimpleData>
+		<SimpleData name="control_height">репер № 876 в фундаментной плите</SimpleData>
+		<SimpleData name="benchmark_number">116</SimpleData>
+		<SimpleData name="control_location">Линия№ 2: Эмбек - Буран, II класс (1) Участок: ск. реп. 410 - фунд. реп. 2290</SimpleData>
+		<SimpleData name="benchmark_type">Алексеевка, с., в 6.0 км к юго-зап. от него, в 20 м к зап. от дороги с. Алексеевка - с. Буран</SimpleData>
+		<SimpleData name="location_description">cc6ee775-535c-43ce-85c8-d55447590d62</SimpleData>
+		<SimpleData name="status">data/stations/cc6ee775.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/cc6ee775.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>85.6794933016554,48.375793266294</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

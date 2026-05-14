@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="b144ae41" id="b144ae41">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>b144ae41</name>
+  <Placemark id="b144ae41.1">
+	<name>400</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#b144ae41">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">360,845</SimpleData>
+		<SimpleData name="control_location">Линия № 3: Сасыккудык - фунд. реп. 2723, 2 класс (1,2) Участок: фунд. реп. 3245 - грунт. реп. 1215</SimpleData>
+		<SimpleData name="benchmark_type">Бектыбай, кладб., в 3.6 км к сев.-зап. от него, в 0.4 км к вост, от кладб. Корганбай, в 20 м к сев. от развилки полевой дороги</SimpleData>
+		<SimpleData name="location_description">b144ae41-6677-4422-9034-7b346ddbf812</SimpleData>
+		<SimpleData name="status">data/stations/b144ae41.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/b144ae41.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>69.8225634942602,47.3612920562198</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

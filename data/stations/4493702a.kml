@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="4493702a" id="4493702a">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>4493702a</name>
+  <Placemark id="4493702a.1">
+	<name>1190</name>
+	<name>марка</name>
+	<ExtendedData><SchemaData schemaUrl="#4493702a">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">467,930</SimpleData>
+		<SimpleData name="control_height">марка на высоте 1.40 м от земли</SimpleData>
+		<SimpleData name="benchmark_number">144</SimpleData>
+		<SimpleData name="control_location">Линия № 1: Локоть-Защита, II класс (4) Участок: марка 1406-марка 1054</SimpleData>
+		<SimpleData name="benchmark_type">Аврора, станц., в 4.5 км к юго-вост. от нее, 173-й км, во втором устое жел.-дор. трубы, с южной стороны</SimpleData>
+		<SimpleData name="location_description">4493702a-b753-4ea2-9667-dc7450f67535</SimpleData>
+		<SimpleData name="status">data/stations/4493702a.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/4493702a.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>82.1629000527714,50.3529531779842</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

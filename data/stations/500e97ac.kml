@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="500e97ac" id="500e97ac">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>500e97ac</name>
+  <Placemark id="500e97ac.1">
+	<name>508</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#500e97ac">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">79,694</SimpleData>
+		<SimpleData name="control_location">Линия № 1: Развалины Пикета № 8 - Сарысу,2 класс (1)Ход от грунт, реп. 919 до фунд. реп. 701, 2 класс (2) </SimpleData>
+		<SimpleData name="benchmark_type">Тюткен Зап., пир. 3 кл., в 5.7 км к зап. от нее, в 2.5 км к юго-вост, от арт. к. Таскара</SimpleData>
+		<SimpleData name="location_description">500e97ac-e0f9-4519-a689-16597752613b</SimpleData>
+		<SimpleData name="status">data/stations/500e97ac.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/500e97ac.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>66.3287014917978,46.0315676056719</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

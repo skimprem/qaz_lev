@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="23e1417b" id="23e1417b">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>23e1417b</name>
+  <Placemark id="23e1417b.1">
+	<name>IV</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#23e1417b">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">554.088</SimpleData>
+		<SimpleData name="benchmark_number">130</SimpleData>
+		<SimpleData name="control_location">Линия №21: марка 2482 - пир. с 726 км, II класс (3)</SimpleData>
+		<SimpleData name="benchmark_type">Караганда, гор., в 1.4 км к юго-зап. от шахты №56, в 0.8 км к сев. от жел.-дор. казармы 724 км</SimpleData>
+		<SimpleData name="location_description">23e1417b-16c1-4914-86e4-8900b7073cab</SimpleData>
+		<SimpleData name="status">data/stations/23e1417b.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/23e1417b.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>73.1721329167478,49.8507325927361</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

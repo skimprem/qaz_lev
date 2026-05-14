@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="b26f081a" id="b26f081a">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>b26f081a</name>
+  <Placemark id="b26f081a.1">
+	<name>1369</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#b26f081a">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">113.667</SimpleData>
+		<SimpleData name="benchmark_number">121</SimpleData>
+		<SimpleData name="control_location">Линия:Урлютюп-Шипицыно.II класс(2) Участок: фнд.рп.310-фнд.рп.160</SimpleData>
+		<SimpleData name="benchmark_type">Лесное,с.,в 1.4 км к востоку от склада горючего,в 34 км вправо от дороги в с.Новопетропавловка (нежил.)</SimpleData>
+		<SimpleData name="location_description">b26f081a-53f7-4393-a794-dc846eaa10ab</SimpleData>
+		<SimpleData name="status">data/stations/b26f081a.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/b26f081a.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.4881495781509,53.9516875030851</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

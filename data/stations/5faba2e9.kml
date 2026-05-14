@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="5faba2e9" id="5faba2e9">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>5faba2e9</name>
+  <Placemark id="5faba2e9.1">
+	<name>3850</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#5faba2e9">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">210,859</SimpleData>
+		<SimpleData name="control_location">Линия № 4: Кендырлык (Айгарлык) грунт. реп. 9617, II класс (2) Участок: фунд. реп. 25 - грунт. реп. 284 </SimpleData>
+		<SimpleData name="benchmark_type">Караганкудук, к., в 3.2 км к юго-вост. от него, в 60 м к югу от полевой дороги,                    в 50 м к зап. от нефтепровода</SimpleData>
+		<SimpleData name="location_description">5faba2e9-ba32-437b-8993-d2585032de0b</SimpleData>
+		<SimpleData name="status">data/stations/5faba2e9.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/5faba2e9.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>68.3434044312398,46.0150937587272</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

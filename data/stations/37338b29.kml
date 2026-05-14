@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="37338b29" id="37338b29">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>37338b29</name>
+  <Placemark id="37338b29.1">
+	<name>6782</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#37338b29">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">516.812</SimpleData>
+		<SimpleData name="benchmark_number">146</SimpleData>
+		<SimpleData name="control_location">Линия №6: грунт.реп. 1008 - пир. 4 кл. Цемзавод, II класс (3)</SimpleData>
+		<SimpleData name="benchmark_type">Компанейск, с., в 0.4 км к югу от него, в 0.3 км к юго-вост. от кладбища</SimpleData>
+		<SimpleData name="location_description">37338b29-e48e-4133-803f-8c494ccfc1e6</SimpleData>
+		<SimpleData name="status">data/stations/37338b29.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/37338b29.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>73.1813678340091,49.9380940851985</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

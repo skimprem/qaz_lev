@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="f7365b2c" id="f7365b2c">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>f7365b2c</name>
+  <Placemark id="f7365b2c.1">
+	<name>6773</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#f7365b2c">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">589.317</SimpleData>
+		<SimpleData name="benchmark_number">146</SimpleData>
+		<SimpleData name="control_location">Линия №26: пир. 4 кл. Ушоба - пир. 4 кл. Связующий, II класс (3)</SimpleData>
+		<SimpleData name="benchmark_type">Караганда, гор., в 3.6 км к юго-вост. от аэропорта, в 2.7 км к югу от вдхр.</SimpleData>
+		<SimpleData name="location_description">f7365b2c-0a31-49c4-9833-61699f823f2d</SimpleData>
+		<SimpleData name="status">data/stations/f7365b2c.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/f7365b2c.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>73.1923780150397,49.7926056582351</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

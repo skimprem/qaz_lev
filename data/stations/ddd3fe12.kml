@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="ddd3fe12" id="ddd3fe12">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>ddd3fe12</name>
+  <Placemark id="ddd3fe12.1">
+	<name>8488</name>
+	<description>грунт. реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#ddd3fe12">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">137.361</SimpleData>
+		<SimpleData name="benchmark_number">146 оп</SimpleData>
+		<SimpleData name="control_location">Линия № 1: Аще-Бутак = Сарысай,  II класс Участок: пир. 3 кл. Жамартмола - грунт.реп. 580      </SimpleData>
+		<SimpleData name="benchmark_type">Шенбертал, с., в 0.7 км к сев.-зап. от него, в 0.7 км к сев.-вост. от р. Ыргыз,  в 21 м к сев. от дороги  с.Шенбертал-с.Карасай</SimpleData>
+		<SimpleData name="leveling_line_section">утрачен</SimpleData>
+		<SimpleData name="location_description">ddd3fe12-c836-406a-aef2-763e801e01eb</SimpleData>
+		<SimpleData name="status">data/stations/ddd3fe12.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/ddd3fe12.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>60.2694285238097,48.7285331480284</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="3a34d66d" id="3a34d66d">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>3a34d66d</name>
+  <Placemark id="3a34d66d.1">
+	<name>3535</name>
+	<name>грунт,реп,</name>
+	<ExtendedData><SchemaData schemaUrl="#3a34d66d">
+		<SimpleData name="type">I</SimpleData>
+		<SimpleData name="view">356.407</SimpleData>
+		<SimpleData name="benchmark_number">160 оп</SimpleData>
+		<SimpleData name="control_location">Линия № 2: Петропавловск - Астана (Целиноград) I класс (I)
+Участок: грунт,реп, 4004 - фунд,реп, 483</SimpleData>
+		<SimpleData name="benchmark_type">Астана, станция, в 1,8 км к юго-вост, от нее, на 9 пк 493
+км жел,дор,, в 39 м к сев, от стб, ЛЭП № 1201, в 15 м к
+сев, от жел,-дор, Полотна</SimpleData>
+		<SimpleData name="leveling_line_section">1,Репер не найден, Утрачены внешние ориентиры</SimpleData>
+		<SimpleData name="location_description">3a34d66d-10a6-4406-90df-3c9f013edd2b</SimpleData>
+		<SimpleData name="status">data/stations/3a34d66d.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/3a34d66d.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>71.4376365820441,51.1879434451576</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

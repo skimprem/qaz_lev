@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="60c8c503" id="60c8c503">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>60c8c503</name>
+  <Placemark id="60c8c503.1">
+	<name>91612</name>
+	<name>грунт,реп,</name>
+	<ExtendedData><SchemaData schemaUrl="#60c8c503">
+		<SimpleData name="type">I</SimpleData>
+		<SimpleData name="view">382.353</SimpleData>
+		<SimpleData name="leveling_order">380,483</SimpleData>
+		<SimpleData name="control_height">Контрольный репер №1286 в верхней плоскости монолита </SimpleData>
+		<SimpleData name="benchmark_number">121</SimpleData>
+		<SimpleData name="control_location">Линия №1: Петропавловск-Астана(Целиноград), I класса (I) Участок: грунт,реп,2916-грунт,реп,4007</SimpleData>
+		<SimpleData name="benchmark_type">Алексеевка, гор,, в 3,9 км к юго-вост, от него, на 6 пк 394 км, в 47 м к зап, от     жел,-дор,плотна</SimpleData>
+		<SimpleData name="location_description">60c8c503-399d-41c6-aca5-21b0dc32ab2c</SimpleData>
+		<SimpleData name="status">data/stations/60c8c503.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/60c8c503.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>70.9621495943838,51.9439296417716</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

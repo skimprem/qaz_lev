@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="baa24340" id="baa24340">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>baa24340</name>
+  <Placemark id="baa24340.1">
+	<name>0370</name>
+	<name>ск.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#baa24340">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">1676.224</SimpleData>
+		<SimpleData name="benchmark_number">99</SimpleData>
+		<SimpleData name="control_location">Линия № 8: Чилик-Кольбастау, II класс, Участок: грунт. реп. 2543-фунд. реп. 8059</SimpleData>
+		<SimpleData name="benchmark_type">Турайгыр, пер., в 1.5 км к сев.-вост. от него, в 25 м к юго-вост. от тлгр. стб. б/№</SimpleData>
+		<SimpleData name="location_description">baa24340-e1c7-4b73-877e-8ebb4455be8a</SimpleData>
+		<SimpleData name="status">data/stations/baa24340.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/baa24340.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>78.7265875605754,43.311603393186</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="c214d626" id="c214d626">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>c214d626</name>
+  <Placemark id="c214d626.1">
+	<name>2859</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#c214d626">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">124.182</SimpleData>
+		<SimpleData name="benchmark_number">121</SimpleData>
+		<SimpleData name="control_location">Линия №2: Волотовка-Чапаевский, II класс. Участок:  грунт. реп. 2859-фунд. реп. 156 </SimpleData>
+		<SimpleData name="benchmark_type">Голубовка, с., в 12,6 км к юго-зап. От него, по дороге а с. Сладководск, в 3,0 км к югу от оз. Бокенсор, в 29 м к югу от полевой дороги</SimpleData>
+		<SimpleData name="location_description">c214d626-80bc-48ac-b717-e9bb281da055</SimpleData>
+		<SimpleData name="status">data/stations/c214d626.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/c214d626.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>74.0164390123357,53.0527995980214</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

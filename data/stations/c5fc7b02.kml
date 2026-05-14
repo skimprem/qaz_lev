@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="c5fc7b02" id="c5fc7b02">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>c5fc7b02</name>
+  <Placemark id="c5fc7b02.1">
+	<name>556</name>
+	<name>грунт. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#c5fc7b02">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">382.847</SimpleData>
+		<SimpleData name="leveling_order">381.814</SimpleData>
+		<SimpleData name="control_height">Контрольный репер в трубе</SimpleData>
+		<SimpleData name="benchmark_number">118</SimpleData>
+		<SimpleData name="control_location">Ход от грунт. реп. 534 до фунд. реп. 25, II класс (3)</SimpleData>
+		<SimpleData name="benchmark_type">Казахстан, с., в 0.8 км к зап. от него, в 0.1 км к сев.-зап. от шоссе гор. Учарал – с. Рыбачье</SimpleData>
+		<SimpleData name="leveling_line_section">утрачен</SimpleData>
+		<SimpleData name="location_description">c5fc7b02-edb6-470e-9949-5f4788aec5f7</SimpleData>
+		<SimpleData name="status">data/stations/c5fc7b02.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/c5fc7b02.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>81.0008131326957,46.193099466381</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

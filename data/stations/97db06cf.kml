@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="97db06cf" id="97db06cf">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>97db06cf</name>
+  <Placemark id="97db06cf.1">
+	<name>8464</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#97db06cf">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">241.792</SimpleData>
+		<SimpleData name="control_height">репер №628 в верхней плоскости монолита</SimpleData>
+		<SimpleData name="benchmark_number">107 (уничтожен)</SimpleData>
+		<SimpleData name="control_location">Линия №3: Володарское - Сергеевка, II класс. Участок: грунт.реп. 8034 - фунд.реп. 0709</SimpleData>
+		<SimpleData name="benchmark_type">Междуозерное, с., в 1.0 км к юго-вост.от него, в 1.6 км к сев.-зап.от г.Сырымбет, в 25 м к зап.от шоссе с. Междуозерное - с. Саумалколь</SimpleData>
+		<SimpleData name="location_description">97db06cf-ff45-440b-843b-69a938e2f2f9</SimpleData>
+		<SimpleData name="status">data/stations/97db06cf.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/97db06cf.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.9652419566679,53.437804561116</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

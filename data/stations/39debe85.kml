@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="39debe85" id="39debe85">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>39debe85</name>
+  <Placemark id="39debe85.1">
+	<name>6017</name>
+	<name>грунт,реп</name>
+	<ExtendedData><SchemaData schemaUrl="#39debe85">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">172.194</SimpleData>
+		<SimpleData name="leveling_order">170,871</SimpleData>
+		<SimpleData name="control_height">репер в верхней плоскости монолита</SimpleData>
+		<SimpleData name="benchmark_number">131</SimpleData>
+		<SimpleData name="control_location">Линия №1: Аральск (Аральское море)-Арыс, 1 класс, Участок: марка б/№- грунт,реп, 2850, Ход от фунд,реп, 157 до грунт, Реп, 1194, 1 класс (2)</SimpleData>
+		<SimpleData name="benchmark_type">Аккум, станц,, в 0,4 км к югу от зд,вокзала, в 0,3 км к юго-зап, От жел,-дор, Полотна, в 0,2 км к сев,-вост, От канала, </SimpleData>
+		<SimpleData name="location_description">39debe85-57de-4ecc-b449-1600066bf028</SimpleData>
+		<SimpleData name="status">data/stations/39debe85.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/39debe85.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.4148249163005,43.7083601115589</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

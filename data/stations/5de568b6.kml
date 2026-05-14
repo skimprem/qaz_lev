@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="5de568b6" id="5de568b6">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>5de568b6</name>
+  <Placemark id="5de568b6.1">
+	<name>1094</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#5de568b6">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">279.831</SimpleData>
+		<SimpleData name="leveling_order">240.466</SimpleData>
+		<SimpleData name="control_height">Контрольный репер № 23625 в верхней плоскости монолига</SimpleData>
+		<SimpleData name="benchmark_number">121</SimpleData>
+		<SimpleData name="control_location">Линия № 3: Есиль - Державинск, II класс (3)
+Участок: фунд.реп.3198 - пкр.З кл.Конская</SimpleData>
+		<SimpleData name="benchmark_type">Кенское,с.,в 1.5 км к сев.от него,на 1 пикете 78 км жел.дор.,в 22 м к вост. от жел.-дор.полотна</SimpleData>
+		<SimpleData name="leveling_line_section">уничтожен</SimpleData>
+		<SimpleData name="location_description">5de568b6-128a-4abf-8787-15ea77c40a5d</SimpleData>
+		<SimpleData name="status">data/stations/5de568b6.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/5de568b6.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>66.3687660878937,51.3331893232</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

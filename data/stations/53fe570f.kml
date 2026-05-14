@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="53fe570f" id="53fe570f">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>53fe570f</name>
+  <Placemark id="53fe570f.1">
+	<name>4251</name>
+	<name>грунт. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#53fe570f">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="leveling_height">160 оп. знак</SimpleData>
+		<SimpleData name="benchmark_number">Линия № 1: Алажиде – Оз. Жаланашколь, I класс 
+Участок: грунт. реп. 7982 – грунт. реп. 5195
+</SimpleData>
+		<SimpleData name="control_location">Сапак, с., в 4.0 км к сев.-зап. от него, в 0.3 км к зап. от км. стб. 18/168 шоссе с. Кабанбай – станц. Дружба, в 5 м к вост. от 2-х анкерных стб. ЛЭП</SimpleData>
+		<SimpleData name="benchmark_type">L-44-78-Г</SimpleData>
+		<SimpleData name="location_description">53fe570f-1807-4e97-9ce0-285214a9d030</SimpleData>
+		<SimpleData name="status">data/stations/53fe570f.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/53fe570f.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>80.8273507279143,45.8090484264708</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="e2997305" id="e2997305">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>e2997305</name>
+  <Placemark id="e2997305.1">
+	<name>9293</name>
+	<description>грунт.реп</description>
+	<ExtendedData><SchemaData schemaUrl="#e2997305">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">97.208</SimpleData>
+		<SimpleData name="leveling_order">96.119</SimpleData>
+		<SimpleData name="control_height">Контрольный репер №133 в верхней плоскости монолита</SimpleData>
+		<SimpleData name="benchmark_number">121</SimpleData>
+		<SimpleData name="control_location">Линия №1: Аральск-Шалкар, 1 класс (1). Участок: грунт.реп. 0137 -грует.реп. 2495</SimpleData>
+		<SimpleData name="benchmark_type">Шиликты, разъезд, в 3.5 км к сев.-зап.от него , на 10 пикете 1107 км, в 50 м к сев. От км.стб.1107/118, в 46 м к сев.-вост.от жел.-дор.полотна</SimpleData>
+		<SimpleData name="leveling_line_section">не найден</SimpleData>
+		<SimpleData name="location_description">e2997305-6e63-4984-865f-872dc6b7fba5</SimpleData>
+		<SimpleData name="status">data/stations/e2997305.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/e2997305.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>60.6148701232959,47.5362693996896</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

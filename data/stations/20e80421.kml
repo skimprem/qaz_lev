@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="20e80421" id="20e80421">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>20e80421</name>
+  <Placemark id="20e80421.1">
+	<name>0787</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#20e80421">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">303,695</SimpleData>
+		<SimpleData name="benchmark_number">160оп</SimpleData>
+		<SimpleData name="control_location">Линия №6:Семиярское-Карасорский, II класс (1) Участок: грунт реп.462 -грунт.реп. 807</SimpleData>
+		<SimpleData name="benchmark_type">Скаккора, с., в 13.5 км к юго-зап. от него, в 3.8 км к сев.-зап. от зим.Колебай, в 3.0 км к зап. от разв., в 20 м к югу от пол.дороги.</SimpleData>
+		<SimpleData name="location_description">20e80421-bc42-4ab9-8818-ce432f2f2751</SimpleData>
+		<SimpleData name="status">data/stations/20e80421.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/20e80421.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>76.2025891389175,50.817290931231</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

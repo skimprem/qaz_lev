@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="1236771f" id="1236771f">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>1236771f</name>
+  <Placemark id="1236771f.1">
+	<name>ГА 40</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#1236771f">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">574.068</SimpleData>
+		<SimpleData name="control_location">Линия №20: фунд.реп. 7676-фунд.реп. 1060, II класс</SimpleData>
+		<SimpleData name="benchmark_type">Головановка,с.,в 0.5 км к зап.от него, в 12 к сев.от шоссе с . Ровное-с.Гловановка,в 2 м к югу от вдкч.,на территории МТФ</SimpleData>
+		<SimpleData name="location_description">1236771f-bd7e-41ba-8d3a-ed92b4c0f833</SimpleData>
+		<SimpleData name="status">data/stations/1236771f.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/1236771f.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>71.4578918959213,42.9647865132757</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

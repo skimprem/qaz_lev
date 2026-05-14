@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="e074e625" id="e074e625">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>e074e625</name>
+  <Placemark id="e074e625.1">
+	<name>8876</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#e074e625">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">331,175</SimpleData>
+		<SimpleData name="control_location">Участок: грунт. реп. 3663 - грунт.реп. 880</SimpleData>
+		<SimpleData name="benchmark_type">Туратсайган, к., в 15.7 км к сев.-вост. от него, в 0.5 км к вост. от пересечения грунт. дороги зим. Бетпак-Дала - с.Тасты с полевой дорогой, в 5 м к сев. от грунт. дороги</SimpleData>
+		<SimpleData name="location_description">e074e625-adb4-4653-a5cc-4df295f70611</SimpleData>
+		<SimpleData name="status">data/stations/e074e625.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/e074e625.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>69.8254387148653,46.0029147910105</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

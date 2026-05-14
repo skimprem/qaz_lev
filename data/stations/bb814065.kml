@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="bb814065" id="bb814065">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>bb814065</name>
+  <Placemark id="bb814065.1">
+	<name>2868</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#bb814065">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">325.714</SimpleData>
+		<SimpleData name="benchmark_number">160 оп</SimpleData>
+		<SimpleData name="control_location">Линия № 2: Терсаккан = Кзыл-Сенгир, II класс (2)  Участок: грунт.реп.2116 - фунд.реп.5003</SimpleData>
+		<SimpleData name="benchmark_type">Тенгиз,оз., в 6.7 км к юго-вост.от него, в 3.0 км к сев.-вост.от плотины, в 20 м к сев.от полевой доргоги</SimpleData>
+		<SimpleData name="location_description">bb814065-04e5-40b7-bfae-ef50a8b1cde0</SimpleData>
+		<SimpleData name="status">data/stations/bb814065.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/bb814065.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>69.0550753605068,50.1401845986218</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="b6920040" id="b6920040">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>b6920040</name>
+  <Placemark id="b6920040.1">
+	<name>2207</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#b6920040">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">319.595</SimpleData>
+		<SimpleData name="leveling_order">251.887</SimpleData>
+		<SimpleData name="benchmark_number">121</SimpleData>
+		<SimpleData name="control_location">Линия №3: Тасты=Бала=Терсаккан, II класс (1) Участок:фунд.реп.2608- грунт.реп.5382</SimpleData>
+		<SimpleData name="benchmark_type">Аркалык,гор.,в 7.8 км к юго-зап.от вкз.,в 7.2 км к юго-вост.от развилки шоссе гор.Аркалык-гор.Торгай и асф.дорогм на с.Алуа,в 1.0 км к юго-зап.от п.тр.Долинный,в 0.4 км к сев.от р.Ашут,в 14 м к юго-зап.от стар.пол.дороги.Имеет координаты</SimpleData>
+		<SimpleData name="location_description">b6920040-f051-4add-a797-946704ff8543</SimpleData>
+		<SimpleData name="status">data/stations/b6920040.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/b6920040.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>66.8303094801991,50.1924435061373</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

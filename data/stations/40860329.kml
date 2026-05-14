@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="40860329" id="40860329">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>40860329</name>
+  <Placemark id="40860329.1">
+	<name>258</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#40860329">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">257.622</SimpleData>
+		<SimpleData name="leveling_order">255.944</SimpleData>
+		<SimpleData name="benchmark_number">119 оп</SimpleData>
+		<SimpleData name="control_location">Линия №1: Челкар-Сарысай. II класс. Участок: грунт.реп. 3516-фунд.реп. 7680</SimpleData>
+		<SimpleData name="benchmark_type">Шалкар. станц.. в 90.8 км к сев.-вост. от неё. в 5.4 км к югу-зап. от дормастера Сарысай. в 0.4 км сев.-зап. от грейдера станц.Шалкар-с.Ыргыз. в 60 м к сев.-зап. от старой дороги станц.Шалкар-с.Ыргыз</SimpleData>
+		<SimpleData name="location_description">40860329-74de-420d-8d91-1fd721cad66b</SimpleData>
+		<SimpleData name="status">data/stations/40860329.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/40860329.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>60.4893039774679,48.3252193531898</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

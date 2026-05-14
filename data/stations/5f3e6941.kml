@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="5f3e6941" id="5f3e6941">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>5f3e6941</name>
+  <Placemark id="5f3e6941.1">
+	<name>932</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#5f3e6941">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">578.892</SimpleData>
+		<SimpleData name="control_location">Линия №11: фунд.реп. 5438-фунд.реп. 7676, II класс</SimpleData>
+		<SimpleData name="benchmark_type">Кумжота,с.,в 0.2 км к юго-зап.от него, в 0.2 км к сев.от края лесопосадки,в 15 м к вост.от ар. Утемыш</SimpleData>
+		<SimpleData name="location_description">5f3e6941-d32f-4e9b-9ca3-fdf03ca8d6b8</SimpleData>
+		<SimpleData name="status">data/stations/5f3e6941.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/5f3e6941.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>71.3967669733513,42.968783997726</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

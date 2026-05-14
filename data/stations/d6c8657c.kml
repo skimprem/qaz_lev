@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="d6c8657c" id="d6c8657c">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>d6c8657c</name>
+  <Placemark id="d6c8657c.1">
+	<name>5883</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#d6c8657c">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">615,265</SimpleData>
+		<SimpleData name="benchmark_number">160оп</SimpleData>
+		<SimpleData name="control_location">Линия №2: Коянды - Каркаралинск, II класс (2) Участок: грунт. реп. 71 - грунт. реп. 3423</SimpleData>
+		<SimpleData name="benchmark_type">Муржик, с., в 1,8 км к зап. от него, в 0,1 км к сев.-вост. от развалин, в 8 м к югу от дороги с.Муржик-свх.им.Абая</SimpleData>
+		<SimpleData name="location_description">d6c8657c-0a3a-4f62-8d21-06d58e264e75</SimpleData>
+		<SimpleData name="status">data/stations/d6c8657c.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/d6c8657c.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.2632807166774,50.0624604835492</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="dad2e6e8" id="dad2e6e8">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>dad2e6e8</name>
+  <Placemark id="dad2e6e8.1">
+	<name>44-847</name>
+	<name>скальный репер</name>
+	<ExtendedData><SchemaData schemaUrl="#dad2e6e8">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">801,561</SimpleData>
+		<SimpleData name="benchmark_number">99</SimpleData>
+		<SimpleData name="control_location">Линия № 1: Акбулак - Акозек, II класс (1) Участок: ск.реп. 12181 - грунт.реп. 1026</SimpleData>
+		<SimpleData name="benchmark_type">Татан, с., в 17.5 км к юго-зап. от него, в 0.2 км к юго-зап. от мог. и сух. к., в 80 м к югу от дороги с.Татан-с.Жорга.</SimpleData>
+		<SimpleData name="location_description">dad2e6e8-af06-4f6c-9379-470f2098e9fc</SimpleData>
+		<SimpleData name="status">data/stations/dad2e6e8.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/dad2e6e8.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>76.9097266943419,48.1309048997158</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

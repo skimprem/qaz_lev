@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="de355004" id="de355004">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>de355004</name>
+  <Placemark id="de355004.1">
+	<name>2427</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#de355004">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">105.89</SimpleData>
+		<SimpleData name="benchmark_number">121</SimpleData>
+		<SimpleData name="control_location">Линия:Урлютюп - Шипицыно.II класс(2) Участок: фнд.рп.310-фнд.рп.160</SimpleData>
+		<SimpleData name="benchmark_type">Степное,с.,в 6.8 км к сев.-вост. от него,в 4.5 км к.юго-зап.от   с.Узынкамыс,в 37 м вправо   от дороги с. Степное- c. Узынкамыс, в 0.1 км к востоку от пересечения этой дороги с полевой дрогой </SimpleData>
+		<SimpleData name="location_description">de355004-2e5e-4427-87a1-b7af6dd39ed3</SimpleData>
+		<SimpleData name="status">data/stations/de355004.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/de355004.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.357080391379,53.7643697934332</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="dec062a2" id="dec062a2">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>dec062a2</name>
+  <Placemark id="dec062a2.1">
+	<name>1231</name>
+	<description>фунд. реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#dec062a2">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">168.198</SimpleData>
+		<SimpleData name="leveling_order">167.244</SimpleData>
+		<SimpleData name="leveling_height">Контрольный репер № 3441 в фундаментной плите</SimpleData>
+		<SimpleData name="benchmark_number">104 оп. знак</SimpleData>
+		<SimpleData name="control_location">Линия № 1 : Аральск - Шалкар, I класс. Участок: фунд. реп. 1231 - грунт. реп. 8446</SimpleData>
+		<SimpleData name="benchmark_type">Шокысу, станц., в 0.8 км к юго-вост. от здания вокзала, на 10 пк 2294 км, в 98 м к сев.-вост. от км. стб. 2294/2295</SimpleData>
+		<SimpleData name="location_description">dec062a2-e2fa-4201-8954-11ae10511788</SimpleData>
+		<SimpleData name="status">data/stations/dec062a2.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/dec062a2.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>60.9991191141886,47.2414208521823</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

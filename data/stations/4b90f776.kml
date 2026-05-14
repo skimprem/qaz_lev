@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="4b90f776" id="4b90f776">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>4b90f776</name>
+  <Placemark id="4b90f776.1">
+	<name>3225</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#4b90f776">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">338.456</SimpleData>
+		<SimpleData name="control_height">Контрольный репер в верхней плоскости монолита</SimpleData>
+		<SimpleData name="benchmark_number">121</SimpleData>
+		<SimpleData name="control_location">Линия №2: Терсаккан=Бала-Терсаккан, II класс (1) Участок: грунт.реп.3371 - грунт.реп.2910</SimpleData>
+		<SimpleData name="benchmark_type">Целинное,с.,в 3.0 км к сев.-вост.от него,в 2.0 км к сев.от развалин,у дороги с.Целинное-с.Молодежное</SimpleData>
+		<SimpleData name="leveling_line_section">уничтожен</SimpleData>
+		<SimpleData name="location_description">4b90f776-2fc8-4c68-9e0e-18897a5c8581</SimpleData>
+		<SimpleData name="status">data/stations/4b90f776.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/4b90f776.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.3628635551598,50.131372866517</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

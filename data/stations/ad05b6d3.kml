@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="ad05b6d3" id="ad05b6d3">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>ad05b6d3</name>
+  <Placemark id="ad05b6d3.1">
+	<name>80</name>
+	<name>грунт. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#ad05b6d3">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">406.562</SimpleData>
+		<SimpleData name="leveling_order">405.048</SimpleData>
+		<SimpleData name="control_height">репер № 10 в фундаментной плите</SimpleData>
+		<SimpleData name="benchmark_number">116</SimpleData>
+		<SimpleData name="control_location">Линия: № 1: Эмбек-Берёзовка, II класс (1) Участок: грунт. реп. 280-грунт. реп. 340</SimpleData>
+		<SimpleData name="benchmark_type">Большенарымское, с., в 0.5 км к сев. от него, в 0.2 км к сев.-вост. от памятника, в 10 м к югу от дороги гор. Усть-Каменогорск-с. Катон-Карагай</SimpleData>
+		<SimpleData name="location_description">ad05b6d3-a072-4dc5-b76d-592f1262e322</SimpleData>
+		<SimpleData name="status">data/stations/ad05b6d3.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/ad05b6d3.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.504023667919,49.2187590664213</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

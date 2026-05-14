@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="6313b542" id="6313b542">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>6313b542</name>
+  <Placemark id="6313b542.1">
+	<name>905</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#6313b542">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">165,274</SimpleData>
+		<SimpleData name="leveling_order">162,644</SimpleData>
+		<SimpleData name="control_height">Контрольный репер №787 в верхней плоскости монолита. </SimpleData>
+		<SimpleData name="benchmark_number">121</SimpleData>
+		<SimpleData name="control_location">Ход от грунт.реп.938 до грунт.реп. 181, II  класс (4). Участок: грунт.реп. 141-грунт.реп. 181</SimpleData>
+		<SimpleData name="benchmark_type">Малый Тогызбай, пол.ст., в 8,0 км к зап.от него, в 2,5 км к юго-вост.от оз.Монтый, в 38 м к сев.от полевой дороги</SimpleData>
+		<SimpleData name="leveling_line_section">уничтожен</SimpleData>
+		<SimpleData name="location_description">6313b542-a2d6-4bda-88c5-46aa131739f0</SimpleData>
+		<SimpleData name="status">data/stations/6313b542.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/6313b542.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.9404246957278,50.9644533906103</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

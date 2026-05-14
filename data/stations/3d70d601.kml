@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="3d70d601" id="3d70d601">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>3d70d601</name>
+  <Placemark id="3d70d601.1">
+	<name>527</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#3d70d601">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">741,294</SimpleData>
+		<SimpleData name="leveling_order">738,867</SimpleData>
+		<SimpleData name="control_height">Контрольный репер в верхней плоскости монолита</SimpleData>
+		<SimpleData name="benchmark_number">121оп</SimpleData>
+		<SimpleData name="control_location">Ход от грунт.реп. 528 до грунт.реп. 525, II класс (5)</SimpleData>
+		<SimpleData name="benchmark_type">Бесоба, с., в 9,1 км к сев.-вост.от него, в 5,0 км к юго-вост.от п.тр.Нура в 0,4 км к сев.от ЛЭП в 150 м к сев.от развилки полевой дороги</SimpleData>
+		<SimpleData name="location_description">3d70d601-f78a-4d62-bae9-18368acc1c9f</SimpleData>
+		<SimpleData name="status">data/stations/3d70d601.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/3d70d601.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>74.5973959199675,49.351954596806</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

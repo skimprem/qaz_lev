@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="05c66a49" id="05c66a49">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>05c66a49</name>
+  <Placemark id="05c66a49.1">
+	<name>1820</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#05c66a49">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">329.580</SimpleData>
+		<SimpleData name="benchmark_number">160 оп.знак</SimpleData>
+		<SimpleData name="control_location">Линия № 3: Володарское - Максимовка, II класс Участок: фунд. реп. 4925 - стен. реп.21801</SimpleData>
+		<SimpleData name="benchmark_type">Копа, с., в 10.3 км к юго-вост. от него, в 3.0 км к югу от кладбища, в 50 м к вост. от моста</SimpleData>
+		<SimpleData name="location_description">05c66a49-5797-4894-ba2c-dd2af6391d4c</SimpleData>
+		<SimpleData name="status">data/stations/05c66a49.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/05c66a49.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>68.1805089815628,53.003837356271</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

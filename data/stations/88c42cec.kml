@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="88c42cec" id="88c42cec">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>88c42cec</name>
+  <Placemark id="88c42cec.1">
+	<name>11</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#88c42cec">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">321.795</SimpleData>
+		<SimpleData name="control_height">Контрольный репер №9014 в фундаментальной плите</SimpleData>
+		<SimpleData name="benchmark_number">Б</SimpleData>
+		<SimpleData name="control_location">Линия №2: Целиноград-Жумай, ll (l)  Ход от грунт. Реп. 8 до грунт. Реп. 15  класс(3). Участок: грунт. Реп. 10-грунт. Реп. 14</SimpleData>
+		<SimpleData name="benchmark_type">Майшукыр с., в 6,8 км к юго-зап. От него, в 0,7 км к вост. От оз.Байбота, в 0,2 км к зап. От края пашни</SimpleData>
+		<SimpleData name="location_description">88c42cec-b959-45b7-870b-7ca25cd1ac2a</SimpleData>
+		<SimpleData name="status">data/stations/88c42cec.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/88c42cec.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>69.8869571870968,50.7193625053274</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

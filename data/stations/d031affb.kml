@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="d031affb" id="d031affb">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>d031affb</name>
+  <Placemark id="d031affb.1">
+	<name>98</name>
+	<description>фунд. реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#d031affb">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">96.971</SimpleData>
+		<SimpleData name="leveling_order">96.002</SimpleData>
+		<SimpleData name="leveling_height">контрольный репер № 216 в фундаментной плите</SimpleData>
+		<SimpleData name="benchmark_number">104 оп. знак</SimpleData>
+		<SimpleData name="control_location">Линия №1 : Аральск - Тактайконыр, I класс. Участок: грунт. реп. 9144 - грунт. реп. 8047</SimpleData>
+		<SimpleData name="benchmark_type">Мамбет, буг., в 18.2 км к сев. от него, в 3.7 км к юго-зап. от кладб. Доскана, в 0.1 км к вост. от полевой дороги</SimpleData>
+		<SimpleData name="location_description">d031affb-9a4e-474d-86a2-862ea2d11ad0</SimpleData>
+		<SimpleData name="status">data/stations/d031affb.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/d031affb.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>61.5067093322251,47.6097616655056</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

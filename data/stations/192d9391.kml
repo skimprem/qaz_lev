@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="192d9391" id="192d9391">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>192d9391</name>
+  <Placemark id="192d9391.1">
+	<name>53</name>
+	<description>грун.репер</description>
+	<ExtendedData><SchemaData schemaUrl="#192d9391">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">57.123</SimpleData>
+		<SimpleData name="leveling_order">55.320</SimpleData>
+		<SimpleData name="leveling_height">Контрольный репер  в верхней плоскости монолита</SimpleData>
+		<SimpleData name="benchmark_number">121 оп.</SimpleData>
+		<SimpleData name="control_location">Линия №3: Кошкарата-Аральск,             I классУчасток: грунт.реп. б/№-фунд.реп.5059</SimpleData>
+		<SimpleData name="benchmark_type">Шырганак, раз., в 5.7 км к югу от него, в 2.7 км к сев.-вост.от зим. Сарышыганак, в 30 м к сев.от полевой дороги</SimpleData>
+		<SimpleData name="location_description">192d9391-262a-450b-b6b8-00ace0f522d4</SimpleData>
+		<SimpleData name="status">data/stations/192d9391.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/192d9391.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>61.5130206663067,46.8482224021815</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="c01714d9" id="c01714d9">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>c01714d9</name>
+  <Placemark id="c01714d9.1">
+	<name>9045</name>
+	<name>грунт. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#c01714d9">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">409,928</SimpleData>
+		<SimpleData name="benchmark_number">146оп</SimpleData>
+		<SimpleData name="control_location">Линия №49: Семипалатинск - Каркаралинск, 2 класс (6)   Участок: грунт. реп 8824 - грунт. реп. 2762</SimpleData>
+		<SimpleData name="benchmark_type">Саржал, с., в 7.8 км к сев.-вост. от него, в 42 м к сев.-зап. от дороги с. Саржал - с. Знаменка, у км. стб. 132/138</SimpleData>
+		<SimpleData name="location_description">c01714d9-8aac-4544-9cb0-19965f6558b3</SimpleData>
+		<SimpleData name="status">data/stations/c01714d9.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/c01714d9.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>78.8223620430346,49.6541066812039</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

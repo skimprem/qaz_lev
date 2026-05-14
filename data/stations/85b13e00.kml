@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="85b13e00" id="85b13e00">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>85b13e00</name>
+  <Placemark id="85b13e00.1">
+	<name>219</name>
+	<description>грунт.реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#85b13e00">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">100,533</SimpleData>
+		<SimpleData name="leveling_order">98,341</SimpleData>
+		<SimpleData name="leveling_height">Контрольный репер в верхней плоскости монолита</SimpleData>
+		<SimpleData name="benchmark_number">118</SimpleData>
+		<SimpleData name="control_location">Линия №1: Наурзм(Аксуат)-Иргиз,          Участок: грунт.реп. 32-грунт.реп. 77,       I класс. </SimpleData>
+		<SimpleData name="benchmark_type">Иргиз, с.,в 4.6 км к сев.-вост. от него, в 0.3 км к сев.-зап.от грейдера с. Ыргыз - с. Нура, в 0.2 км к югу от ЛЭП 110 кВ</SimpleData>
+		<SimpleData name="location_description">85b13e00-7bfb-4186-a445-02d44876276d</SimpleData>
+		<SimpleData name="status">data/stations/85b13e00.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/85b13e00.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>61.305147765172,48.6522043056974</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

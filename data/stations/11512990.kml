@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="11512990" id="11512990">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>11512990</name>
+  <Placemark id="11512990.1">
+	<name>320</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#11512990">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">111.322</SimpleData>
+		<SimpleData name="leveling_height">0</SimpleData>
+		<SimpleData name="benchmark_type">Потанинский, свх., в 0,8 км к зап.от него, в 0,1 км к югу от дороги из свх. Потанинский к шоссе с. Седьмой аул - гор. Ермак</SimpleData>
+		<SimpleData name="location_description">11512990-679e-47e0-ba6b-d3e2cce45240</SimpleData>
+		<SimpleData name="status">data/stations/11512990.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/11512990.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>76.7904530148215,52.222831839188</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

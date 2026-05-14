@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="1d96d515" id="1d96d515">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>1d96d515</name>
+  <Placemark id="1d96d515.1">
+	<name>3993</name>
+	<description>фундаментальный реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#1d96d515">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">181.644</SimpleData>
+		<SimpleData name="leveling_order">179,866</SimpleData>
+		<SimpleData name="control_height">контрольный репер в фундаментной плите</SimpleData>
+		<SimpleData name="benchmark_number">161оп</SimpleData>
+		<SimpleData name="control_location">Линиия №1: Целиноград - Кулунда, I класс (1). Участок: грунт. реп. 9029 - грунт. реп. 7725</SimpleData>
+		<SimpleData name="benchmark_type">Щебеночный Завод, с.,в, 0,9 км к вост. от него, в 0,1 км к юго-зап. от пир. 4 кл. Разъезд</SimpleData>
+		<SimpleData name="location_description">1d96d515-581b-4353-ba0b-dbe03c7c9989</SimpleData>
+		<SimpleData name="status">data/stations/1d96d515.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/1d96d515.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.4741590906408,51.7597549378578</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

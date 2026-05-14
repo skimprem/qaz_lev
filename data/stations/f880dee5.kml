@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="f880dee5" id="f880dee5">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>f880dee5</name>
+  <Placemark id="f880dee5.1">
+	<name>17</name>
+	<name>скальный репер</name>
+	<ExtendedData><SchemaData schemaUrl="#f880dee5">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">263,937</SimpleData>
+		<SimpleData name="benchmark_number">99</SimpleData>
+		<SimpleData name="control_location">Линия №11: пир. 3 кл. Ушкулын - фунд. реп. 3504, II класс (2)</SimpleData>
+		<SimpleData name="benchmark_type">Ушкулын, с., в 8,2 км к зап. от него, в 4,0 км к сев.-зап. от оз. Ушкулын, в 0,1 км к югу от полевой дороги</SimpleData>
+		<SimpleData name="leveling_line_section">уничтожен</SimpleData>
+		<SimpleData name="location_description">f880dee5-2204-43b5-9a7a-bb27fc5ffb19</SimpleData>
+		<SimpleData name="status">data/stations/f880dee5.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/f880dee5.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.5863005861818,51.4602172559209</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

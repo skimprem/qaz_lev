@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="e701f768" id="e701f768">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>e701f768</name>
+  <Placemark id="e701f768.1">
+	<name>9264</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#e701f768">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">169,269</SimpleData>
+		<SimpleData name="benchmark_number">146 оп</SimpleData>
+		<SimpleData name="control_location">Линия№1: Тургай-Кызылуй, II класс. Участок: грунт.реп. 4830-грунт.реп. 9154</SimpleData>
+		<SimpleData name="benchmark_type">Шукырколь, с., в 16.5 км к сев.-вост. от него, в 5.0 км к сев. от зим. Акназар, в 6 м к юго-зап. от дороги в с.Байконур</SimpleData>
+		<SimpleData name="location_description">e701f768-bc28-423a-a031-33362fa114ea</SimpleData>
+		<SimpleData name="status">data/stations/e701f768.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/e701f768.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>64.409979489473,48.7783498206465</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

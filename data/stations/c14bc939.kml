@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="c14bc939" id="c14bc939">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>c14bc939</name>
+  <Placemark id="c14bc939.1">
+	<name>640</name>
+	<name>грунт. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#c14bc939">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">366.796</SimpleData>
+		<SimpleData name="leveling_order">365.752*</SimpleData>
+		<SimpleData name="control_height">Контрольный репер в трубе</SimpleData>
+		<SimpleData name="benchmark_number">118</SimpleData>
+		<SimpleData name="control_location">Линия № 4: Учарал - Урджар, II класс 
+Участок: грунт.реп. 655 – фунд.реп. 6872
+</SimpleData>
+		<SimpleData name="benchmark_type">Ельтай, с., в 19.3 км к югу от него, в 0.4 км к юго-вост.  от пов. стб. ЛЭП, 0.3 км к зап. от пов. р. Урджар, в 0.1 км к вост. от полевой дороги</SimpleData>
+		<SimpleData name="leveling_line_section">утрачен</SimpleData>
+		<SimpleData name="location_description">c14bc939-e3fa-4006-b155-3ce4a0f987ba</SimpleData>
+		<SimpleData name="status">data/stations/c14bc939.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/c14bc939.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>81.6102205804967,46.7078551456122</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

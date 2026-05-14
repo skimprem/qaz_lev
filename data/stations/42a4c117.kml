@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="42a4c117" id="42a4c117">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>42a4c117</name>
+  <Placemark id="42a4c117.1">
+	<name>4</name>
+	<description>грунт. реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#42a4c117">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">112.808</SimpleData>
+		<SimpleData name="leveling_order">111.845</SimpleData>
+		<SimpleData name="leveling_height">контрольный репер №3472 в верхней плоскости монолита</SimpleData>
+		<SimpleData name="benchmark_number">131</SimpleData>
+		<SimpleData name="control_location">Линия №1 : Наурзум - Иргиз , I класс . Участок : грунт. реп. 4-фунд. Реп. 86</SimpleData>
+		<SimpleData name="benchmark_type">Карасу, с., в 9,4 км к юго-вост. от него, в 5,0 км к сев.-зап. от с.Баймурат, в 32 м вост. от полевой дороги</SimpleData>
+		<SimpleData name="location_description">42a4c117-cda7-4ee4-825c-d69260195eca</SimpleData>
+		<SimpleData name="status">data/stations/42a4c117.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/42a4c117.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>64.516806289304,50.6714765652066</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

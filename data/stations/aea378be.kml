@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="aea378be" id="aea378be">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>aea378be</name>
+  <Placemark id="aea378be.1">
+	<name>508</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#aea378be">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">79,694</SimpleData>
+		<SimpleData name="control_location">Ход от грунт. реп. 919 до фунд. реп. 701, 2 класс (2} Участок: грунт. реп. 508 - фунд. реп. 701</SimpleData>
+		<SimpleData name="benchmark_type">Тюткен Зап., пир. 3 кл., в 5.7 км к зап. от нее, в 2.5 км к юго-вост. от арт. к. Таскара</SimpleData>
+		<SimpleData name="location_description">aea378be-ed51-48c2-b47e-0bbc1ee848a2</SimpleData>
+		<SimpleData name="status">data/stations/aea378be.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/aea378be.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>66.3287014917978,46.0315676056719</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

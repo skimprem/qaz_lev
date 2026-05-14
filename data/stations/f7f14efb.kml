@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="f7f14efb" id="f7f14efb">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>f7f14efb</name>
+  <Placemark id="f7f14efb.1">
+	<name>0020</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#f7f14efb">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">135.923</SimpleData>
+		<SimpleData name="benchmark_number">124</SimpleData>
+		<SimpleData name="control_location">Линия №1: Старый Ерментау-Седьмой Аул, II класс (I)</SimpleData>
+		<SimpleData name="benchmark_type">Коксыир,с., в 150 м к сев.-зап. от него, в 20 м к сев. от дороги с.Коксыир-с.Каражар, на бугорке</SimpleData>
+		<SimpleData name="location_description">f7f14efb-220a-46fe-8869-8dc74ff6088d</SimpleData>
+		<SimpleData name="status">data/stations/f7f14efb.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/f7f14efb.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>74.6469354621012,52.177464578484</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

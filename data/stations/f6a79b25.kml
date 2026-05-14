@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="f6a79b25" id="f6a79b25">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>f6a79b25</name>
+  <Placemark id="f6a79b25.1">
+	<name>9586</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#f6a79b25">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">638,103</SimpleData>
+		<SimpleData name="benchmark_number">160оп</SimpleData>
+		<SimpleData name="control_location">Линия №1: Карасорский-Каркаралинск, II класс (1) Участок: грунт.реп. 50 - грунт.реп.0224</SimpleData>
+		<SimpleData name="benchmark_type">Шоптыколь, с., в 3,0 км к сев. от него, в 0,7 км к сев.-зап. от кладб. Мойыншилик, в 10 м к зап. от дороги с. Первое Мая – с. Шоптыколь</SimpleData>
+		<SimpleData name="location_description">f6a79b25-399e-443c-bcf7-d359045f3d36</SimpleData>
+		<SimpleData name="status">data/stations/f6a79b25.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/f6a79b25.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.686366776727,50.1571197551979</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

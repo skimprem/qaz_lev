@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="164859da" id="164859da">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>164859da</name>
+  <Placemark id="164859da.1">
+	<name>79</name>
+	<name>грунт. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#164859da">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">79.400</SimpleData>
+		<SimpleData name="benchmark_number">121 оп</SimpleData>
+		<SimpleData name="control_location">Линия №1: Аральск - Коккабак, II класс. Участок: грунт. реп. 9049 - грунт. реп. 2665</SimpleData>
+		<SimpleData name="benchmark_type">Токабай, с., в 12.3 км к сев.-вост. от него, в 0.8 км к юго-зап. от развилки полевой дороги, в 0.5 км к юго-вост. от пам. Кылышбек</SimpleData>
+		<SimpleData name="location_description">164859da-62c1-42f4-9175-d431391f3aaf</SimpleData>
+		<SimpleData name="status">data/stations/164859da.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/164859da.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>62.3595709806806,46.9350588996229</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

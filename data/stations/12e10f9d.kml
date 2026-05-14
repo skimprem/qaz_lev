@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="12e10f9d" id="12e10f9d">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>12e10f9d</name>
+  <Placemark id="12e10f9d.1">
+	<name>7857</name>
+	<name>грунт. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#12e10f9d">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">144,342</SimpleData>
+		<SimpleData name="benchmark_number">160 оп</SimpleData>
+		<SimpleData name="control_location">Линия № 1: Павлодар-Семиярск, I класс (1) Участок: сигн. 2 кл. Подпуск-фунд. реп. 871  </SimpleData>
+		<SimpleData name="benchmark_type">Семиярка, с., в 9.8 км к сев.-зап. от него, в 6.0 км к вост. от кладбища, в 25 м к зап. от полевой дороги</SimpleData>
+		<SimpleData name="location_description">12e10f9d-21f4-4814-9a08-b3b95ebbee25</SimpleData>
+		<SimpleData name="status">data/stations/12e10f9d.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/12e10f9d.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>78.2764424599584,50.9831359378964</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

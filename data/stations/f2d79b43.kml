@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="f2d79b43" id="f2d79b43">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>f2d79b43</name>
+  <Placemark id="f2d79b43.1">
+	<name>1420</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#f2d79b43">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">348.817</SimpleData>
+		<SimpleData name="leveling_order">347.274</SimpleData>
+		<SimpleData name="control_height">Контрольный репер № 4656 в фундаментной плите</SimpleData>
+		<SimpleData name="benchmark_number">116 оп.знак</SimpleData>
+		<SimpleData name="control_location">Линия №1: Ивановка-р.Кон, ll класс (1). Участок: грунт.реп. 5354-грунт.реп.1719(151)</SimpleData>
+		<SimpleData name="benchmark_type">Соналы с., в 3,4 км к зап. От него, в 2,0 км к сев.-зап. От МТФ, в 0,5 км к вост. От шоссе с.Кургальджинский-с.Соналы</SimpleData>
+		<SimpleData name="location_description">f2d79b43-1f2c-4277-9725-4822445af7ad</SimpleData>
+		<SimpleData name="status">data/stations/f2d79b43.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/f2d79b43.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>70.2291278303457,49.9577377604221</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

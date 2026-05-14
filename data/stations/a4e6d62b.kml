@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="a4e6d62b" id="a4e6d62b">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>a4e6d62b</name>
+  <Placemark id="a4e6d62b.1">
+	<name>73</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#a4e6d62b">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">561,482</SimpleData>
+		<SimpleData name="leveling_order">558,528</SimpleData>
+		<SimpleData name="control_height">Контрольный репер № 94 в верхней плоскости монолита </SimpleData>
+		<SimpleData name="benchmark_number">123оп</SimpleData>
+		<SimpleData name="control_location">Линия №1: Карасорский-Каркаралинск, II класс (1) Участок: грунт.реп. 50 - грунт.реп.0224</SimpleData>
+		<SimpleData name="benchmark_type">Первое Мая, с., в 1,3 км к сев.-вост. от него, в 20 м к зап. от дороги с. Баянаул – с. Первое Мая</SimpleData>
+		<SimpleData name="leveling_line_section">утрачен</SimpleData>
+		<SimpleData name="location_description">a4e6d62b-426f-4620-aa70-5b6731445c47</SimpleData>
+		<SimpleData name="status">data/stations/a4e6d62b.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/a4e6d62b.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.5974260047994,50.4309095024515</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="6d6356e0" id="6d6356e0">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>6d6356e0</name>
+  <Placemark id="6d6356e0.1">
+	<name>515</name>
+	<name>стен. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#6d6356e0">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">402.063</SimpleData>
+		<SimpleData name="control_location">Висячий ход от марки 60. II класс</SimpleData>
+		<SimpleData name="benchmark_type">Теректы, станц., в 14.0 км к сев.-вост. от нее, на 9 пк 326
+км, жел.-дор. мост</SimpleData>
+		<SimpleData name="location_description">6d6356e0-6041-4f93-a7a2-75ac837615c5</SimpleData>
+		<SimpleData name="status">data/stations/6d6356e0.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/6d6356e0.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>68.7305356671965,48.1203216273971</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

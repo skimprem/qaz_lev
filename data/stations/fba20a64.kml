@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="fba20a64" id="fba20a64">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>fba20a64</name>
+  <Placemark id="fba20a64.1">
+	<name>3686</name>
+	<name>грунт.реп</name>
+	<ExtendedData><SchemaData schemaUrl="#fba20a64">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">472.152</SimpleData>
+		<SimpleData name="control_location">Линия №1: Коскызыл - Джамбул, II класс                   Участок: грунт.реп. 171 - грунт.реп. 132</SimpleData>
+		<SimpleData name="benchmark_type">Урнек, с., в 4.0 км к юго-вост. От него, в 3.0 км к юго-вост.от станцДжума-Джамбулская, в 0.2 км к юго-вост.от 48 км.стб. жел.дор.</SimpleData>
+		<SimpleData name="location_description">fba20a64-946c-4015-aa5a-f7b46d2c1496</SimpleData>
+		<SimpleData name="status">data/stations/fba20a64.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/fba20a64.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>70.9452612788087,43.0709622482803</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

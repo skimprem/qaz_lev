@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="1945ac0f" id="1945ac0f">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>1945ac0f</name>
+  <Placemark id="1945ac0f.1">
+	<name>1484</name>
+	<name>грунт,реп,</name>
+	<ExtendedData><SchemaData schemaUrl="#1945ac0f">
+		<SimpleData name="type">I</SimpleData>
+		<SimpleData name="view">135.797</SimpleData>
+		<SimpleData name="control_location">Линия № 4: Костанай - Петропавловск, I класс Участок: грунт, Реп, 1484 - фунд, Реп, 9198 </SimpleData>
+		<SimpleData name="benchmark_type">Ивановка, с,, в 2,9 км к юго-вост, От него, в 60 м к зап, От улучш, Грунт, Дороги гор, Петропавловск - гор, Сергеевка, в 4 м к вост, От поворотного стб, ЛЭП </SimpleData>
+		<SimpleData name="location_description">1945ac0f-c994-442b-84d1-64bd08357225</SimpleData>
+		<SimpleData name="status">data/stations/1945ac0f.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/1945ac0f.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>68.9788632523168,54.6551748156619</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

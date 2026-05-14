@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="be924802" id="be924802">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>be924802</name>
+  <Placemark id="be924802.1">
+	<name>112</name>
+	<name>марка</name>
+	<ExtendedData><SchemaData schemaUrl="#be924802">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">626.657</SimpleData>
+		<SimpleData name="control_location">Линия № 1: Жаркент (Панфилов) – Коргас, Участок: грунт. реп.  2863 – фунд.. реп. 2024</SimpleData>
+		<SimpleData name="benchmark_type">Жаркент, гор., в фундаменте зд. главного входа в музей «Мечеть»</SimpleData>
+		<SimpleData name="location_description">be924802-6339-4ff3-b4f6-13e67f6cd869</SimpleData>
+		<SimpleData name="status">data/stations/be924802.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/be924802.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>80.0018584354554,44.1614908019611</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

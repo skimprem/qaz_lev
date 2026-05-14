@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="c02a2984" id="c02a2984">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>c02a2984</name>
+  <Placemark id="c02a2984.1">
+	<name>122</name>
+	<name>грунт.реп.</name>
+	<description>грунт.реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#c02a2984">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">433.783</SimpleData>
+		<SimpleData name="leveling_order">432.366*</SimpleData>
+		<SimpleData name="control_height">в
+верхней  плоскости  монолита</SimpleData>
+		<SimpleData name="benchmark_number">121</SimpleData>
+		<SimpleData name="control_location">Линия  №  3;  Колшенгель  - Капчагай, II класс Участок: фунд. реп. 5785  - пир.З кл.Киза</SimpleData>
+		<SimpleData name="benchmark_type">Кашенгель,с. ,в  19.0  км  к  юго-вост.от нвго,в  4.0  км  к  вост.от  пир.4  кл.Жилак, у  полевой  дороги</SimpleData>
+		<SimpleData name="location_description">c02a2984-0450-4500-b67b-cd301ff7c127</SimpleData>
+		<SimpleData name="status">data/stations/c02a2984.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/c02a2984.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.7913074465042,44.2989592688969</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

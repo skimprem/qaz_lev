@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="fd1a3ab2" id="fd1a3ab2">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>fd1a3ab2</name>
+  <Placemark id="fd1a3ab2.1">
+	<name>5864</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#fd1a3ab2">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">158.919</SimpleData>
+		<SimpleData name="benchmark_number">146 оп</SimpleData>
+		<SimpleData name="control_location">Линия №5: Сарысай-Иргиз. II класс. Участок: фунд.реп. 7680-грунт.реп.177</SimpleData>
+		<SimpleData name="benchmark_type">Ыргыз. с.. в 25.4 км к юго-зап. от него. в 6.0 км к зап. от кладб. Токсомбай. в 11 м к сев. от грейдера станц.Шалкар-с.Ыргыз</SimpleData>
+		<SimpleData name="location_description">fd1a3ab2-a36b-4299-b118-342228b6decb</SimpleData>
+		<SimpleData name="status">data/stations/fd1a3ab2.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/fd1a3ab2.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>60.9489301569471,48.5330941256135</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

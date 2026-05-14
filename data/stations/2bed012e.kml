@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2bed012e" id="2bed012e">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>2bed012e</name>
+  <Placemark id="2bed012e.1">
+	<name>1450</name>
+	<name>фунд. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#2bed012e">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">1352.135</SimpleData>
+		<SimpleData name="leveling_order">1350.915*</SimpleData>
+		<SimpleData name="leveling_height">1466</SimpleData>
+		<SimpleData name="control_height">Контрольный репер в фундаментной плите</SimpleData>
+		<SimpleData name="benchmark_number">161 оп. знак. </SimpleData>
+		<SimpleData name="control_location">Линия № 3: Сарыозек – Каракол (Пржевальск) , I класс  Участок: фунд. реп. 384 – грунт. реп. 1216</SimpleData>
+		<SimpleData name="benchmark_type">Талдыкорган, гор., в 1.5 км к сев. от него, в 0.2 км к вост. от пов. стб. ЛЭП, в 0.1 км к юго-вост. от полевой дороги, на бугре</SimpleData>
+		<SimpleData name="location_description">2bed012e-6a45-41e4-b5e0-1569f7040364</SimpleData>
+		<SimpleData name="status">data/stations/2bed012e.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/2bed012e.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>78.5573290755711,44.1892452887732</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

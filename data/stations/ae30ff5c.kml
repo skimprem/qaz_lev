@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="ae30ff5c" id="ae30ff5c">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>ae30ff5c</name>
+  <Placemark id="ae30ff5c.1">
+	<name>1684</name>
+	<name>скальный репер</name>
+	<ExtendedData><SchemaData schemaUrl="#ae30ff5c">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="benchmark_number">99 оп. знак</SimpleData>
+		<SimpleData name="control_location">Линия № 3: Карабута – Белая Школа, II класс , Участок: фунд.реп. 131 – ск.реп. 2274</SimpleData>
+		<SimpleData name="benchmark_type">Такиякеткен, с., в 9.1 км к юго-вост. от него, в 1.1 км к сев. от фер. Акжал, в 50 м к зап. от брода через р. Акжал, в 10 м к сев. от грунт. дороги с. Такиякеткен – с. Томар</SimpleData>
+		<SimpleData name="location_description">ae30ff5c-08d1-437e-92a5-67993032bdef</SimpleData>
+		<SimpleData name="status">data/stations/ae30ff5c.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/ae30ff5c.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>82.872800308497,47.3274509483986</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

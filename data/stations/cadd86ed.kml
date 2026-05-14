@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="cadd86ed" id="cadd86ed">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>cadd86ed</name>
+  <Placemark id="cadd86ed.1">
+	<name>11</name>
+	<name>фунд.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#cadd86ed">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">122.654</SimpleData>
+		<SimpleData name="leveling_order">121.346</SimpleData>
+		<SimpleData name="benchmark_number">104</SimpleData>
+		<SimpleData name="control_location">Линия №1: Сагиз-Кандагач, І класс Участок: марка-2864-грнут.реп.1615</SimpleData>
+		<SimpleData name="benchmark_type">Нугайты, станц., в 12.8км к юго-зап.от нее, на 4 пикете 231км, в 90м к сев.-зап.от жел.-дор.полотна</SimpleData>
+		<SimpleData name="location_description">cadd86ed-ba5f-4559-bf23-85e2932aa7dc</SimpleData>
+		<SimpleData name="status">data/stations/cadd86ed.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/cadd86ed.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>55.0717140012148,48.3983459342759</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

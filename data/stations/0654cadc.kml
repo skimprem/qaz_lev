@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="0654cadc" id="0654cadc">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>0654cadc</name>
+  <Placemark id="0654cadc.1">
+	<name>2545</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#0654cadc">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">103.043</SimpleData>
+		<SimpleData name="benchmark_number">121</SimpleData>
+		<SimpleData name="control_location">Линия №2: Чапаевский-Карасук, II класс (I) Участок:  грунт. реп. 2545-грунт. реп. 3085 </SimpleData>
+		<SimpleData name="benchmark_type">Новоалексеевка, с., в 7.6 км к зап. от него, в 4.0 км к вост. от  оз. Ащиколь, в 30 м к сев. от дороги с. Новоалексеевка-свх. Новотроицкий</SimpleData>
+		<SimpleData name="location_description">0654cadc-f1b7-4904-8a6f-1775470e101e</SimpleData>
+		<SimpleData name="status">data/stations/0654cadc.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/0654cadc.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>74.7679586051133,52.7960453037347</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

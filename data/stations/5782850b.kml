@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="5782850b" id="5782850b">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>5782850b</name>
+  <Placemark id="5782850b.1">
+	<name>10</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#5782850b">
+		<SimpleData name="type">ІІ</SimpleData>
+		<SimpleData name="view">276.819</SimpleData>
+		<SimpleData name="control_location">Линия №1: Акмола (Целиноград) - Амангельды, I класса (I) Висячий ход от фунд.реп.340, ІІ класс (2)</SimpleData>
+		<SimpleData name="benchmark_type">Атбасар, станц., в 2.1 км к юго-вост от нее, в 1.0 км к югу от жел-дор моста, в 70 м к зап. От р. Жабай, водомерный пост</SimpleData>
+		<SimpleData name="location_description">5782850b-8e2c-48d9-8142-d7cff81f9d65</SimpleData>
+		<SimpleData name="status">data/stations/5782850b.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/5782850b.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>68.3728709534509,51.7969936325096</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

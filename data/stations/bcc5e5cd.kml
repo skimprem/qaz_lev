@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="bcc5e5cd" id="bcc5e5cd">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>bcc5e5cd</name>
+  <Placemark id="bcc5e5cd.1">
+	<name>388</name>
+	<description>грунт. реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#bcc5e5cd">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">119.564</SimpleData>
+		<SimpleData name="leveling_height">0</SimpleData>
+		<SimpleData name="benchmark_number">146 оп</SimpleData>
+		<SimpleData name="benchmark_type">В 1,2 км к сев-вост.от ст. спутник, в 50 м к сев-зап.от км стб. 416/417</SimpleData>
+		<SimpleData name="leveling_line_section">утрачен</SimpleData>
+		<SimpleData name="location_description">bcc5e5cd-f50f-4e3f-8099-7e6df439b1ba</SimpleData>
+		<SimpleData name="status">data/stations/bcc5e5cd.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/bcc5e5cd.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>76.6384688765698,52.1890883581756</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

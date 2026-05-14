@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="4be29942" id="4be29942">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>4be29942</name>
+  <Placemark id="4be29942.1">
+	<name>3775</name>
+	<name>грунт. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#4be29942">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">173,387</SimpleData>
+		<SimpleData name="leveling_order">170,908</SimpleData>
+		<SimpleData name="control_height">репер № 502 в верхней плоскости монолита</SimpleData>
+		<SimpleData name="benchmark_number">121 оп</SimpleData>
+		<SimpleData name="control_location">Линия № 3: Семиярск-Михайловка, II класс (2) Участок: фунд. реп. 4422-грунт. реп., 446 </SimpleData>
+		<SimpleData name="benchmark_type">Жандос, отд. дв., в 1.8 км к сев.-вост. от него, в 48 м к вост. от ЛЭП, в 32 м к вост. от грунт. дороги отд. дв. Жандос-с. Жабагылы, в 1 м к югу от оп. стб.</SimpleData>
+		<SimpleData name="location_description">4be29942-ca42-4ed7-9953-beb6e6df024b</SimpleData>
+		<SimpleData name="status">data/stations/4be29942.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/4be29942.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>78.936064888157,51.3272543291323</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

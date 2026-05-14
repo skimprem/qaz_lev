@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="240d8846" id="240d8846">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>240d8846</name>
+  <Placemark id="240d8846.1">
+	<name>3550</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#240d8846">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">469.384</SimpleData>
+		<SimpleData name="benchmark_number">146оп</SimpleData>
+		<SimpleData name="control_location">Линия №6: грунт.реп.3949 - сигн.3 кл.Корсакбай, II класс (2)</SimpleData>
+		<SimpleData name="benchmark_type">Шахан,с., в 4,0 км к сев.вост.от него, в 70 м к югу от р.Сокур, в 60 м к сев.-вост.от заброшенного песчанного карьера</SimpleData>
+		<SimpleData name="leveling_line_section">утрачен</SimpleData>
+		<SimpleData name="location_description">240d8846-9ca2-40d9-bf2c-5534748bd30d</SimpleData>
+		<SimpleData name="status">data/stations/240d8846.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/240d8846.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.6547864488394,49.8513057252004</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

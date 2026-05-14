@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="b264d3ea" id="b264d3ea">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>b264d3ea</name>
+  <Placemark id="b264d3ea.1">
+	<name>7598</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#b264d3ea">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">441.062</SimpleData>
+		<SimpleData name="control_height">Контрольный репер  в верхней плоскости монолита</SimpleData>
+		<SimpleData name="benchmark_number">121 оп</SimpleData>
+		<SimpleData name="control_location">Линия №1: Жиделисай=Бала-Терсаккан, II класс (I) Участок: фунд.реп.0539-грунт.реп.7524</SimpleData>
+		<SimpleData name="benchmark_type">Подхоз.Сатпаев,в 7.0 км к сев.-зап.от него,в 3.6 км к юго-зап.от мог.Шопан,в 22 м к зап.от дороги с.Улытау-пгт Жезказган</SimpleData>
+		<SimpleData name="location_description">b264d3ea-8591-47bf-af4b-7f5d4e800e5f</SimpleData>
+		<SimpleData name="status">data/stations/b264d3ea.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/b264d3ea.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.4282379759972,48.1945806982442</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="c7ec110f" id="c7ec110f">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>c7ec110f</name>
+  <Placemark id="c7ec110f.1">
+	<name>4990</name>
+	<name>грунт.реп.</name>
+	<description>грунт.реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#c7ec110f">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">510.030</SimpleData>
+		<SimpleData name="benchmark_number">163</SimpleData>
+		<SimpleData name="control_location">Линия  № 2 :  Балхаш - Карасу, П  класс  (3)
+Участок : грунт.реп. 29 - грунт. реп.6441</SimpleData>
+		<SimpleData name="benchmark_type">Карасу.с.,в  24.5  км  к  юго-зап.от  него,  
+в  0.7  км  к  юго-вост.от  могилы  и  колод
+ца,в  20  м  и  зап.от  км.cт6. №  143  шоссе
+с.Актогай  - гор.Балхаш</SimpleData>
+		<SimpleData name="location_description">c7ec110f-1a0d-4d34-8337-204afdebabc5</SimpleData>
+		<SimpleData name="status">data/stations/c7ec110f.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/c7ec110f.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.3272670893017,47.3017603660427</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

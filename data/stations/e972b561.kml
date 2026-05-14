@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="e972b561" id="e972b561">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>e972b561</name>
+  <Placemark id="e972b561.1">
+	<name>25</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#e972b561">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">515,585</SimpleData>
+		<SimpleData name="control_height">Контрольный репер в верхней плоскости монолита</SimpleData>
+		<SimpleData name="benchmark_number">121</SimpleData>
+		<SimpleData name="control_location">Линия №4: Актасты- Чурбай-Нура, II класс (6) Участок: фунд.реп. 485 -грунт.реп. 35</SimpleData>
+		<SimpleData name="benchmark_type">Центральное, с. в 3,5 км к сев.-зап. от него, в 0,7 км к юго-зап. от р. Ошаганды, в 8 м к зап. от полевой дороги</SimpleData>
+		<SimpleData name="location_description">e972b561-71b1-4d1a-8b2d-6af625d0666e</SimpleData>
+		<SimpleData name="status">data/stations/e972b561.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/e972b561.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.7048295100104,50.2088932171751</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

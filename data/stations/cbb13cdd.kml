@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="cbb13cdd" id="cbb13cdd">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>cbb13cdd</name>
+  <Placemark id="cbb13cdd.1">
+	<name>2906</name>
+	<name>грунт. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#cbb13cdd">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">71.91</SimpleData>
+		<SimpleData name="benchmark_number">160 оп</SimpleData>
+		<SimpleData name="control_location">Линия №4: Ащылысай - Майлыозек, 2 класс. Участок: фунд.реп. 3917 - грунт.реп. 7512</SimpleData>
+		<SimpleData name="benchmark_type">Дос, арт.к., в 3,8 км к сев.от него, в 1,9 км к юго-вост.от к. Малик, в 0,3 км к сев.от перекрестка полевых дорог</SimpleData>
+		<SimpleData name="location_description">cbb13cdd-3698-4c2b-a62a-f94466395a72</SimpleData>
+		<SimpleData name="status">data/stations/cbb13cdd.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/cbb13cdd.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>62.4149868372907,44.8166568483916</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

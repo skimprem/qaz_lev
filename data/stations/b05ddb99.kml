@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="b05ddb99" id="b05ddb99">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>b05ddb99</name>
+  <Placemark id="b05ddb99.1">
+	<name>7741</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#b05ddb99">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">230,149</SimpleData>
+		<SimpleData name="control_location">Линия № 1: Кумкент - Торыустаган, 2 класс (1) Участок: грунт, реп. 0473 - грунт, реп. 8417</SimpleData>
+		<SimpleData name="benchmark_type">Торыустаган, с., в 14.8 км к югу от него, в 9.7 км к сев.- вост. от к. Толеутай, в 7 м к вост, от полевой дороги</SimpleData>
+		<SimpleData name="location_description">b05ddb99-fd12-4517-affb-7db05bc88596</SimpleData>
+		<SimpleData name="status">data/stations/b05ddb99.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/b05ddb99.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>69.692684645307,44.6604199205986</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

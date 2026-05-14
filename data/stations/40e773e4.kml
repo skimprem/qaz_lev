@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="40e773e4" id="40e773e4">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>40e773e4</name>
+  <Placemark id="40e773e4.1">
+	<name>2362</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#40e773e4">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="benchmark_number">146 оп</SimpleData>
+		<SimpleData name="control_location">Линия 2 класса: Наурзум - Жанатурмыс. Участок: грунт.реп. 4804 - грунт.реп. 1950</SimpleData>
+		<SimpleData name="benchmark_type">Буревестник, с., в 21,2 км к сев.-вост.от него, в 4,4 км к зап.от ЛЭП 35 кВт, в 10 м к югу от полевой дороги </SimpleData>
+		<SimpleData name="location_description">40e773e4-dfae-4cef-9a25-d5f1d6434bb7</SimpleData>
+		<SimpleData name="status">data/stations/40e773e4.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/40e773e4.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>63.6593953540025,51.2944951586671</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

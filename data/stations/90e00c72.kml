@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="90e00c72" id="90e00c72">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>90e00c72</name>
+  <Placemark id="90e00c72.1">
+	<name>V</name>
+	<name>скальный репер</name>
+	<ExtendedData><SchemaData schemaUrl="#90e00c72">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">255,668</SimpleData>
+		<SimpleData name="benchmark_number">99</SimpleData>
+		<SimpleData name="control_location">Ход от грунт. реп. 32 до фунд. реп. 17, II класс (5). Участок: грунт. реп. XV  фунд. реп. 17</SimpleData>
+		<SimpleData name="benchmark_type">Шидерты, станц. , в 13.5 км к сев.-зап. от неё, в 3.1 км к юго-вост. от разв. Торткудук, в 30 м к югу от полевой дороги </SimpleData>
+		<SimpleData name="location_description">90e00c72-88be-45cc-92e0-b2dd9807a067</SimpleData>
+		<SimpleData name="status">data/stations/90e00c72.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/90e00c72.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>74.4737758654813,51.7364304835582</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="ab202eba" id="ab202eba">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>ab202eba</name>
+  <Placemark id="ab202eba.1">
+	<name>508</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#ab202eba">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">504,249</SimpleData>
+		<SimpleData name="leveling_order">503,21</SimpleData>
+		<SimpleData name="control_height">Контрольный репер в трубе</SimpleData>
+		<SimpleData name="benchmark_number">118</SimpleData>
+		<SimpleData name="control_location">Линия №3; Сары-Озек - Фрунзе, II класс (6) Участок: грунт. реп. 602 - марка 460</SimpleData>
+		<SimpleData name="benchmark_type">Ферма №2 свх. Гвардейский, в 2.0 км к юго-зап. от нее, в 0.1 км к вост. от переправы, в 45 м от дороги идущей к парому, к сев. от р. Или </SimpleData>
+		<SimpleData name="leveling_line_section">утрачен</SimpleData>
+		<SimpleData name="location_description">ab202eba-43b7-4700-8091-b7c52cbf5095</SimpleData>
+		<SimpleData name="status">data/stations/ab202eba.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/ab202eba.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>79.6063032164815,43.9701481143419</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

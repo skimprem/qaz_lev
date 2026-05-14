@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="076974c4" id="076974c4">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>076974c4</name>
+  <Placemark id="076974c4.1">
+	<name>67а</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#076974c4">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">110.358</SimpleData>
+		<SimpleData name="benchmark_number">160</SimpleData>
+		<SimpleData name="control_location">Линия № 1: Золоторунное - Кобенсай, II класс, Участок: грунт.реп. 957 - грунт.реп. 1Г</SimpleData>
+		<SimpleData name="benchmark_type">Талшык, станц., в 14.2 км к зап. от нее, 6 пикет 153 - й км, в 43 м к сев. - зап. от жел. дор. полотна, в 1.3 км к юго - вост. от А - образного стб. ЛЭП</SimpleData>
+		<SimpleData name="location_description">076974c4-d60d-4bf8-a44b-48902468859b</SimpleData>
+		<SimpleData name="status">data/stations/076974c4.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/076974c4.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>71.6339901204276,53.6298490140479</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

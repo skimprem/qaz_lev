@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="aeafe9e1" id="aeafe9e1">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>aeafe9e1</name>
+  <Placemark id="aeafe9e1.1">
+	<name>2381</name>
+	<name>грунт,реп,</name>
+	<ExtendedData><SchemaData schemaUrl="#aeafe9e1">
+		<SimpleData name="type">I</SimpleData>
+		<SimpleData name="view">284.835</SimpleData>
+		<SimpleData name="benchmark_number">160оп</SimpleData>
+		<SimpleData name="control_location">Линия №1 Астана (Целиноград) - Амангельды, I класс (I), Участок: грунт,реп,7846</SimpleData>
+		<SimpleData name="benchmark_type">Колутон, станц,, в 1,2 км к юго-вост,от нее, В 43 м к сев,от светофора, в 38 м к сев,от жел,дор,полотна</SimpleData>
+		<SimpleData name="location_description">aeafe9e1-4d92-44dd-8836-e9aae66a098a</SimpleData>
+		<SimpleData name="status">data/stations/aeafe9e1.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/aeafe9e1.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>69.4289966656706,51.7349682848551</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="1da48e0e" id="1da48e0e">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>1da48e0e</name>
+  <Placemark id="1da48e0e.1">
+	<name>780</name>
+	<name>грунт. реп. </name>
+	<ExtendedData><SchemaData schemaUrl="#1da48e0e">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">653.123*</SimpleData>
+		<SimpleData name="leveling_order">Контрольный репер в трубе</SimpleData>
+		<SimpleData name="leveling_height">118</SimpleData>
+		<SimpleData name="benchmark_number">Ход от грунт. реп. 7 до грунт. реп. 4, II класс </SimpleData>
+		<SimpleData name="control_location">Сагакурес, с., в 6.0 км к вост. от него, в 0.9 км к сев.-зап. от мог. Акмола, в 35 м к югу от шоссе гор. Алматы – гор. Усть-Каменогорск</SimpleData>
+		<SimpleData name="benchmark_type">L-44-87-Г</SimpleData>
+		<SimpleData name="location_description">1da48e0e-d7e4-4b6f-9a0a-a681b03e9b13</SimpleData>
+		<SimpleData name="status">data/stations/1da48e0e.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/1da48e0e.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>79.333202325031,45.4083829255506</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

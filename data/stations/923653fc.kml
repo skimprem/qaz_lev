@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="923653fc" id="923653fc">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>923653fc</name>
+  <Placemark id="923653fc.1">
+	<name>10</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#923653fc">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">120.187</SimpleData>
+		<SimpleData name="leveling_order">117.851</SimpleData>
+		<SimpleData name="control_height">Контрольный репер  в верхней плоскости монолита</SimpleData>
+		<SimpleData name="benchmark_number">124</SimpleData>
+		<SimpleData name="control_location">Линия №4: Павлодар - Зелёная Роща, II класс. Участок: грунт.реп. 7 - фунд.реп. I.</SimpleData>
+		<SimpleData name="benchmark_type">Жанагуль, с., в 16,0 км к зап.от него, в 32 м к сев.от дорги</SimpleData>
+		<SimpleData name="location_description">923653fc-6224-4760-9f03-12a86a271337</SimpleData>
+		<SimpleData name="status">data/stations/923653fc.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/923653fc.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.6999860865129,52.1166045099145</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

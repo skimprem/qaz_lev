@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="c575b13e" id="c575b13e">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>c575b13e</name>
+  <Placemark id="c575b13e.1">
+	<name>0022</name>
+	<name>грунт. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#c575b13e">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">167,653</SimpleData>
+		<SimpleData name="benchmark_number">160 оп</SimpleData>
+		<SimpleData name="control_location">Линия №1: Михайловка-Семиярск, 2 класс (1) Участок: грунт. реп. 3775 - грунт. реп. 0001</SimpleData>
+		<SimpleData name="benchmark_type">Жабагылы, с., в 1.7 км к юго-вост. от него, в 3.3 км к сев.-вост. от летника, в 18 м к зап. от полевой дороги</SimpleData>
+		<SimpleData name="location_description">c575b13e-9499-49ed-b912-99feba396455</SimpleData>
+		<SimpleData name="status">data/stations/c575b13e.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/c575b13e.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>78.8614639822875,51.4745061330354</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

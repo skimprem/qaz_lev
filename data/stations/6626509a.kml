@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="6626509a" id="6626509a">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>6626509a</name>
+  <Placemark id="6626509a.1">
+	<name>6239</name>
+	<name>скальный репер</name>
+	<ExtendedData><SchemaData schemaUrl="#6626509a">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">636.630</SimpleData>
+		<SimpleData name="benchmark_number">113</SimpleData>
+		<SimpleData name="control_location">Линия № 2: Баршатас - Катбар, II класс. Участок: грунт.реп. 7661 – ск.реп. 44-334</SimpleData>
+		<SimpleData name="benchmark_type">Жыланды, г., в 7.8 км к зап. от нее, в 3.7 км к вост. от пир. Туз, в 2.4 км к югу от кладбища, в 8 м к сев. от полевой дороги</SimpleData>
+		<SimpleData name="location_description">6626509a-878e-4b7f-9c87-955393cb66c6</SimpleData>
+		<SimpleData name="status">data/stations/6626509a.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/6626509a.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>78.3282975252135,47.4872226743703</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="fd18c051" id="fd18c051">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>fd18c051</name>
+  <Placemark id="fd18c051.1">
+	<name>210</name>
+	<name>грунт.реп.</name>
+	<description>грунт.реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#fd18c051">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">347.711</SimpleData>
+		<SimpleData name="benchmark_number">116</SimpleData>
+		<SimpleData name="control_location">Линия № 1: Акколь- урочище Куйган, II класс  Висячий ход от . грунт.реп. 486 IV класс (2)       </SimpleData>
+		<SimpleData name="benchmark_type">Караой,с.,в 1.4 км к югу от него,в 0.8 км к юго-зап.от протоки Нарын,у
+полевой дороги</SimpleData>
+		<SimpleData name="location_description">fd18c051-9847-4f22-9f71-6b0ab7bc261e</SimpleData>
+		<SimpleData name="status">data/stations/fd18c051.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/fd18c051.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>74.8062333672325,45.8429452972438</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

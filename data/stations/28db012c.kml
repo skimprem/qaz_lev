@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="28db012c" id="28db012c">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>28db012c</name>
+  <Placemark id="28db012c.1">
+	<name>3249</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#28db012c">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">579.230</SimpleData>
+		<SimpleData name="benchmark_number">160 оп. Знак</SimpleData>
+		<SimpleData name="control_location">Линия № 2: Баршатас - Катбар, II класс. Участок: грунт.реп. 7661 – ск.реп. 44-317</SimpleData>
+		<SimpleData name="benchmark_type">Кипрбай, зим., в 5.8 км к юго-зап. от нее, в 2.7 км к сев. от с. Мадениет, в 1.2 км к сев.-вост. от пов. шоссе гор. Аягоз – с. Баршатас, в 7 м к юго-вост. от арыка</SimpleData>
+		<SimpleData name="leveling_line_section">не найден</SimpleData>
+		<SimpleData name="location_description">28db012c-ae28-4326-a6cc-daee3eb827e8</SimpleData>
+		<SimpleData name="status">data/stations/28db012c.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/28db012c.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>78.6252889206108,47.9037020890784</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

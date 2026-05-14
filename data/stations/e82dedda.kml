@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="e82dedda" id="e82dedda">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>e82dedda</name>
+  <Placemark id="e82dedda.1">
+	<name>144</name>
+	<description>грунт.реп</description>
+	<ExtendedData><SchemaData schemaUrl="#e82dedda">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">121,63</SimpleData>
+		<SimpleData name="benchmark_number">107</SimpleData>
+		<SimpleData name="control_location">Линия №1: Семиозерный - Наурзум (Аксуат), 1 класс (1,2). Участок: фунд.реп.1378 - грунт.реп. 4043</SimpleData>
+		<SimpleData name="benchmark_type">Шолаксай, с., в 16 км к сев.-зап. от него, в 0,1 км к юго-зап. от шоссе с.Семиозерное-гор.Аркалык, в 78 м к сев.-вост. от тлф.стб. №300, в 60 м к сев.-зап. от тлф.стб. №298</SimpleData>
+		<SimpleData name="location_description">e82dedda-93ec-48d0-994f-a84fb2cb3afb</SimpleData>
+		<SimpleData name="status">data/stations/e82dedda.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/e82dedda.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>64.5878374002584,51.8445255709024</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="f391f501" id="f391f501">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>f391f501</name>
+  <Placemark id="f391f501.1">
+	<name>325</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#f391f501">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">98.410</SimpleData>
+		<SimpleData name="leveling_order">96.834</SimpleData>
+		<SimpleData name="leveling_height">0</SimpleData>
+		<SimpleData name="control_height">контрольный реп. №178 в верх. плос. Монолита</SimpleData>
+		<SimpleData name="benchmark_number">131</SimpleData>
+		<SimpleData name="control_location">Линия №1: Урлютюп-Качиры IІ класс (2) Участок:  грунт. реп. 318-грунт. реп. 330</SimpleData>
+		<SimpleData name="benchmark_type">Качиры,с. В 4.2 км к сев-зап. От него, в 63 м к сев. От дороги с.Пятирыжск-с. Качиры</SimpleData>
+		<SimpleData name="location_description">f391f501-733b-40d3-a62a-67498dfc364f</SimpleData>
+		<SimpleData name="status">data/stations/f391f501.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/f391f501.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>76.0439690879669,53.0864365618679</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="cdc8db69" id="cdc8db69">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>cdc8db69</name>
+  <Placemark id="cdc8db69.1">
+	<name>8694</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#cdc8db69">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">429,304</SimpleData>
+		<SimpleData name="control_location">Линия № 1: Аркарлы - Актас, 2 класс (1) Участок: ск. реп. 790 - фунд. реп. 2280 </SimpleData>
+		<SimpleData name="benchmark_type">Жалгыз, такыр, в 6.0 км к югу от него, в 3.0 км к сев.- зап. от перекрёстка грунт, дороги зим. Бетпакдала - с. Мынарал и полевой дороги, в 15 м к вост, от полевой дороги</SimpleData>
+		<SimpleData name="location_description">cdc8db69-6352-4e74-9f65-1dc6fc89bfae</SimpleData>
+		<SimpleData name="status">data/stations/cdc8db69.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/cdc8db69.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>71.2852852107823,45.7525907768151</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

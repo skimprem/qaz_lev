@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="cefc975a" id="cefc975a">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>cefc975a</name>
+  <Placemark id="cefc975a.1">
+	<name>15</name>
+	<description>грунт. реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#cefc975a">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">617.913</SimpleData>
+		<SimpleData name="leveling_order">615,225</SimpleData>
+		<SimpleData name="control_height">контрольный репер №163 в верхней плоскости  монолита</SimpleData>
+		<SimpleData name="benchmark_number">123</SimpleData>
+		<SimpleData name="control_location">Линия №1: Ульяновский - Каркаралинск, I класс (1) Участок: грунт. реп.12 - фунд. реп.19</SimpleData>
+		<SimpleData name="benchmark_type">Хорошевское, с., в 1,5 км к юго-зап. от в 50 м к вост. от тлф. стб., в 41 м к юго-вост. от шоссе с. Хорошевское - с. Пролетарское </SimpleData>
+		<SimpleData name="leveling_line_section">утрачен по тех.отчету </SimpleData>
+		<SimpleData name="location_description">cefc975a-00b5-4e30-ae3e-5fd4efd39350</SimpleData>
+		<SimpleData name="status">data/stations/cefc975a.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/cefc975a.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>74.2674618233126,50.06242917778</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

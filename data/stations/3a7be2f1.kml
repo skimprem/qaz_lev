@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="3a7be2f1" id="3a7be2f1">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>3a7be2f1</name>
+  <Placemark id="3a7be2f1.1">
+	<name>4137</name>
+	<name>грунт.реп.</name>
+	<description>грунт.реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#3a7be2f1">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">510.046</SimpleData>
+		<SimpleData name="benchmark_number">163</SimpleData>
+		<SimpleData name="control_location">Линия  № 2 :  Балхаш - Карасу, П  класс  (3)
+Участок : грунт.реп. 29 - грунт. реп.6441</SimpleData>
+		<SimpleData name="benchmark_type">Карасу,с.,в  27.7  км  к  юго-зап.от  него, 
+в  80  м  к  зап.от  шоссе  с.Актогай  -гор.
+Балхаш.между  км.стб.№'  147  и  №  148</SimpleData>
+		<SimpleData name="location_description">3a7be2f1-0bdb-4239-826a-89cff170501b</SimpleData>
+		<SimpleData name="status">data/stations/3a7be2f1.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/3a7be2f1.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.3217271701015,47.2604000608029</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

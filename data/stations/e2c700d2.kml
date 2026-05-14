@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="e2c700d2" id="e2c700d2">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>e2c700d2</name>
+  <Placemark id="e2c700d2.1">
+	<name>2857</name>
+	<name>грунт.реп.</name>
+	<description>грунт.реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#e2c700d2">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">560,762</SimpleData>
+		<SimpleData name="benchmark_number">160 оп.знак</SimpleData>
+		<SimpleData name="control_location">Линия № 3: Балхаш - Акчатау, II класс
+Участок: фунд.реп.0653 - грунт.реп. 4723</SimpleData>
+		<SimpleData name="benchmark_type">Жангызтал,зим.,в 9.0 км к юго-вост.от
+неё,в 0.1 км к вост.от шоссе Караганда-Балхаш, между км.стб.№ 323 и № 324</SimpleData>
+		<SimpleData name="location_description">e2c700d2-dc34-4026-b33d-15931764ed50</SimpleData>
+		<SimpleData name="status">data/stations/e2c700d2.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/e2c700d2.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>74.7427689746326,47.3118308204252</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

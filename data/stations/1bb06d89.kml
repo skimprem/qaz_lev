@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="1bb06d89" id="1bb06d89">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>1bb06d89</name>
+  <Placemark id="1bb06d89.1">
+	<name>8881</name>
+	<name>грунт.реп</name>
+	<ExtendedData><SchemaData schemaUrl="#1bb06d89">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">704.936</SimpleData>
+		<SimpleData name="control_location">Линпмя №2: Сузак-Туркестан, II класс (3) Участок: грунт.реп. 10178-грунт.реп. 1695</SimpleData>
+		<SimpleData name="benchmark_type">Бозбутак,с., в 2.1 км к зап. От него, в 68 м к сев.-зап. От седловины,в 9 м к сев.-вост. От полевой дороги</SimpleData>
+		<SimpleData name="leveling_line_section"></SimpleData>
+		<SimpleData name="location_description">1bb06d89-4092-448f-b0db-621bf9a21bff</SimpleData>
+		<SimpleData name="status">data/stations/1bb06d89.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/1bb06d89.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>68.2098002140787,43.7735917902755</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

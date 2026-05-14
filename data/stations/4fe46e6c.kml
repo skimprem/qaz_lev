@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="4fe46e6c" id="4fe46e6c">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>4fe46e6c</name>
+  <Placemark id="4fe46e6c.1">
+	<name>4747</name>
+	<name>грунт. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#4fe46e6c">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">597.090</SimpleData>
+		<SimpleData name="benchmark_number">160 оп. знак</SimpleData>
+		<SimpleData name="control_location">Линия № 2: Каратал  – Карабута , II класс </SimpleData>
+		<SimpleData name="benchmark_type">Бекет, с., в 10.5 км к сев.-вост. от него, в 1.5 км к югу от ОТФ и полевого стана, в 80 м к зап. от русла р. Лай, в 10 м к вост. от полевой дороги</SimpleData>
+		<SimpleData name="location_description">4fe46e6c-c51c-4143-944d-befc9dfb16b9</SimpleData>
+		<SimpleData name="status">data/stations/4fe46e6c.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/4fe46e6c.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>82.4806259605423,46.831247946838</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

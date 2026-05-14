@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="4c19156c" id="4c19156c">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>4c19156c</name>
+  <Placemark id="4c19156c.1">
+	<name>7898</name>
+	<description>грунт. реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#4c19156c">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">126.451</SimpleData>
+		<SimpleData name="leveling_height">0</SimpleData>
+		<SimpleData name="benchmark_number">146 оп</SimpleData>
+		<SimpleData name="benchmark_type">В 3,5 км к югу-зап.от ст. такудык, в 40 м к сев-зап.от км стб. 391/392, в 0,1 км к сев-зап.от симофора</SimpleData>
+		<SimpleData name="leveling_line_section">сохранен</SimpleData>
+		<SimpleData name="location_description">4c19156c-3546-4927-b04f-22f412e7d832</SimpleData>
+		<SimpleData name="status">data/stations/4c19156c.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/4c19156c.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>76.3764875792475,52.0872783161274</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

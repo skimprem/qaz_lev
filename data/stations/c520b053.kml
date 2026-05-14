@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="c520b053" id="c520b053">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>c520b053</name>
+  <Placemark id="c520b053.1">
+	<name>6076</name>
+	<description>грунт. реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#c520b053">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">111.376</SimpleData>
+		<SimpleData name="benchmark_number">160 оп. знак</SimpleData>
+		<SimpleData name="control_location">Линия №1 : Аральск - Тактайконыр, I класс. Участок: грунт. реп. 9144 - грунт. реп. 8047</SimpleData>
+		<SimpleData name="benchmark_type">Конысбай, зим., в 2.4 км к юго-зап. от нее, в 2.2 км к сев.-вост. от к. Торткудык и летника, в 5 м к зап. от полевой дороги</SimpleData>
+		<SimpleData name="location_description">c520b053-2ae8-484d-b84a-a0f0b68d7f1e</SimpleData>
+		<SimpleData name="status">data/stations/c520b053.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/c520b053.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>61.4044897943691,47.7125065361557</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

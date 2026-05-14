@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="559f7973" id="559f7973">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>559f7973</name>
+  <Placemark id="559f7973.1">
+	<name>739</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#559f7973">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="benchmark_number">123</SimpleData>
+		<SimpleData name="control_location">Линия № 1: Макинск - Байулесты, II класс, Участок: грунт.реп. 0586 - грунт. реп.732</SimpleData>
+		<SimpleData name="benchmark_type">Уалиханов,с.,в 7.2 км к сев.-зап.от него,в 4.3 км к сев.-зап.от плотины, в 3.9 км к юго-зап.от оз. Шамган</SimpleData>
+		<SimpleData name="location_description">559f7973-62d4-4b05-abf0-a315919d8cf9</SimpleData>
+		<SimpleData name="status">data/stations/559f7973.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/559f7973.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>71.5000786374202,52.858708747072</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

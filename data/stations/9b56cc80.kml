@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="9b56cc80" id="9b56cc80">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>9b56cc80</name>
+  <Placemark id="9b56cc80.1">
+	<name>8722</name>
+	<name>грунт.реп</name>
+	<ExtendedData><SchemaData schemaUrl="#9b56cc80">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">351.227</SimpleData>
+		<SimpleData name="control_location">Линия №1: Сузак-Коскызыл, II класс (1). Участок: грунт.реп. 8722-фунд.реп. IV</SimpleData>
+		<SimpleData name="benchmark_type">Уюм,с., в 3.7 км к юго-вост.от него, в 4.8 км к зап.от буг.Кырсаулы, в 40 м к сев.от шоссе с.Байкадам-с.Акколь</SimpleData>
+		<SimpleData name="location_description">9b56cc80-4611-4995-bc63-1175992d6ac4</SimpleData>
+		<SimpleData name="status">data/stations/9b56cc80.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/9b56cc80.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>69.9869219593174,43.7132982783135</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

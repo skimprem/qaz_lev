@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="aed30e68" id="aed30e68">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>aed30e68</name>
+  <Placemark id="aed30e68.1">
+	<name>0023</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#aed30e68">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">181.503</SimpleData>
+		<SimpleData name="benchmark_number">124</SimpleData>
+		<SimpleData name="control_location">Линия №1: Старый Ерментау-Седьмой Аул, II класс (I)</SimpleData>
+		<SimpleData name="benchmark_type">Олентинский,свх., в 9.6 км к юго-зап. от него, в 1.0 км к сев.-зап. от русла р.Оленты, в 30 м к зап. от полевой дороги</SimpleData>
+		<SimpleData name="location_description">aed30e68-dd44-422d-82de-5956bf72b575</SimpleData>
+		<SimpleData name="status">data/stations/aed30e68.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/aed30e68.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>74.3545594708446,52.0764676244527</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

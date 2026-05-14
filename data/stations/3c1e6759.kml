@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="3c1e6759" id="3c1e6759">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>3c1e6759</name>
+  <Placemark id="3c1e6759.1">
+	<name>297</name>
+	<name>грунт. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#3c1e6759">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">378.865</SimpleData>
+		<SimpleData name="leveling_order">377.481</SimpleData>
+		<SimpleData name="leveling_height">260</SimpleData>
+		<SimpleData name="control_height">фундаментная плита</SimpleData>
+		<SimpleData name="benchmark_number">тип 116</SimpleData>
+		<SimpleData name="control_location">Линия № 2: Коктума(фунд.реп.3002) - Учарал(фунд.реп.25), II класс. Участок: фунд.реп. 3002 – грунт.реп. 272</SimpleData>
+		<SimpleData name="benchmark_type">Акши, с., в 1.4 км к юго-вост. от него, в 0.1 км к сев. от жел. дор., к вост. от пересечения ЛЭП с линией связи</SimpleData>
+		<SimpleData name="location_description">3c1e6759-2bc0-4a01-8598-3c6fc12fdebc</SimpleData>
+		<SimpleData name="status">data/stations/3c1e6759.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/3c1e6759.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>81.563100452067,45.943407133508</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

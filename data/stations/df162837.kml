@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="df162837" id="df162837">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>df162837</name>
+  <Placemark id="df162837.1">
+	<name>1</name>
+	<name>фунд.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#df162837">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">330.788</SimpleData>
+		<SimpleData name="leveling_order">329.312</SimpleData>
+		<SimpleData name="benchmark_number">134</SimpleData>
+		<SimpleData name="control_location">Линия №1: Челкар-Изембет, I   класс. Участок: фунд.реп. 144-марка 4264</SimpleData>
+		<SimpleData name="benchmark_type">Тас, разъезд №57, в 0.2 км к юго-вост. от него, на 3 пк 868 км жел. Дор., в 83 м к юго-зап. от жел.-дор. Полотна, в 77 м к югу От жел.-дор. Будки</SimpleData>
+		<SimpleData name="location_description">df162837-21ef-4b89-8bff-b95c27f6f17c</SimpleData>
+		<SimpleData name="status">data/stations/df162837.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/df162837.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>58.3693922471536,48.6420906449088</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="fc80e08d" id="fc80e08d">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>fc80e08d</name>
+  <Placemark id="fc80e08d.1">
+	<name>7973</name>
+	<description>фунд.реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#fc80e08d">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">220.827</SimpleData>
+		<SimpleData name="leveling_order">219.488</SimpleData>
+		<SimpleData name="benchmark_number">154 оп</SimpleData>
+		<SimpleData name="control_location">Линия  № 4 : Новоильиновка - Актасты, II класс                            Участок : фунд.реп.6284 - грунт.реп.7873</SimpleData>
+		<SimpleData name="benchmark_type">Перелески, станц., в 3.5 км к югу от нее, в 1.0 км к сев.от вдхр.на р.Тобол, в 133 м к югу от грейдера гор.Джетыгара - с.Тобол, в 24 м к сев.-вост.от кладбища</SimpleData>
+		<SimpleData name="location_description">fc80e08d-5c57-4339-80b8-4fd58dbbaad0</SimpleData>
+		<SimpleData name="status">data/stations/fc80e08d.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/fc80e08d.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>62.0816106321641,52.4933527276456</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

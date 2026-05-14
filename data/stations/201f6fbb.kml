@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="201f6fbb" id="201f6fbb">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>201f6fbb</name>
+  <Placemark id="201f6fbb.1">
+	<name>901</name>
+	<description>грунт.репер</description>
+	<ExtendedData><SchemaData schemaUrl="#201f6fbb">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">239.025</SimpleData>
+		<SimpleData name="leveling_order">237,441</SimpleData>
+		<SimpleData name="benchmark_number">121</SimpleData>
+		<SimpleData name="control_location">Линия №2:Семиозёрное-Жанатурмыс,II класс(I)Участок:грунт.реп.101-грунт.реп.348</SimpleData>
+		<SimpleData name="benchmark_type">Кожаколь,с.,в 7.1 км к юго-зап.от него,в 5,2 км к сев.-вост.от с. Белкарагай, в 1.1 км к сев.-вост.от развилки дорог, в 0,6 км к югу от оз. Кожаколь, к зап.от дороги</SimpleData>
+		<SimpleData name="location_description">201f6fbb-f69c-43ff-adf5-5ae0b55af03a</SimpleData>
+		<SimpleData name="status">data/stations/201f6fbb.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/201f6fbb.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>62.9582105307707,51.8974743557913</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

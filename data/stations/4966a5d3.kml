@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="4966a5d3" id="4966a5d3">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>4966a5d3</name>
+  <Placemark id="4966a5d3.1">
+	<name>0444</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#4966a5d3">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">576.020</SimpleData>
+		<SimpleData name="benchmark_number">146</SimpleData>
+		<SimpleData name="control_location">Линия №3: грунт.реп.1006 - грунт.реп. XXII, II класс (3). Учасотк: грунт.реп. 1006 - п.п. 168</SimpleData>
+		<SimpleData name="benchmark_type">Караганда, гор., в 0.5 км к юго-вост. от камнедробильного завода, в 0.3 км к югу от пашни</SimpleData>
+		<SimpleData name="location_description">4966a5d3-0ad0-44f5-b092-bae83b586555</SimpleData>
+		<SimpleData name="status">data/stations/4966a5d3.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/4966a5d3.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>73.0062862092103,49.927122816241</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

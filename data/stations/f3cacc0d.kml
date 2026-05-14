@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="f3cacc0d" id="f3cacc0d">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>f3cacc0d</name>
+  <Placemark id="f3cacc0d.1">
+	<name>33</name>
+	<name>грунт,реп</name>
+	<ExtendedData><SchemaData schemaUrl="#f3cacc0d">
+		<SimpleData name="type">I</SimpleData>
+		<SimpleData name="view">110.31</SimpleData>
+		<SimpleData name="leveling_order">108,56</SimpleData>
+		<SimpleData name="control_height">Контрольный репер № 1241 в верхней плоскости монолита</SimpleData>
+		<SimpleData name="benchmark_number">121 оп</SimpleData>
+		<SimpleData name="control_location">Линия № 1: Челябинск - Петропавловск, I класс, Участок: стен,реп,3669 - стен,реп,1969</SimpleData>
+		<SimpleData name="benchmark_type">Затон, ст,,жел,дор, Курган - Петропавловск, в 5,5 км к сев,-зап,от нее, 8 пк 2607 км, в 1,4 км к юго-вост,от переезда через жел,дор,, в 44 м к сев,от жел,-дор,полотна</SimpleData>
+		<SimpleData name="location_description">f3cacc0d-9a09-41b5-97fc-d75d471bc885</SimpleData>
+		<SimpleData name="status">data/stations/f3cacc0d.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/f3cacc0d.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>68.9102252060139,54.8671492116585</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="3514735c" id="3514735c">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>3514735c</name>
+  <Placemark id="3514735c.1">
+	<name>б/№</name>
+	<name>грунт.реп</name>
+	<ExtendedData><SchemaData schemaUrl="#3514735c">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">404.649</SimpleData>
+		<SimpleData name="control_location">Линия № 4: Коскызыл-Джамбул, II класс (2). Висячий ход от грунт.реп. 151, IV класс (4)</SimpleData>
+		<SimpleData name="benchmark_type">Акколь,с., в 1.0 км к юго-зап.от него, водомерный пост на берегу р.Асас</SimpleData>
+		<SimpleData name="location_description">3514735c-a858-470e-b3bf-f3528ae792a6</SimpleData>
+		<SimpleData name="status">data/stations/3514735c.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/3514735c.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>70.7538630321848,43.4187889384143</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

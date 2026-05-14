@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="cbc8b3ea" id="cbc8b3ea">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>cbc8b3ea</name>
+  <Placemark id="cbc8b3ea.1">
+	<name>5593</name>
+	<description>грунт.реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#cbc8b3ea">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="benchmark_number">5 (146)</SimpleData>
+		<SimpleData name="benchmark_type">Вершковое с., в 1.0 км к вост. от него, в 22.0 м к зап. от автодороги Ленинское - Урицкий, в 13 м к зап. от опоры ЛЭП №89, 68 м к зап. от км стб. №12/77</SimpleData>
+		<SimpleData name="leveling_line_section">не найден</SimpleData>
+		<SimpleData name="location_description">cbc8b3ea-673d-411c-b2d2-fef49d59967f</SimpleData>
+		<SimpleData name="status">data/stations/cbc8b3ea.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/cbc8b3ea.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>65.3529740426323,53.9349158132637</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

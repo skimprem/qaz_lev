@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2a0a3adb" id="2a0a3adb">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>2a0a3adb</name>
+  <Placemark id="2a0a3adb.1">
+	<name>4011</name>
+	<name>стен.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#2a0a3adb">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="leveling_order">411.347</SimpleData>
+		<SimpleData name="control_height">в верхней плоскости монолита</SimpleData>
+		<SimpleData name="control_location">Линия № 1: Петропавловск - Астана (Целиноград), I класс, Участок: грунт.реп. 0772 - грунт. реп. б/№ ГМС Ход от марки 2762 до стен.реп.4560 II класс Участок: марка 2762 - степ.реп. 6064</SimpleData>
+		<SimpleData name="benchmark_type">Макинка, станц., в 0.5 км к сев.от неё, в 0.1 км к сев.от будки 302 км жел.дор., жел.-дор.мост</SimpleData>
+		<SimpleData name="location_description">2a0a3adb-f6f1-494e-b30d-dccbcc6de917</SimpleData>
+		<SimpleData name="status">data/stations/2a0a3adb.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/2a0a3adb.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>70.3784716036506,52.6758738169219</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

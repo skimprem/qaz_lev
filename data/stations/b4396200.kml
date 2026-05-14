@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="b4396200" id="b4396200">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>b4396200</name>
+  <Placemark id="b4396200.1">
+	<name>217</name>
+	<description>грунт.реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#b4396200">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">243.331</SimpleData>
+		<SimpleData name="benchmark_number">146 оп</SimpleData>
+		<SimpleData name="control_location">Линия № 1: Карталы - Семиозерный, I класс                                Участок : грунт.реп.3654 - грунт.реп.1816</SimpleData>
+		<SimpleData name="benchmark_type">Зааятский, станц., в 1.2 км к зап.от нее, против конца 8 пк.69 км жел.дор., в 59 м к сев.-зап.от будки, в 19 м к сев.от жел.-дор.полотна</SimpleData>
+		<SimpleData name="location_description">b4396200-5ab9-45aa-a370-4667193e68db</SimpleData>
+		<SimpleData name="status">data/stations/b4396200.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/b4396200.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>61.5576485739013,52.8907458009483</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="c50eb029" id="c50eb029">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>c50eb029</name>
+  <Placemark id="c50eb029.1">
+	<name>7894</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#c50eb029">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">143.018</SimpleData>
+		<SimpleData name="leveling_order">140.892</SimpleData>
+		<SimpleData name="control_height">в трубе</SimpleData>
+		<SimpleData name="benchmark_number">А</SimpleData>
+		<SimpleData name="control_location">Линия № 2: Макушино - Благовешенка.II класс
+Участок: грунт. реп. 1041 - грунт, реп. 753</SimpleData>
+		<SimpleData name="benchmark_type">Пресновка, с., в 5.2 км к югу от него, в 78 м к юго-зап. от
+тлф. стб. № 53/127, в 11 м к зап. от шоссе с. Пресновка -
+с. Благовещенка</SimpleData>
+		<SimpleData name="location_description">c50eb029-1913-4924-98fa-dd1c10eb3a0a</SimpleData>
+		<SimpleData name="status">data/stations/c50eb029.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/c50eb029.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.110742967643,54.6098879842695</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

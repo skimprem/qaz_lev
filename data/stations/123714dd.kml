@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="123714dd" id="123714dd">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>123714dd</name>
+  <Placemark id="123714dd.1">
+	<name>2566</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#123714dd">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">122,343</SimpleData>
+		<SimpleData name="benchmark_number">160оп</SimpleData>
+		<SimpleData name="control_location">Линия №I: фунд. реп. 3401 - стен. реп. 796, II класс (2) Участок: грунт. реп. 4112 - пир. 2 кл. Беловка  </SimpleData>
+		<SimpleData name="benchmark_type">Грязновка, с., в 1.3 км к сев.-зап. от него, в 40 м к сев.-вост. от линии связи</SimpleData>
+		<SimpleData name="location_description">123714dd-e054-46ed-9236-3a293c95e882</SimpleData>
+		<SimpleData name="status">data/stations/123714dd.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/123714dd.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.0392966691848,51.9356519888972</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

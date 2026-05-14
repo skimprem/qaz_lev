@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="d983ca52" id="d983ca52">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>d983ca52</name>
+  <Placemark id="d983ca52.1">
+	<name>3012</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#d983ca52">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">73.620</SimpleData>
+		<SimpleData name="benchmark_number">121</SimpleData>
+		<SimpleData name="control_location">Линия: Славгородское - Айбас, II класс ( I ) Участок: гр.рп. 16378 - гр.рп. 92504</SimpleData>
+		<SimpleData name="benchmark_type">Мортык, а., в 11,0 км к сев-вост.от него,в 0,6 км к югу от вдхр., в 20м к вост.от пол.дор.,на бугре, между оврагами</SimpleData>
+		<SimpleData name="location_description">d983ca52-f9df-4692-a175-27ff789cb63f</SimpleData>
+		<SimpleData name="status">data/stations/d983ca52.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/d983ca52.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>73.0009476738271,53.658363265596</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

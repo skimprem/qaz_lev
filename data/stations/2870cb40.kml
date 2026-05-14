@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2870cb40" id="2870cb40">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>2870cb40</name>
+  <Placemark id="2870cb40.1">
+	<name>20018</name>
+	<name>марка</name>
+	<ExtendedData><SchemaData schemaUrl="#2870cb40">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">452,084</SimpleData>
+		<SimpleData name="control_location">Линия № 2: Каратас – Аягоз, I класс. Участок: грунт.реп. 1071-марка 20139</SimpleData>
+		<SimpleData name="benchmark_type">Раз. № 29, в 6.1 км к сев.-вост. от него, на 4 пк 1069 км, в устое жел.-дор. моста через р. Тансык</SimpleData>
+		<SimpleData name="location_description">2870cb40-d5c0-4bba-951e-e9aa569ba64c</SimpleData>
+		<SimpleData name="status">data/stations/2870cb40.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/2870cb40.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>79.9532561124531,47.3847302097463</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

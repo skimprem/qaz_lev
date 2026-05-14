@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="aefc3c57" id="aefc3c57">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>aefc3c57</name>
+  <Placemark id="aefc3c57.1">
+	<name>5892</name>
+	<name>грунт,реп</name>
+	<ExtendedData><SchemaData schemaUrl="#aefc3c57">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">203.933</SimpleData>
+		<SimpleData name="benchmark_number">160 оп</SimpleData>
+		<SimpleData name="control_location">Линия I: Аральск (Аральское море) - Арысь,  I класс(1)Участок: грунт,реп,4929 - грунт,реп,9399</SimpleData>
+		<SimpleData name="benchmark_type">Тимур, станц,,в 5,0 км к юго-вост, от него, на 1-ом ПК 3165 км жел,дор,, в 12 м к вост, от тлф,стб, 32/208</SimpleData>
+		<SimpleData name="location_description">aefc3c57-2da7-41b2-a09d-06a98012c8ba</SimpleData>
+		<SimpleData name="status">data/stations/aefc3c57.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/aefc3c57.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>68.4724935861988,42.7856281534762</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

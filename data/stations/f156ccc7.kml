@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="f156ccc7" id="f156ccc7">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>f156ccc7</name>
+  <Placemark id="f156ccc7.1">
+	<name>Алаколь</name>
+	<description>пирамида</description>
+	<ExtendedData><SchemaData schemaUrl="#f156ccc7">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">359.956</SimpleData>
+		<SimpleData name="benchmark_number">37 оп</SimpleData>
+		<SimpleData name="control_location">Линия № 1: Учарал - Урджар, II класс. Участок: стен. реп. 8792 – грунт. реп. 2895</SimpleData>
+		<SimpleData name="benchmark_type">Алаколь, с., в 1.8 км к юго-вост. от него, в 0.5 км к сев.-вост. от развилки шоссе гор. Учарал – с. Рыбачье – с. Алаколь, к югу от шоссе</SimpleData>
+		<SimpleData name="location_description">f156ccc7-70af-4524-ad6d-cc4cbc1bff82</SimpleData>
+		<SimpleData name="status">data/stations/f156ccc7.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/f156ccc7.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>81.3159976572591,46.3422012650869</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

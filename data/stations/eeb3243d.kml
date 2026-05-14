@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="eeb3243d" id="eeb3243d">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>eeb3243d</name>
+  <Placemark id="eeb3243d.1">
+	<name>11а-Д</name>
+	<description>грунт.реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#eeb3243d">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">373.804</SimpleData>
+		<SimpleData name="leveling_order">373,287*</SimpleData>
+		<SimpleData name="control_height">в боковой грани пилона</SimpleData>
+		<SimpleData name="benchmark_number">Б</SimpleData>
+		<SimpleData name="control_location">Линия № 5: грунт.реп.11-Д=грунт.реп.23-Д I класс           Участок: грунт. реп.11-Д -грунт.реп.9-Д</SimpleData>
+		<SimpleData name="benchmark_type">Бурубайтал,станц.,в 13,0км к югу от нее, в 4,5 км к юго-вост.от жел.дор, в 30 м к вост.от дороги станц.Бурубайтал-с.Чокпар</SimpleData>
+		<SimpleData name="location_description">eeb3243d-fce5-42f1-8dae-b7530fc4f867</SimpleData>
+		<SimpleData name="status">data/stations/eeb3243d.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/eeb3243d.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>73.9979443651733,44.8228445066552</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

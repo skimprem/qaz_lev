@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="601b73de" id="601b73de">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>601b73de</name>
+  <Placemark id="601b73de.1">
+	<name>3052</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#601b73de">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">380.240</SimpleData>
+		<SimpleData name="leveling_order">246.352</SimpleData>
+		<SimpleData name="control_height">Контрольный репер в верхней плоскости монолига</SimpleData>
+		<SimpleData name="benchmark_number">160 оп.</SimpleData>
+		<SimpleData name="control_location">Линия №2: Шортанды -Нецветаевка, II класса (3) Участок: фунд.реп.140 - грунт.реп.8925</SimpleData>
+		<SimpleData name="benchmark_type">Шортанды, с., в 0.9 км к вост.от него, в 0.8 км к вост.от кладбища, в 0.1 м к сев.-вост.от территории дорожн-ремонтной службы, в 25 м к сев.от шоссе с.Бектау-с.Шортанды</SimpleData>
+		<SimpleData name="location_description">601b73de-e81c-446b-b692-3639ceca73f6</SimpleData>
+		<SimpleData name="status">data/stations/601b73de.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/601b73de.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>71.0245886842746,51.7093201996827</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

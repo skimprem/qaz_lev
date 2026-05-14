@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="6b05d247" id="6b05d247">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>6b05d247</name>
+  <Placemark id="6b05d247.1">
+	<name>20072</name>
+	<name>стен.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#6b05d247">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="control_location">Ход от фунд.реп. 1298 до ск.реп. 456, I класс </SimpleData>
+		<SimpleData name="benchmark_type">Ак-Булат, станц., в 4.9 км к сев.-вост. от нее, на 7 пк 1058 км, в устое жел.-дор. моста</SimpleData>
+		<SimpleData name="location_description">6b05d247-09b0-4dae-b069-13af94e36bc9</SimpleData>
+		<SimpleData name="status">data/stations/6b05d247.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/6b05d247.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>80.0673007289414,47.4513767532676</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

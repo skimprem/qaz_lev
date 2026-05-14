@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="6a426e21" id="6a426e21">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>6a426e21</name>
+  <Placemark id="6a426e21.1">
+	<name>репер 1031</name>
+	<description>пирамида</description>
+	<ExtendedData><SchemaData schemaUrl="#6a426e21">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">538.123</SimpleData>
+		<SimpleData name="leveling_height">1031</SimpleData>
+		<SimpleData name="benchmark_number">118 оп</SimpleData>
+		<SimpleData name="control_location">Линия № 4: Таскарасу - Чилик. П класс (2)  Участок; грунт.реп, 1411 - фунд.реп. 2208</SimpleData>
+		<SimpleData name="benchmark_type">Бриг.2-я свх.Горный Овцевод, в 9,2 км к сев. - вост. от нее, в 0,9  км югу от полевой дороги, в 30 м к югу от дороги с.Чилик - с. Чарын</SimpleData>
+		<SimpleData name="location_description">6a426e21-d79d-49eb-885c-56d51fc01a4d</SimpleData>
+		<SimpleData name="status">data/stations/6a426e21.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/6a426e21.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>78.6217822845899,43.6901868175131</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

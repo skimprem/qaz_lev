@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="e7bdf725" id="e7bdf725">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>e7bdf725</name>
+  <Placemark id="e7bdf725.1">
+	<name>4268</name>
+	<description>грунт. реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#e7bdf725">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">122.201</SimpleData>
+		<SimpleData name="control_location">Линия №1: Жосалы - Карсакбай. 1 класс. Участок: грунт.реп. 199 - грунт. Реп. 6</SimpleData>
+		<SimpleData name="benchmark_type">Пикет №4. разв.. в 7.4 км к юго-зап.от них. в 0.2 км к юго-вост.от геологического разреза. в 32 м к юго-вост.от грунт.дороги с. Карсакбай - с. Жосалы </SimpleData>
+		<SimpleData name="location_description">e7bdf725-dcc6-4b10-b419-02f4c4008b48</SimpleData>
+		<SimpleData name="status">data/stations/e7bdf725.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/e7bdf725.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>64.6339189701075,46.0616530032519</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

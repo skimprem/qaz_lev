@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="4cbddf05" id="4cbddf05">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>4cbddf05</name>
+  <Placemark id="4cbddf05.1">
+	<name>7112</name>
+	<description>грунт.репер</description>
+	<ExtendedData><SchemaData schemaUrl="#4cbddf05">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">122.108</SimpleData>
+		<SimpleData name="leveling_order">120,590</SimpleData>
+		<SimpleData name="benchmark_number">121</SimpleData>
+		<SimpleData name="control_location">Линия №2 грунт.реп.364 -грунт.реп.7112 Участок грунт.реп.7958 -грунт.реп.7112</SimpleData>
+		<SimpleData name="benchmark_type">Жаманакколь,солончак,в 10.0 км к зап.от него,в 9.3 км к юго-зап.от зим.Жарыкбидаик,в 15 м к зап.от дороги с.Тургай -с.Кишиколь</SimpleData>
+		<SimpleData name="location_description">4cbddf05-62a4-4918-9a56-ef551b319c1d</SimpleData>
+		<SimpleData name="status">data/stations/4cbddf05.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/4cbddf05.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>63.3038214750142,49.0122763169591</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

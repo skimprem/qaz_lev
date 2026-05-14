@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="252f957d" id="252f957d">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>252f957d</name>
+  <Placemark id="252f957d.1">
+	<name>2749</name>
+	<description>грунт.реп</description>
+	<ExtendedData><SchemaData schemaUrl="#252f957d">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">220.061</SimpleData>
+		<SimpleData name="control_location">Линия №1: Аральск-Шалкар, 1 класс (1). Участок: грунт.реп. 0137 -грует.реп. 2495</SimpleData>
+		<SimpleData name="benchmark_type">Акеспе, разъезд, здание разъезда</SimpleData>
+		<SimpleData name="leveling_line_section">утрачен</SimpleData>
+		<SimpleData name="location_description">252f957d-9dc1-492d-8c4f-e103c870dffc</SimpleData>
+		<SimpleData name="status">data/stations/252f957d.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/252f957d.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>60.8972382387761,47.3512099987572</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

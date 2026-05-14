@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="487c0645" id="487c0645">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>487c0645</name>
+  <Placemark id="487c0645.1">
+	<name>7633</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#487c0645">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">254,137</SimpleData>
+		<SimpleData name="control_location">Линия № 1: Кумкент - Торыустаган, 2 класс (1) Участок: грунт, реп. 0473 - грунт, реп. 8417</SimpleData>
+		<SimpleData name="benchmark_type">Торыустаган, с., в 23.3 км к югу от него, в 4.1 км к вост, от к. Толеутай, в 0.6 км к юго-зап. от перекрёстка полевых дорог, в 11м к зап. от полевой дороги</SimpleData>
+		<SimpleData name="location_description">487c0645-175f-49f1-a109-6e36a1629b1b</SimpleData>
+		<SimpleData name="status">data/stations/487c0645.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/487c0645.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>69.6916916108932,44.5821620569196</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

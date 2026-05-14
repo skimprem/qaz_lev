@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="f22e99aa" id="f22e99aa">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>f22e99aa</name>
+  <Placemark id="f22e99aa.1">
+	<name>1819</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#f22e99aa">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">526.900</SimpleData>
+		<SimpleData name="benchmark_number">146</SimpleData>
+		<SimpleData name="control_location">Линия №14: грунт.реп.1006 - грунт.реп.XXII, II класс (2) Участок :п.п. 169 - грунт.реп.XXII</SimpleData>
+		<SimpleData name="benchmark_type">Отд.№2 свх.им.Темирязева, в 0,1 км к югу от него, в 0,5 км к югу от дороги гор.Караганда-дом отдыха</SimpleData>
+		<SimpleData name="location_description">f22e99aa-5bf4-4d21-a8b4-c2b79e773587</SimpleData>
+		<SimpleData name="status">data/stations/f22e99aa.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/f22e99aa.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.9704764668258,49.9175099101842</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

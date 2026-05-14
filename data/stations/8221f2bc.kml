@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="8221f2bc" id="8221f2bc">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>8221f2bc</name>
+  <Placemark id="8221f2bc.1">
+	<name>13554</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#8221f2bc">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">208.516</SimpleData>
+		<SimpleData name="leveling_height">206.520</SimpleData>
+		<SimpleData name="benchmark_number">репер в верхней плоскости монолита</SimpleData>
+		<SimpleData name="control_location">Линия №4: грунт. реп. 2535-грунт. реп.5333, II класс</SimpleData>
+		<SimpleData name="benchmark_type">Орынбай,отгон, в 0.3 км к сев.-зап. от него, в 0.3 км к сев.-зап. от к. Орынбай, в 0.1 км к сев. от  дороги отгон Орынбай-ферма №2 свх.им. Калинина</SimpleData>
+		<SimpleData name="location_description">8221f2bc-63a1-4979-abdf-d9704fb060db</SimpleData>
+		<SimpleData name="status">data/stations/8221f2bc.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/8221f2bc.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>66.2085851653104,42.0875971841756</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

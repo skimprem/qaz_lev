@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="14989834" id="14989834">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>14989834</name>
+  <Placemark id="14989834.1">
+	<name>2792</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#14989834">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">88.696</SimpleData>
+		<SimpleData name="benchmark_number">121</SimpleData>
+		<SimpleData name="control_location">Линия №2: Чапаевский-Карасук, II класс (I) Участок:  грунт. реп. 2792-грунт. реп. 3085 </SimpleData>
+		<SimpleData name="benchmark_type">Новотроицкий, свх., в 6.5 км к зап. от него, в 0.4 км к югу от оз.без названия, в 57 м к югу от дороги ферма №2 свх.Новотроицкий-свх.Новотроицкий</SimpleData>
+		<SimpleData name="location_description">14989834-016e-4799-a211-0bd284fa546d</SimpleData>
+		<SimpleData name="status">data/stations/14989834.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/14989834.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>74.4926810829462,52.7556463618998</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

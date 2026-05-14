@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="8102e598" id="8102e598">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>8102e598</name>
+  <Placemark id="8102e598.1">
+	<name>2835</name>
+	<name>грунт. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#8102e598">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">305.433</SimpleData>
+		<SimpleData name="leveling_order">302.934</SimpleData>
+		<SimpleData name="benchmark_number">121</SimpleData>
+		<SimpleData name="control_location">Линия №3 : Сегиз-Кандагач , I класс . Участок : марка 2338-грунт. реп. 3579.  </SimpleData>
+		<SimpleData name="benchmark_type">Кандагач, станция, в 13,0 км к юго-зап. от неё, в 27 м к сев.-зап. от жел.- дор. полотна, в 19 м к юго-вост. от грунтовой дороги</SimpleData>
+		<SimpleData name="location_description">8102e598-80c9-4a5c-b857-f06d11b6cf6c</SimpleData>
+		<SimpleData name="status">data/stations/8102e598.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/8102e598.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>57.3392896514018,49.4230382103296</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="9b1b8166" id="9b1b8166">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>9b1b8166</name>
+  <Placemark id="9b1b8166.1">
+	<name>3122</name>
+	<description>грунт. реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#9b1b8166">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">802.757</SimpleData>
+		<SimpleData name="leveling_order">801,742</SimpleData>
+		<SimpleData name="control_height">контрольный репер в трубе</SimpleData>
+		<SimpleData name="benchmark_number">А </SimpleData>
+		<SimpleData name="control_location">Линия №1: Каркаралинск - Аягуз, I класс (1) Участок: грунт. реп. 2886 - ск. реп. 0686</SimpleData>
+		<SimpleData name="benchmark_type">Корешты, г., в 10,6 км к сев.-вост. от нее, в 2,5 км к сев. от мог. Саймырзак, в 15 м от пол. дороги</SimpleData>
+		<SimpleData name="location_description">9b1b8166-ef0d-4b77-86c8-451fddd8bb3b</SimpleData>
+		<SimpleData name="status">data/stations/9b1b8166.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/9b1b8166.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.2827624010626,48.6034735759792</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

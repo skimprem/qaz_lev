@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="cd4c4265" id="cd4c4265">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>cd4c4265</name>
+  <Placemark id="cd4c4265.1">
+	<name>974</name>
+	<name>грунт,реп</name>
+	<ExtendedData><SchemaData schemaUrl="#cd4c4265">
+		<SimpleData name="type">I</SimpleData>
+		<SimpleData name="view">129.217</SimpleData>
+		<SimpleData name="leveling_order">127,512</SimpleData>
+		<SimpleData name="control_height">Контрольный репер № 1092 в верхней плоскости монолита</SimpleData>
+		<SimpleData name="benchmark_number">121 оп</SimpleData>
+		<SimpleData name="control_location">Линия № 1: Челябинск - Петропавловск, I класс, Участок: стен,реп,3669 - стен,реп,1969</SimpleData>
+		<SimpleData name="benchmark_type">Кондратовка-Сибирская, ст,, жел,дор, Курган - Петропавловск, в 2,1 км к юго-вост,от нее, 7 пк 2602 км, в 47 м к сев,от жел,-дор,полотна</SimpleData>
+		<SimpleData name="location_description">cd4c4265-d0ee-433b-a160-a182e323e588</SimpleData>
+		<SimpleData name="status">data/stations/cd4c4265.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/cd4c4265.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>68.8323054704759,54.8778467131794</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

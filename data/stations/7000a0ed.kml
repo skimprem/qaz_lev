@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="7000a0ed" id="7000a0ed">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>7000a0ed</name>
+  <Placemark id="7000a0ed.1">
+	<name>1924</name>
+	<description>грунт. реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#7000a0ed">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">126.814</SimpleData>
+		<SimpleData name="leveling_height">Линия №1: Целиноград - Кулунда I класс Участок:  фунд. реп. 1015-грунт. реп. 7312</SimpleData>
+		<SimpleData name="benchmark_number">Красноармейка , станц., в 1.1 км к юго-зап. от нее, в 15 м к сев-зап. От жел.-дор. полотна, в 3 м к юго-вост. От линии связи, №457/458 км стб.  </SimpleData>
+		<SimpleData name="benchmark_type">13</SimpleData>
+		<SimpleData name="location_description">7000a0ed-4498-40d8-aca8-add3ba02e644</SimpleData>
+		<SimpleData name="status">data/stations/7000a0ed.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/7000a0ed.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.2459603224956,52.3453775519188</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

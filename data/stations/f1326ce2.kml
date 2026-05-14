@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="f1326ce2" id="f1326ce2">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>f1326ce2</name>
+  <Placemark id="f1326ce2.1">
+	<name>37</name>
+	<name>грунт.реп</name>
+	<ExtendedData><SchemaData schemaUrl="#f1326ce2">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">1161.506</SimpleData>
+		<SimpleData name="control_location">Линия № 1 Чиили-Мергенбай,II класс Участок: грунт.реп.51-грунт.25</SimpleData>
+		<SimpleData name="benchmark_type">Жанакудук,к., в 7.6 км к югу от него,в 2.6 км к югу от к Шилман, в 11 м к вост. От развилки полевой дороги</SimpleData>
+		<SimpleData name="location_description">f1326ce2-4ef9-4ed8-bb15-075bab2d0dad</SimpleData>
+		<SimpleData name="status">data/stations/f1326ce2.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/f1326ce2.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>66.1605289158481,43.6803116818135</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

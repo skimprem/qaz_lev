@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="b832b154" id="b832b154">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>b832b154</name>
+  <Placemark id="b832b154.1">
+	<name>б/№</name>
+	<name>марка</name>
+	<ExtendedData><SchemaData schemaUrl="#b832b154">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">99.336</SimpleData>
+		<SimpleData name="control_location">Ход от грунт. реп. 3170 до марки 4314. II класс</SimpleData>
+		<SimpleData name="benchmark_type">Коркыт. станц. . в водоёмном здании</SimpleData>
+		<SimpleData name="location_description">b832b154-1d98-4444-8ebc-34961cc3bc9a</SimpleData>
+		<SimpleData name="status">data/stations/b832b154.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/b832b154.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>63.9120472282354,45.6243342740244</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

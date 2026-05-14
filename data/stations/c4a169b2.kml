@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="c4a169b2" id="c4a169b2">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>c4a169b2</name>
+  <Placemark id="c4a169b2.1">
+	<name>1101</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#c4a169b2">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">130,114</SimpleData>
+		<SimpleData name="control_location">Линия № 2: Кызылорда- р. Сарысу. 2 класс (3) Унасток: грунт, реп. 5040-грунт, реп. 1761</SimpleData>
+		<SimpleData name="benchmark_type">Шукыркум, к., в 10.3 км к сев.-вост. от него, в 4.6 км к юго-зап. от к. Катын, в 41 м к сев.-зап. от шоссе
+гор. Жезказган - гор. Кызылорда</SimpleData>
+		<SimpleData name="location_description">c4a169b2-6bd6-44ef-80c6-e48fd82e7339</SimpleData>
+		<SimpleData name="status">data/stations/c4a169b2.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/c4a169b2.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>66.1917895183209,45.0923037757086</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="f511e810" id="f511e810">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>f511e810</name>
+  <Placemark id="f511e810.1">
+	<name>456</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#f511e810">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">107.731</SimpleData>
+		<SimpleData name="control_location">Линия: гр.рп. 321-гр.рп.11050 II класс(I) </SimpleData>
+		<SimpleData name="benchmark_type">Урлютюб,с.,в 4.5 км к сев.-вост. от  него,в 15 м от дороги в с.Степное, в 35 км к западу от ЛЭП, в 6 м к югу от угла пашни</SimpleData>
+		<SimpleData name="location_description">f511e810-131f-4b1f-88a2-381ff70e3e57</SimpleData>
+		<SimpleData name="status">data/stations/f511e810.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/f511e810.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.0901413848563,53.7397098743466</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

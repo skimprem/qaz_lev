@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="4520f329" id="4520f329">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>4520f329</name>
+  <Placemark id="4520f329.1">
+	<name>900</name>
+	<name>грунтовый репер</name>
+	<description>1</description>
+	<ExtendedData><SchemaData schemaUrl="#4520f329">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">102.933</SimpleData>
+		<SimpleData name="leveling_order">101.435</SimpleData>
+		<SimpleData name="control_height">Контрольный репер №61 в верхней плоскости монолита</SimpleData>
+		<SimpleData name="benchmark_number">121 оп</SimpleData>
+		<SimpleData name="control_location">Линия №3: Качиры - Павлодар, II класс Участок: фунд.реп.312 - грунт.реп.900</SimpleData>
+		<SimpleData name="benchmark_type">в 1.5 км к сев.-вост. От с. Григорьевка, в 50 м к зап. От дороги с. Чернорецкое - с. Григорьевка</SimpleData>
+		<SimpleData name="location_description">4520f329-8659-49be-afb2-b064a79e399a</SimpleData>
+		<SimpleData name="status">data/stations/4520f329.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/4520f329.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>76.7427082686459,52.6468717816591</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

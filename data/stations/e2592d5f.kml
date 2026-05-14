@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="e2592d5f" id="e2592d5f">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>e2592d5f</name>
+  <Placemark id="e2592d5f.1">
+	<name>49</name>
+	<name>грунт. реп. </name>
+	<ExtendedData><SchemaData schemaUrl="#e2592d5f">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">410.522</SimpleData>
+		<SimpleData name="benchmark_number">138 оп. знак</SimpleData>
+		<SimpleData name="control_location">Линия № 2: Алажиде - Каратас, Участок: фунд.реп. 386 –  грунт. реп. 41</SimpleData>
+		<SimpleData name="benchmark_type">Матай, станц., в 4.7 км к юго-зап. от нее, на 1 пк 1274 км, в 76 м к юго-зап. от км. стб. 1273/1274, в 64 м к зап. от жел. дор.</SimpleData>
+		<SimpleData name="location_description">e2592d5f-ba4e-40ed-99ed-a42e5ce6989d</SimpleData>
+		<SimpleData name="status">data/stations/e2592d5f.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/e2592d5f.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>78.7010499441503,45.8577840458688</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="adcfc2e4" id="adcfc2e4">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>adcfc2e4</name>
+  <Placemark id="adcfc2e4.1">
+	<name>7505</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#adcfc2e4">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">110.558</SimpleData>
+		<SimpleData name="leveling_order">109.313</SimpleData>
+		<SimpleData name="benchmark_number">104</SimpleData>
+		<SimpleData name="control_location">Линия №1: Доссор-Сагиз, I класс Участок: грнут.реп.3519-фунд.реп.145</SimpleData>
+		<SimpleData name="benchmark_type">Мукур, станц., в 17.1км к сев.-вост.от нее, на 3пикете 277км, в 71м к зап.от жел.-дор.полотна</SimpleData>
+		<SimpleData name="location_description">adcfc2e4-3ac1-403a-a9b8-bbfbb0e7765b</SimpleData>
+		<SimpleData name="status">data/stations/adcfc2e4.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/adcfc2e4.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>54.6749748377019,48.1239929217306</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

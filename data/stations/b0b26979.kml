@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="b0b26979" id="b0b26979">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>b0b26979</name>
+  <Placemark id="b0b26979.1">
+	<name>115</name>
+	<name>грунт. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#b0b26979">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">407.473</SimpleData>
+		<SimpleData name="leveling_order">406.382</SimpleData>
+		<SimpleData name="control_height">репер  в верхней плоскости монолита</SimpleData>
+		<SimpleData name="benchmark_number">121</SimpleData>
+		<SimpleData name="control_location">Линия №5 : Защита - Георгиевка, 2 класс (3) Участок: фунд. реп. 37 - грунт. реп. 21</SimpleData>
+		<SimpleData name="benchmark_type">Коммуна, с., в 0.3 км к юго-зап. от него, в 0.2 км к юго-зап. от мастерских МТС, в 34 м к сев.-зап. от дороги с. Георгиевка - станц. Жангиз-Тобе</SimpleData>
+		<SimpleData name="leveling_line_section">не найден</SimpleData>
+		<SimpleData name="location_description">b0b26979-48d1-4e16-a9da-eeceb51b4717</SimpleData>
+		<SimpleData name="status">data/stations/b0b26979.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/b0b26979.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>81.4560632166323,49.3122354940626</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

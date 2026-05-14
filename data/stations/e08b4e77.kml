@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="e08b4e77" id="e08b4e77">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>e08b4e77</name>
+  <Placemark id="e08b4e77.1">
+	<name>5990</name>
+	<name>стен,реп,</name>
+	<ExtendedData><SchemaData schemaUrl="#e08b4e77">
+		<SimpleData name="type">I</SimpleData>
+		<SimpleData name="view">346.039</SimpleData>
+		<SimpleData name="control_location">Линия №1: Петропавловск-Астана (Целиноград), I класс, Участок: грунт,реп, 7114-стен,реп, 5990</SimpleData>
+		<SimpleData name="benchmark_type">Жанкара № 20, раз,, в 1,6 км к сев,-зап,от него, на 3 пк 251 км жел,дор,, зап,сторона южн,устоя жел,-дор,моста</SimpleData>
+		<SimpleData name="location_description">e08b4e77-d49e-470d-88b7-fd25a9941cac</SimpleData>
+		<SimpleData name="status">data/stations/e08b4e77.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/e08b4e77.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>70.0505298731535,52.9968890012127</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

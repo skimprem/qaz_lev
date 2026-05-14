@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="e8855e85" id="e8855e85">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>e8855e85</name>
+  <Placemark id="e8855e85.1">
+	<name>16999</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#e8855e85">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">118.212</SimpleData>
+		<SimpleData name="benchmark_number">121</SimpleData>
+		<SimpleData name="control_location">Линия №10: сигн.2 кл., Бестобе-сигн.1 кл. Совхозный, III класс (3) Участок: грунт. реп. 16444</SimpleData>
+		<SimpleData name="benchmark_type">В 4.1 км к юго-зап. от свх.Аккольский, в 5.2 км к юго-вост. от фермы №5 свх.Аккольский, в 40 м к югу от дороги в свх.Аккольский</SimpleData>
+		<SimpleData name="location_description">e8855e85-1d2b-44d5-9b95-6f4389b8a58f</SimpleData>
+		<SimpleData name="status">data/stations/e8855e85.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/e8855e85.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>74.9963085544385,52.3190896662226</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

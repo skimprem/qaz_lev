@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="ea609bc7" id="ea609bc7">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>ea609bc7</name>
+  <Placemark id="ea609bc7.1">
+	<name>2643</name>
+	<name>грунт.реп.</name>
+	<description>грунт.реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#ea609bc7">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">707.446</SimpleData>
+		<SimpleData name="control_location">Линия № 1:Аркарлы-Мойынты II класс
+Участок: грунт.реп.121 - грунт.реп.415</SimpleData>
+		<SimpleData name="benchmark_type">Бельасар,зим.,в 12.2 км к юго-зап.от нее,в 1.8 км к юго-вост.от пересечения полевых дорог,в 0.2 км к сев.от пересыхающего русла р.Алтывайт</SimpleData>
+		<SimpleData name="location_description">ea609bc7-b7bb-4112-ae6e-6c9e443e94ef</SimpleData>
+		<SimpleData name="status">data/stations/ea609bc7.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/ea609bc7.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.6296522031333,47.3037887326566</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

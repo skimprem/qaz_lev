@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="4151e703" id="4151e703">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>4151e703</name>
+  <Placemark id="4151e703.1">
+	<name>4</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#4151e703">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">516,008</SimpleData>
+		<SimpleData name="control_location">Висячий ход от грунт. реп. 6, II класс (10)</SimpleData>
+		<SimpleData name="benchmark_type">Петровка, с., в 6,0 км к вост. от него, в 3,5 км к сев.-вост. от с. Ботакара, в 30 м к югу от дороги с. Петровка – с. Ульяновский</SimpleData>
+		<SimpleData name="location_description">4151e703-cbee-4237-b777-40ae2c3dc423</SimpleData>
+		<SimpleData name="status">data/stations/4151e703.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/4151e703.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>73.5867415869228,50.0813076193802</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

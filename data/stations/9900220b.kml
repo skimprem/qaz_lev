@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="9900220b" id="9900220b">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>9900220b</name>
+  <Placemark id="9900220b.1">
+	<name>0091</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#9900220b">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">148,491</SimpleData>
+		<SimpleData name="control_location">Линия № 3: Кичиктай - Созак, 2 класс (3) Участок: фунд. реп. 7911 - грунт. реп. 9460 </SimpleData>
+		<SimpleData name="benchmark_type">Дауит, арт.к., в 4.2 км к сев. от него, в 5.5 км к югу от сух. русла Жаман Шу, в 22 м к вост. от грунт. дороги гор. Жезказган - с. Созак</SimpleData>
+		<SimpleData name="location_description">9900220b-4c31-494a-824d-f39760e530ec</SimpleData>
+		<SimpleData name="status">data/stations/9900220b.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/9900220b.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>68.3114820037445,44.8143218614986</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

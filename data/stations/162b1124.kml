@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="162b1124" id="162b1124">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>162b1124</name>
+  <Placemark id="162b1124.1">
+	<name>8600</name>
+	<name>грунт.реп.</name>
+	<description>грунт.реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#162b1124">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">385,470</SimpleData>
+		<SimpleData name="benchmark_number">160оп.знак</SimpleData>
+		<SimpleData name="control_location">Линия № 1: Качагай-Акколь, II класс. Участок: грунт.реп. 4477-грунт.реп. 8600</SimpleData>
+		<SimpleData name="benchmark_type">Баканас,с.,в 26,3 км к сев.-зап. от него, в 0.2 м к югу от км.стб.239/26 шоссе с.Караой-с.Баканас,в 54м к юго.-зап. От тлгр.стб. 73/530</SimpleData>
+		<SimpleData name="location_description">162b1124-9839-4094-af96-b5f0b96a65e4</SimpleData>
+		<SimpleData name="status">data/stations/162b1124.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/162b1124.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.9563219903275,44.927103622319</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="87517152" id="87517152">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>87517152</name>
+  <Placemark id="87517152.1">
+	<name>112</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#87517152">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">677,133</SimpleData>
+		<SimpleData name="benchmark_number">160 оп. знак</SimpleData>
+		<SimpleData name="control_location">Линия № 2: Карабута – Белая Школа, II класс (1)
+Участок: грунт.реп. 93 –  фунд.реп. 5491</SimpleData>
+		<SimpleData name="benchmark_type">Ойчилик, с., в 8.4 км к сев.-вост. от него, в 0.2 км к юго-зап. от зимовки, к югу от грунт. дороги с. Ойчилик – с. Шолакорда</SimpleData>
+		<SimpleData name="location_description">87517152-328d-4d12-be04-69474170f077</SimpleData>
+		<SimpleData name="status">data/stations/87517152.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/87517152.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>83.0506855461716,47.6158412039332</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

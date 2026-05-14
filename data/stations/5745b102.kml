@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="5745b102" id="5745b102">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>5745b102</name>
+  <Placemark id="5745b102.1">
+	<name>1551</name>
+	<name>грунтовый репер </name>
+	<ExtendedData><SchemaData schemaUrl="#5745b102">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">770,355</SimpleData>
+		<SimpleData name="leveling_order">768,771</SimpleData>
+		<SimpleData name="control_height">Контрольный репер в верхней плоскости монолита</SimpleData>
+		<SimpleData name="benchmark_number">121</SimpleData>
+		<SimpleData name="control_location">Линия № 1: Акбулак - Акозек, II класс (1) Участок: ск.реп. 12181 - грунт.реп. 1026</SimpleData>
+		<SimpleData name="benchmark_type">Татан, с., в 12.6 км к юго-зап. от него, в 1.8 км к сев.-вост. от зим. Копкора, в 0.7 км к юго-вост. от мог.Кожабек.</SimpleData>
+		<SimpleData name="location_description">5745b102-eabd-4a00-8d18-97750267f2a9</SimpleData>
+		<SimpleData name="status">data/stations/5745b102.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/5745b102.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>76.9324061408586,48.2339556116418</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

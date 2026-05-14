@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="12dd5001" id="12dd5001">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>12dd5001</name>
+  <Placemark id="12dd5001.1">
+	<name>7055</name>
+	<name>грунт. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#12dd5001">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">94.889</SimpleData>
+		<SimpleData name="leveling_order">93.349</SimpleData>
+		<SimpleData name="benchmark_number">121</SimpleData>
+		<SimpleData name="control_location">Ход от грунт. реп. 91355 - грунт. реп. 91764, II класс.</SimpleData>
+		<SimpleData name="benchmark_type">Каракум, разв., в 2.3 км к сев.-вост. от них, в 0.6 км к югу от с. Казангап, в 20 м к сев.-зап. от полевой дороги</SimpleData>
+		<SimpleData name="location_description">12dd5001-d1f9-4e49-9d54-4cf2f04b3e42</SimpleData>
+		<SimpleData name="status">data/stations/12dd5001.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/12dd5001.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>63.8049615893932,47.8650577282975</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

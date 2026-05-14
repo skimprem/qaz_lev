@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="aea83adb" id="aea83adb">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>aea83adb</name>
+  <Placemark id="aea83adb.1">
+	<name>65</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#aea83adb">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">304,580</SimpleData>
+		<SimpleData name="leveling_order">302,687</SimpleData>
+		<SimpleData name="control_height">контрольный репер в верхней плоскости монолита</SimpleData>
+		<SimpleData name="benchmark_number">121оп</SimpleData>
+		<SimpleData name="control_location">Линия №1: Карасорвкий - Сарыкияк, II класс (1) Участок: ск. реп. 6100 - грунт. реп. 8674</SimpleData>
+		<SimpleData name="benchmark_type">Акмола, зим., в 12.8 км к сев.-вост. от неё, в 8.9 км к югу от оз. Торесор, в 0.1 км к югу от полевой дороги</SimpleData>
+		<SimpleData name="location_description">aea83adb-4321-473d-a8e4-52a2f7bb488f</SimpleData>
+		<SimpleData name="status">data/stations/aea83adb.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/aea83adb.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.4425766588916,51.1786093976832</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="1a55dcb1" id="1a55dcb1">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>1a55dcb1</name>
+  <Placemark id="1a55dcb1.1">
+	<name>9280</name>
+	<name>грунт. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#1a55dcb1">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">65,525</SimpleData>
+		<SimpleData name="benchmark_number">160 оп</SimpleData>
+		<SimpleData name="control_location">Участок: грунт.реп. X - грунт.реп. 5511</SimpleData>
+		<SimpleData name="benchmark_type">Иисбулак, арт.к., в 9,4 км к югу от него, в 1,6 км к сев.от арт.к. Сарымбет, в 0,1 км к вост.от полевой дороги, на бархане</SimpleData>
+		<SimpleData name="location_description">1a55dcb1-385e-489e-a175-345eba52b9f5</SimpleData>
+		<SimpleData name="status">data/stations/1a55dcb1.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/1a55dcb1.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>62.0417161581438,44.1446003910259</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

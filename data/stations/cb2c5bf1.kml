@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="cb2c5bf1" id="cb2c5bf1">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>cb2c5bf1</name>
+  <Placemark id="cb2c5bf1.1">
+	<name>91430</name>
+	<name>грунт,реп</name>
+	<ExtendedData><SchemaData schemaUrl="#cb2c5bf1">
+		<SimpleData name="type">I</SimpleData>
+		<SimpleData name="view">402.94</SimpleData>
+		<SimpleData name="leveling_order">401,078</SimpleData>
+		<SimpleData name="control_height">контрольный репер №975 в верхней плоскости монолита</SimpleData>
+		<SimpleData name="benchmark_number">121</SimpleData>
+		<SimpleData name="control_location">Ход от грунт,реп, 91951 до фунд реп, 116, I класс(5)</SimpleData>
+		<SimpleData name="benchmark_type">Бабатай, станция, в 2,0 км к юго-вост, от нее, на 4 пк 541
+км жел,дор,, в 47 м к сев,-вост, от жел,-дор, Полотна</SimpleData>
+		<SimpleData name="leveling_line_section">уничтожен</SimpleData>
+		<SimpleData name="location_description">cb2c5bf1-fe7b-479e-88e5-667ba84225d9</SimpleData>
+		<SimpleData name="status">data/stations/cb2c5bf1.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/cb2c5bf1.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>71.9807758532243,50.9525725895644</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

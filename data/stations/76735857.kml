@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="76735857" id="76735857">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>76735857</name>
+  <Placemark id="76735857.1">
+	<name>1689</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#76735857">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">235.344</SimpleData>
+		<SimpleData name="control_location">Линия №1: Куракбулак-Чардара, ІІ класс  Участок: грунт.реп.1905-грунт.реп.869</SimpleData>
+		<SimpleData name="benchmark_type">Ферма №2 свх.Коксуйский, в 2.1 км к югу от нее,в 0.9 км к сев.от к.Коктас,в 0.4 км к юго-вост.от пир.2 кл.Коксу</SimpleData>
+		<SimpleData name="location_description">76735857-16d8-4cd1-8992-aa917c1268e6</SimpleData>
+		<SimpleData name="status">data/stations/76735857.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/76735857.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.945903188758,41.4639870517043</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

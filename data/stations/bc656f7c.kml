@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="bc656f7c" id="bc656f7c">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>bc656f7c</name>
+  <Placemark id="bc656f7c.1">
+	<name>0207</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#bc656f7c">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">572.318</SimpleData>
+		<SimpleData name="benchmark_number">146</SimpleData>
+		<SimpleData name="control_location">Линия №23: пир. 4 кл. Ушоба - марка 2232, II класс (3)</SimpleData>
+		<SimpleData name="benchmark_type">Караганда, гор., в 3.0 км к сев.-вост. от аэропорта, в 0.8 км к юго-зап. от вдхр.</SimpleData>
+		<SimpleData name="location_description">bc656f7c-8cfc-4636-ba6d-45e1a31391c4</SimpleData>
+		<SimpleData name="status">data/stations/bc656f7c.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/bc656f7c.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>73.1790760076689,49.8139769403878</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

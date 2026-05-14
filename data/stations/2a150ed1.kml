@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2a150ed1" id="2a150ed1">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>2a150ed1</name>
+  <Placemark id="2a150ed1.1">
+	<name>5524</name>
+	<name>ск.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#2a150ed1">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">334,748</SimpleData>
+		<SimpleData name="benchmark_number">99оп</SimpleData>
+		<SimpleData name="control_location">Линия №1: Коянды - Семиярск, I класс (1) Участок: грунт. реп. 71 - грунт. реп. 1861</SimpleData>
+		<SimpleData name="benchmark_type">Шубран, лет., в 8,8 км к юго-зап. от него, в 2,2 км к сев. от пир. 2 кл. Известковая, в 0,1 км к сев. от полевой дороги</SimpleData>
+		<SimpleData name="location_description">2a150ed1-8787-42ef-b50f-b66ecf70f136</SimpleData>
+		<SimpleData name="status">data/stations/2a150ed1.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/2a150ed1.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.5274728941023,50.3312545354161</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

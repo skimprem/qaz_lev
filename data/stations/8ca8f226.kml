@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="8ca8f226" id="8ca8f226">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>8ca8f226</name>
+  <Placemark id="8ca8f226.1">
+	<name>5870</name>
+	<description>грунт.реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#8ca8f226">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">245.884</SimpleData>
+		<SimpleData name="leveling_order">253.772</SimpleData>
+		<SimpleData name="leveling_height">Контрольный репер № 5830 в фундаментной плите</SimpleData>
+		<SimpleData name="control_height">№5830</SimpleData>
+		<SimpleData name="benchmark_number">116 оп.</SimpleData>
+		<SimpleData name="control_location">Линия №1: Жосалы - Карсакбай, I класс            Участок: грунт.реп.5803 - грунт.реп. 3487</SimpleData>
+		<SimpleData name="benchmark_type">Коскудык, к., в 12.8  км к сев.-вост.от него, в   5.4 км  к  югу от г. Карадон, в 60 м к юго-вост.от грунт. дороги с. Карсакбай -  с. Жосалы</SimpleData>
+		<SimpleData name="location_description">8ca8f226-f373-4753-8f8a-44c028d3fe04</SimpleData>
+		<SimpleData name="status">data/stations/8ca8f226.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/8ca8f226.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>65.9730695990472,47.0674501149336</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

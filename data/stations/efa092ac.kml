@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="efa092ac" id="efa092ac">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>efa092ac</name>
+  <Placemark id="efa092ac.1">
+	<name>6155</name>
+	<name>ск. реп. </name>
+	<ExtendedData><SchemaData schemaUrl="#efa092ac">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">1071.228</SimpleData>
+		<SimpleData name="benchmark_number">99 оп</SimpleData>
+		<SimpleData name="control_location">Линия № 2: Каратурук - Асы, 2класс, Участок: фунд.реп. 5285 - ск.реп. 8161</SimpleData>
+		<SimpleData name="benchmark_type">Таусугурский, свх., в 7,5 км к югу от него, в 0,3 км к зап. от  р.Каратурук, у развилки троп</SimpleData>
+		<SimpleData name="location_description">efa092ac-c42f-421e-8279-f55a56eba614</SimpleData>
+		<SimpleData name="status">data/stations/efa092ac.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/efa092ac.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>78.0209807114967,43.4240961560787</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

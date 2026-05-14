@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="4e944e95" id="4e944e95">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>4e944e95</name>
+  <Placemark id="4e944e95.1">
+	<name>222</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#4e944e95">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">527,962</SimpleData>
+		<SimpleData name="leveling_order">525,215</SimpleData>
+		<SimpleData name="control_height">Контрольный репер в верхней плоскости монолита</SimpleData>
+		<SimpleData name="benchmark_number">121 оп</SimpleData>
+		<SimpleData name="control_location">Линия № 7: Ульяновский - Степное. II класс (6)</SimpleData>
+		<SimpleData name="benchmark_type">Жастлек, с., в 0,2 км к зап. от него, в 0,1 км к зап. от шоссе с. Жанакала – с. Ульяновский</SimpleData>
+		<SimpleData name="location_description">4e944e95-f549-4240-98d9-4678237fcdef</SimpleData>
+		<SimpleData name="status">data/stations/4e944e95.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/4e944e95.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>73.7999261646724,50.1680228713871</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

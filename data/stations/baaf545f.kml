@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="baaf545f" id="baaf545f">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>baaf545f</name>
+  <Placemark id="baaf545f.1">
+	<name>44311</name>
+	<name>марка</name>
+	<description>марка</description>
+	<ExtendedData><SchemaData schemaUrl="#baaf545f">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">367,385</SimpleData>
+		<SimpleData name="control_location">Линия № 2: Мойынты- Балхаш, II класс
+Участок: марка 44247 - фунд.реп.0653</SimpleData>
+		<SimpleData name="benchmark_type">Балхаш-1,станц.,в 9.0 км к сев.-зап.от
+неё,в 1.1 км к юго-вост.от казармы,на
+8 ПК 1190 км,жел.-дор. труба</SimpleData>
+		<SimpleData name="location_description">baaf545f-d394-4283-bb95-00cfc7236035</SimpleData>
+		<SimpleData name="status">data/stations/baaf545f.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/baaf545f.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>74.8144286822969,46.8631162318398</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="1813f8b4" id="1813f8b4">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>1813f8b4</name>
+  <Placemark id="1813f8b4.1">
+	<name>9378</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#1813f8b4">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">127,349</SimpleData>
+		<SimpleData name="benchmark_number">160оп</SimpleData>
+		<SimpleData name="control_location">Линия № № 2: Павлодар-Карасорский, II класс (2) Участок : грунт.реп.6427-ск.реп.9049</SimpleData>
+		<SimpleData name="benchmark_type">Жамантуз, оз., в 0,5 км к зап. от него, в 0,2 км к зап. от линии связи, в 0,1 км к юго-зап. от полевой дороги</SimpleData>
+		<SimpleData name="location_description">1813f8b4-476e-4020-9760-d6da1ead096a</SimpleData>
+		<SimpleData name="status">data/stations/1813f8b4.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/1813f8b4.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>76.2746391728316,51.7378923820667</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

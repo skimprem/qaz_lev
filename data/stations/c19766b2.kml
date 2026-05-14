@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="c19766b2" id="c19766b2">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>c19766b2</name>
+  <Placemark id="c19766b2.1">
+	<name>200</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#c19766b2">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">497,516</SimpleData>
+		<SimpleData name="leveling_order">494,799</SimpleData>
+		<SimpleData name="control_height">Контрольный репер в верхней плоскости монолита</SimpleData>
+		<SimpleData name="benchmark_number">121оп</SimpleData>
+		<SimpleData name="control_location">Линия №2: Степное -Актасты, II класс (3) Участок: грунт.реп. 2881-фунд.реп. 485</SimpleData>
+		<SimpleData name="benchmark_type">Приишимское, с. в 1,2 км к зап. от него, в 0,7 км к сев.-зап. от МТФ, в 0,1 км к югу от старой дороги с. Пионерское-с. Приишимское</SimpleData>
+		<SimpleData name="location_description">c19766b2-6ed2-4253-884e-54ed1837e95b</SimpleData>
+		<SimpleData name="status">data/stations/c19766b2.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/c19766b2.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.9971683748594,50.6138847018305</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

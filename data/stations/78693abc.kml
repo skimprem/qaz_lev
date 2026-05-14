@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="78693abc" id="78693abc">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>78693abc</name>
+  <Placemark id="78693abc.1">
+	<name>2562</name>
+	<name>скальный репер</name>
+	<ExtendedData><SchemaData schemaUrl="#78693abc">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">357,106</SimpleData>
+		<SimpleData name="control_location">Линия № 5: Актас - р. Чу, 2 класс (1) Участок: фунд. реп. 2280 - грунт, реп. 687</SimpleData>
+		<SimpleData name="benchmark_type">Кылышкыр, к., в 3.7 км к юго-вост, от него, в 0.9 км к зап. от к. № 668 и кладбища, в 0.2 км к зап. от грунт, дороги зим. Бетпакдала - с. Уланбель</SimpleData>
+		<SimpleData name="location_description">78693abc-d9ea-449d-a5bc-fbb1ebee8c09</SimpleData>
+		<SimpleData name="status">data/stations/78693abc.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/78693abc.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>71.4440914834352,45.4271349288806</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

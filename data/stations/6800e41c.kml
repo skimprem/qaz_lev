@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="6800e41c" id="6800e41c">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>6800e41c</name>
+  <Placemark id="6800e41c.1">
+	<name>2019</name>
+	<description>грунт.реп</description>
+	<ExtendedData><SchemaData schemaUrl="#6800e41c">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">186327</SimpleData>
+		<SimpleData name="leveling_order">185332</SimpleData>
+		<SimpleData name="leveling_height">Контрольный репер в трубе</SimpleData>
+		<SimpleData name="benchmark_number">107</SimpleData>
+		<SimpleData name="control_location">Линия №2: Звериноголовское - Семиозерный, I класс (1,2); Участок: грунт.реп 2600-марка 636</SimpleData>
+		<SimpleData name="benchmark_type">Молокановка,с.,в 4.5 км к юго-зап.от него,в 0.7 км к сев.-зап.от дороги с .Боровкой-гор.Кустанай,в 0.5 км к сев.-вост.от км.стб.9/156, в 70 м к юго-вост.от дороги с.Затобольск-с.Молокановка</SimpleData>
+		<SimpleData name="location_description">6800e41c-f067-4950-9ac8-bcd2e79325e6</SimpleData>
+		<SimpleData name="status">data/stations/6800e41c.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/6800e41c.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>63.8125712047484,53.2606596778299</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

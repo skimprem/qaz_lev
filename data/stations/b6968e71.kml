@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="b6968e71" id="b6968e71">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>b6968e71</name>
+  <Placemark id="b6968e71.1">
+	<name>20463</name>
+	<name>стен.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#b6968e71">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">124.224</SimpleData>
+		<SimpleData name="leveling_order">128.669</SimpleData>
+		<SimpleData name="control_location">Висячий ход от марки 3175. II класс</SimpleData>
+		<SimpleData name="benchmark_type">Чистовское, станц., в 4.8 км к вост. от нее, на 1 пикете 2726 км, жел.-дор. Мост</SimpleData>
+		<SimpleData name="location_description">b6968e71-0471-4532-8e5a-187c15412cf4</SimpleData>
+		<SimpleData name="status">data/stations/b6968e71.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/b6968e71.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>70.7103490686123,54.8959039927008</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

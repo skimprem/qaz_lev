@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="fffdc3f1" id="fffdc3f1">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>fffdc3f1</name>
+  <Placemark id="fffdc3f1.1">
+	<name>9411</name>
+	<name>грунт. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#fffdc3f1">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">207.469</SimpleData>
+		<SimpleData name="benchmark_number">146 оп</SimpleData>
+		<SimpleData name="control_location">Линия №3: Кызылуй - Байконур, II класс. Участок: фунд. реп. 16 - грунт. реп. 9203</SimpleData>
+		<SimpleData name="benchmark_type">Кызылуй, с., в 13.2 км к юго-вост. от него, в 3.9 км к юго-вост. от зим. Домбау, в 10 м к сев. от дороги с. Тургай - с. Байконур</SimpleData>
+		<SimpleData name="location_description">fffdc3f1-400d-4554-a78d-63ac32dfffc5</SimpleData>
+		<SimpleData name="status">data/stations/fffdc3f1.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/fffdc3f1.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>65.4474510461055,48.0306735797086</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

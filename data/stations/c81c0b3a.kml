@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="c81c0b3a" id="c81c0b3a">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>c81c0b3a</name>
+  <Placemark id="c81c0b3a.1">
+	<name>3612</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#c81c0b3a">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">482.994</SimpleData>
+		<SimpleData name="benchmark_number">146оп</SimpleData>
+		<SimpleData name="control_location">Линия №20: стен.реп.620 - пир.штатив 4 кл. Впадина, II класс (2)</SimpleData>
+		<SimpleData name="benchmark_type">Новодолинский, с., в 0,6 км к сев.от него, в 0,3 км к вост.от дороги с.Шахан-с.Долинка, в 30 м к вост.от ЛЭП</SimpleData>
+		<SimpleData name="location_description">c81c0b3a-4015-4c15-8a5d-4cc4c960c094</SimpleData>
+		<SimpleData name="status">data/stations/c81c0b3a.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/c81c0b3a.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>81.0028370643464,49.5843149135809</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

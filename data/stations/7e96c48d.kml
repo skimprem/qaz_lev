@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="7e96c48d" id="7e96c48d">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>7e96c48d</name>
+  <Placemark id="7e96c48d.1">
+	<name>5001</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#7e96c48d">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">141,808</SimpleData>
+		<SimpleData name="control_location">Линия № 4: Кызылорда - Сарысу, 2 класс (2, 3) Участок: грунт. реп. 4907 - фунд. реп. 815</SimpleData>
+		<SimpleData name="benchmark_type">Конысбек, кладб., в 6.4 км к сев.-вост. от него, в 0.6 км к юго-зап. от могилы, в 11 м к вост. от полевой дороги </SimpleData>
+		<SimpleData name="location_description">7e96c48d-6809-47aa-af6b-ace0762b3137</SimpleData>
+		<SimpleData name="status">data/stations/7e96c48d.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/7e96c48d.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.2059042551976,45.4033847544491</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

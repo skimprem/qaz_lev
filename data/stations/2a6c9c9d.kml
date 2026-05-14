@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2a6c9c9d" id="2a6c9c9d">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>2a6c9c9d</name>
+  <Placemark id="2a6c9c9d.1">
+	<name>3990</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#2a6c9c9d">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="benchmark_number">121 (уничтожен)</SimpleData>
+		<SimpleData name="control_location">Линия № 2: Максимовка - Макинск, II класс Участок:грунт.реп. 5873 - фунд.реп. 480 Ход от стен.реп. 4011 до пир. 2 кл. Вознесенка, II класс</SimpleData>
+		<SimpleData name="benchmark_type">Купчановка, с., зап.окраина его, в 0.1 км к вост.от шоссе гор. Макинск - с. Новобратское, в 80 м к зап.от полевой дороги</SimpleData>
+		<SimpleData name="location_description">2a6c9c9d-38b4-4804-a5ac-182510f983c4</SimpleData>
+		<SimpleData name="status">data/stations/2a6c9c9d.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/2a6c9c9d.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>70.2265872461184,52.4789295098817</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

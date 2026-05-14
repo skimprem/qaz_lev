@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="432d4e53" id="432d4e53">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>432d4e53</name>
+  <Placemark id="432d4e53.1">
+	<name>6216</name>
+	<name>грунт. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#432d4e53">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">241.565</SimpleData>
+		<SimpleData name="benchmark_number">160 оп.знак</SimpleData>
+		<SimpleData name="control_location">Линия № 1; Койбагор - Есиль, II класс 
+Участок: грунт. реп. 0875 - грунт. реп. 72</SimpleData>
+		<SimpleData name="benchmark_type">Ковыльное, станц., в 5.5 км к юго-вост. от нее, в 40 м к
+сев. от км. стб., в 3 м к сев. от пересечения дороги
+станц. Ковыльное - станц. Сурган с полевой</SimpleData>
+		<SimpleData name="location_description">432d4e53-3c58-408f-a054-4003af4654e6</SimpleData>
+		<SimpleData name="status">data/stations/432d4e53.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/432d4e53.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>66.1343283006871,52.0280434355901</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

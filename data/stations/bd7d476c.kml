@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="bd7d476c" id="bd7d476c">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>bd7d476c</name>
+  <Placemark id="bd7d476c.1">
+	<name>9240</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#bd7d476c">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">94.981</SimpleData>
+		<SimpleData name="benchmark_number">160 оп.</SimpleData>
+		<SimpleData name="control_location">Линия №2: Коккабак - Развалины Пикета №8         II класс            Участок: грунт.реп.9209 -  грунт.реп. 9240</SimpleData>
+		<SimpleData name="benchmark_type">Ащыкезен, г., в 9.9 км к юго-зап.от неё, в 0.8 км к зап. от родника Каскакудык, в 1.5 км к сев.-вост.от родника, на равнине</SimpleData>
+		<SimpleData name="location_description">bd7d476c-8733-4fde-a5a3-3b84c590f7ee</SimpleData>
+		<SimpleData name="status">data/stations/bd7d476c.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/bd7d476c.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>65.1726932736903,46.6552996078715</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="bece3601" id="bece3601">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>bece3601</name>
+  <Placemark id="bece3601.1">
+	<name>15386</name>
+	<description>грунт.реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#bece3601">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">348.811</SimpleData>
+		<SimpleData name="leveling_order">347.171*</SimpleData>
+		<SimpleData name="control_height">в верхней плоскости монолита</SimpleData>
+		<SimpleData name="benchmark_number">121 оп.знак</SimpleData>
+		<SimpleData name="control_location">Линия 1: Сарышаган - Каратас, I класс, Участок: грунт.реп. I59I - rpунт.реп.15386</SimpleData>
+		<SimpleData name="benchmark_type">Майкамыс,с.,в 3.2 км к сев.-вост.от него,в 0.8 км к сев.-вост.от зал.Майкамыс, в 42 м к сев.от дороги гор.Балхаш-станц.Лепсы</SimpleData>
+		<SimpleData name="location_description">bece3601-f2fc-4b1e-a93d-8c1cb5d5e438</SimpleData>
+		<SimpleData name="status">data/stations/bece3601.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/bece3601.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.6454472237274,46.6653632864702</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

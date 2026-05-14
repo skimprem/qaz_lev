@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="e3bb3d0a" id="e3bb3d0a">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>e3bb3d0a</name>
+  <Placemark id="e3bb3d0a.1">
+	<name>0331</name>
+	<name>грунт. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#e3bb3d0a">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">655.874</SimpleData>
+		<SimpleData name="benchmark_number">146оп</SimpleData>
+		<SimpleData name="control_location">Линия №49: Усть-Каменогорск - Зайсан, 2 класс (13)  Участок: ск. реп. 4733 - грунт. реп. 1805</SimpleData>
+		<SimpleData name="benchmark_type">Тургусун, с., в 9.5 км к зап. от него, в 0.1 км к сев.-вост. от поворотного стб. ЛЭП, в 10 м к сев. от дороги с. Тургусун - с. Первороссийское</SimpleData>
+		<SimpleData name="location_description">e3bb3d0a-394c-4dcc-9334-3b691ce48715</SimpleData>
+		<SimpleData name="status">data/stations/e3bb3d0a.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/e3bb3d0a.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>83.9028009259773,49.7542020046441</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

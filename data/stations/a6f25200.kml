@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="a6f25200" id="a6f25200">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>a6f25200</name>
+  <Placemark id="a6f25200.1">
+	<name>1533</name>
+	<name>грунт. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#a6f25200">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">753,578</SimpleData>
+		<SimpleData name="leveling_order">752,316</SimpleData>
+		<SimpleData name="control_height">репер № 7659 фундаментной плите</SimpleData>
+		<SimpleData name="benchmark_number">116 оп</SimpleData>
+		<SimpleData name="control_location">Линия № 3: Кара -Аул -Чубартау, II класс (I) Участок: фунд. реп. 161- грунт. реп. 2076</SimpleData>
+		<SimpleData name="benchmark_type">Олжабай, с., в 10.0 км к югу от него, в 2.1 км к юго -вост. от зим. Саролен, в 30 м к зап. от дороги с. Карааул -с. Чубартау</SimpleData>
+		<SimpleData name="location_description">a6f25200-3748-46ac-9ab7-fd55997f7747</SimpleData>
+		<SimpleData name="status">data/stations/a6f25200.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/a6f25200.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>79.2171971867569,48.8119819578172</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

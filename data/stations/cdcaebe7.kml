@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="cdcaebe7" id="cdcaebe7">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>cdcaebe7</name>
+  <Placemark id="cdcaebe7.1">
+	<name>6598</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#cdcaebe7">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">393.052</SimpleData>
+		<SimpleData name="benchmark_number">160 oп, знак</SimpleData>
+		<SimpleData name="control_location">Линия № 1: Аманкельды - Карсакбай, 1 класс (3)
+Участок: грунт, реп, 3801 - фунд, реп, 2</SimpleData>
+		<SimpleData name="benchmark_type">Байконыр, с,, в 5,3 км к вост, от него, в 0,2 км к сев, от грунт, дороги с, Байконыр - с, Карсакбай</SimpleData>
+		<SimpleData name="location_description">cdcaebe7-1dc6-4c5a-8193-3bd815e41b1e</SimpleData>
+		<SimpleData name="status">data/stations/cdcaebe7.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/cdcaebe7.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>66.1222813292685,47.8207368831625</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

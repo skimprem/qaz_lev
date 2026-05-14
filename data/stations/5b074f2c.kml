@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="5b074f2c" id="5b074f2c">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>5b074f2c</name>
+  <Placemark id="5b074f2c.1">
+	<name>26Д</name>
+	<description>грунт.реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#5b074f2c">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">348.686</SimpleData>
+		<SimpleData name="benchmark_number">Д оп.знак</SimpleData>
+		<SimpleData name="control_location">Линия № 1:Сарышаган-Каратас I класс  (2)                          Участок: фунд.реп. 0653-грунт.реп. 1601</SimpleData>
+		<SimpleData name="benchmark_type">Алжайдж,станц. ,в  3.6  кы  к  юго-вост.от  
+нее,в  1.6  км к  вост.от  зим. Кр. Октябрь,
+в  0.5  км  к юу от  берега  залива  Акжайдак
+</SimpleData>
+		<SimpleData name="location_description">5b074f2c-0c46-410e-a02e-93b8023ec0d5</SimpleData>
+		<SimpleData name="status">data/stations/5b074f2c.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/5b074f2c.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>76.0182295317413,49.5046336530964</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

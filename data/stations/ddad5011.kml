@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="ddad5011" id="ddad5011">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>ddad5011</name>
+  <Placemark id="ddad5011.1">
+	<name>5391</name>
+	<name>грунт. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#ddad5011">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">235.724</SimpleData>
+		<SimpleData name="benchmark_number">160 оп.знак</SimpleData>
+		<SimpleData name="control_location">Линия № 1; Койбагор - Есиль, II класс 
+Участок: грунт. реп. 0875 - грунт. реп. 72</SimpleData>
+		<SimpleData name="benchmark_type">Ковыльное, станц., в 1.6 км к сев.-зап. от нее, в 20 м к
+сев. от км. стб. 402/401, в 60 м к сев.-вост. от переезда</SimpleData>
+		<SimpleData name="location_description">ddad5011-baf7-49a1-80ec-b71f51ebb4df</SimpleData>
+		<SimpleData name="status">data/stations/ddad5011.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/ddad5011.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>66.0341959923665,52.0435439468071</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

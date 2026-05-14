@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="caac5819" id="caac5819">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>caac5819</name>
+  <Placemark id="caac5819.1">
+	<name>539</name>
+	<description>грннт. реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#caac5819">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">251.677</SimpleData>
+		<SimpleData name="leveling_order">250,566</SimpleData>
+		<SimpleData name="benchmark_number">121</SimpleData>
+		<SimpleData name="control_location">Линия№3:Карабутак- Жанатурмыс. II класс. Участок: грунт. реп. 633- грунт. реп. 361 </SimpleData>
+		<SimpleData name="benchmark_type">Байжар, кладб., в 2.4 км к сев.. от него, в1.0 км к югу от кош. Караколь, у дороги с. Акколь- с. Сарат. </SimpleData>
+		<SimpleData name="location_description">caac5819-9dd2-4764-8b13-c4a2b2581fc1</SimpleData>
+		<SimpleData name="status">data/stations/caac5819.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/caac5819.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>60.8964127516996,50.0437760068191</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

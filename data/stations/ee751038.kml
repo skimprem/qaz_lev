@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="ee751038" id="ee751038">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>ee751038</name>
+  <Placemark id="ee751038.1">
+	<name>5822</name>
+	<name>грунт. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#ee751038">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">157,318</SimpleData>
+		<SimpleData name="benchmark_number">160 оп. </SimpleData>
+		<SimpleData name="control_location">Линия № 1: Семиярск -Семей, I класс (1) Участок: грунт. реп. 8192- грунт. реп. 1769</SimpleData>
+		<SimpleData name="benchmark_type">Черемушки, с., в 5.8 км к зап. от него, в 52 м к югу от полевой дороги, в 48 м к сев. от берега р. Ертис, в 25 м к сев. от ряда лесопосадки осин, растущих вдоль р. Ертис, в 10 м к вост. от одиночной осины, у полевой дооги</SimpleData>
+		<SimpleData name="location_description">ee751038-902b-4712-8d72-d02261ffc625</SimpleData>
+		<SimpleData name="status">data/stations/ee751038.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/ee751038.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>78.9678031301585,50.6439936662577</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

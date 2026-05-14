@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="de5bd565" id="de5bd565">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>de5bd565</name>
+  <Placemark id="de5bd565.1">
+	<name>1790</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#de5bd565">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">562.673</SimpleData>
+		<SimpleData name="benchmark_number">146</SimpleData>
+		<SimpleData name="control_location">Линия №18: пир. 1 разр. СМТ-232 - грунт.реп.1008, II класс (3)</SimpleData>
+		<SimpleData name="benchmark_type">Караганда, гор., в 3.2 км к сев.-вост. от свх. Победа, в 0.6 км к сев. от дороги свх. Победа - свх. им. Свердлова</SimpleData>
+		<SimpleData name="location_description">de5bd565-06f2-4726-b2ed-11d98447f182</SimpleData>
+		<SimpleData name="status">data/stations/de5bd565.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/de5bd565.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>73.290137427,49.8956929629274</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

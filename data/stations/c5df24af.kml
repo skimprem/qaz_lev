@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="c5df24af" id="c5df24af">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>c5df24af</name>
+  <Placemark id="c5df24af.1">
+	<name>3-Д</name>
+	<name>грунт.реп.</name>
+	<description>грунт.реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#c5df24af">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">348.296</SimpleData>
+		<SimpleData name="benchmark_number">А оп.знак</SimpleData>
+		<SimpleData name="control_location">Ход от фунд,реп,203 до грунт,реп.11-Д. II класс 
+Участок: грунт,реп.888 - ск,реп,470</SimpleData>
+		<SimpleData name="benchmark_type">Мынарал,станц.,в 1.5 км к юго-вост.
+от нее,в 0.1 км к зап.от кладбища</SimpleData>
+		<SimpleData name="location_description">c5df24af-05b9-45e1-ae24-5b00ecb19cd7</SimpleData>
+		<SimpleData name="status">data/stations/c5df24af.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/c5df24af.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>73.6587278562433,45.4348383458086</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

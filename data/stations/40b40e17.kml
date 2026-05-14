@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="40b40e17" id="40b40e17">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>40b40e17</name>
+  <Placemark id="40b40e17.1">
+	<name>1913</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#40b40e17">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">242.760</SimpleData>
+		<SimpleData name="control_location">Линия №1: Куракбулак-Чардара, ІІ класс  Участок: грунт.реп.1905-грунт.реп.869</SimpleData>
+		<SimpleData name="benchmark_type">Ферма №3 свх.Чардаринский,в 1.2 км к сев.-вост.от нее,в 1.2 км к юго-зап.от моста через кан.Кызылкумский,в 0.3 км к сев.от полевой дороги</SimpleData>
+		<SimpleData name="location_description">40b40e17-f50e-4e5a-9e4a-e9b3f1062f32</SimpleData>
+		<SimpleData name="status">data/stations/40b40e17.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/40b40e17.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.9393432126091,41.352279291897</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

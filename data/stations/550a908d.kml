@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="550a908d" id="550a908d">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>550a908d</name>
+  <Placemark id="550a908d.1">
+	<name>6510</name>
+	<name>скальный репер</name>
+	<ExtendedData><SchemaData schemaUrl="#550a908d">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">479,082</SimpleData>
+		<SimpleData name="control_location">Линия № 3; Аркарлы - Моинты, 2 класс ( 1 ) Участок: фунд. реп. 23 - грунт, реп. 9987 </SimpleData>
+		<SimpleData name="benchmark_type">Шалгинский, с„ в 11.3 км к вост, от него, в 2.8 км к сев.-вост. от род. Сагантайбулак, в 21 м к зап. от грунт, дороги с. Шалгинский - с. Жамбыл, на бугорке</SimpleData>
+		<SimpleData name="location_description">550a908d-b21e-4f1e-84a6-4a61feb1b65b</SimpleData>
+		<SimpleData name="status">data/stations/550a908d.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/550a908d.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>70.8096004459229,47.3061787975712</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

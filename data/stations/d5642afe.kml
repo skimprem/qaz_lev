@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="d5642afe" id="d5642afe">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>d5642afe</name>
+  <Placemark id="d5642afe.1">
+	<name>б/№</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#d5642afe">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">47,750</SimpleData>
+		<SimpleData name="control_location">Висячий ход от фунд.реп. 4042,                Участок: грунт.реп.58-грунт.реп. б/№,       II класс</SimpleData>
+		<SimpleData name="benchmark_type">Находится в створе между грунт.реп.58 и грунт.реп. б/№</SimpleData>
+		<SimpleData name="location_description">d5642afe-f351-4676-82bf-47f6c5410f5d</SimpleData>
+		<SimpleData name="status">data/stations/d5642afe.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/d5642afe.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>61.0620270349791,44.6721306339872</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

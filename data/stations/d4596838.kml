@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="d4596838" id="d4596838">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>d4596838</name>
+  <Placemark id="d4596838.1">
+	<name>122</name>
+	<name>грунт.реп.</name>
+	<description>грунт.реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#d4596838">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">609.323</SimpleData>
+		<SimpleData name="leveling_order">606.575*</SimpleData>
+		<SimpleData name="control_height">в верхней плоскости монолита</SimpleData>
+		<SimpleData name="benchmark_number">121 оп.знак</SimpleData>
+		<SimpleData name="control_location">Линия № 1:Аркарлы-Мойынты II класс
+Участок: грунт.реп.121 - грунт.реп.415</SimpleData>
+		<SimpleData name="benchmark_type">Шолакеспе,с.,в 5.8 км к юго-вост.от него,в 0.3 км к вост.от р.Шажагай,в 0.2 км к югу от развалин</SimpleData>
+		<SimpleData name="location_description">d4596838-dee8-4bf5-9f94-6081a652b2a9</SimpleData>
+		<SimpleData name="status">data/stations/d4596838.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/d4596838.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.1451593044625,47.3125255928552</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

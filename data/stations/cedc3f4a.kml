@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="cedc3f4a" id="cedc3f4a">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>cedc3f4a</name>
+  <Placemark id="cedc3f4a.1">
+	<name>2377 (4231)</name>
+	<description>грунт.репер</description>
+	<ExtendedData><SchemaData schemaUrl="#cedc3f4a">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">93.992</SimpleData>
+		<SimpleData name="benchmark_number">160 оп.</SimpleData>
+		<SimpleData name="control_location">Линия №2: Аральск-Токтайконыр,  I класс  Участок: фунд.реп. 5059-грунт.реп.9267</SimpleData>
+		<SimpleData name="benchmark_type">Сазды,с., в 15.8 км к юго-зап.от него, в 2.4 км к юго.-зап.от  мог. Тасказган, в 24 м  к  сев.-вост.от полевой дороги</SimpleData>
+		<SimpleData name="leveling_line_section">не найден</SimpleData>
+		<SimpleData name="location_description">cedc3f4a-f106-4e84-b2a4-76168cf808fa</SimpleData>
+		<SimpleData name="status">data/stations/cedc3f4a.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/cedc3f4a.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>61.5649834550705,47.2980293860487</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

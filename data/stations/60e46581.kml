@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="60e46581" id="60e46581">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>60e46581</name>
+  <Placemark id="60e46581.1">
+	<name>400</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#60e46581">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">187,426</SimpleData>
+		<SimpleData name="leveling_order">184,446</SimpleData>
+		<SimpleData name="control_height">контрольный репер в верхней плоскости монолита</SimpleData>
+		<SimpleData name="benchmark_number">121оп</SimpleData>
+		<SimpleData name="control_location">Линия №3: фунд. реп. 3223 - грунт. реп. 189, II класс (2)</SimpleData>
+		<SimpleData name="benchmark_type">Сооружение №103 канала Иртыш-Караганда, в 5,8км к юго-зап. от него, в 3,0 км к зап. от дач. в 0,2 км к сев. от шоссе Павлодар-Караганда</SimpleData>
+		<SimpleData name="location_description">60e46581-fa04-4fe9-9427-0e4d61355914</SimpleData>
+		<SimpleData name="status">data/stations/60e46581.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/60e46581.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.1780239338627,51.7875469598303</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

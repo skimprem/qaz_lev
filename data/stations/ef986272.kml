@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="ef986272" id="ef986272">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>ef986272</name>
+  <Placemark id="ef986272.1">
+	<name>8443</name>
+	<name>грунт. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#ef986272">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">144.776</SimpleData>
+		<SimpleData name="leveling_order">143.200</SimpleData>
+		<SimpleData name="benchmark_number">121 оп. знак</SimpleData>
+		<SimpleData name="control_location">Линия №3: Жынгылдыкак - Кызылуй, II класс. Участок: фунд. реп. 1835 - грунт. реп. 944</SimpleData>
+		<SimpleData name="benchmark_type">Ушкарасу, зим., в 10.7 км к юго-зап. от неё, в 9.2 км к сев.-вост. от оз. Шоштан, в 17 м к югу от развилки грунт. дороги с. Косбармак - с. Кызылуй - с. Байконыр</SimpleData>
+		<SimpleData name="location_description">ef986272-ab8c-438d-9f8d-53b9088c9dd9</SimpleData>
+		<SimpleData name="status">data/stations/ef986272.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/ef986272.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>64.7830954714426,47.9745564128493</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

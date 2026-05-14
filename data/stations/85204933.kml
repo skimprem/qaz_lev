@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="85204933" id="85204933">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>85204933</name>
+  <Placemark id="85204933.1">
+	<name>732</name>
+	<name>грунт. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#85204933">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">426,332</SimpleData>
+		<SimpleData name="benchmark_number">146 оп</SimpleData>
+		<SimpleData name="control_location">Линия № 76:            Усть-Каменогорск - Зайсан, 2 класс (14) Участок: ск.реп. 9561 - грунт. реп. 96</SimpleData>
+		<SimpleData name="benchmark_type">Чапаевский, свх., в 1.2 км к сев. - вост. от него, в 0.1 км к сев.-вост. от моста, в 15 м к сев. от р.Солоновка</SimpleData>
+		<SimpleData name="leveling_line_section">утрачен</SimpleData>
+		<SimpleData name="location_description">85204933-76c6-4f5e-82fe-8b19388d7718</SimpleData>
+		<SimpleData name="status">data/stations/85204933.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/85204933.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.0750022515044,49.6934137942596</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

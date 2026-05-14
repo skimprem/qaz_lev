@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="428cd592" id="428cd592">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>428cd592</name>
+  <Placemark id="428cd592.1">
+	<name>Жарсуат</name>
+	<description>пирамида</description>
+	<ExtendedData><SchemaData schemaUrl="#428cd592">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">397.165</SimpleData>
+		<SimpleData name="benchmark_number">99 оп</SimpleData>
+		<SimpleData name="control_location">Ход от  фунд.реп. 9446 до грунт.реп. 8444, II класс </SimpleData>
+		<SimpleData name="benchmark_type">Рыболоведческая бригада, в 1.2 км к юго-зап. от нее, в 1.3 км к зап. от шоссе станц. Сайкан – рыболоведческая бригада, на бугре</SimpleData>
+		<SimpleData name="location_description">428cd592-04a8-44ce-951a-fa3947ce4233</SimpleData>
+		<SimpleData name="status">data/stations/428cd592.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/428cd592.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>80.8150113842598,46.4811187682916</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

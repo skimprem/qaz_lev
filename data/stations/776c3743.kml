@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="776c3743" id="776c3743">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>776c3743</name>
+  <Placemark id="776c3743.1">
+	<name>4583</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#776c3743">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">861,217</SimpleData>
+		<SimpleData name="benchmark_number">160оп</SimpleData>
+		<SimpleData name="control_location">Линия № 1: Спасск -Акчатау, II класс (1) Участок: грунт.реп.5961 -фунд.реп.0865</SimpleData>
+		<SimpleData name="benchmark_type">Байназар, с., в 10,4 км к вост.от него, в 30 м к вост.от км.стб. № 164 шоссе Караганда-Балхаш</SimpleData>
+		<SimpleData name="location_description">776c3743-3c92-4a78-aed1-7bfb9d6d4286</SimpleData>
+		<SimpleData name="status">data/stations/776c3743.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/776c3743.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>73.7191198772341,48.5038576439678</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

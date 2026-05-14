@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="be3425a3" id="be3425a3">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>be3425a3</name>
+  <Placemark id="be3425a3.1">
+	<name>8360</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#be3425a3">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">268.211</SimpleData>
+		<SimpleData name="benchmark_number">107 (уничтожен)</SimpleData>
+		<SimpleData name="control_location">Линия № 2: Кошетау-Володарское, II класс. Участок: фунд.реп. 478-грунт.реп. 2674</SimpleData>
+		<SimpleData name="benchmark_type">Еленовка, с., в 120 км к вост.от него,  в0.4 км к юго-вост.от трубы под дорогой,  в 75 м к югу от шоссе гор. Кокшетау-с. Саумалколь</SimpleData>
+		<SimpleData name="location_description">be3425a3-3fe2-4afc-8f48-71a4616ae8df</SimpleData>
+		<SimpleData name="status">data/stations/be3425a3.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/be3425a3.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>69.0769744398309,53.2733389740735</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

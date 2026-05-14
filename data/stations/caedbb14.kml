@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="caedbb14" id="caedbb14">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>caedbb14</name>
+  <Placemark id="caedbb14.1">
+	<name>32</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#caedbb14">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">457.423</SimpleData>
+		<SimpleData name="leveling_order">455.131</SimpleData>
+		<SimpleData name="control_height">Контрольный репер № 52  в верхней плоскости монолита</SimpleData>
+		<SimpleData name="benchmark_number">118</SimpleData>
+		<SimpleData name="control_location">Линия № 1: Буран - Белая Школа, II класс. Участок: грунт. реп. 1507 - грунт. реп. 22</SimpleData>
+		<SimpleData name="benchmark_type">Карабулак, с., в 13.0 км к сев.-зап. от него, в 55 м к югу  от дороги с. Кокпекты-гор. Зайсан, в 47 м к югу от км стб. № 13/20</SimpleData>
+		<SimpleData name="location_description">caedbb14-cd6d-4a5d-8df2-79e6084050ac</SimpleData>
+		<SimpleData name="status">data/stations/caedbb14.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/caedbb14.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.6552689804491,47.5688473910706</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

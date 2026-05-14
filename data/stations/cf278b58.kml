@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="cf278b58" id="cf278b58">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>cf278b58</name>
+  <Placemark id="cf278b58.1">
+	<name>5195</name>
+	<name>грунт. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#cf278b58">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="leveling_height">160 оп. знак</SimpleData>
+		<SimpleData name="benchmark_number">Линия № 1: Алажиде – Оз. Жаланашколь, I класс 
+Участок: грунт. реп. 7982 – грунт. реп. 5195
+</SimpleData>
+		<SimpleData name="control_location">Токжайлау, с., в 4.3 км к зап. от него, на 7 пк 36 км шоссе с. Кабанбай – станц. Дружба, в 18 м к юго-вост. от шоссе</SimpleData>
+		<SimpleData name="benchmark_type">за рамкой</SimpleData>
+		<SimpleData name="location_description">cf278b58-034a-4f59-8dc5-a49085b73a35</SimpleData>
+		<SimpleData name="status">data/stations/cf278b58.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/cf278b58.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>81.0084308423622,45.8088016182375</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

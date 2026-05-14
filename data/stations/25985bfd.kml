@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="25985bfd" id="25985bfd">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>25985bfd</name>
+  <Placemark id="25985bfd.1">
+	<name>264</name>
+	<name>грунт,реп,</name>
+	<ExtendedData><SchemaData schemaUrl="#25985bfd">
+		<SimpleData name="type">I</SimpleData>
+		<SimpleData name="view">419.201</SimpleData>
+		<SimpleData name="benchmark_number">160 оп,знак</SimpleData>
+		<SimpleData name="control_location">Линия № 1: Петропавловск - Астана (Целиноград), I класс Участок: грунт,реп, 7430 - грунт,реп, 6360</SimpleData>
+		<SimpleData name="benchmark_type">Жасыл, с,, в 6,0 км к сев,-зап, от него, на 4 пк 277 км жел,дор,, в 27 м к юго-вост, от стб, Контактной сети №351, в 24 м к сев, от стб, Контактной сети №351, в 24 м к сев, от стб, контактной сети №353, в 9 м к сев,-вост, от ближнего рельса</SimpleData>
+		<SimpleData name="leveling_line_section">репер в хорошем состоянии, оп знак сохранен</SimpleData>
+		<SimpleData name="location_description">25985bfd-a39c-4313-be3f-6739737cce8b</SimpleData>
+		<SimpleData name="status">data/stations/25985bfd.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/25985bfd.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>70.2500311196289,52.8420528518924</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="79a24301" id="79a24301">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>79a24301</name>
+  <Placemark id="79a24301.1">
+	<name>1024</name>
+	<description>грунт.реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#79a24301">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">186.734</SimpleData>
+		<SimpleData name="benchmark_number">146 оп</SimpleData>
+		<SimpleData name="control_location">Линия № 4 : Троицк - Кустанай, II класс                       Участок : марка 120 - марка 507</SimpleData>
+		<SimpleData name="benchmark_type">249-й км жел.дор., в 27 м к вост.от фунд.реп.832, в 21 м к югу от пк. 7/8</SimpleData>
+		<SimpleData name="leveling_line_section">утрачен</SimpleData>
+		<SimpleData name="location_description">79a24301-9fb8-4c7c-9218-754d90d89deb</SimpleData>
+		<SimpleData name="status">data/stations/79a24301.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/79a24301.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>63.2065008153984,53.435768542672</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

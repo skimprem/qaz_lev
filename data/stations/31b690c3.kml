@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="31b690c3" id="31b690c3">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>31b690c3</name>
+  <Placemark id="31b690c3.1">
+	<name>20284</name>
+	<name>марка</name>
+	<ExtendedData><SchemaData schemaUrl="#31b690c3">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="control_location">Линия № 2: Аягоз – Жангизтобе, I класс
+Участок: фунд.реп. 1027 – марка 20284
+</SimpleData>
+		<SimpleData name="benchmark_type">Раз. № 21, в 1.2 км к юго-зап. от него, на 3 пк 983 км, в устое жел.-дор. моста</SimpleData>
+		<SimpleData name="location_description">31b690c3-02d5-4783-9d12-b7caf2e4bb2c</SimpleData>
+		<SimpleData name="status">data/stations/31b690c3.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/31b690c3.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>80.4203624657389,48.021233870585</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

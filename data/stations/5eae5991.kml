@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="5eae5991" id="5eae5991">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>5eae5991</name>
+  <Placemark id="5eae5991.1">
+	<name>0012</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#5eae5991">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">520.989</SimpleData>
+		<SimpleData name="benchmark_number">146</SimpleData>
+		<SimpleData name="control_location">Линия №14: грунт.реп.1006 - грунт.реп.XXII, II класс (2) Участок :п.п. 169 - грунт.реп.XXII</SimpleData>
+		<SimpleData name="benchmark_type">Новоузенка, с., в 3,0 км к сев.-зап.от него, в 0,6 км к сев-вост.от пересечения дороги с.Новоузенка-дом отдыха с полевой дорогой</SimpleData>
+		<SimpleData name="location_description">5eae5991-5063-4c22-8e2c-2e028f389bcf</SimpleData>
+		<SimpleData name="status">data/stations/5eae5991.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/5eae5991.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.9778477019434,49.9077480414034</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

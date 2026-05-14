@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="6727120b" id="6727120b">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>6727120b</name>
+  <Placemark id="6727120b.1">
+	<name>992</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#6727120b">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">415,166</SimpleData>
+		<SimpleData name="leveling_height">414,096</SimpleData>
+		<SimpleData name="benchmark_number">в верхней плоскости монолита </SimpleData>
+		<SimpleData name="control_location">Линия № 5: Актас - р. Чу, 2 класс (1) Участок: фунд. реп. 2280 - грунт, реп. 687</SimpleData>
+		<SimpleData name="benchmark_type">Кишикыр, к., в 8.8 км к сев.-зап. от него, в 3.4 км к юго­ вост. от к. № 667, в 2.0 км к вост, от полевой дороги</SimpleData>
+		<SimpleData name="location_description">6727120b-12cd-4052-bf09-95bafa9a0bff</SimpleData>
+		<SimpleData name="status">data/stations/6727120b.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/6727120b.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>71.3414846982376,45.6335049496475</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

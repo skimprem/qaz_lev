@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="e4178939" id="e4178939">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>e4178939</name>
+  <Placemark id="e4178939.1">
+	<name>2762</name>
+	<name>скальный репер</name>
+	<ExtendedData><SchemaData schemaUrl="#e4178939">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">349,658</SimpleData>
+		<SimpleData name="benchmark_number">99</SimpleData>
+		<SimpleData name="control_location">Линия №1: Карасорвкий - Сарыкияк, II класс (1) Участок: ск. реп. 6100 - грунт. реп. 8674</SimpleData>
+		<SimpleData name="benchmark_type">Бескауга, с., в 6,0 км к юго-вост. от него, в 2,5 км к югу от пол. ст. свх. Карагусский, у полевой дороги</SimpleData>
+		<SimpleData name="leveling_line_section">не найден</SimpleData>
+		<SimpleData name="location_description">e4178939-c5f5-4dc6-892c-32b1b9c358ff</SimpleData>
+		<SimpleData name="status">data/stations/e4178939.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/e4178939.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.0508304397638,51.2603303328666</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

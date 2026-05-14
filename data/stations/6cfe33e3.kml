@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="6cfe33e3" id="6cfe33e3">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>6cfe33e3</name>
+  <Placemark id="6cfe33e3.1">
+	<name>б/№</name>
+	<name>грунт. реп. </name>
+	<ExtendedData><SchemaData schemaUrl="#6cfe33e3">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">368.596*</SimpleData>
+		<SimpleData name="benchmark_number">вод. пост. № 017</SimpleData>
+		<SimpleData name="control_location">Висячий ход от фунд. реп. 3358, II класс (2)</SimpleData>
+		<SimpleData name="benchmark_type">Жаланашколь, станц., в 0.4 км к юго-вост. от крайних домов по дороге к озеру, в 40 м к сев.-зап. от дороги, в 20 м к юго-вост. от отдельностоящего дерева на берегу озера, в 17 м к сев.-вост. от озера</SimpleData>
+		<SimpleData name="location_description">6cfe33e3-ad9d-4f6f-b1ae-cfe2159e070d</SimpleData>
+		<SimpleData name="status">data/stations/6cfe33e3.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/6cfe33e3.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>82.170825178811,45.5888093043859</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

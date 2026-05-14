@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="ebbf4cc4" id="ebbf4cc4">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>ebbf4cc4</name>
+  <Placemark id="ebbf4cc4.1">
+	<name>3778</name>
+	<description>грунт.реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#ebbf4cc4">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">213.519</SimpleData>
+		<SimpleData name="leveling_order">211.191</SimpleData>
+		<SimpleData name="benchmark_number">121</SimpleData>
+		<SimpleData name="control_location">Линия № 2: Карталы - Новоильиновка, II класс                Участок : грунт.реп.3235 - грунт.реп.2329</SimpleData>
+		<SimpleData name="benchmark_type">Тарановская, станц., в 8.8 км к сев.-зап.от нее, 119-й км жел.дор., в 0.7 км к сев.-зап.от жел.-дор.казармы, в 80 м к сев.-вост.от жел.-дор.полотна</SimpleData>
+		<SimpleData name="location_description">ebbf4cc4-2c1f-41d6-b999-1c6d5102c79b</SimpleData>
+		<SimpleData name="status">data/stations/ebbf4cc4.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/ebbf4cc4.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>62.2741367450127,52.7822627681181</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="f20f5051" id="f20f5051">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>f20f5051</name>
+  <Placemark id="f20f5051.1">
+	<name>991</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#f20f5051">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">348.036</SimpleData>
+		<SimpleData name="benchmark_number">116</SimpleData>
+		<SimpleData name="control_location">Линия № 2: Урочище Куйган – Лепсы
+Участок: пир. 3 кл. Аксор – фунд.реп. 5699
+</SimpleData>
+		<SimpleData name="benchmark_type">Ульги, с., в 23.0 км к сев.-зап. от него, в 0.4 км к юго-вост. от могил, в 50 м к юго-зап. от полевой дороги</SimpleData>
+		<SimpleData name="location_description">f20f5051-806e-4b29-9e3f-404bf5d27174</SimpleData>
+		<SimpleData name="status">data/stations/f20f5051.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/f20f5051.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>78.014929707783,46.3088591684918</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

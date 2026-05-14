@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="b3223b7e" id="b3223b7e">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>b3223b7e</name>
+  <Placemark id="b3223b7e.1">
+	<name>8150 </name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#b3223b7e">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">141.840</SimpleData>
+		<SimpleData name="benchmark_number">107</SimpleData>
+		<SimpleData name="control_location">Линия № 1: Костанай - Петропавловск. I класс
+Участок; грунт. реп. X - грунт. реп. 4113 Ход от марки 4279 - грунт. реп. 1667. II класс
+Участок: грунт, реп. 8419 - грунт. реп. 1667</SimpleData>
+		<SimpleData name="benchmark_type">Николаевка. с., в 4.7 км юго-зап. от него, в 1.6 км к сев.-
+зап. от ур. Исаковская Мочажина, в 40 м к сев.-зап. от шоссе с. Николаевка - гор. Сергеевка</SimpleData>
+		<SimpleData name="location_description">b3223b7e-80e8-4eb4-87d4-df7b3240a49f</SimpleData>
+		<SimpleData name="status">data/stations/b3223b7e.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/b3223b7e.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.7173821353568,54.169508717786</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

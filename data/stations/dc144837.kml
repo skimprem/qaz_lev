@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="dc144837" id="dc144837">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>dc144837</name>
+  <Placemark id="dc144837.1">
+	<name>2022</name>
+	<name>фунд.реп</name>
+	<ExtendedData><SchemaData schemaUrl="#dc144837">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">463.377</SimpleData>
+		<SimpleData name="leveling_height">462.419</SimpleData>
+		<SimpleData name="benchmark_number">репер в боковой грани пилона</SimpleData>
+		<SimpleData name="control_location">Линия №2: грунт. реп. 157 - грунт.реп. 150, II  класс  </SimpleData>
+		<SimpleData name="benchmark_type">Акколь, с., в 12.7 км к юго-вост.от него, в 0.8 км к юго-вост.от пир. 3 кл. Высота 472(241), в 0.4 км к юго-зап.от 67 км.стб. Шоссе гор.Джамбул - с.Акколь</SimpleData>
+		<SimpleData name="location_description">dc144837-4504-4daa-85a4-aa76ed84cf3b</SimpleData>
+		<SimpleData name="status">data/stations/dc144837.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/dc144837.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>70.8259876055049,43.3123521355743</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

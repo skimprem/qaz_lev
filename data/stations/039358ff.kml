@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="039358ff" id="039358ff">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>039358ff</name>
+  <Placemark id="039358ff.1">
+	<name>402</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#039358ff">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">184,686</SimpleData>
+		<SimpleData name="leveling_order">183,544</SimpleData>
+		<SimpleData name="benchmark_number">121</SimpleData>
+		<SimpleData name="control_location">Линия №2: Карабутак-Жанатурмыс, II класс. Участок: грунт.реп. 197-фунд.реп. 3780</SimpleData>
+		<SimpleData name="benchmark_type">Толыбай (Амангельды), с., в 10.2 км к юго-зап. от него, в 4.3 км к сев.-вост. от с.Жантай, в 15 м к сев.-зап.от дороги с.Толыбай (Амангельды)-зим. Жантай</SimpleData>
+		<SimpleData name="location_description">039358ff-23a5-4c08-be4b-fc3a5aeba4f2</SimpleData>
+		<SimpleData name="status">data/stations/039358ff.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/039358ff.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>62.1705697632244,50.4770232163645</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

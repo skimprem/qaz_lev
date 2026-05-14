@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="faa5d555" id="faa5d555">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>faa5d555</name>
+  <Placemark id="faa5d555.1">
+	<name>3999</name>
+	<name>грунт. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#faa5d555">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">105.103</SimpleData>
+		<SimpleData name="benchmark_number">160 оп.знак</SimpleData>
+		<SimpleData name="control_location">Линия № 4 Майлыозек-Кумкала II  класс . Участок : грунт. Реп.б№-фунд. реп. 24607</SimpleData>
+		<SimpleData name="benchmark_type">Шыбык, буг., в 7.2 км к зап. от него, в 5.2 км   к сев.-зап. от разв. Жанакала, в 32 м к зап. от полевой дороги </SimpleData>
+		<SimpleData name="location_description">faa5d555-1044-498c-af76-d0711ebd1858</SimpleData>
+		<SimpleData name="status">data/stations/faa5d555.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/faa5d555.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>64.0645929588479,44.5963196030897</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

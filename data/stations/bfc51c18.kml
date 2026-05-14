@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="bfc51c18" id="bfc51c18">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>bfc51c18</name>
+  <Placemark id="bfc51c18.1">
+	<name>5280</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#bfc51c18">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">227.692</SimpleData>
+		<SimpleData name="leveling_order">316.539</SimpleData>
+		<SimpleData name="benchmark_number">160 оп.знак</SimpleData>
+		<SimpleData name="control_location">Линия №3: Володарское - Сергеевка, II класс. Участок: грунт.реп. 8034 - фунд.реп. 0709</SimpleData>
+		<SimpleData name="benchmark_type">Сырымбет, с., в 3.8 км к зап.от него, в 1.8 км к сев.-зап.от оз. Кумдыколь, к зап.от улучшенной грунт.дороги с. Качиловка - с. Междуозерное</SimpleData>
+		<SimpleData name="location_description">bfc51c18-0eac-4a4c-a5b0-d069ff2c73b2</SimpleData>
+		<SimpleData name="status">data/stations/bfc51c18.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/bfc51c18.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.9356919396054,53.4761833402225</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

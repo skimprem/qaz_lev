@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="d2a9332b" id="d2a9332b">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>d2a9332b</name>
+  <Placemark id="d2a9332b.1">
+	<name>8417</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#d2a9332b">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">213,632</SimpleData>
+		<SimpleData name="control_location">Линия № 4: Кумкент - Торыустаган, 2 класс (4) Участок: грунт. реп. 7741 - фунд. реп. 9993</SimpleData>
+		<SimpleData name="benchmark_type">Торыустагаи, с., в 12.7 км к юго-вост. от него, в 0.6 км к сев. от арт. колодца, в 9 м к зап. от полевой дороги</SimpleData>
+		<SimpleData name="location_description">d2a9332b-95f8-44d6-9300-d59c39e061dc</SimpleData>
+		<SimpleData name="status">data/stations/d2a9332b.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/d2a9332b.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>69.7005204037034,44.6828693446199</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="70003632" id="70003632">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>70003632</name>
+  <Placemark id="70003632.1">
+	<name>59</name>
+	<description>грунт.реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#70003632">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">473.098</SimpleData>
+		<SimpleData name="benchmark_number">138 оп.знак</SimpleData>
+		<SimpleData name="control_location">Линия № 1:Сарыозек-Каратас I класс                            Участок: грунт.реп. 2648-грунт.реп. 55</SimpleData>
+		<SimpleData name="benchmark_type">Биже, станц., в 6,7км к сев.-вост. от нее, на IПК 1412км жел. дор., в 0,1км к сев.-вост. от пк стб. 1/2</SimpleData>
+		<SimpleData name="location_description">70003632-9c7e-4831-9487-aadd8d6b16cf</SimpleData>
+		<SimpleData name="status">data/stations/70003632.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/70003632.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.9176245918599,44.9515006177929</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="30c28cc6" id="30c28cc6">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>30c28cc6</name>
+  <Placemark id="30c28cc6.1">
+	<name>634</name>
+	<name>грунт,реп,</name>
+	<ExtendedData><SchemaData schemaUrl="#30c28cc6">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">301.968</SimpleData>
+		<SimpleData name="benchmark_number">160оп</SimpleData>
+		<SimpleData name="control_location">Линия №1: Арысь-Сарыозек, I класс</SimpleData>
+		<SimpleData name="benchmark_type">Жантаксай, раз,, в 3,9 км к юго-зап,от
+него, в 36 м к сев,от жел,-дор,полотна, на I ПК 3243 км</SimpleData>
+		<SimpleData name="location_description">30c28cc6-f3ad-4187-a419-599e9d2422cc</SimpleData>
+		<SimpleData name="status">data/stations/30c28cc6.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/30c28cc6.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>69.1109561185954,42.38259208377</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

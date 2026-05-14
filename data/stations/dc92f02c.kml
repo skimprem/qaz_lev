@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="dc92f02c" id="dc92f02c">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>dc92f02c</name>
+  <Placemark id="dc92f02c.1">
+	<name>20311</name>
+	<name>марка</name>
+	<ExtendedData><SchemaData schemaUrl="#dc92f02c">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="control_location">Линия № 3: Каратас –  Аягоз, I класс
+Участок: ск.реп. 5533 – фунд.реп. 1027</SimpleData>
+		<SimpleData name="benchmark_type">Раз. № 22, в 3.3 км к югу от него, на 10 пк 994 км, в устое жел.-дор. моста</SimpleData>
+		<SimpleData name="location_description">dc92f02c-7b43-4543-9233-9aaa7cbeef5c</SimpleData>
+		<SimpleData name="status">data/stations/dc92f02c.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/dc92f02c.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>80.4093777828963,47.9267439632929</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

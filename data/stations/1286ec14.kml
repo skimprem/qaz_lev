@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="1286ec14" id="1286ec14">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>1286ec14</name>
+  <Placemark id="1286ec14.1">
+	<name>603</name>
+	<name>грунт. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#1286ec14">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">375.616</SimpleData>
+		<SimpleData name="leveling_order">374.580*</SimpleData>
+		<SimpleData name="control_height">Контрольный репер в трубе</SimpleData>
+		<SimpleData name="benchmark_number">118</SimpleData>
+		<SimpleData name="control_location">Линия № 2: Егинсу  – Урджар , II класс </SimpleData>
+		<SimpleData name="benchmark_type">Ельтай, с., в 10.0 км к югу от него, в 0.3 км к сев.-зап. от пов. р. Урджар, в 0.1 км к юго-зап. от кладбища и мазара</SimpleData>
+		<SimpleData name="location_description">1286ec14-ec01-4800-a290-162ffe43999c</SimpleData>
+		<SimpleData name="status">data/stations/1286ec14.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/1286ec14.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>81.5575063400861,46.7953834380861</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

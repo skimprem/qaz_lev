@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="bcca0992" id="bcca0992">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>bcca0992</name>
+  <Placemark id="bcca0992.1">
+	<name>0714</name>
+	<name>грунт. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#bcca0992">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">369.812</SimpleData>
+		<SimpleData name="benchmark_number">160 оп. Знак</SimpleData>
+		<SimpleData name="control_location">Линия № 3: Актогай – Сайкан, II класс. Участок: фунтд.реп. 942 – грунт.реп. 774</SimpleData>
+		<SimpleData name="benchmark_type">Сарыкум, станция, в 4.4 км к сев.-зап. от нее, в 60 м к юго-зап. от жел.дор. и км. стб. 49/50, в 15 м к югу от полевой дороги</SimpleData>
+		<SimpleData name="location_description">bcca0992-e561-449b-a8c5-cb2220084272</SimpleData>
+		<SimpleData name="status">data/stations/bcca0992.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/bcca0992.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>80.1519720113094,46.7001201750833</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

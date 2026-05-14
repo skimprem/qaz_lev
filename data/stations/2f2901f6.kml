@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2f2901f6" id="2f2901f6">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>2f2901f6</name>
+  <Placemark id="2f2901f6.1">
+	<name>0018</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#2f2901f6">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">327.127</SimpleData>
+		<SimpleData name="benchmark_number">160 оп</SimpleData>
+		<SimpleData name="control_location">Линия №2: Целиноград-Жумай, ll (l) Участок: грунт. реп. 3468-фунд. реп. 7120</SimpleData>
+		<SimpleData name="benchmark_type">Майшукыр с., в 0,9 км к югу от него, в 0,4 км к сев.-зап. От полевого стана, в 0,1 км к сев. От дороги с.Майшукыр-с.Жумай</SimpleData>
+		<SimpleData name="location_description">2f2901f6-0a5a-4ca9-8d5a-a8bd59a0ac6b</SimpleData>
+		<SimpleData name="status">data/stations/2f2901f6.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/2f2901f6.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>69.9818367798441,50.719501111897</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

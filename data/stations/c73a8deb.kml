@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="c73a8deb" id="c73a8deb">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>c73a8deb</name>
+  <Placemark id="c73a8deb.1">
+	<name>1013</name>
+	<description>грунт. реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#c73a8deb">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">81.673</SimpleData>
+		<SimpleData name="leveling_order">81.175             80.482</SimpleData>
+		<SimpleData name="leveling_height">Контрольный репер в рельсе Контрольный репер в верхней плоскости монолита</SimpleData>
+		<SimpleData name="benchmark_number">134</SimpleData>
+		<SimpleData name="control_location">Линия 1: Аральск- Айтеке Би (Новоказалинск)-Жосалы, I класс(1,2). Участок: Грунт. реп. 803-марка 3921</SimpleData>
+		<SimpleData name="benchmark_type">Майлыбас, станц., в 0,3 км к юго-вост. от нее, на 1 пк 2538 км жел. дор., в 77 м к вост. от оси главного пути жел.-дор. полотна, в 28 м к сев.-вост. от тлф. стб. 66/764</SimpleData>
+		<SimpleData name="location_description">c73a8deb-3fc0-4f51-8cc5-24122b5bde06</SimpleData>
+		<SimpleData name="status">data/stations/c73a8deb.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/c73a8deb.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>62.6336154174469,45.8190210939375</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

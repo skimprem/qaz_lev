@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="fd05e8aa" id="fd05e8aa">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>fd05e8aa</name>
+  <Placemark id="fd05e8aa.1">
+	<name>7956</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#fd05e8aa">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">586.107</SimpleData>
+		<SimpleData name="benchmark_number">121</SimpleData>
+		<SimpleData name="control_location">Линия №1: Жиделисай=Бала-Терсаккан, II класс (I) Участок: фунд.реп.0539-грунт.реп.7524</SimpleData>
+		<SimpleData name="benchmark_type">Улытау,с.,в 14.6 км к юго-вост.от него,в 2.0 км к юго-вост.от зим.Иискельды,в 20 м к зап.от дороги с.Улытау-с.Жезды</SimpleData>
+		<SimpleData name="leveling_line_section">уничтожен</SimpleData>
+		<SimpleData name="location_description">fd05e8aa-ff65-4d3d-b75a-160c0f5478fd</SimpleData>
+		<SimpleData name="status">data/stations/fd05e8aa.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/fd05e8aa.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.1274658291518,48.5433721113384</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

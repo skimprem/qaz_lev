@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="71ffd04f" id="71ffd04f">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>71ffd04f</name>
+  <Placemark id="71ffd04f.1">
+	<name>6126</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#71ffd04f">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">62,361</SimpleData>
+		<SimpleData name="benchmark_number">160</SimpleData>
+		<SimpleData name="control_location">Участок: грунт.реп.4711-грунт.реп. XV</SimpleData>
+		<SimpleData name="benchmark_type">Кызылкум, с., в 16.2км к сев.-вост.от него, в 12.0км к юго-зап.от кладб.Колдас, в 15м к юго-вост.от полевой дороги</SimpleData>
+		<SimpleData name="location_description">71ffd04f-219a-462b-b60c-08c1de613628</SimpleData>
+		<SimpleData name="status">data/stations/71ffd04f.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/71ffd04f.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>61.5220651042685,44.661427144724</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

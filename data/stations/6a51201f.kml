@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="6a51201f" id="6a51201f">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>6a51201f</name>
+  <Placemark id="6a51201f.1">
+	<name>9774</name>
+	<name>марка</name>
+	<ExtendedData><SchemaData schemaUrl="#6a51201f">
+		<SimpleData name="type">I</SimpleData>
+		<SimpleData name="view">378.047</SimpleData>
+		<SimpleData name="control_location">Линия №2: Тюемойнак-Жарык, I класс (2) Ход от грунт,реп,7054 до грунт,реп,5222, I класс (3)</SimpleData>
+		<SimpleData name="benchmark_type">Женыс, станция, в 0,7 км к юго-зап, от нее, на 3 пк 228
+км, с зап, стороны водопропускной трубы</SimpleData>
+		<SimpleData name="location_description">6a51201f-d35c-4ddc-baab-7ec3669e54d4</SimpleData>
+		<SimpleData name="status">data/stations/6a51201f.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/6a51201f.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>69.9872673772947,48.3763053457176</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

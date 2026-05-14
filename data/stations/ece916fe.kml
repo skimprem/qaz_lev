@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="ece916fe" id="ece916fe">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>ece916fe</name>
+  <Placemark id="ece916fe.1">
+	<name>2088</name>
+	<name>грунт,реп,</name>
+	<ExtendedData><SchemaData schemaUrl="#ece916fe">
+		<SimpleData name="type">I</SimpleData>
+		<SimpleData name="view">342.284</SimpleData>
+		<SimpleData name="benchmark_number">160 оп,знак</SimpleData>
+		<SimpleData name="control_location">Линия №2: Астана(Целиноград)-Амангельды, I класса (2)   Участок: грунт,реп,105-грунт,реп,7852</SimpleData>
+		<SimpleData name="benchmark_type">Косчеку, станция, в 3,4 км к юго-вост,от нее, на 4 пк 769 км жел,дор,, в 24 м к сев,-вост,от жел,дор,полотна,</SimpleData>
+		<SimpleData name="location_description">ece916fe-de75-42c6-a322-74e15b05775d</SimpleData>
+		<SimpleData name="status">data/stations/ece916fe.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/ece916fe.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>70.9245586839153,51.3631165317541</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

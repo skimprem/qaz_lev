@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="cff222a6" id="cff222a6">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>cff222a6</name>
+  <Placemark id="cff222a6.1">
+	<name>6513</name>
+	<name>ск. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#cff222a6">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">730.809</SimpleData>
+		<SimpleData name="benchmark_number">99 оп</SimpleData>
+		<SimpleData name="control_location">Линия № 2: Баршатас - Катбар, II класс 
+Участок: ск.реп. 12247 – фунд.реп. 521
+</SimpleData>
+		<SimpleData name="benchmark_type">Комраубит, зим., в 8.6 км к юго-зап. от нее, в 2.5 км к юго-вост. от сух. к. Ушкудук, в 0.5 км к вост. от кладбища и родника</SimpleData>
+		<SimpleData name="location_description">cff222a6-1277-4bbd-9d23-d739e5410737</SimpleData>
+		<SimpleData name="status">data/stations/cff222a6.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/cff222a6.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>78.2054207550584,47.2272717789963</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

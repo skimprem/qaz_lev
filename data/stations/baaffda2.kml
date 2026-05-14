@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="baaffda2" id="baaffda2">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>baaffda2</name>
+  <Placemark id="baaffda2.1">
+	<name>694</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#baaffda2">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">102.328</SimpleData>
+		<SimpleData name="benchmark_number">160</SimpleData>
+		<SimpleData name="control_location">Линия № 2: Золторунное-Кобенсай, II класс. Участок: фунд.реп. 7Б-грунт.реп.57</SimpleData>
+		<SimpleData name="benchmark_type">Алабота, с., в 3.0 км к югу от него, в 20 м к зап.от улучш.грунт.дороги с. Алабота-с. Аккудук, напротив км.стб. 13\65</SimpleData>
+		<SimpleData name="location_description">baaffda2-05f2-4f58-bfbc-3cb5af75a015</SimpleData>
+		<SimpleData name="status">data/stations/baaffda2.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/baaffda2.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>70.97161074519,53.7693061228239</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

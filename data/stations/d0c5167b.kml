@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="d0c5167b" id="d0c5167b">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>d0c5167b</name>
+  <Placemark id="d0c5167b.1">
+	<name>I</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#d0c5167b">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">223.470</SimpleData>
+		<SimpleData name="benchmark_number">118</SimpleData>
+		<SimpleData name="control_location">Линия №1: Чапаевский-Каратал, II класс (I) Участок: грунт.реп. 17964-грунт.реп. I</SimpleData>
+		<SimpleData name="leveling_line_section">не найден</SimpleData>
+		<SimpleData name="location_description">d0c5167b-7f95-4ec6-ab8c-992b7e651c62</SimpleData>
+		<SimpleData name="status">data/stations/d0c5167b.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/d0c5167b.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>73.9133383050911,51.9860426693076</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

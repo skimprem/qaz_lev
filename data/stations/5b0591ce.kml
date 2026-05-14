@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="5b0591ce" id="5b0591ce">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>5b0591ce</name>
+  <Placemark id="5b0591ce.1">
+	<name>ГА-4</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#5b0591ce">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">204.537</SimpleData>
+		<SimpleData name="leveling_order">362,867</SimpleData>
+		<SimpleData name="control_height">контрольный репер №2088 в верхней плоскости монолита</SimpleData>
+		<SimpleData name="benchmark_number">160 оп</SimpleData>
+		<SimpleData name="control_location">Линия №1: Салды-Тасты II класс (I) Участок: пир.2 кл.Карын- фунд.реп.2608</SimpleData>
+		<SimpleData name="benchmark_type">Мирное,с.,в 2.3 км к юго-зап.от него,в 1.4 км к зап.от кладбища,в 0.1 км к югу от развилки полевой дороги</SimpleData>
+		<SimpleData name="leveling_line_section">утрачен</SimpleData>
+		<SimpleData name="location_description">5b0591ce-bf65-4cd5-a774-912d80f12d7a</SimpleData>
+		<SimpleData name="status">data/stations/5b0591ce.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/5b0591ce.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>66.2041984957003,50.5192652355552</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

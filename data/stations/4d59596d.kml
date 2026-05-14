@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="4d59596d" id="4d59596d">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>4d59596d</name>
+  <Placemark id="4d59596d.1">
+	<name>588</name>
+	<name>грунт. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#4d59596d">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">964.609</SimpleData>
+		<SimpleData name="leveling_order">963.569*</SimpleData>
+		<SimpleData name="control_height">Контрольный репер в трубе</SimpleData>
+		<SimpleData name="benchmark_number">118</SimpleData>
+		<SimpleData name="control_location">Линия № 4: Кабанбай – Сарканд, II класс 
+Участок: фунд. реп. 1186 – грунт. реп. 3430</SimpleData>
+		<SimpleData name="benchmark_type">Байзерек, с., в 0.5 км к сев.-вост. от него, в 21 м к зап. от шоссе с. Кабанбай – с. Лепсинск</SimpleData>
+		<SimpleData name="location_description">4d59596d-d6f6-4f0a-ba68-4dfb2e1bed66</SimpleData>
+		<SimpleData name="status">data/stations/4d59596d.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/4d59596d.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>80.6326514796252,45.6454922919682</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="6d9b35de" id="6d9b35de">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>6d9b35de</name>
+  <Placemark id="6d9b35de.1">
+	<name>6</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#6d9b35de">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">208.184</SimpleData>
+		<SimpleData name="control_location">Линия №I: Чимли-Мергенбай, класс</SimpleData>
+		<SimpleData name="benchmark_type">Бингилды 1-й,к.,в 2.9 км к югу от него,в 4.8 км к сев.от к.Орме,в  10 м полевой дороги </SimpleData>
+		<SimpleData name="location_description">6d9b35de-6466-4162-9100-91ca29af6262</SimpleData>
+		<SimpleData name="status">data/stations/6d9b35de.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/6d9b35de.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>66.0806703566113,42.2544450462295</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

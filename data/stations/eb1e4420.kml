@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="eb1e4420" id="eb1e4420">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>eb1e4420</name>
+  <Placemark id="eb1e4420.1">
+	<name>6148</name>
+	<name>грунт.реп</name>
+	<ExtendedData><SchemaData schemaUrl="#eb1e4420">
+		<SimpleData name="type">ІІ</SimpleData>
+		<SimpleData name="view">353.346</SimpleData>
+		<SimpleData name="benchmark_number">146 оп.знак</SimpleData>
+		<SimpleData name="control_location">Линия № 1 Астана (Целиноград) - Жумай, ІІ класс (1)  Участок: пир. 3 кл. Жаланаш - грунт.реп. 0018</SimpleData>
+		<SimpleData name="benchmark_type">Караегин, с., в 6.7 км к юго-зап.от него, в 70 м к сев от пов стб ЛЭП, в 40 м к сев-вост.от км стб 91/37, в 30 м к сев от дороги с. Оразак - с Коргалжын </SimpleData>
+		<SimpleData name="location_description">eb1e4420-0c25-4546-97ce-7f6e336bcb93</SimpleData>
+		<SimpleData name="status">data/stations/eb1e4420.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/eb1e4420.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>70.2882519076123,50.8273075747429</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

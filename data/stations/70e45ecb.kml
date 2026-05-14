@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="70e45ecb" id="70e45ecb">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>70e45ecb</name>
+  <Placemark id="70e45ecb.1">
+	<name>6504</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#70e45ecb">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">680,557</SimpleData>
+		<SimpleData name="benchmark_number">160оп</SimpleData>
+		<SimpleData name="control_location">Линия №2: Спасск-Акчатау, II класс (1) Участок: грунт.реп. 3394 - ск.реп. 8110</SimpleData>
+		<SimpleData name="benchmark_type">Кызыкой, с., в 10,0 км к сев.от него, в 0,2 км к югу от км.стб. №67 шоссе Караганда-Балхаш, в 60м к зап.от моста</SimpleData>
+		<SimpleData name="location_description">70e45ecb-3a24-4c4f-afff-409285198410</SimpleData>
+		<SimpleData name="status">data/stations/70e45ecb.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/70e45ecb.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>73.4222998232124,49.3058691452293</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

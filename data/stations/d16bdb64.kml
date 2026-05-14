@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="d16bdb64" id="d16bdb64">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>d16bdb64</name>
+  <Placemark id="d16bdb64.1">
+	<name>4001</name>
+	<name>стенной репер</name>
+	<ExtendedData><SchemaData schemaUrl="#d16bdb64">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">153,821</SimpleData>
+		<SimpleData name="control_location">Висячий ход от фунд. реп.. 156. 2 класс (4)</SimpleData>
+		<SimpleData name="benchmark_type">Шиели, станц., в 3.6 км к юго-вост, от неё, 2952 км жел.  дор., жел.- дор. мост</SimpleData>
+		<SimpleData name="leveling_line_section">уничтожен</SimpleData>
+		<SimpleData name="location_description">d16bdb64-9eda-4ec8-9a43-18dd088997c3</SimpleData>
+		<SimpleData name="status">data/stations/d16bdb64.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/d16bdb64.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>66.7730109571406,44.1521416317347</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

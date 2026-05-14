@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="aaddb8a3" id="aaddb8a3">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>aaddb8a3</name>
+  <Placemark id="aaddb8a3.1">
+	<name>2843</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#aaddb8a3">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="benchmark_number">107  (уничтожен)</SimpleData>
+		<SimpleData name="control_location">Линия № 2: Атбасар - Максимовка, II класс.
+Участок: грунт. реп. 2922- грунт. реп. 4157.   Ход от фунд.реп. 340 до грунт.реп. 4157, II класс.</SimpleData>
+		<SimpleData name="benchmark_type">Спасское, с., в 1.0 км к сев. от него, против тлф. стб.
+200/40                     Контрольный репер в трубе
+</SimpleData>
+		<SimpleData name="location_description">aaddb8a3-4244-4cdb-b844-3ea3d10dcd02</SimpleData>
+		<SimpleData name="status">data/stations/aaddb8a3.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/aaddb8a3.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>68.5342282152166,52.1734209048423</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="f3cad5e1" id="f3cad5e1">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>f3cad5e1</name>
+  <Placemark id="f3cad5e1.1">
+	<name>862</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#f3cad5e1">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">162,896</SimpleData>
+		<SimpleData name="leveling_order">160,244</SimpleData>
+		<SimpleData name="control_height">Контрольный репер №926 в верхней плоскости монолита. </SimpleData>
+		<SimpleData name="benchmark_number">121</SimpleData>
+		<SimpleData name="control_location">Ход от грунт.реп.938 до грунт.реп. 181, II  класс (4). Участок: грунт.реп. 141-грунт.реп. 181</SimpleData>
+		<SimpleData name="benchmark_type">Кайнама, зим., в 7,0 км к юго-вост.от нее, в 1,4 км к сев.от оз.Монтый, в 0,3 км к юго-вост.от развилки полевой дороги</SimpleData>
+		<SimpleData name="leveling_line_section">уничтожен</SimpleData>
+		<SimpleData name="location_description">f3cad5e1-451e-4807-bb0a-ef91527bded9</SimpleData>
+		<SimpleData name="status">data/stations/f3cad5e1.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/f3cad5e1.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.8837504457344,50.9919421217222</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

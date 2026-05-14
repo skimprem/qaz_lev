@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="f12e3bf6" id="f12e3bf6">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>f12e3bf6</name>
+  <Placemark id="f12e3bf6.1">
+	<name>2264</name>
+	<description>грунт.реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#f12e3bf6">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="benchmark_number">5 (146)</SimpleData>
+		<SimpleData name="benchmark_type">Павловка с., 1.0 км к зап. от него, в 1 м к югу от опоры ЛЭП №141, 28 м к зап. от автодороги Ленинское- Урицкий, 47 м к юго-зап. от км. стб. № 17/72</SimpleData>
+		<SimpleData name="leveling_line_section">не найден</SimpleData>
+		<SimpleData name="location_description">f12e3bf6-4f89-4bbc-ac8e-c91a38598c3d</SimpleData>
+		<SimpleData name="status">data/stations/f12e3bf6.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/f12e3bf6.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>65.3158449667847,53.8969948687637</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

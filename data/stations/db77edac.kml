@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="db77edac" id="db77edac">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>db77edac</name>
+  <Placemark id="db77edac.1">
+	<name>6129</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#db77edac">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">621,054</SimpleData>
+		<SimpleData name="leveling_order">619,521</SimpleData>
+		<SimpleData name="control_height">Контрольный репер №6762 в верхней плоскости монолита </SimpleData>
+		<SimpleData name="benchmark_number">117 оп. знак</SimpleData>
+		<SimpleData name="control_location">Линия № 1: Каркаралинск – Аягоз, I класс. Участок: ск.реп.  2895 – грунт.реп. 6705</SimpleData>
+		<SimpleData name="benchmark_type">Коксала, с., в 8.6 км к юго-вост. от него, в 2.7 км к юго-вост. от к. Таскудук, в 13 м к югу от грунт. дороги с. Коксала – с. Айгыз</SimpleData>
+		<SimpleData name="location_description">db77edac-f06b-4c0c-8baa-4e55bcdb97f0</SimpleData>
+		<SimpleData name="status">data/stations/db77edac.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/db77edac.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>79.1692288994736,47.8812062381943</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

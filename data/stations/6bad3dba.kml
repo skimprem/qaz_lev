@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="6bad3dba" id="6bad3dba">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>6bad3dba</name>
+  <Placemark id="6bad3dba.1">
+	<name>300</name>
+	<name>фундаментальный репер</name>
+	<ExtendedData><SchemaData schemaUrl="#6bad3dba">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">293,077</SimpleData>
+		<SimpleData name="leveling_order">292,572/ 290,852</SimpleData>
+		<SimpleData name="control_height">контрольный репер в трубе/  контрольный репер в верхней плосости монолита </SimpleData>
+		<SimpleData name="benchmark_number">141</SimpleData>
+		<SimpleData name="control_location">Линия №1: Карасорвкий - Сарыкияк, II класс (1) Участок: ск. реп. 6100 - грунт. реп. 8674</SimpleData>
+		<SimpleData name="benchmark_type">Александровка, с., в 12.1 км к юго-вост. от него, в 2.7 км к юго-зап. от зим. Жалгызкайын, в 0.7 км к зап. от шоссе с. о Майкайын - с. Баянауыл</SimpleData>
+		<SimpleData name="location_description">6bad3dba-b8c7-44fe-87e9-3e21f64700f5</SimpleData>
+		<SimpleData name="status">data/stations/6bad3dba.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/6bad3dba.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.8044259156926,50.9339789964141</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="020dbbc8" id="020dbbc8">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>020dbbc8</name>
+  <Placemark id="020dbbc8.1">
+	<name>4771</name>
+	<description>грунт. реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#020dbbc8">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">228.397</SimpleData>
+		<SimpleData name="benchmark_number">160 оп</SimpleData>
+		<SimpleData name="control_location">Линия №1: Жосалы - Карсакбай. 1 класс. Участок: грунт.реп. 1500 - грунт.реп. 292</SimpleData>
+		<SimpleData name="benchmark_type">Жиканмола. кладб.. в 9.0 км  к юго-зап.от него. в 4.6 км к сев.-вост.от род. Жайынбай. в 30 м к юго-вост.от грунт.дороги с. Карсакбай - с. Жосалы </SimpleData>
+		<SimpleData name="location_description">020dbbc8-9986-4433-b1bf-8cddc4d73762</SimpleData>
+		<SimpleData name="status">data/stations/020dbbc8.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/020dbbc8.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>65.5176056158981,46.609858512727</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

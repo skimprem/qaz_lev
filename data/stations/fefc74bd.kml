@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="fefc74bd" id="fefc74bd">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>fefc74bd</name>
+  <Placemark id="fefc74bd.1">
+	<name>9084</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#fefc74bd">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">497,229</SimpleData>
+		<SimpleData name="control_location">Линия № 2: Аркарлы - Актас. 2 класс ( 2 ) Участок: фунд. реп. 23 - фунд. реп. 3010</SimpleData>
+		<SimpleData name="benchmark_type">Ескикудук, к., в 0.6 км к сев. от него, в 0.3 км к югу от развилки полевой дороги, в 20 м к зап. от полевой дороги</SimpleData>
+		<SimpleData name="location_description">fefc74bd-72c2-41d8-a983-9a1865270168</SimpleData>
+		<SimpleData name="status">data/stations/fefc74bd.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/fefc74bd.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>70.841741078693,47.2046244704534</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

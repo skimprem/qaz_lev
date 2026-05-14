@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="f879a22c" id="f879a22c">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>f879a22c</name>
+  <Placemark id="f879a22c.1">
+	<name>0021</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#f879a22c">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">502,015</SimpleData>
+		<SimpleData name="control_location">Линия № 2: Аркарлы - Актас. 2 класс (1) Участок: грунт, реп. 5365 - грунт.реп. 4779</SimpleData>
+		<SimpleData name="benchmark_type">Узынтас. к., в 4.2 км к югу от него, в 1.7 км к юго-зап. от г. Узынтас. в 8 м к зап. от полевой дороги</SimpleData>
+		<SimpleData name="location_description">f879a22c-dedb-47d9-9912-db8f86f6e349</SimpleData>
+		<SimpleData name="status">data/stations/f879a22c.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/f879a22c.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>70.8934346339442,46.6145669889189</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

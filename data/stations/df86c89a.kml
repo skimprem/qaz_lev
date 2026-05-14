@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="df86c89a" id="df86c89a">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>df86c89a</name>
+  <Placemark id="df86c89a.1">
+	<name>2553</name>
+	<description>марка</description>
+	<ExtendedData><SchemaData schemaUrl="#df86c89a">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">93.724</SimpleData>
+		<SimpleData name="control_location">Линия №1 : Аральск - Айтеке Би (Новоказалинск) - Жосалы . I класс . Участок : грунт. реп. 553 - марка 4359</SimpleData>
+		<SimpleData name="benchmark_type">Диирментобе. станц. . в 3.5 км к юго- зап. от неё. на 2618 км жел. дор. . в устое моста</SimpleData>
+		<SimpleData name="location_description">df86c89a-5c45-430a-bf64-9270e8624a11</SimpleData>
+		<SimpleData name="status">data/stations/df86c89a.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/df86c89a.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>63.5951322551829,45.7271919799272</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

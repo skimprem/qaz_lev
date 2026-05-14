@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="f28888f8" id="f28888f8">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>f28888f8</name>
+  <Placemark id="f28888f8.1">
+	<name>419</name>
+	<name>ск. реп. </name>
+	<ExtendedData><SchemaData schemaUrl="#f28888f8">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="benchmark_number">99 оп</SimpleData>
+		<SimpleData name="control_location">Линия № 3: Каратас –  Аягоз, I класс
+Участок: ск.реп. 5533 – фунд.реп. 1027</SimpleData>
+		<SimpleData name="benchmark_type">Жиланды, станц., в 0.4 км к юго-зап. от нее, на 2 пк 1025 км, в 0.2 км к юго-зап. от жел.-дор. трубы, в 0.1 км к зап. от жел.-дор. полотна, в 56 м к вост. от водоемного здания</SimpleData>
+		<SimpleData name="location_description">f28888f8-2120-4a40-b10f-a75d2141c161</SimpleData>
+		<SimpleData name="status">data/stations/f28888f8.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/f28888f8.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>80.2736058486886,47.6840261951297</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

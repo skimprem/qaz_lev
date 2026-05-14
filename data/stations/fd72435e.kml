@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="fd72435e" id="fd72435e">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>fd72435e</name>
+  <Placemark id="fd72435e.1">
+	<name>218</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#fd72435e">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">548,808</SimpleData>
+		<SimpleData name="leveling_order">546,193</SimpleData>
+		<SimpleData name="control_height">Контрольный репер в верхней плоскости монолита</SimpleData>
+		<SimpleData name="benchmark_number">121 оп</SimpleData>
+		<SimpleData name="control_location">Линия № 7: Ульяновский - Степное. II класс (6)</SimpleData>
+		<SimpleData name="benchmark_type">Курома, с., в 7,5 км к сев.-вост. от него, в 0,2 км к югу от шоссе с. Ульги – с. Курома, в 0,1 км к зап. от отдельно стоящего дерева</SimpleData>
+		<SimpleData name="location_description">fd72435e-0dae-44ad-aac5-1296eae325ee</SimpleData>
+		<SimpleData name="status">data/stations/fd72435e.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/fd72435e.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>73.9933167290177,50.2962037621099</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

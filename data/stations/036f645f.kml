@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="036f645f" id="036f645f">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>036f645f</name>
+  <Placemark id="036f645f.1">
+	<name>191</name>
+	<name>ск. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#036f645f">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">527.464</SimpleData>
+		<SimpleData name="benchmark_number">99</SimpleData>
+		<SimpleData name="control_location">Линия №1: Усть-Каменогорск-Берёзовка, 2 класс (2) Участок: грунт. реп.188 - грунт. реп. 195</SimpleData>
+		<SimpleData name="benchmark_type">Северное, с., в 0.5 км к зап. от него, в 0.1 км к зап. от дороги с. Ермаковский - с. Северное, в 88 м от тлгр. стб. №205</SimpleData>
+		<SimpleData name="location_description">036f645f-d62e-4082-bde9-c5707ac186b9</SimpleData>
+		<SimpleData name="status">data/stations/036f645f.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/036f645f.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>83.129680169263,49.8168589483639</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

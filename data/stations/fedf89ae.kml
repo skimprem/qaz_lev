@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="fedf89ae" id="fedf89ae">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>fedf89ae</name>
+  <Placemark id="fedf89ae.1">
+	<name>XVII</name>
+	<name>грунт. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#fedf89ae">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">59.886</SimpleData>
+		<SimpleData name="leveling_order">57.828</SimpleData>
+		<SimpleData name="benchmark_number">120</SimpleData>
+		<SimpleData name="control_location">Линия №1: Айтеке Би (Новоказалинск) - Ащылысай, 2 класс. Участок: грунт.реп. 0921 - фунд.реп. 3919</SimpleData>
+		<SimpleData name="benchmark_type">Аяккудык, к., в 8,5 км к сев.-зап.от него, в 4,3 км к юго-зап.от мог. Нарымбай, в 50 м к вост.от сух.русла Ащысай</SimpleData>
+		<SimpleData name="location_description">fedf89ae-0028-4ca7-953b-67a641008445</SimpleData>
+		<SimpleData name="status">data/stations/fedf89ae.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/fedf89ae.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>62.0727358812223,45.0303519622598</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

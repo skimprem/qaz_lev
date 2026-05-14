@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="ab07b219" id="ab07b219">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>ab07b219</name>
+  <Placemark id="ab07b219.1">
+	<name>159</name>
+	<name>фундаментальный репер</name>
+	<ExtendedData><SchemaData schemaUrl="#ab07b219">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">110.378</SimpleData>
+		<SimpleData name="leveling_order">108.168</SimpleData>
+		<SimpleData name="control_height">Контрольный репер №21170 в фундаментной плите</SimpleData>
+		<SimpleData name="benchmark_number">141</SimpleData>
+		<SimpleData name="control_location">Линия №1: Разумовка - Зелёная роща, II класс (3) Участок: грунт.реп.130285 фунд.реп. I</SimpleData>
+		<SimpleData name="benchmark_type">Ферма №2 свх. Шидертинский, в 0,5 км сев.от неё, в 1,0 км к сев-зап.от кладбища Сексембай</SimpleData>
+		<SimpleData name="location_description">ab07b219-1063-4d85-832f-570801b7e94a</SimpleData>
+		<SimpleData name="status">data/stations/ab07b219.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/ab07b219.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.0580615621694,52.4412955976328</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="7ed71211" id="7ed71211">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>7ed71211</name>
+  <Placemark id="7ed71211.1">
+	<name>53</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#7ed71211">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">515,256</SimpleData>
+		<SimpleData name="leveling_order">512,447</SimpleData>
+		<SimpleData name="control_height">Контрольный репер №22 в верхней плоскости монолита</SimpleData>
+		<SimpleData name="benchmark_number">123оп</SimpleData>
+		<SimpleData name="control_location">Линия №1: Карасорский-Каркаралинск, II класс (1) Участок: грунт.реп. 50 - грунт.реп.0224</SimpleData>
+		<SimpleData name="benchmark_type">Маяжон, с., в 2,8 км к сев.-вост. от него, в 81 м от тлгр. стб. №36/29, в 30 м к вост. от полевой дороги</SimpleData>
+		<SimpleData name="location_description">7ed71211-16d0-459e-bc11-16f7a354bf1e</SimpleData>
+		<SimpleData name="status">data/stations/7ed71211.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/7ed71211.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.64323459603,50.5915831389874</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

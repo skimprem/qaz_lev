@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="75a87029" id="75a87029">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>75a87029</name>
+  <Placemark id="75a87029.1">
+	<name>XIII</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#75a87029">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">107.898</SimpleData>
+		<SimpleData name="benchmark_number">116</SimpleData>
+		<SimpleData name="control_location">Линия №5:  Грунт.реп.730-грунт.реп.17562, II класс. Участок:   17931 грунт.реп.-17562 грунт.реп.</SimpleData>
+		<SimpleData name="benchmark_type">Бабеке, отд.дв., в 9.4км к юго-зап.от него, в 1.4км к сев.от полевой дороги, в 0.2км к вост.от ЛЭП</SimpleData>
+		<SimpleData name="location_description">75a87029-1c43-4756-909e-6a3e9540564f</SimpleData>
+		<SimpleData name="status">data/stations/75a87029.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/75a87029.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>73.1173404315518,52.8073947669202</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="9d8a2011" id="9d8a2011">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>9d8a2011</name>
+  <Placemark id="9d8a2011.1">
+	<name>1453</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#9d8a2011">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">191,610</SimpleData>
+		<SimpleData name="benchmark_number">146 оп</SimpleData>
+		<SimpleData name="control_location">Линия №1: Актасты-Тургай, II класс. Участок: грунт.реп. 5884-фунд.реп. 3780</SimpleData>
+		<SimpleData name="benchmark_type">Толыбай (Амангельды), с., в 13.6 км к сев.-зап. от него, в 0.7 км к юго-зап.от кладбища, в 0.3 км к югу от слияния р.Толыбай и р.Кубутак</SimpleData>
+		<SimpleData name="location_description">9d8a2011-de8f-4180-944d-951c601eb63e</SimpleData>
+		<SimpleData name="status">data/stations/9d8a2011.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/9d8a2011.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>62.162197279965,50.6315865545799</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="4079373f" id="4079373f">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>4079373f</name>
+  <Placemark id="4079373f.1">
+	<name>VIII</name>
+	<description>грунт. реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#4079373f">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">108.984</SimpleData>
+		<SimpleData name="benchmark_number">15</SimpleData>
+		<SimpleData name="control_location">Линия № 3 :Молалы-Кумкала , I класс . Участок : грунт. реп. 15362-фунд. реп. 24607</SimpleData>
+		<SimpleData name="benchmark_type">Белькорал, арт.к., в 0.7  км к сев.-вост. от него, в 0.1 км к вост. от полевой дороги, в 92 м к вост.от ЛЭП, на бархане </SimpleData>
+		<SimpleData name="location_description">4079373f-25e8-46f3-af41-3f8fe7f569e3</SimpleData>
+		<SimpleData name="status">data/stations/4079373f.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/4079373f.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>64.2682626872422,44.3220063368898</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

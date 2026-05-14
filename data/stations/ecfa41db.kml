@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="ecfa41db" id="ecfa41db">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>ecfa41db</name>
+  <Placemark id="ecfa41db.1">
+	<name>3802</name>
+	<name>фунд. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#ecfa41db">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">63.275</SimpleData>
+		<SimpleData name="leveling_order">62.305</SimpleData>
+		<SimpleData name="benchmark_number">161 оп </SimpleData>
+		<SimpleData name="control_location">Линия №1: Айтеке Би (Новоказалинск) - Ащылысай, 2 класс. Участок: грунт.реп. 0921 - фунд.реп. 3917</SimpleData>
+		<SimpleData name="benchmark_type">Караозек, минарат, в 6,9 км к сев.-зап.от него, в 3,6 км к юго-вост.от буг. Тулькишокат, в 54 м к югу от полевой дороги</SimpleData>
+		<SimpleData name="location_description">ecfa41db-68c6-445b-a5f9-1708456be479</SimpleData>
+		<SimpleData name="status">data/stations/ecfa41db.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/ecfa41db.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>62.0269263127978,45.2621212010173</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

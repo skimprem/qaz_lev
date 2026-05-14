@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="64c4c643" id="64c4c643">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>64c4c643</name>
+  <Placemark id="64c4c643.1">
+	<name>7097</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#64c4c643">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">569,116</SimpleData>
+		<SimpleData name="benchmark_number">160 оп</SimpleData>
+		<SimpleData name="control_location">Линия № 1:Семипалатинск-Коянды,II класс(I).Участок:грунт.реп.9246-грунт.реп.9468</SimpleData>
+		<SimpleData name="benchmark_type">Муржик, с, в 54.0 км к юго-вост. от него, в 0.7 км к сев. от мог., в 24 м к вост. от дороги</SimpleData>
+		<SimpleData name="location_description">64c4c643-6619-4c7b-b91d-f46422531467</SimpleData>
+		<SimpleData name="status">data/stations/64c4c643.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/64c4c643.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.7894745389399,49.7416595103075</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

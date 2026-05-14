@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="ed850063" id="ed850063">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>ed850063</name>
+  <Placemark id="ed850063.1">
+	<name>5</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#ed850063">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">333,263</SimpleData>
+		<SimpleData name="benchmark_number">123</SimpleData>
+		<SimpleData name="control_location">Линия № 1 :       Локоть - Защита,  2 класс (2)  Участок :        марка 410 -     марка 1381</SimpleData>
+		<SimpleData name="benchmark_type">Каменевка, с., в 0,2 км  к юго-зап. от него, в 0,2 км к юго-вост. от моста через р. Каменевка, в 31 м к зап. от жел./дор. полотна</SimpleData>
+		<SimpleData name="location_description">ed850063-a3bc-4f92-81a0-56f249ad884f</SimpleData>
+		<SimpleData name="status">data/stations/ed850063.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/ed850063.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>81.8808127692109,50.5235452229081</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="86d7029f" id="86d7029f">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>86d7029f</name>
+  <Placemark id="86d7029f.1">
+	<name>б/№</name>
+	<name>марка</name>
+	<ExtendedData><SchemaData schemaUrl="#86d7029f">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">129.118</SimpleData>
+		<SimpleData name="leveling_order">138.297</SimpleData>
+		<SimpleData name="control_location">Линия № 1: Петропавловск - Мариановка, I класс  Висячий ход от марки 3119. II класс</SimpleData>
+		<SimpleData name="benchmark_type">Ганькино, станц., в 7 км к зап. от нее, на 8 пикете 2678 км, жел.-дор. мост</SimpleData>
+		<SimpleData name="location_description">86d7029f-5984-4590-b521-6858094d0209</SimpleData>
+		<SimpleData name="status">data/stations/86d7029f.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/86d7029f.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>69.9982027401575,54.8809576377779</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

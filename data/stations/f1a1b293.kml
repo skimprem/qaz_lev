@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="f1a1b293" id="f1a1b293">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>f1a1b293</name>
+  <Placemark id="f1a1b293.1">
+	<name>16099</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#f1a1b293">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">105.6</SimpleData>
+		<SimpleData name="benchmark_number">121</SimpleData>
+		<SimpleData name="control_location">Линия: Урлютюп-Шипицыно, II класс (2). Участок: гр. рп. 12628-марка 697</SimpleData>
+		<SimpleData name="benchmark_type">Новокузьминка,с.,в 0.3 км к сев.-вост.от него, в 17 м вправо от дороги в с.Озерное, в 0.2 км к северу от нефтебазы</SimpleData>
+		<SimpleData name="location_description">f1a1b293-676b-4002-801d-b788d54e005d</SimpleData>
+		<SimpleData name="status">data/stations/f1a1b293.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/f1a1b293.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>76.4148042189481,54.1914390742762</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

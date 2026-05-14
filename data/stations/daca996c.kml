@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="daca996c" id="daca996c">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>daca996c</name>
+  <Placemark id="daca996c.1">
+	<name>4427</name>
+	<name>грунт. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#daca996c">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="leveling_height">160 оп. знак</SimpleData>
+		<SimpleData name="benchmark_number">Линия № 1: Алажиде – Оз. Жаланашколь, I класс 
+Участок: грунт. реп. 7982 – грунт. реп. 5195
+</SimpleData>
+		<SimpleData name="control_location">Кабанбай, с., юго-вост. часть его, ул. Мира, напротив промежутка между домами № 232 и 236, в 0.2 км к зап. от моста через р. Шынжылы, в 5 м к юго-зап. от улицы</SimpleData>
+		<SimpleData name="benchmark_type">L-44-78-В</SimpleData>
+		<SimpleData name="location_description">daca996c-95e6-4dbd-8fae-5f0a0aa94eb7</SimpleData>
+		<SimpleData name="status">data/stations/daca996c.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/daca996c.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>80.6407641254221,45.8230349780629</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

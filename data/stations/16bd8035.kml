@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="16bd8035" id="16bd8035">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>16bd8035</name>
+  <Placemark id="16bd8035.1">
+	<name>2029</name>
+	<description>грунт.реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#16bd8035">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">181.363</SimpleData>
+		<SimpleData name="leveling_order">180.351</SimpleData>
+		<SimpleData name="benchmark_number">107</SimpleData>
+		<SimpleData name="control_location">Линия № 2: Тран-Отряд-Апабуга, II класс                       Участок: фунд.реп.3874 - грунт.реп.7411</SimpleData>
+		<SimpleData name="benchmark_type">Каратерек, с., в 2.9 км к югу от него, в 1.5 км к сев.от с.Тран, в 22 м к вост.от дороги с.Каратерек - с.Тран</SimpleData>
+		<SimpleData name="location_description">16bd8035-140a-4b57-be8a-5c44fe00fa86</SimpleData>
+		<SimpleData name="status">data/stations/16bd8035.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/16bd8035.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>65.5162639194943,53.9909186236031</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

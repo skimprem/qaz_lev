@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="b423610b" id="b423610b">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>b423610b</name>
+  <Placemark id="b423610b.1">
+	<name>0361</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#b423610b">
+		<SimpleData name="type">ІІ</SimpleData>
+		<SimpleData name="view">267.762</SimpleData>
+		<SimpleData name="benchmark_number">160 оп</SimpleData>
+		<SimpleData name="control_location">Линия № 5: Сергеевка-Терсаккан, ІІ класс (4) Участок: фунд.реп. 1536 - грунт.реп. 351</SimpleData>
+		<SimpleData name="benchmark_type">Гайдар, с., в 3.8 км к юго-зап от него, в 0.7 км к сев-вост от развилки шоссе с. Гайдар-с. Николаевка с дорогой, идущей в с. Косбармак, в 0.2 км к сев-зап от шоссе</SimpleData>
+		<SimpleData name="location_description">b423610b-61db-45aa-9fe1-549c37ea528c</SimpleData>
+		<SimpleData name="status">data/stations/b423610b.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/b423610b.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>68.1378126024527,51.5806892157688</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="e20d66e3" id="e20d66e3">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>e20d66e3</name>
+  <Placemark id="e20d66e3.1">
+	<name>204</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#e20d66e3">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">477,474</SimpleData>
+		<SimpleData name="leveling_order">475,054</SimpleData>
+		<SimpleData name="control_height">Контрольный репер в верхней плоскости монолита</SimpleData>
+		<SimpleData name="benchmark_number">121</SimpleData>
+		<SimpleData name="control_location">Ход от грунт.реп. 200 по фунд.реп.485, II класс (6)</SimpleData>
+		<SimpleData name="benchmark_type">Пионерское, с. в 0,7 км к сев.-зап. от него, в 0,4 км к юго-зап. от моста через р. Ишим, в 0,1 км к вост. от дороги с. Пионерское-с. Батпактинское</SimpleData>
+		<SimpleData name="location_description">e20d66e3-f33e-4ade-bff2-4d8ee947c422</SimpleData>
+		<SimpleData name="status">data/stations/e20d66e3.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/e20d66e3.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8738063334037,50.623385051528</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

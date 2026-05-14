@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="e395c002" id="e395c002">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>e395c002</name>
+  <Placemark id="e395c002.1">
+	<name>2429</name>
+	<name>марка</name>
+	<ExtendedData><SchemaData schemaUrl="#e395c002">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">146.76</SimpleData>
+		<SimpleData name="benchmark_number">144</SimpleData>
+		<SimpleData name="control_location">Линия № 1: Кызылорда - Арыс, 1 класс (1) Участок: марка 2490 - грунт, реп, 1850 </SimpleData>
+		<SimpleData name="benchmark_type">Коскаракум, раз,, в стене жел,-дор, казармы</SimpleData>
+		<SimpleData name="leveling_line_section">утрачен</SimpleData>
+		<SimpleData name="location_description">e395c002-abf3-4478-8cfb-6978a975d37a</SimpleData>
+		<SimpleData name="status">data/stations/e395c002.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/e395c002.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>66.4053253648224,44.35586295925</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

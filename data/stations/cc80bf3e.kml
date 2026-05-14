@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="cc80bf3e" id="cc80bf3e">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>cc80bf3e</name>
+  <Placemark id="cc80bf3e.1">
+	<name>5204</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#cc80bf3e">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">366,025</SimpleData>
+		<SimpleData name="control_location">Линия № 3: Жезказган - р,Сарысу, 2 класс (4) Участок: фунд, реп. 495 - грунт. реп. 826</SimpleData>
+		<SimpleData name="benchmark_type">Жезды, вдхр,, в 17,2 км к югу от него, в 5,8 км к югу от г, Бестобе, в б м к вост, от полевой дороги</SimpleData>
+		<SimpleData name="location_description">cc80bf3e-d727-4480-a176-4a5e3b1f8d73</SimpleData>
+		<SimpleData name="status">data/stations/cc80bf3e.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/cc80bf3e.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.6417211461314,47.4076731423884</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

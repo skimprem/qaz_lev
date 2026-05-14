@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="5b2a61b2" id="5b2a61b2">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>5b2a61b2</name>
+  <Placemark id="5b2a61b2.1">
+	<name>8616</name>
+	<description>грунт. реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#5b2a61b2">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">405.569</SimpleData>
+		<SimpleData name="benchmark_number">160оп</SimpleData>
+		<SimpleData name="control_location">Линия №1: Целиноград - Кулунда, I класс (I) Участок: грунт.реп. 2986 - грунт.реп. 9166</SimpleData>
+		<SimpleData name="benchmark_type">Сарыоба, станц. В 0,7 км к юго-зап. от нее, в 0,1 км к сев.-вост. от жел.-дор. будки, в 40 м к сев. от путевого поста</SimpleData>
+		<SimpleData name="leveling_line_section">ранее утрачен по тех.отчету</SimpleData>
+		<SimpleData name="location_description">5b2a61b2-45dc-49a8-b020-86092139322a</SimpleData>
+		<SimpleData name="status">data/stations/5b2a61b2.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/5b2a61b2.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.1097384937132,51.2560953456462</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

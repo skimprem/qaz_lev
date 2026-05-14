@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="a589f612" id="a589f612">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>a589f612</name>
+  <Placemark id="a589f612.1">
+	<name>Коктал</name>
+	<description>пирамида</description>
+	<ExtendedData><SchemaData schemaUrl="#a589f612">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="leveling_height">32</SimpleData>
+		<SimpleData name="benchmark_number">Ход от грунт. реп. 498 до грунт. реп. 607, II класс</SimpleData>
+		<SimpleData name="control_location">Коктал, с., в 3.5 км к югу от него, в 2.2 км к вост. от шоссе с. Коктал – с. Шонжы, в 2.2 км к югу от колодца</SimpleData>
+		<SimpleData name="benchmark_type">L-44-136-Г</SimpleData>
+		<SimpleData name="location_description">a589f612-ecc6-4c9a-9c55-d655866f0960</SimpleData>
+		<SimpleData name="status">data/stations/a589f612.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/a589f612.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>79.7978482342834,44.094750939827</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

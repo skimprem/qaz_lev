@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="bc3c9563" id="bc3c9563">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>bc3c9563</name>
+  <Placemark id="bc3c9563.1">
+	<name>3076</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#bc3c9563">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">486.082</SimpleData>
+		<SimpleData name="benchmark_number">146оп</SimpleData>
+		<SimpleData name="control_location">Линия №30: грунт.реп. 3076 - сигн.4 кл. Придолинский, II класс (2)</SimpleData>
+		<SimpleData name="benchmark_type">Абай (Кызыл), гор., в 1,8 км к сев.от него, в 0,5 км к сев.от электроподстанции, в 60 м к югу от дороги гор.Шахтинск-гор.Караганды</SimpleData>
+		<SimpleData name="location_description">bc3c9563-fa7f-4bdd-9b8d-0f5c77b908c4</SimpleData>
+		<SimpleData name="status">data/stations/bc3c9563.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/bc3c9563.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8143888745665,49.7042608462751</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

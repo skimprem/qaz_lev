@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="974840b5" id="974840b5">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>974840b5</name>
+  <Placemark id="974840b5.1">
+	<name>5899</name>
+	<description>грунт.реп</description>
+	<ExtendedData><SchemaData schemaUrl="#974840b5">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">71.603</SimpleData>
+		<SimpleData name="leveling_order">70.371</SimpleData>
+		<SimpleData name="control_height">Контрольный репер №155 в верхней плоскости монолита</SimpleData>
+		<SimpleData name="benchmark_number">121</SimpleData>
+		<SimpleData name="control_location">Линия №1: Аральск-Шалкар, 1 класс (1). Участок: грунт.реп. 0137 -грует.реп. 2495</SimpleData>
+		<SimpleData name="benchmark_type">Шиликты, с., в 2.8км к юго-вост.от него, на 2пикете 2252км жел.дор., в 0.1км к сев.-вост.от км.стб.2251/2252, в 41м к сев.-вост.от жел.-дор.полотна</SimpleData>
+		<SimpleData name="location_description">974840b5-c7c3-4ef5-ad1c-ae798b9ce9c0</SimpleData>
+		<SimpleData name="status">data/stations/974840b5.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/974840b5.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>60.6839354895246,47.5083348730349</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

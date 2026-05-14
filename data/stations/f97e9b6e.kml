@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="f97e9b6e" id="f97e9b6e">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>f97e9b6e</name>
+  <Placemark id="f97e9b6e.1">
+	<name>9230</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#f97e9b6e">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">645.805</SimpleData>
+		<SimpleData name="benchmark_number">160 оп. знак</SimpleData>
+		<SimpleData name="control_location">Линия № 1: Каркаралинск – Аягоз, I класс. Участок: ск.реп.  2895 – грунт.реп. 6700</SimpleData>
+		<SimpleData name="benchmark_type">Актогай, станц., в 2.7 км к сев.-вост. от нее, в 1.0 км к сев. от жел.-дор. склада, между полевыми дорогами</SimpleData>
+		<SimpleData name="location_description">f97e9b6e-2395-437d-9612-4f29e1eebafc</SimpleData>
+		<SimpleData name="status">data/stations/f97e9b6e.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/f97e9b6e.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>79.8213619325933,47.9545916246175</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

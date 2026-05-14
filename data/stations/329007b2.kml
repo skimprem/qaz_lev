@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="329007b2" id="329007b2">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>329007b2</name>
+  <Placemark id="329007b2.1">
+	<name>6187</name>
+	<description>грунт.реп</description>
+	<ExtendedData><SchemaData schemaUrl="#329007b2">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">251.221</SimpleData>
+		<SimpleData name="benchmark_number">160</SimpleData>
+		<SimpleData name="control_location">Линия №1: Аральск-Шалкар, 1 класс (1). Участок: грунт.реп. 0137 -грует.реп. 2495</SimpleData>
+		<SimpleData name="benchmark_type">Кособа, разъезд, в 4.5 км к юго-зап..от него, 88 м к сев. от жел.-дор.полотна, напротив км.стб. 2197/2198, в 8м к вост.от полевой дороги</SimpleData>
+		<SimpleData name="location_description">329007b2-cfbf-407d-a1d8-3c7e32937e60</SimpleData>
+		<SimpleData name="status">data/stations/329007b2.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/329007b2.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>60.114236526067,47.6705891171879</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="9201101c" id="9201101c">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>9201101c</name>
+  <Placemark id="9201101c.1">
+	<name>4406</name>
+	<name>грунт. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#9201101c">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">472,223</SimpleData>
+		<SimpleData name="benchmark_number">146оп</SimpleData>
+		<SimpleData name="control_location">Линия №145:  Усть-Каменогорск - Зайсан, 2 класс (19) Участок: грунт. реп. 0850 - ск. реп. 4205</SimpleData>
+		<SimpleData name="benchmark_type">Дорога с. Раздольное - с. Каратогай, в 0.4 км к вост. от км. стб. 68/112, в 0.2 км к юго-вост. от фунд. реп. 3141, в 0.1 км  к зап. от водосточной трубы, в 10 м к зап. от угла пашни</SimpleData>
+		<SimpleData name="location_description">9201101c-2e38-42c4-b7ff-89feb94b85fc</SimpleData>
+		<SimpleData name="status">data/stations/9201101c.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/9201101c.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>83.9203133875838,48.5567253056309</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

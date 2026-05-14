@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="41fcb181" id="41fcb181">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>41fcb181</name>
+  <Placemark id="41fcb181.1">
+	<name>3</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#41fcb181">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">201.284</SimpleData>
+		<SimpleData name="benchmark_number">118</SimpleData>
+		<SimpleData name="control_location">Линия №1: Чапаевский-Каратал, II класс (I) Участок: грунт.реп. 17964-грунт.реп. I</SimpleData>
+		<SimpleData name="benchmark_type">Изобильный, свх., в 33.2 км к юго-вост. от него, в 0.4 км к сев.-вост. от оз.Сангасы, в 20 м к вост.от дороги свх.Изобильный-с.Ерментау</SimpleData>
+		<SimpleData name="location_description">41fcb181-48ea-45d9-97b7-efa0ad6fbac5</SimpleData>
+		<SimpleData name="status">data/stations/41fcb181.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/41fcb181.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>73.4342765476429,52.1981562129945</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

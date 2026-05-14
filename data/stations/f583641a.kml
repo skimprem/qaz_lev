@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="f583641a" id="f583641a">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>f583641a</name>
+  <Placemark id="f583641a.1">
+	<name>2086</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#f583641a">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">318.951</SimpleData>
+		<SimpleData name="control_height">Контрольный репер в верхней плоскости монолита</SimpleData>
+		<SimpleData name="benchmark_number">160 оп</SimpleData>
+		<SimpleData name="control_location">Линия №2: Терсаккан = Кзыл-Сенгир, II класс (2) Участок: фунд.реп.6116 - грунт.реп.б/№</SimpleData>
+		<SimpleData name="benchmark_type">Ажибексор,оз., в 14.0 км к сев.от него, в 11.0 км к юго-вост.от оз.Майлыколь, в 2.7 км к вост.от полевой дороги</SimpleData>
+		<SimpleData name="location_description">f583641a-c926-4386-bba1-26891eba5273</SimpleData>
+		<SimpleData name="status">data/stations/f583641a.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/f583641a.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>68.355627606176,50.3136922934633</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="e610f1fd" id="e610f1fd">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>e610f1fd</name>
+  <Placemark id="e610f1fd.1">
+	<name>1546</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#e610f1fd">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">459,106</SimpleData>
+		<SimpleData name="leveling_order">457,511</SimpleData>
+		<SimpleData name="control_height">Контрольный репер в верхней плоскости монолита</SimpleData>
+		<SimpleData name="benchmark_number">121</SimpleData>
+		<SimpleData name="control_location">Линия № 1:Каржунколь-Степное,  II класс (1) Участок : ск.реп.1186-ск.реп.1207</SimpleData>
+		<SimpleData name="benchmark_type">Ахметаул, с., в 0,7 км к сев.-зап. от него, в 0,5 км к зап. от р. Тургунбай, у дороги с. Шакей (Жанатурмыс)-с. Ахметаул</SimpleData>
+		<SimpleData name="location_description">e610f1fd-6346-4429-9f5a-96b48179f04c</SimpleData>
+		<SimpleData name="status">data/stations/e610f1fd.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/e610f1fd.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>73.2211631718726,51.0049940727525</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

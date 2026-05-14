@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="f85a0320" id="f85a0320">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>f85a0320</name>
+  <Placemark id="f85a0320.1">
+	<name>45</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#f85a0320">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">415,105</SimpleData>
+		<SimpleData name="control_location">Линия № 2: Созак -               Туркистан, II класс (2) Участок: фунд. реп. 6972 - грунт. реп. 8059</SimpleData>
+		<SimpleData name="benchmark_type">Созак, с., в 10.7 км к юго-зап. от него,                   в 0.9 км к сев.- вост. от могилы,                              в 31 м к вост, от грунт. дороги с. Созак -                              пер. Бажы</SimpleData>
+		<SimpleData name="location_description">f85a0320-90d6-4236-a5d6-2d3ea4ba7606</SimpleData>
+		<SimpleData name="status">data/stations/f85a0320.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/f85a0320.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>68.3372029811591,44.0903790872557</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

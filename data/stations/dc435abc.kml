@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="dc435abc" id="dc435abc">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>dc435abc</name>
+  <Placemark id="dc435abc.1">
+	<name>8330</name>
+	<name>марка</name>
+	<ExtendedData><SchemaData schemaUrl="#dc435abc">
+		<SimpleData name="type">I</SimpleData>
+		<SimpleData name="view">198.917</SimpleData>
+		<SimpleData name="control_location">Линия №1: Петропавловск - Астана (Целиноград), I класс, Участок: грунт,реп, 5013 - марка 7227</SimpleData>
+		<SimpleData name="benchmark_type">Азат, станц,, в 0,5 км к югу от нее, на 9 пк 160 км жел,дор,, 8-ой жел,-дор,мост,вост,сторона, 2-ая южн,опора моста</SimpleData>
+		<SimpleData name="location_description">dc435abc-a44d-46f8-94ee-155e2c7439d3</SimpleData>
+		<SimpleData name="status">data/stations/dc435abc.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/dc435abc.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>69.52414085253,53.5561504238337</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

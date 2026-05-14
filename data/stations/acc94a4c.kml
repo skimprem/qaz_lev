@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="acc94a4c" id="acc94a4c">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>acc94a4c</name>
+  <Placemark id="acc94a4c.1">
+	<name>1</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#acc94a4c">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">108.096</SimpleData>
+		<SimpleData name="leveling_order">105.986</SimpleData>
+		<SimpleData name="leveling_height">0</SimpleData>
+		<SimpleData name="control_height">Контрольный репер  в верхней плоскости монолита</SimpleData>
+		<SimpleData name="benchmark_number">124</SimpleData>
+		<SimpleData name="benchmark_type">павлодар.гор., в 8,5 км к зап.от него, в 1,5 км к юго-вост.от Разъезда №430, в 0,2 км к сев.от полевой дороги</SimpleData>
+		<SimpleData name="location_description">acc94a4c-b3e5-45f6-8b0d-93a1ecde98d3</SimpleData>
+		<SimpleData name="status">data/stations/acc94a4c.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/acc94a4c.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>76.8654276854293,52.265712816371</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="d47183dd" id="d47183dd">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>d47183dd</name>
+  <Placemark id="d47183dd.1">
+	<name>1592</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#d47183dd">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">128,015</SimpleData>
+		<SimpleData name="control_location">Линия № 2: Кызылорда- р. Сарысу. 2 класс (3) Унасток: грунт, реп. 5040-грунт, реп. 1761</SimpleData>
+		<SimpleData name="benchmark_type">Зылика, мет. ст., в 7.1 км к зап. от неё, в 1.4 км к сев. От мог. Атырбай. в 6 м к сев. от грунт, дороги гор. Кызылорда - мет. ст. Зылика</SimpleData>
+		<SimpleData name="location_description">d47183dd-7b16-4420-9d60-a8f7362f71db</SimpleData>
+		<SimpleData name="status">data/stations/d47183dd.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/d47183dd.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>66.7877990537573,45.2178894671792</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

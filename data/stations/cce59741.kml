@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="cce59741" id="cce59741">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>cce59741</name>
+  <Placemark id="cce59741.1">
+	<name>19</name>
+	<description>грунт. реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#cce59741">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">168.303</SimpleData>
+		<SimpleData name="leveling_order">166,791</SimpleData>
+		<SimpleData name="benchmark_number">121 оп</SimpleData>
+		<SimpleData name="control_location">Линия № 1: Амангельды - Байконур,  II класс Участок: грунт.реп. 301 - грунт.реп. 4293      </SimpleData>
+		<SimpleData name="benchmark_type">Урпек, с., в 19.0 км к югу от него, в 1.1 км к зап.от  оз.Жарсор,  в 6 м к вост. от дороги с. Амангельды - с. Байконыр</SimpleData>
+		<SimpleData name="location_description">cce59741-5bcb-4b84-98e5-8539688c8f89</SimpleData>
+		<SimpleData name="status">data/stations/cce59741.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/cce59741.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>65.3041358367731,49.9311727605851</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

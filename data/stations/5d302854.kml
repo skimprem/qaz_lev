@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="5d302854" id="5d302854">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>5d302854</name>
+  <Placemark id="5d302854.1">
+	<name>8811</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#5d302854">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">334,430</SimpleData>
+		<SimpleData name="control_location">Линия № 5: Актас - р. Чу, 2 класс (1) Участок: фунд. реп. 2280 - грунт, реп. 687</SimpleData>
+		<SimpleData name="benchmark_type">Кишикыр, к., в 4.5 км к юго-зап. от него, в 6.5 км к сев.- зап. от солончака, в 37 м к зап. от полевой дороги</SimpleData>
+		<SimpleData name="location_description">5d302854-3490-4cdf-89c1-cf8e2283d589</SimpleData>
+		<SimpleData name="status">data/stations/5d302854.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/5d302854.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>71.4187719497218,45.5536600412685</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="add80bb1" id="add80bb1">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>add80bb1</name>
+  <Placemark id="add80bb1.1">
+	<name>7994</name>
+	<description>грунт. реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#add80bb1">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">120.011</SimpleData>
+		<SimpleData name="leveling_height">0</SimpleData>
+		<SimpleData name="benchmark_number">146 оп</SimpleData>
+		<SimpleData name="benchmark_type">В 15,0 км к юго-зап.от Седьмого аула (нежилой), в 50 м к сев-зап.от км стб.406/407, в 5м сев-зап.от линий связи</SimpleData>
+		<SimpleData name="leveling_line_section">утрачен</SimpleData>
+		<SimpleData name="location_description">add80bb1-6419-421c-add8-3a4663c133f2</SimpleData>
+		<SimpleData name="status">data/stations/add80bb1.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/add80bb1.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>76.5834933274635,52.1646725023979</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

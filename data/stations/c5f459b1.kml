@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="c5f459b1" id="c5f459b1">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>c5f459b1</name>
+  <Placemark id="c5f459b1.1">
+	<name>8350</name>
+	<name>грунт,реп,</name>
+	<ExtendedData><SchemaData schemaUrl="#c5f459b1">
+		<SimpleData name="type">I</SimpleData>
+		<SimpleData name="view">282.386</SimpleData>
+		<SimpleData name="leveling_order">280,944</SimpleData>
+		<SimpleData name="control_height">Контрольный репер №454 в верхней плоскости монолита</SimpleData>
+		<SimpleData name="benchmark_number">121</SimpleData>
+		<SimpleData name="control_location">Линия №1 Астана (Целиноград) - Амангельды, I класс (I), Участок: грунт,реп,7852</SimpleData>
+		<SimpleData name="benchmark_type">Ирченко, станц,, в 2,1 км к зап,от бет,стб, №390, в 35 м к югу от жел,-дор,полотна</SimpleData>
+		<SimpleData name="location_description">c5f459b1-d37e-405a-a475-56ccda917039</SimpleData>
+		<SimpleData name="status">data/stations/c5f459b1.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/c5f459b1.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>69.1367681040578,51.7940937478774</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

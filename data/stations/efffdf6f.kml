@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="efffdf6f" id="efffdf6f">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>efffdf6f</name>
+  <Placemark id="efffdf6f.1">
+	<name>20535</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#efffdf6f">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">203.076</SimpleData>
+		<SimpleData name="benchmark_number">121</SimpleData>
+		<SimpleData name="control_location">Линия №2: Айбас - Байлюсты (Карасу), II класс. </SimpleData>
+		<SimpleData name="benchmark_type">Домбыралы, отд.дв., в 7.9км к юго-вост.от него, в 14.6км к юго-зап.от а.Уалиханов, в 0.1км к зап.от полевой дороги</SimpleData>
+		<SimpleData name="location_description">efffdf6f-3edf-41d6-b8a3-0ac6d9d2a18e</SimpleData>
+		<SimpleData name="status">data/stations/efffdf6f.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/efffdf6f.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.1749938529829,52.9069706502387</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

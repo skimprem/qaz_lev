@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="a25fbbae" id="a25fbbae">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>a25fbbae</name>
+  <Placemark id="a25fbbae.1">
+	<name>13011</name>
+	<name>грунтовый репер</name>
+	<description>1</description>
+	<ExtendedData><SchemaData schemaUrl="#a25fbbae">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">109.719</SimpleData>
+		<SimpleData name="leveling_order">107.490</SimpleData>
+		<SimpleData name="control_height">Контрольный репер №6580 в верхней плоскости монолита</SimpleData>
+		<SimpleData name="benchmark_number">121</SimpleData>
+		<SimpleData name="control_location">Линия №1: Чапаевский - Карасук, II класс Участок: грунт.реп.3115 - грунт.реп.115</SimpleData>
+		<SimpleData name="benchmark_type">Маймасор, с., в 1.1 км к зап. От него, в 50 м к югу от дороги с.Талбай-с.Маймасор</SimpleData>
+		<SimpleData name="location_description">a25fbbae-2c5a-43cd-8b9c-e4e91dae6c95</SimpleData>
+		<SimpleData name="status">data/stations/a25fbbae.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/a25fbbae.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>76.92759480578,53.3198496389679</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

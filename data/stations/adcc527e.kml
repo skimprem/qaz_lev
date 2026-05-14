@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="adcc527e" id="adcc527e">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>adcc527e</name>
+  <Placemark id="adcc527e.1">
+	<name>9466</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#adcc527e">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">743,233</SimpleData>
+		<SimpleData name="benchmark_number">160оп.</SimpleData>
+		<SimpleData name="control_location">Линия № 4: Карасорский-Каркаралинск, II класс (3) Участок: грунтовый репер 9858 - фундаментальный репер 7349</SimpleData>
+		<SimpleData name="benchmark_type">Каркаралинск, гор., 14,8 км к сев.-вост. от него, в 2,3 км к югу от оз. Акколь, в 85 м к зап. от км. стб. 17/11 шоссе с. Акжал-гор. Каркаралинск</SimpleData>
+		<SimpleData name="location_description">adcc527e-9d91-4d93-bd58-244b5d641214</SimpleData>
+		<SimpleData name="status">data/stations/adcc527e.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/adcc527e.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.5589178466569,49.5446276561365</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

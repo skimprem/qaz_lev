@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="3a80853c" id="3a80853c">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>3a80853c</name>
+  <Placemark id="3a80853c.1">
+	<name>3223</name>
+	<description>фундаментальный реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#3a80853c">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">233.644</SimpleData>
+		<SimpleData name="leveling_order">231,874</SimpleData>
+		<SimpleData name="control_height">контрольный репер в фундаментной плите</SimpleData>
+		<SimpleData name="benchmark_number">161оп</SimpleData>
+		<SimpleData name="control_location">Линиия №1: Целиноград - Кулунда, I класс (1). Участок: грунт. реп. 9029 - грунт. реп. 7725</SimpleData>
+		<SimpleData name="benchmark_type">Раз. №116, в 4,6 км к вост. от него, в 0,6 км к югу от жел.-дор.полотна, в 0.1 км к сев.-зап. от пир. 2 кл. Экибастуз</SimpleData>
+		<SimpleData name="location_description">3a80853c-5220-4231-b6be-f678c54f7182</SimpleData>
+		<SimpleData name="status">data/stations/3a80853c.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/3a80853c.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.2088598567424,51.7364283864474</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

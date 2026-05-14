@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="86155646" id="86155646">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>86155646</name>
+  <Placemark id="86155646.1">
+	<name>430</name>
+	<name>ск. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#86155646">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">585,819</SimpleData>
+		<SimpleData name="benchmark_number">99</SimpleData>
+		<SimpleData name="control_location">Линия №1 Аягуз- Жангиз-Тобе, I класс (1) Участок: грунт. реп. 659- ск. реп. 730</SimpleData>
+		<SimpleData name="benchmark_type">№15, раз., в 2,0 км к югу от него, устой жел.- дор. моста на 240км жел. дор. гор. Семипалатинск- станц. Актогай</SimpleData>
+		<SimpleData name="location_description">86155646-a779-484b-98e2-4a5ba4b9043f</SimpleData>
+		<SimpleData name="status">data/stations/86155646.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/86155646.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>80.9189266255541,48.9507318969888</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

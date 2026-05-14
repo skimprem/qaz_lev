@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="887f4295" id="887f4295">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>887f4295</name>
+  <Placemark id="887f4295.1">
+	<name>Кошкарколь</name>
+	<description>сигн.</description>
+	<ExtendedData><SchemaData schemaUrl="#887f4295">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">350.356</SimpleData>
+		<SimpleData name="benchmark_number">15 оп</SimpleData>
+		<SimpleData name="control_location">Линия № 1: Учарал - Урджар, II класс. Участок: стен. реп. 8792 – грунт. реп. 2898</SimpleData>
+		<SimpleData name="benchmark_type">Уялы, с., в 2.1 км к юго-зап. от него, в 1.6 км к сев.-зап. от мог. Курушбай, в 0.5 км к вост. от оз. Кошкарколь</SimpleData>
+		<SimpleData name="location_description">887f4295-cdb6-4b74-8f92-f664effabe1b</SimpleData>
+		<SimpleData name="status">data/stations/887f4295.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/887f4295.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>81.3479025776793,46.4284555321852</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

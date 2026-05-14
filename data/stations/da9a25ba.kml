@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="da9a25ba" id="da9a25ba">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>da9a25ba</name>
+  <Placemark id="da9a25ba.1">
+	<name>5940</name>
+	<name>стен.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#da9a25ba">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="leveling_order">387.444</SimpleData>
+		<SimpleData name="control_height">в верхней плоскости монолита</SimpleData>
+		<SimpleData name="control_location">Линия № 1: Петропавловск - Астана (Целиноград), I класс, Участок: грунт.реп. 0772 - грунт. реп. б/№ ГМС Ход от марки 2762 до стен.реп.4560 II класс Участок: марка 2762 - степ.реп. 6064 Висячий ход от грунт.реп. 9196,   II класс</SimpleData>
+		<SimpleData name="benchmark_type">Ельтай,станц., в 4.0 км к сев.-зап.от неё, на 1 пк 340 км,жел.-дор.мост</SimpleData>
+		<SimpleData name="leveling_line_section">утрачен</SimpleData>
+		<SimpleData name="location_description">da9a25ba-2353-4263-8f6b-c6b57ed1d135</SimpleData>
+		<SimpleData name="status">data/stations/da9a25ba.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/da9a25ba.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>70.5663595771065,52.3059506432251</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

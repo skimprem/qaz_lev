@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="fca5b3c1" id="fca5b3c1">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>fca5b3c1</name>
+  <Placemark id="fca5b3c1.1">
+	<name>6246</name>
+	<description>грунт.реп</description>
+	<ExtendedData><SchemaData schemaUrl="#fca5b3c1">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">226.488</SimpleData>
+		<SimpleData name="leveling_order">225.367</SimpleData>
+		<SimpleData name="control_height">Контрольный репер №175 в верхней плоскости монолита</SimpleData>
+		<SimpleData name="benchmark_number">121</SimpleData>
+		<SimpleData name="control_location">Линия №1: Аральск-Шалкар, 1 класс (1). Участок: грунт.реп. 0137 -грует.реп. 2495</SimpleData>
+		<SimpleData name="benchmark_type">Кендала, разъезд, в 2.3 км к юго-вост..от него , на 4 пикете 1057 км, в 49 км к югу от жел.-дор.полотна, в 46 м к югу от пк.стб.3/4</SimpleData>
+		<SimpleData name="leveling_line_section">не найден</SimpleData>
+		<SimpleData name="location_description">fca5b3c1-d60c-440f-b666-1a6188d7721b</SimpleData>
+		<SimpleData name="status">data/stations/fca5b3c1.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/fca5b3c1.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>60.0784947481699,47.6750810256023</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

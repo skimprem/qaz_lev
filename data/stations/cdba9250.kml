@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="cdba9250" id="cdba9250">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>cdba9250</name>
+  <Placemark id="cdba9250.1">
+	<name>4</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#cdba9250">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">531.085</SimpleData>
+		<SimpleData name="control_location">Линия № 2: Коскызыл-Джамбул, 2 класс. Участок : грунт.реп. 3686-пир. 2 кл. Аэропорт</SimpleData>
+		<SimpleData name="benchmark_type">енбек,с., 1.5 км к югу от него,в 0.7 км к вост.от МТФ,в 0.2 км к югу от шоссе гор.Джамбул-с.Асса</SimpleData>
+		<SimpleData name="location_description">cdba9250-053d-4bad-8868-c2dbd21a386b</SimpleData>
+		<SimpleData name="status">data/stations/cdba9250.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/cdba9250.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>71.2057133658662,43.0080187995675</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

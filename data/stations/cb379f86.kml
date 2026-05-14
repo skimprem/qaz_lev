@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="cb379f86" id="cb379f86">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>cb379f86</name>
+  <Placemark id="cb379f86.1">
+	<name>4Г</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#cb379f86">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">368.15</SimpleData>
+		<SimpleData name="benchmark_number">160 оп</SimpleData>
+		<SimpleData name="control_location">Линия №1: Атбасар-Жумай, ll (l) Участок: грунт. реп. 0072-фунд. реп. 7120</SimpleData>
+		<SimpleData name="benchmark_type">Спиридоновка с., в 9,3 км к юго-вост. От него, в 0,1 км к югу от полевой дороги, в 20 м к зап. От шоссе с.Краснознаменское-с.Абай</SimpleData>
+		<SimpleData name="location_description">cb379f86-b844-4fbd-8aa7-030a82fd6bbf</SimpleData>
+		<SimpleData name="status">data/stations/cb379f86.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/cb379f86.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>69.5264091798281,50.8941420687406</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

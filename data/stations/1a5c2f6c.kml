@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="1a5c2f6c" id="1a5c2f6c">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>1a5c2f6c</name>
+  <Placemark id="1a5c2f6c.1">
+	<name>2174</name>
+	<description>грунт. Реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#1a5c2f6c">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">155.063</SimpleData>
+		<SimpleData name="benchmark_number">146 оп</SimpleData>
+		<SimpleData name="control_location">Линия №1 : Целиноград-Токтайконыр, I класс . Участок : грунт. Реп. 2445-грунт. Реп. 1972</SimpleData>
+		<SimpleData name="benchmark_type">Амантогайский, с. , в 12.0 км к юго-зап. От него, в 0.3 км к сев. От с Махат , в 0.2 км к сев.-зап.от мусульманского кладбища, в 73 м к юго-вост. От трассы гор.Аркалык-с,Амангелбды, в 55 м к юго-вост.от линии связи</SimpleData>
+		<SimpleData name="location_description">1a5c2f6c-69d1-4adb-b196-84d0b95873aa</SimpleData>
+		<SimpleData name="status">data/stations/1a5c2f6c.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/1a5c2f6c.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>65.4848278937706,50.3824186935053</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

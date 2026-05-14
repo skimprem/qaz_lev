@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="dde884f0" id="dde884f0">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>dde884f0</name>
+  <Placemark id="dde884f0.1">
+	<name>5422</name>
+	<name>фунд. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#dde884f0">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">926.734</SimpleData>
+		<SimpleData name="leveling_order">925.426</SimpleData>
+		<SimpleData name="control_height">репер №0859 в фундаментной плите</SimpleData>
+		<SimpleData name="benchmark_number">161оп</SimpleData>
+		<SimpleData name="control_location">Линия №50: Усть-Каменогорск - Чиганчи, 2 класс (13)  Участок: грунт. реп. 793 - ск. реп. 8522</SimpleData>
+		<SimpleData name="benchmark_type">Таргын, с., в 2.2 км к юго-вост. от него, в 0.2 км к сев.-вост. от км. стб. №87, в 73 м к югу от грунт.. реп. 3523, в 7 м к вост. от дороги с. Самарка - гор. Усть-Каменогорск</SimpleData>
+		<SimpleData name="location_description">dde884f0-0bd7-4b18-9a6a-f2f113498334</SimpleData>
+		<SimpleData name="status">data/stations/dde884f0.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/dde884f0.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>83.0818006757719,49.3798148553075</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

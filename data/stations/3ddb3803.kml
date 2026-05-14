@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="3ddb3803" id="3ddb3803">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>3ddb3803</name>
+  <Placemark id="3ddb3803.1">
+	<name>771</name>
+	<name>грунт.реп</name>
+	<ExtendedData><SchemaData schemaUrl="#3ddb3803">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">359.118</SimpleData>
+		<SimpleData name="leveling_order">357.839*</SimpleData>
+		<SimpleData name="control_height">Контрольный репер в фундаментной плите </SimpleData>
+		<SimpleData name="benchmark_number">116 оп. знак</SimpleData>
+		<SimpleData name="control_location">Линия № 3: Актогай - Сайкан, II класс 
+Участок: фунд.реп. 4112 – грунт.реп. 6477
+</SimpleData>
+		<SimpleData name="benchmark_type">Колдар, раз., в 3.8 км к юго-вост. от него, в 0.1 км к юго-зап. от жел.дор. и км стб 16/17, в 30 м к югу от полевой дороги</SimpleData>
+		<SimpleData name="location_description">3ddb3803-057d-41d6-8e6e-80b378c44f1b</SimpleData>
+		<SimpleData name="status">data/stations/3ddb3803.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/3ddb3803.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>79.7855811820423,46.8592880782048</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="89917d05" id="89917d05">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>89917d05</name>
+  <Placemark id="89917d05.1">
+	<name>3684</name>
+	<name>грунт.реп</name>
+	<ExtendedData><SchemaData schemaUrl="#89917d05">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">133.617</SimpleData>
+		<SimpleData name="control_location">Линия № 1 Чиили-Мергенбай,II класс Участок: грунт.реп.51-грунт.25</SimpleData>
+		<SimpleData name="benchmark_type">Сырдарья, р., в 6.3 км к зап. От нее, в 2.7 км к </SimpleData>
+		<SimpleData name="location_description">89917d05-88e7-436e-8150-f15c58da3a6d</SimpleData>
+		<SimpleData name="status">data/stations/89917d05.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/89917d05.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>66.4655511819621,43.9575887322237</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

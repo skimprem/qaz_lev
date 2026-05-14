@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="300ce073" id="300ce073">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>300ce073</name>
+  <Placemark id="300ce073.1">
+	<name>3093</name>
+	<name>скальный репер</name>
+	<ExtendedData><SchemaData schemaUrl="#300ce073">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">247,440</SimpleData>
+		<SimpleData name="benchmark_number">99</SimpleData>
+		<SimpleData name="control_location">Линия №18: фунд. реп. 1170 - фунд. реп. 2568, II класс (2)</SimpleData>
+		<SimpleData name="benchmark_type">Подхоз, с., в 2,7 км к юго-вост. от него, в 1,5 км к юго-зап. от вдкч. Аккудук, в 1,1 км к вост. от полевой дороги</SimpleData>
+		<SimpleData name="location_description">300ce073-2086-4b3d-8007-59de1290158a</SimpleData>
+		<SimpleData name="status">data/stations/300ce073.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/300ce073.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.9050168090838,51.408260357308</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

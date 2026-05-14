@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="6091d237" id="6091d237">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>6091d237</name>
+  <Placemark id="6091d237.1">
+	<name>28</name>
+	<name>грунт.реп</name>
+	<ExtendedData><SchemaData schemaUrl="#6091d237">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">183.181</SimpleData>
+		<SimpleData name="control_location">Линия № 1 Чиили-Мергенбай,II класс Участок: грунт.реп.51-грунт.25</SimpleData>
+		<SimpleData name="benchmark_type">Алылбек Сев., пир. 2 кл., в 4.3 км к юго-зап. От нее, в 2.5 км к югу от колодца в 10 м к вост. От полевой дороги</SimpleData>
+		<SimpleData name="location_description">6091d237-edac-42be-9629-c3f471e502c3</SimpleData>
+		<SimpleData name="status">data/stations/6091d237.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/6091d237.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>66.0395759994464,43.3866201892165</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

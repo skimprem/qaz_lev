@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="1651f363" id="1651f363">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>1651f363</name>
+  <Placemark id="1651f363.1">
+	<name>3364</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#1651f363">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">124,276</SimpleData>
+		<SimpleData name="benchmark_number">160оп</SimpleData>
+		<SimpleData name="control_location">Линия № 6: фунд. Реп. 3401 - стен. Реп. 796, II класс (3)                  Участок: фунд. реп. 3401 - фунд. реп. 2768</SimpleData>
+		<SimpleData name="benchmark_type">Евгеньевка, с., в 6,3 км к юго-вост. от него, на территории полевого стана</SimpleData>
+		<SimpleData name="leveling_line_section">утрачен</SimpleData>
+		<SimpleData name="location_description">1651f363-847f-477e-baf5-040c54471f1a</SimpleData>
+		<SimpleData name="status">data/stations/1651f363.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/1651f363.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>76.8514631254821,51.9297671593953</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

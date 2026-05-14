@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="7a787e70" id="7a787e70">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>7a787e70</name>
+  <Placemark id="7a787e70.1">
+	<name>23</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#7a787e70">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">347.395</SimpleData>
+		<SimpleData name="control_location">Линия №1: Кзыл-Сенгир - р.Кон, II класс (2)</SimpleData>
+		<SimpleData name="benchmark_type">Бирлик, зим., в 4.2 км к югу от нее, в 0.5 км к сев.-вост.от метеостанции Бирлик, в 0.4 км к зап.от дороги с.Отарбай-с.Баршино</SimpleData>
+		<SimpleData name="location_description">7a787e70-c426-42e2-b16d-76c26499be17</SimpleData>
+		<SimpleData name="status">data/stations/7a787e70.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/7a787e70.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>69.5532283818503,49.8182955011073</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="045b1caf" id="045b1caf">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>045b1caf</name>
+  <Placemark id="045b1caf.1">
+	<name>218</name>
+	<name>грунт,реп,</name>
+	<ExtendedData><SchemaData schemaUrl="#045b1caf">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">338.403</SimpleData>
+		<SimpleData name="benchmark_number">160оп</SimpleData>
+		<SimpleData name="control_location">Линия №1: Арысь-Сарыозек, I класс</SimpleData>
+		<SimpleData name="benchmark_type">Бадам, станц,, в 3,3 км к юго-вост,от нее, на 10 ПК 3258 км, в 19 м к югу от жел,-дор,полотна</SimpleData>
+		<SimpleData name="location_description">045b1caf-a4db-4bad-bce6-04b882908f7b</SimpleData>
+		<SimpleData name="status">data/stations/045b1caf.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/045b1caf.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>69.2918395285843,42.3723714418175</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

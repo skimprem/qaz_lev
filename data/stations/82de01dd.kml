@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="82de01dd" id="82de01dd">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>82de01dd</name>
+  <Placemark id="82de01dd.1">
+	<name>9031</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#82de01dd">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">564,679</SimpleData>
+		<SimpleData name="benchmark_number">160оп</SimpleData>
+		<SimpleData name="control_location">Линия № 4: Степное-Актасты, II класс (6) Участок: фунд.реп. 446-грунт. реп.200</SimpleData>
+		<SimpleData name="benchmark_type">Крещеновка, с. в 7,2 км к юго-вост. от него, в 1,6 км к юго-вост. от шоссе с. Осакаровка – с. Молодежный</SimpleData>
+		<SimpleData name="location_description">82de01dd-ef11-4b8f-95df-2780711c01ee</SimpleData>
+		<SimpleData name="status">data/stations/82de01dd.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/82de01dd.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>73.2129141534813,50.6338126176181</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

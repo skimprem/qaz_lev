@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="5c2e3db1" id="5c2e3db1">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>5c2e3db1</name>
+  <Placemark id="5c2e3db1.1">
+	<name>16913</name>
+	<name>грунт.реп</name>
+	<ExtendedData><SchemaData schemaUrl="#5c2e3db1">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">337.540</SimpleData>
+		<SimpleData name="benchmark_number">121</SimpleData>
+		<SimpleData name="control_location">Линия №1: Байлюсты (Карасу) - Нецветаевка, 2 класс. Участок:грунт.реп.275- грунт.реп.13550</SimpleData>
+		<SimpleData name="benchmark_type">Искра, свх., в 6.9 км к сев. От него, в 0.4 кмк югу от ур.Сухие Кны, в 25 м к вост. От дороги с.Муллашарип- свх.Искра</SimpleData>
+		<SimpleData name="location_description">5c2e3db1-0f72-440d-8443-9e48bdda0b50</SimpleData>
+		<SimpleData name="status">data/stations/5c2e3db1.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/5c2e3db1.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.0117633872042,52.1203377280441</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

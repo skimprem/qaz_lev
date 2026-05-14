@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="ad725b7c" id="ad725b7c">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>ad725b7c</name>
+  <Placemark id="ad725b7c.1">
+	<name>603</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#ad725b7c">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">175.518</SimpleData>
+		<SimpleData name="leveling_order">230.219</SimpleData>
+		<SimpleData name="control_height">Верхней плоскости монолита</SimpleData>
+		<SimpleData name="benchmark_number">160</SimpleData>
+		<SimpleData name="control_location">Линия № 1: Кокчетав-Золоторунное, II класс . Участок: пир. 2 кл. Данкой - фунд.реп. 7Б</SimpleData>
+		<SimpleData name="benchmark_type">Целиное, с., в 6.4 км к юго-зап.от него, в 30 м к сев.от I пикет 85-й км жел.дор.гор.Кокшетау-гор. Иртыш, в 2 м к сев.от полевой дороги, зап.край лесополосы</SimpleData>
+		<SimpleData name="location_description">ad725b7c-fefe-4087-8422-02c04e534d39</SimpleData>
+		<SimpleData name="status">data/stations/ad725b7c.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/ad725b7c.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>70.6117294585867,53.5345537867145</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

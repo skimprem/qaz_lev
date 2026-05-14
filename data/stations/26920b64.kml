@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="26920b64" id="26920b64">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>26920b64</name>
+  <Placemark id="26920b64.1">
+	<name>I5800</name>
+	<name>грунт,реп,</name>
+	<ExtendedData><SchemaData schemaUrl="#26920b64">
+		<SimpleData name="type">I</SimpleData>
+		<SimpleData name="view">266.676</SimpleData>
+		<SimpleData name="leveling_order">264,0II</SimpleData>
+		<SimpleData name="control_height">Контрольный репер в верхней плоскости монолита</SimpleData>
+		<SimpleData name="benchmark_number">121</SimpleData>
+		<SimpleData name="control_location">Линия №1: Астана(Целиноград) - Амангельды, I класс (I) участок: грунт,реп,2241 - фунд,реп,2223</SimpleData>
+		<SimpleData name="benchmark_type">Кийма,с,,в 5,5 км к сев-зап,от него,в 3,6 км к сев,-вост,от с,Запорожье,в 75 м к сев,от полевой дороги</SimpleData>
+		<SimpleData name="location_description">26920b64-3694-4d37-9713-ba9acd1fdc31</SimpleData>
+		<SimpleData name="status">data/stations/26920b64.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/26920b64.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.4888445072821,51.6275997298249</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

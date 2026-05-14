@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="eebf6f5f" id="eebf6f5f">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>eebf6f5f</name>
+  <Placemark id="eebf6f5f.1">
+	<name>2105</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#eebf6f5f">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">1756.279</SimpleData>
+		<SimpleData name="benchmark_number">146 оп</SimpleData>
+		<SimpleData name="control_location">Линия № 11: Курметы-Жаланаш, II класс, Участок: фунд. реп. 7959-фунд. реп. 8462</SimpleData>
+		<SimpleData name="benchmark_type">Киши-Жаланаш, с., в 0.9 км к зап. от него, в 0.1 км к сев.-зап. от переезда через арык</SimpleData>
+		<SimpleData name="location_description">eebf6f5f-20c2-4c6c-87ce-894237cd15a8</SimpleData>
+		<SimpleData name="status">data/stations/eebf6f5f.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/eebf6f5f.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>78.5975662175923,43.0506416213194</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

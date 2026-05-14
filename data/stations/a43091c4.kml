@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="a43091c4" id="a43091c4">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>a43091c4</name>
+  <Placemark id="a43091c4.1">
+	<name>902</name>
+	<description>грунт.реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#a43091c4">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">181.808</SimpleData>
+		<SimpleData name="leveling_order">180.817</SimpleData>
+		<SimpleData name="leveling_height">Контрольный репер в трубе</SimpleData>
+		<SimpleData name="benchmark_number">107</SimpleData>
+		<SimpleData name="control_location">Линия № 1 : Звериноголовское - Семиозерное, I класс                        Участок : марка 1610 - грунт.реп.1216</SimpleData>
+		<SimpleData name="benchmark_type">Ивановка, с., в 1.5 км к сев.от него, на 72 км шоссе, в 1.3 км к сев.-вост.от км.стб.376/71, в 0.8 км к вост.от шоссе, в 34 м к зап.от дороги с.Боровской - с.Ивановка</SimpleData>
+		<SimpleData name="leveling_line_section">не найден</SimpleData>
+		<SimpleData name="location_description">a43091c4-61d1-4ee5-a92e-bd689fba6f58</SimpleData>
+		<SimpleData name="status">data/stations/a43091c4.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/a43091c4.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>64.1876604282648,53.7076949847614</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

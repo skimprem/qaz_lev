@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="ad18cc08" id="ad18cc08">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>ad18cc08</name>
+  <Placemark id="ad18cc08.1">
+	<name>153</name>
+	<name>грунт. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#ad18cc08">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">238.093</SimpleData>
+		<SimpleData name="leveling_order">236.643</SimpleData>
+		<SimpleData name="benchmark_number">А</SimpleData>
+		<SimpleData name="control_location">Линия №1 : Карабутак - Жанатурмыс , II класс . Участок : грунт. Реп. 2702-грунт. Реп. 169</SimpleData>
+		<SimpleData name="benchmark_type">Жанадаур, с., в 6.0 км к сев.-зап. от него, в 1.5 км к сев.-вост. от оз. Коскопа, в 35 м к вост. от полевой дороги </SimpleData>
+		<SimpleData name="location_description">ad18cc08-9a9f-4d19-97cd-02cd649b556e</SimpleData>
+		<SimpleData name="status">data/stations/ad18cc08.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/ad18cc08.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>61.8724451275596,50.867366493481</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

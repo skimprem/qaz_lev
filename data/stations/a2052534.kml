@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="a2052534" id="a2052534">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>a2052534</name>
+  <Placemark id="a2052534.1">
+	<name>453</name>
+	<name>грунт. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#a2052534">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">530,993</SimpleData>
+		<SimpleData name="leveling_order">529,618</SimpleData>
+		<SimpleData name="control_height">репер № 581 в фундаментной плите</SimpleData>
+		<SimpleData name="benchmark_number">116 оп</SimpleData>
+		<SimpleData name="control_location">Линия № 1: Карабас -Туз -Кара -Аул, II класс (I) Участок: фунд. реп. 595- фунд. реп. 161</SimpleData>
+		<SimpleData name="benchmark_type">Оспанколь, оз., в 9.9 км к югу от него, в 7.0 км к юго -зап. от развалин, в могилы и зим. Жумагали, в 10 м к вост. от дороги с. Саржал -с. Карааул</SimpleData>
+		<SimpleData name="leveling_line_section">утрачен</SimpleData>
+		<SimpleData name="location_description">a2052534-5d48-4211-a218-e35a212801d1</SimpleData>
+		<SimpleData name="status">data/stations/a2052534.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/a2052534.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>79.0934355613579,49.1661162976859</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

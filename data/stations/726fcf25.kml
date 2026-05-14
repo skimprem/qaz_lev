@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="726fcf25" id="726fcf25">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>726fcf25</name>
+  <Placemark id="726fcf25.1">
+	<name>4215</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#726fcf25">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">340.515</SimpleData>
+		<SimpleData name="benchmark_number">160 оп</SimpleData>
+		<SimpleData name="control_location">Линия №2: Есиль-Атбасар, II класс (2) Участок: грунт.реп.4113 - грунт.реп.3995</SimpleData>
+		<SimpleData name="benchmark_type">Перекатная,станц.,в 9.0 км к юго-зап.от нее,в 8.3 км к зап.от с.Беловодское,в 80 м к сев.от жел.-дор.полотна</SimpleData>
+		<SimpleData name="location_description">726fcf25-3c51-4a06-93f9-61fb71fe631c</SimpleData>
+		<SimpleData name="status">data/stations/726fcf25.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/726fcf25.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.7987934013786,51.8061022732532</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="381c3cb1" id="381c3cb1">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>381c3cb1</name>
+  <Placemark id="381c3cb1.1">
+	<name>0888</name>
+	<name>марка</name>
+	<ExtendedData><SchemaData schemaUrl="#381c3cb1">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">224.564</SimpleData>
+		<SimpleData name="control_height">Контрольный репер № 3387 в верхней плоскости монолига</SimpleData>
+		<SimpleData name="control_location">Линия 2: Есиль-Атбасар. II  класс (1)
+Участок: фунд.реп.3198 - грунт.реп.3151. Ход.от стен.реп.4014 до грунт.реп.72, II класс (1)</SimpleData>
+		<SimpleData name="benchmark_type">Есиль, гор., восточная стена здания аэропорта, в 2.2 м к сев.от угла, в 0.7 м от поверхности земли</SimpleData>
+		<SimpleData name="location_description">381c3cb1-f844-4add-94ea-b74fd69843c5</SimpleData>
+		<SimpleData name="status">data/stations/381c3cb1.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/381c3cb1.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>66.4187971651428,51.9725944823451</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

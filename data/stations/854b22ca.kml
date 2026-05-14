@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="854b22ca" id="854b22ca">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>854b22ca</name>
+  <Placemark id="854b22ca.1">
+	<name>759</name>
+	<name>грунт. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#854b22ca">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">604.364</SimpleData>
+		<SimpleData name="leveling_order">603,327*</SimpleData>
+		<SimpleData name="control_height">Контрольный репер в трубе</SimpleData>
+		<SimpleData name="benchmark_number">118</SimpleData>
+		<SimpleData name="control_location">Линия № 5: Учарал  – Екпенди , II класс 
+Участок: фунд.реп. 25 – грунт.реп. 759
+</SimpleData>
+		<SimpleData name="benchmark_type">Кабанбай, с., в 5.5 км к сев.-зап. от него, в 25 м к вост. от шоссе гор. Алматы – гор. Усть-Каменогорск</SimpleData>
+		<SimpleData name="location_description">854b22ca-eb6a-4bbd-84e2-ba0c00da1ab3</SimpleData>
+		<SimpleData name="status">data/stations/854b22ca.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/854b22ca.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>80.5781905085127,45.8936287596925</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

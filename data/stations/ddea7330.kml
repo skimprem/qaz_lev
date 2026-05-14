@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="ddea7330" id="ddea7330">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>ddea7330</name>
+  <Placemark id="ddea7330.1">
+	<name>2168</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#ddea7330">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">238.729</SimpleData>
+		<SimpleData name="benchmark_number">160 оп, знак</SimpleData>
+		<SimpleData name="control_location">Линия № 1: Туйемойнак - Торыустаган, 1 класс (1) Участок: грунт, реп, 3215 - фунд, реп, 9993</SimpleData>
+		<SimpleData name="benchmark_type">№ 531, к,, в 3,8 км к югу от него, в 0,2 км к сев,-вост, от к, № 532, в 10 м к вост, от полевой дороги</SimpleData>
+		<SimpleData name="location_description">ddea7330-f39b-4fd4-972d-a04e1e8820eb</SimpleData>
+		<SimpleData name="status">data/stations/ddea7330.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/ddea7330.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>69.6693234666358,45.1917300333608</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

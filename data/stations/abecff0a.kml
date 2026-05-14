@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="abecff0a" id="abecff0a">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>abecff0a</name>
+  <Placemark id="abecff0a.1">
+	<name>3231</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#abecff0a">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">273,195</SimpleData>
+		<SimpleData name="control_location">Линия № 2: р. Шу - Коскызыл, 2 класс (2) Участок: фунд. реп. 3013 - грунт. реп.1262</SimpleData>
+		<SimpleData name="benchmark_type">Уланбель, с., в 18.7 км к юго-зап. от него, в 0.7 км к сев. от к. Бастогыз, в 20 м к зап. от полевой дороги </SimpleData>
+		<SimpleData name="location_description">abecff0a-4414-42f3-a28b-b44f43e3a08d</SimpleData>
+		<SimpleData name="status">data/stations/abecff0a.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/abecff0a.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>70.9601017174892,44.7428859946912</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

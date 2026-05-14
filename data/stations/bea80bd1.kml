@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="bea80bd1" id="bea80bd1">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>bea80bd1</name>
+  <Placemark id="bea80bd1.1">
+	<name>979</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#bea80bd1">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">162.149</SimpleData>
+		<SimpleData name="benchmark_number">121</SimpleData>
+		<SimpleData name="control_location">Линия № 1: Тран - Благовещенка. II класс 
+Участок: грунт. реп. 979 - фунд. реп. 3109</SimpleData>
+		<SimpleData name="benchmark_type">Бауманское, с., в 0.1 км к сев. от него, в 0.2 км к вост. от
+развалины, в 20 м к югу от улучшенной грунт. дороги
+с. Амречье - с. Бауманское</SimpleData>
+		<SimpleData name="location_description">bea80bd1-9130-48a0-93d4-177e5aba4e45</SimpleData>
+		<SimpleData name="status">data/stations/bea80bd1.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/bea80bd1.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>65.9683268117459,54.0653530120092</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

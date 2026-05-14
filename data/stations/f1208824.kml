@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="f1208824" id="f1208824">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>f1208824</name>
+  <Placemark id="f1208824.1">
+	<name>4474</name>
+	<name>грунт. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#f1208824">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="benchmark_number">160 оп. знак</SimpleData>
+		<SimpleData name="control_location">Линия № 4: Жаланашколь – Аягоз, I класс 
+Участок: грунт.реп. 2086 – фунд.реп. 1027</SimpleData>
+		<SimpleData name="benchmark_type">Ай, с., в 13.3 км к сев. от него, в 2.6 км к сев.-вост. от пикета № 3 Дорстроя, в 0.1 км к юго-вост. от км. стб. 725/358 шоссе гор. Алматы – гор. Усть-Каменогорск, в 21 м к вост. от шоссе</SimpleData>
+		<SimpleData name="location_description">f1208824-f029-479c-8aff-fa0f905421ed</SimpleData>
+		<SimpleData name="status">data/stations/f1208824.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/f1208824.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>80.6408127113164,47.605375610835</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="b03245b4" id="b03245b4">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>b03245b4</name>
+  <Placemark id="b03245b4.1">
+	<name>9461</name>
+	<name>скальный репер</name>
+	<ExtendedData><SchemaData schemaUrl="#b03245b4">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">911,556</SimpleData>
+		<SimpleData name="benchmark_number">99 оп</SimpleData>
+		<SimpleData name="control_location">Линия № 7: Актогай-Каркаралинск, II класс (4) Участок: грунтовый репер 5348 -фундаментальный репер 7349</SimpleData>
+		<SimpleData name="benchmark_type">Каркаралинск, гор., в 5,5 км к юго-зап.от него, в 0,4 км к вост. от шоссе гор. Каркаралинск-с. Актогай, в 40 м к сев. от полевой дороги ведущей на турбазу</SimpleData>
+		<SimpleData name="leveling_line_section">утрачен</SimpleData>
+		<SimpleData name="location_description">b03245b4-b1f9-43bc-96da-219bd9c11c3a</SimpleData>
+		<SimpleData name="status">data/stations/b03245b4.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/b03245b4.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.434291349574,49.3581392331102</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

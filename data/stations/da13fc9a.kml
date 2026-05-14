@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="da13fc9a" id="da13fc9a">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>da13fc9a</name>
+  <Placemark id="da13fc9a.1">
+	<name>320</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#da13fc9a">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">260,177</SimpleData>
+		<SimpleData name="leveling_height">259,182</SimpleData>
+		<SimpleData name="benchmark_number">в трубе</SimpleData>
+		<SimpleData name="control_location">Линия № 1: Древний Курган - Кендырлык (Айгарлык), II класс (3) Участок: грунт. реп. 8361 - фунд. реп. 25</SimpleData>
+		<SimpleData name="benchmark_type">Бескауга, зим., в 2.1 км к сев.-зап. от нее, в 35 м к вост. от грунт. дороги гор. Жезказган - с. Сузак </SimpleData>
+		<SimpleData name="location_description">da13fc9a-adee-4f30-897f-1d629f0d7e81</SimpleData>
+		<SimpleData name="status">data/stations/da13fc9a.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/da13fc9a.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>68.3140312251507,46.5180619972637</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

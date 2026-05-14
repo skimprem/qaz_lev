@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="cb3dbe2e" id="cb3dbe2e">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>cb3dbe2e</name>
+  <Placemark id="cb3dbe2e.1">
+	<name>2449</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#cb3dbe2e">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">569,483</SimpleData>
+		<SimpleData name="benchmark_number">160оп</SimpleData>
+		<SimpleData name="control_location">Линия №3: Актасты-Ивановка, II класс (4) Участок: фунд.реп. 485 -грунт.реп. 2626</SimpleData>
+		<SimpleData name="benchmark_type">Комсомольское, с. в 6,2 км к вост. от него, в 4,3 км к юго-зап. от бригады №1 свх. им. Вильгельма Пика, в 0,2 км к юго-зап. от пруда</SimpleData>
+		<SimpleData name="location_description">cb3dbe2e-ef8c-4098-af4e-877c5bdcb631</SimpleData>
+		<SimpleData name="status">data/stations/cb3dbe2e.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/cb3dbe2e.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.5860981599663,50.3902982176009</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

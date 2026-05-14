@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2851a00a" id="2851a00a">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>2851a00a</name>
+  <Placemark id="2851a00a.1">
+	<name>20317</name>
+	<name>стен.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#2851a00a">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="control_location">Висячий ход от марки 20207, I класс </SimpleData>
+		<SimpleData name="benchmark_type">Раз. № 22, в 2.5 км к югу от него, на 7 пк 1000 км, в устое жел.-дор. моста</SimpleData>
+		<SimpleData name="location_description">2851a00a-283a-4974-9b6c-110f746e6b5e</SimpleData>
+		<SimpleData name="status">data/stations/2851a00a.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/2851a00a.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>80.411298510017,47.8754892555741</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

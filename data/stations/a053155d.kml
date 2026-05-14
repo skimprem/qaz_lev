@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="a053155d" id="a053155d">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>a053155d</name>
+  <Placemark id="a053155d.1">
+	<name>74</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#a053155d">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">406,397</SimpleData>
+		<SimpleData name="benchmark_number">123</SimpleData>
+		<SimpleData name="control_location">Линия №4: Карабастуз - Каркаралинск, II класс (3) Участок: ск. реп. 1678 - грунт. реп. 71</SimpleData>
+		<SimpleData name="benchmark_type">Аликехожа, разв., в 8,0 км к юго-вост. от них, в 45 м к югу от дороги с.Муржик-с.Молдары, в 21 м км зап. от фунд. реп. 1521</SimpleData>
+		<SimpleData name="location_description">a053155d-2cea-49fb-a5e2-fafc201d7bfa</SimpleData>
+		<SimpleData name="status">data/stations/a053155d.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/a053155d.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.7282996383401,50.0848282204823</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

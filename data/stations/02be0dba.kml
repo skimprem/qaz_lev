@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="02be0dba" id="02be0dba">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>02be0dba</name>
+  <Placemark id="02be0dba.1">
+	<name>7340</name>
+	<name>фунд.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#02be0dba">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">131.868</SimpleData>
+		<SimpleData name="control_height">в трубе</SimpleData>
+		<SimpleData name="benchmark_number">141 (уничтожен)</SimpleData>
+		<SimpleData name="control_location">Линия №1: Костанай - Петропавловск, I класс. Участок: грунт.реп. 0790 - грунт.реп. 0785. Ход от грунт.реп. 4962 до грунт.реп. 11, II класс. Участок: грунт.реп. 4962 - грунт.реп. 8349</SimpleData>
+		<SimpleData name="benchmark_type">Социал, с., в 9.8 км к сев.-вост.от него, в 4.7 км к зап.от пол.ст., у вдхр. Сергеевское</SimpleData>
+		<SimpleData name="location_description">02be0dba-cf39-438d-b134-4eb83cf2101e</SimpleData>
+		<SimpleData name="status">data/stations/02be0dba.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/02be0dba.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.4008181474698,53.7604714158325</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="dab75874" id="dab75874">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>dab75874</name>
+  <Placemark id="dab75874.1">
+	<name>9781</name>
+	<name>грунт. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#dab75874">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">58.166</SimpleData>
+		<SimpleData name="benchmark_number">160 оп</SimpleData>
+		<SimpleData name="control_location">Линия №1: Айтеке Би (Новоказалинск) - Ащылысай, 2 класс. Участок: грунт.реп. 0921 - фунд.реп. 3920</SimpleData>
+		<SimpleData name="benchmark_type">Биркудык, арт.к., в 8,6 км к юго-вост.от нее, в 1,1 км к юго-зап.от мог. Нарымбай, в 50 м к вост.от сух.русла Ащысай</SimpleData>
+		<SimpleData name="location_description">dab75874-a78a-4cf2-af9f-0dd5a84d2f37</SimpleData>
+		<SimpleData name="status">data/stations/dab75874.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/dab75874.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>62.0733020530718,44.9952633817528</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

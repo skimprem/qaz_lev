@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="fafaf346" id="fafaf346">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>fafaf346</name>
+  <Placemark id="fafaf346.1">
+	<name>5645</name>
+	<description>ск.реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#fafaf346">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">354.944</SimpleData>
+		<SimpleData name="benchmark_number">99</SimpleData>
+		<SimpleData name="control_location">Линия №1:Сарышаган - Бурубайтал, I класс 
+Участок: марка 2212 - ск.реп,0607</SimpleData>
+		<SimpleData name="benchmark_type">Мынарал,станц.,в 4.7 км к сев.-зап.
+от нее,на 10 ПК 1280 км,в 32 м к
+сев.-вост.от жел.-дор.полотна</SimpleData>
+		<SimpleData name="location_description">fafaf346-84ef-4775-8e70-abdbf1212955</SimpleData>
+		<SimpleData name="status">data/stations/fafaf346.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/fafaf346.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>73.6283400877326,45.4758667776182</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

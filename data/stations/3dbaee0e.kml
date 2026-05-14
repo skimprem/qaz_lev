@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="3dbaee0e" id="3dbaee0e">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>3dbaee0e</name>
+  <Placemark id="3dbaee0e.1">
+	<name>91289</name>
+	<name>грунт, реп,</name>
+	<ExtendedData><SchemaData schemaUrl="#3dbaee0e">
+		<SimpleData name="type">I</SimpleData>
+		<SimpleData name="view">136.07</SimpleData>
+		<SimpleData name="leveling_order">134,23</SimpleData>
+		<SimpleData name="control_height">репер № 349 в верхней плоскости монолита</SimpleData>
+		<SimpleData name="benchmark_number">121</SimpleData>
+		<SimpleData name="control_location">Линия № 1: Петпопавловск - Макинск, I класс
+Участок: грунт, реп, 91285 - грунт, реп, 91338</SimpleData>
+		<SimpleData name="benchmark_type">Аманкельды, с,, в 7,9 км к юго-вост,от него, на 1 пк 72 км жел, дор,гор,Петропавловск - гор, Кокшетау, в 32 м к
+сев,-вост, от жел,-дор, полотна, в 22 м к сев, от тлф, стб, № 1286, в 21 м сев, - зап,от тлф, стб, № 1360, на лугу, в 1 м к югу от оп,столба</SimpleData>
+		<SimpleData name="leveling_line_section">Репер в хорошем состоянии,
+оп знак сохранен</SimpleData>
+		<SimpleData name="location_description">3dbaee0e-ef9d-41ea-bf38-67ce22e45d29</SimpleData>
+		<SimpleData name="status">data/stations/3dbaee0e.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/3dbaee0e.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>69.5820673121807,54.2921506411357</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

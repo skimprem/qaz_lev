@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="af4c3079" id="af4c3079">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>af4c3079</name>
+  <Placemark id="af4c3079.1">
+	<name>295</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#af4c3079">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">169.122</SimpleData>
+		<SimpleData name="leveling_order">135.045</SimpleData>
+		<SimpleData name="benchmark_number">121 (уничтожен)</SimpleData>
+		<SimpleData name="control_location">Линия № 1: Тран - Благовещенка. II класс 
+Участок: грунт. реп. 979 - фунд. реп. 3109</SimpleData>
+		<SimpleData name="benchmark_type">Бауманское, станц., в 3.9 км к юго-зап. от нее, в 75 м к
+вост. от полевой дороги, в 42 м к сев. от грунт. дороги
+с. Каратомар - станц. Бауманское</SimpleData>
+		<SimpleData name="location_description">af4c3079-18e7-44b2-8da4-43d2dcd5d5c0</SimpleData>
+		<SimpleData name="status">data/stations/af4c3079.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/af4c3079.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>66.1760974813618,54.223202130115</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

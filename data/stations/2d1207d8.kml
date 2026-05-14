@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2d1207d8" id="2d1207d8">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>2d1207d8</name>
+  <Placemark id="2d1207d8.1">
+	<name>3464</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#2d1207d8">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">206,893</SimpleData>
+		<SimpleData name="benchmark_number">160оп</SimpleData>
+		<SimpleData name="control_location">Линия №10: пир. 4 кл. Щурф - фунд. реп. 3504, II класс (2)</SimpleData>
+		<SimpleData name="benchmark_type">Ангрен, разв., в 2,5 км к юго-вост. от них, в 1,7 км к сев.-зап. от водосточной трубы пот жел.дор., в 1,0 км к вост. от оз. Ангрен</SimpleData>
+		<SimpleData name="location_description">2d1207d8-d4b6-479e-8b1f-b35513abad2e</SimpleData>
+		<SimpleData name="status">data/stations/2d1207d8.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/2d1207d8.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.6718999119381,51.5680577419823</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

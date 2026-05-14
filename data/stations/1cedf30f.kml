@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="1cedf30f" id="1cedf30f">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>1cedf30f</name>
+  <Placemark id="1cedf30f.1">
+	<name>1279</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#1cedf30f">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">277,026</SimpleData>
+		<SimpleData name="leveling_height">275,922</SimpleData>
+		<SimpleData name="benchmark_number">в верхней плоскости монолита</SimpleData>
+		<SimpleData name="control_location">Линия № 2: р. Шу - Коскызыл, 2 класс (2) Участок: фунд. реп. 3013 - грунт. реп.1262</SimpleData>
+		<SimpleData name="benchmark_type">Уланбель, с., в 16.1 км к юго-зап. от него, в 4.4 км к сев. от к. Бастогыз, в 35 м к зап. от полевой дороги, на песчаном бугре</SimpleData>
+		<SimpleData name="location_description">1cedf30f-b87d-4eda-bea1-272d368bfd1f</SimpleData>
+		<SimpleData name="status">data/stations/1cedf30f.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/1cedf30f.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>70.95273239818,44.71151655292</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

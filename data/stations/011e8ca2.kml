@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="011e8ca2" id="011e8ca2">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>011e8ca2</name>
+  <Placemark id="011e8ca2.1">
+	<name>8552</name>
+	<description>грунт.репер</description>
+	<ExtendedData><SchemaData schemaUrl="#011e8ca2">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">94.027</SimpleData>
+		<SimpleData name="benchmark_number">160</SimpleData>
+		<SimpleData name="control_location">Линия №248 Аральск -Семиозёрное Участок грунт.реп.0667 -грунт.реп.114</SimpleData>
+		<SimpleData name="benchmark_type">Акшиганак,с.,в 25.1 км к юго-зап.от него,в 3.9 км к юго-зап.от г.Жаксыкарсакбас,в 68 м к сев.-зап.от дороги с.Иргиз -с.Тургай</SimpleData>
+		<SimpleData name="location_description">011e8ca2-42f5-48bf-ae57-870d587e54c0</SimpleData>
+		<SimpleData name="status">data/stations/011e8ca2.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/011e8ca2.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>62.4064861547491,49.1766004110392</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

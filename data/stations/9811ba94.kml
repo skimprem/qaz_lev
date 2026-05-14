@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="9811ba94" id="9811ba94">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>9811ba94</name>
+  <Placemark id="9811ba94.1">
+	<name>Х1У</name>
+	<name>грунт.реп</name>
+	<ExtendedData><SchemaData schemaUrl="#9811ba94">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">228.034</SimpleData>
+		<SimpleData name="benchmark_number">121</SimpleData>
+		<SimpleData name="control_location">Линия №2:  Нецветаевка - им.Сталина (р.Оленты), 2 класс. Участок: грунт.реп.Х1У - грунт.реп. Х</SimpleData>
+		<SimpleData name="benchmark_type">Ильника, с., в 3.2 км к сев.-вост. От него, в 0.2 км к сев.-вост. От дороги с. Ильинка- с.Шийлинка</SimpleData>
+		<SimpleData name="leveling_line_section">утрачен</SimpleData>
+		<SimpleData name="location_description">9811ba94-7263-4a32-b472-407db008fa1c</SimpleData>
+		<SimpleData name="status">data/stations/9811ba94.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/9811ba94.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.6841339667011,51.9961410594151</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

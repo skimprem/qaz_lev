@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="fbe23881" id="fbe23881">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>fbe23881</name>
+  <Placemark id="fbe23881.1">
+	<name>622</name>
+	<description>грунт.реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#fbe23881">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">240.348</SimpleData>
+		<SimpleData name="leveling_order">239,233</SimpleData>
+		<SimpleData name="benchmark_number">121</SimpleData>
+		<SimpleData name="control_location">Линия №1: Карабутак-Жанатурмыс, II класс. Участок: грунт.реп.231-грунт.реп.228</SimpleData>
+		<SimpleData name="benchmark_type">Жабасак, свх., в 9.7 км к вост. от него, в 0.6 км к сев.-зап. от ур. Киякты, в 20 м к югу от дороги свх. Жабасак - с. Жантай</SimpleData>
+		<SimpleData name="location_description">fbe23881-4e93-4522-b70e-c53126b87577</SimpleData>
+		<SimpleData name="status">data/stations/fbe23881.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/fbe23881.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>61.8151681448317,50.3795512028024</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

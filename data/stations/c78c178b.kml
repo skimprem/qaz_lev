@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="c78c178b" id="c78c178b">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>c78c178b</name>
+  <Placemark id="c78c178b.1">
+	<name>031(16540)</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#c78c178b">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">213,651</SimpleData>
+		<SimpleData name="leveling_order">211,651</SimpleData>
+		<SimpleData name="control_height">контрольный репер в фундаментной плите</SimpleData>
+		<SimpleData name="benchmark_number">116</SimpleData>
+		<SimpleData name="control_location">Линия №11: пир. 3 кл. Ушкулын - фунд. реп. 3504, II класс (2)</SimpleData>
+		<SimpleData name="benchmark_type">Ангрен, оз., в 2,5 км к юго-вост. от него, в 0,3 км к югу от шоссе гор. Экибастуз-с. Майкаин, в 0,2 км к юго-зап. от ЛЭП</SimpleData>
+		<SimpleData name="location_description">c78c178b-3d88-4891-8665-301866668dc8</SimpleData>
+		<SimpleData name="status">data/stations/c78c178b.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/c78c178b.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.6679070629785,51.515032283148</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

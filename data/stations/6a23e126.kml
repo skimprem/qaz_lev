@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="6a23e126" id="6a23e126">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>6a23e126</name>
+  <Placemark id="6a23e126.1">
+	<name>20287</name>
+	<name>стен.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#6a23e126">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="control_location">Ход от ск.реп. 834 до ск.реп. 632, I класс</SimpleData>
+		<SimpleData name="benchmark_type">Темеклы, станц., в 2.5 км к югу от нее, на 7 пк 1047 км, в устое жел.-дор. моста</SimpleData>
+		<SimpleData name="location_description">6a23e126-fc73-4963-9f83-488d1c1ce484</SimpleData>
+		<SimpleData name="status">data/stations/6a23e126.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/6a23e126.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>80.1149983887994,47.53270588668</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

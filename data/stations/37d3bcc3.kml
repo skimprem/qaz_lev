@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="37d3bcc3" id="37d3bcc3">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>37d3bcc3</name>
+  <Placemark id="37d3bcc3.1">
+	<name>Обуховское</name>
+	<description>сигнал</description>
+	<ExtendedData><SchemaData schemaUrl="#37d3bcc3">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">420.907</SimpleData>
+		<SimpleData name="leveling_height">70</SimpleData>
+		<SimpleData name="benchmark_number">тип 1 оп</SimpleData>
+		<SimpleData name="control_location">Линия № 2: Коктума (фунд. реп. 3002) – Учарал (фунд. реп. 25), II класс (2)
+Участок: пир. 2 кл. Базисная Вост. – фунд. реп. 33</SimpleData>
+		<SimpleData name="benchmark_type">Казахстан, с., в 4.6 км к югу от него, в 2.9 км к юго-зап. от пол. ст. Каратоган, к зап. от моста на арыке</SimpleData>
+		<SimpleData name="location_description">37d3bcc3-b2d1-45e4-8703-b8988dd27ace</SimpleData>
+		<SimpleData name="status">data/stations/37d3bcc3.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/37d3bcc3.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>81.006858201762,46.1517421937833</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

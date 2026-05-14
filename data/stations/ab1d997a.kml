@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="ab1d997a" id="ab1d997a">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>ab1d997a</name>
+  <Placemark id="ab1d997a.1">
+	<name>1486</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#ab1d997a">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">481.071</SimpleData>
+		<SimpleData name="benchmark_number">146 оп</SimpleData>
+		<SimpleData name="control_location">Линия № 98: Жангиз-Тобе- Зайсан, II класс. Участок: грунт. реп. 22- грунт. реп. 63</SimpleData>
+		<SimpleData name="benchmark_type">Пикет Глайжузген, в 0.2 км к сев. от него, в 0.3 км к сев. от шоссе с. Кокпекты-гор. Зайсан</SimpleData>
+		<SimpleData name="location_description">ab1d997a-9edf-4afe-8b0a-adc4e9e151c5</SimpleData>
+		<SimpleData name="status">data/stations/ab1d997a.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/ab1d997a.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.0379296644507,47.7209695164083</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

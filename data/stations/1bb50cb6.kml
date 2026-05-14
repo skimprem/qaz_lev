@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="1bb50cb6" id="1bb50cb6">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>1bb50cb6</name>
+  <Placemark id="1bb50cb6.1">
+	<name>63</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#1bb50cb6">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">535.926</SimpleData>
+		<SimpleData name="leveling_order">533.816</SimpleData>
+		<SimpleData name="control_height">Контрольный репер № 49  в верхней плоскости монолита</SimpleData>
+		<SimpleData name="benchmark_number">118</SimpleData>
+		<SimpleData name="control_location">Линия № 1: Буран - Белая Школа, II класс. Участок: грунт. реп. 1507 - грунт. реп. 22</SimpleData>
+		<SimpleData name="benchmark_type">Карабулак, с., в 6.5 км к юго-вост. от него, в 39 м к югу от дороги с. Карабулак-гор. Зайсан, в 39 м к юго-вост. от км стб. № 8/10</SimpleData>
+		<SimpleData name="location_description">1bb50cb6-5305-4263-bddc-519fe44327b1</SimpleData>
+		<SimpleData name="status">data/stations/1bb50cb6.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/1bb50cb6.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.7638010110867,47.5170457678431</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

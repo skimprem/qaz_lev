@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="7055ba08" id="7055ba08">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>7055ba08</name>
+  <Placemark id="7055ba08.1">
+	<name>974</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#7055ba08">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">333,522</SimpleData>
+		<SimpleData name="leveling_height">331,966</SimpleData>
+		<SimpleData name="benchmark_number">в фундаментной плите</SimpleData>
+		<SimpleData name="control_location">Линия № 2: Древний Курган - Сасыккудык, 2 класс (3) Участок: фунд. реп. 1377-грунт, реп. 1748</SimpleData>
+		<SimpleData name="benchmark_type">Тегисмола, мог., в 5.6 км к сев.-зап. от неё, в 5.6 км к юго-вост, от мог. Карамола, к сев. от полевой дороги </SimpleData>
+		<SimpleData name="location_description">7055ba08-76c1-4bfa-bba9-74cc20565509</SimpleData>
+		<SimpleData name="status">data/stations/7055ba08.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/7055ba08.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>68.2009317341686,47.3830094905867</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

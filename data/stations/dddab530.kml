@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="dddab530" id="dddab530">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>dddab530</name>
+  <Placemark id="dddab530.1">
+	<name>2442</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#dddab530">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="benchmark_number">160 оп.знак</SimpleData>
+		<SimpleData name="control_location">Линия № 2: Атбасар - Максимовка, II класс.
+Участок: грунт. реп. 8421 - грунт. реп. 2883</SimpleData>
+		<SimpleData name="benchmark_type">Владимировка, с., в 2.4 км к югу от него, в 0.1 км к зап.
+от излучины р. Жабай, в 10 м к вост. от грунт, дороги
+с. Новый Городок - с. Владимировка</SimpleData>
+		<SimpleData name="location_description">dddab530-ade9-4052-8e56-dcf41faf8323</SimpleData>
+		<SimpleData name="status">data/stations/dddab530.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/dddab530.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>68.575564730687,52.2841187971078</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

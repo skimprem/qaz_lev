@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="ba524ca8" id="ba524ca8">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>ba524ca8</name>
+  <Placemark id="ba524ca8.1">
+	<name>2829</name>
+	<description>грунт. реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#ba524ca8">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">100.702</SimpleData>
+		<SimpleData name="benchmark_number">160 оп</SimpleData>
+		<SimpleData name="control_location">Линия № 1: Ходжейли - Кумкала, I класс. Участок: грунт.реп. 2776 - грунт.реп. 2539</SimpleData>
+		<SimpleData name="benchmark_type">Сарышыганак, кладб., в 5.0 км к сев.-вост.от него, в 4.7 км к вост.от зимовки, в 15 м к юго-вост.от грунт.дороги с. Сатбай - с. Кекирели</SimpleData>
+		<SimpleData name="location_description">ba524ca8-ed2b-48e2-a07e-4f966173b619</SimpleData>
+		<SimpleData name="status">data/stations/ba524ca8.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/ba524ca8.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>63.8429227662739,44.3344991247371</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

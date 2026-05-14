@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="70eacca8" id="70eacca8">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>70eacca8</name>
+  <Placemark id="70eacca8.1">
+	<name>169</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#70eacca8">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">113.682</SimpleData>
+		<SimpleData name="benchmark_number">121</SimpleData>
+		<SimpleData name="control_location">Линия: Волотовка - Чапаевский, II класс ( I ) Участок: фнд.рп. 166 - гр.рп. 2936</SimpleData>
+		<SimpleData name="benchmark_type">Артемовка,с., в 0.3 км к юго-зап.от него, в 0.1 км к югу от кладбища</SimpleData>
+		<SimpleData name="location_description">70eacca8-db9f-4d38-a9b8-389ec3e24ffe</SimpleData>
+		<SimpleData name="status">data/stations/70eacca8.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/70eacca8.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>74.3634918161153,53.384937017313</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

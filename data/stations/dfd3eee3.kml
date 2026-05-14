@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="dfd3eee3" id="dfd3eee3">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>dfd3eee3</name>
+  <Placemark id="dfd3eee3.1">
+	<name>44</name>
+	<description>грунт. реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#dfd3eee3">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">199.060</SimpleData>
+		<SimpleData name="leveling_order">197.436</SimpleData>
+		<SimpleData name="leveling_height">Контрольный репер в верхней плоскости монолита</SimpleData>
+		<SimpleData name="benchmark_number">121</SimpleData>
+		<SimpleData name="control_location">Линия № 2 : Кошкарата - Аральск, I класс. Участок: грунт. реп. б/№ - грунт. реп. 47</SimpleData>
+		<SimpleData name="benchmark_type">Карабулак, лет., в 12.0 км к сев.-зап. от него, в 1.5 км к юго-вост. от оз. Бозгуль, в 43 м к югу от полевой дороги с.Карабулак-с.Акеспе</SimpleData>
+		<SimpleData name="location_description">dfd3eee3-bc9f-46ab-8ac7-7f7d815d36b0</SimpleData>
+		<SimpleData name="status">data/stations/dfd3eee3.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/dfd3eee3.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>60.8088751235909,46.7975777526146</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="c7974c4c" id="c7974c4c">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>c7974c4c</name>
+  <Placemark id="c7974c4c.1">
+	<name>4695</name>
+	<name>стен, реп,</name>
+	<ExtendedData><SchemaData schemaUrl="#c7974c4c">
+		<SimpleData name="type">I</SimpleData>
+		<SimpleData name="view">139.165</SimpleData>
+		<SimpleData name="control_location">Линия № 1: Петпопавловск - Макинск, I класс
+Участок: грунт, реп, 91285 - грунт, реп, 91338</SimpleData>
+		<SimpleData name="benchmark_type">Киялы, станц,, водоемное здание, сев,-вост, Сторона</SimpleData>
+		<SimpleData name="leveling_line_section">Утрачен, сбита марка</SimpleData>
+		<SimpleData name="location_description">c7974c4c-b90a-45df-bc0d-52bea63b93f1</SimpleData>
+		<SimpleData name="status">data/stations/c7974c4c.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/c7974c4c.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>69.6400767858865,54.1864363122667</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="cfbf4551" id="cfbf4551">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>cfbf4551</name>
+  <Placemark id="cfbf4551.1">
+	<name>0947</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#cfbf4551">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">365.498</SimpleData>
+		<SimpleData name="benchmark_number">160 оп.знак</SimpleData>
+		<SimpleData name="control_location">Линия № 5: Кызыл-Джар - фунд.реп. 2723 II класс (4) Участок: фунд.реп. 498 - грунт.реп.0088</SimpleData>
+		<SimpleData name="benchmark_type">Токтакара, зим., в 3.2 км к сев.-зап. от нее, в О 9 км к
+юго-зап, от кладб. Алаконан, в 50 м к югу от дороги с.
+Кызылжар - с. Шалгинский</SimpleData>
+		<SimpleData name="location_description">cfbf4551-7f32-4cc6-bc27-0cec257e3ff2</SimpleData>
+		<SimpleData name="status">data/stations/cfbf4551.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/cfbf4551.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>69.895408928591,48.1843319127694</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

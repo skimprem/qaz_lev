@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="32157e42" id="32157e42">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>32157e42</name>
+  <Placemark id="32157e42.1">
+	<name>718</name>
+	<name>грунт, реп,</name>
+	<ExtendedData><SchemaData schemaUrl="#32157e42">
+		<SimpleData name="type">I</SimpleData>
+		<SimpleData name="view">131.233</SimpleData>
+		<SimpleData name="benchmark_number">160 оп, знак</SimpleData>
+		<SimpleData name="control_location">Линия № 1: Костанай - Петропавлоск, I класс
+Участок: грунт, реп, 0784 - пир, 2 кл, Новокаменка</SimpleData>
+		<SimpleData name="benchmark_type">Красная Горка, с,, в 0,7 км к сев,-вост, от него, в 0,1 км к
+зап, от шоссе гор, Петропавловск - гор, Жезказган,
+в 57 м к вост, от высоковольтной стб, ЛЭП № 55, в 13 м
+к сев, от навалы асфальта</SimpleData>
+		<SimpleData name="location_description">32157e42-a88c-44f7-b0cc-e996e33344b8</SimpleData>
+		<SimpleData name="status">data/stations/32157e42.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/32157e42.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>68.7820490859741,54.5582373780557</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

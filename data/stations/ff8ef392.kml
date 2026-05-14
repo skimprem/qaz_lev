@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="ff8ef392" id="ff8ef392">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>ff8ef392</name>
+  <Placemark id="ff8ef392.1">
+	<name>2509</name>
+	<name>марка</name>
+	<ExtendedData><SchemaData schemaUrl="#ff8ef392">
+		<SimpleData name="type">I</SimpleData>
+		<SimpleData name="view">139.185</SimpleData>
+		<SimpleData name="control_location">Линия № 3: Петропавлоск - Мариановка, I класс Участок: марка 123 - марка 3119</SimpleData>
+		<SimpleData name="benchmark_type">Асанов, станц,, в 0,6 км к вост, От нее, на 10 пк 157 км, здание клуба училища механизации </SimpleData>
+		<SimpleData name="location_description">ff8ef392-fd36-49b0-b5eb-4ba2b035640a</SimpleData>
+		<SimpleData name="status">data/stations/ff8ef392.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/ff8ef392.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>69.4599125486514,54.8573280625777</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

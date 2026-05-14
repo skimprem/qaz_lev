@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="629fa052" id="629fa052">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>629fa052</name>
+  <Placemark id="629fa052.1">
+	<name>5903</name>
+	<name>стен.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#629fa052">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="benchmark_number">Линия № 7: стен.реп. 15684 – фунд.реп. 389, II класс </SimpleData>
+		<SimpleData name="control_location">Аягоз, гор., аэропорт, в юго-вост. стене здания аэровокзала</SimpleData>
+		<SimpleData name="benchmark_type">L-44-5-Б</SimpleData>
+		<SimpleData name="location_description">629fa052-1c76-4440-ad34-2f99d7cbe1e7</SimpleData>
+		<SimpleData name="status">data/stations/629fa052.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/629fa052.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>80.4604499104799,47.9054102245829</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

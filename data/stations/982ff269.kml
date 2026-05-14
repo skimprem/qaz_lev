@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="982ff269" id="982ff269">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>982ff269</name>
+  <Placemark id="982ff269.1">
+	<name>1824</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#982ff269">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">401.283</SimpleData>
+		<SimpleData name="benchmark_number">160 оп</SimpleData>
+		<SimpleData name="control_location">Линия №2: Талдысай-Жиделысай, II класс (2) Участок: грунт.реп.41-фунд.реп.0539</SimpleData>
+		<SimpleData name="benchmark_type">Подхоз.Сатпаев,в 7.1 км к югу от него,в 3.7 км к сев.-вост.от зимовки,в 0.1 км к сев.от полевой дороги</SimpleData>
+		<SimpleData name="location_description">982ff269-6b5f-418b-b8a9-f750a6b949f6</SimpleData>
+		<SimpleData name="status">data/stations/982ff269.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/982ff269.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.5069374204958,48.0928049733357</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

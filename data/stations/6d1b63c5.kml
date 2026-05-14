@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="6d1b63c5" id="6d1b63c5">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>6d1b63c5</name>
+  <Placemark id="6d1b63c5.1">
+	<name>8333</name>
+	<description>грунт.реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#6d1b63c5">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">235.862</SimpleData>
+		<SimpleData name="leveling_order">234.901</SimpleData>
+		<SimpleData name="benchmark_number">107</SimpleData>
+		<SimpleData name="control_location">Линия № 1: Уричкое-Койбаган, II класс             Участок : фунд.реп.7920 - фунд.реп.3706</SimpleData>
+		<SimpleData name="benchmark_type">Утинка, с., в 9.5 км к юго-зап.от него, в 1.0 км к югу от озерка у дороги и в 25 м к зап.от дороги с.Утинка-разъезд 75</SimpleData>
+		<SimpleData name="location_description">6d1b63c5-733a-4d00-9840-d8c41de42ac2</SimpleData>
+		<SimpleData name="status">data/stations/6d1b63c5.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/6d1b63c5.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>65.1783446868611,52.290802574639</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

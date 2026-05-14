@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="fed8a836" id="fed8a836">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>fed8a836</name>
+  <Placemark id="fed8a836.1">
+	<name>1154</name>
+	<name>грунт.реп.</name>
+	<description>грунт.реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#fed8a836">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">403,646</SimpleData>
+		<SimpleData name="leveling_order">402,544*</SimpleData>
+		<SimpleData name="control_height">Контрольный репер в верхней
+плоскости монолита</SimpleData>
+		<SimpleData name="benchmark_number">121</SimpleData>
+		<SimpleData name="control_location">Линия № I: Бурубайтал-Актас. П класс 
+Участок: грунт,реп.2 - грунт.реп.ЗЗ</SimpleData>
+		<SimpleData name="benchmark_type">Тюкен,с.,в 19,5 км к юго-зап,от него,в 
+6,0 км к воет,от сух,русла Каратал,в
+20 м к воет,от полевой дороги</SimpleData>
+		<SimpleData name="location_description">fed8a836-ef6a-42d3-9283-dfdd93001548</SimpleData>
+		<SimpleData name="status">data/stations/fed8a836.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/fed8a836.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.1803164768513,45.2504338242569</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

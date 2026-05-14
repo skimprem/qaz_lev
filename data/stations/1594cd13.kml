@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="1594cd13" id="1594cd13">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>1594cd13</name>
+  <Placemark id="1594cd13.1">
+	<name>761</name>
+	<description>фунд.репер </description>
+	<ExtendedData><SchemaData schemaUrl="#1594cd13">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">61.198</SimpleData>
+		<SimpleData name="control_location">Висячий ход от фунд.реп. 353,   I класс</SimpleData>
+		<SimpleData name="benchmark_type">Арагльск,гор., в 0.9 км к зап.от него, на территории метеостанции, в 11 м к сев.-зап.от юго-зап. угла метеоплощадки, в 8 м к зап.от метеоплощадки</SimpleData>
+		<SimpleData name="location_description">1594cd13-a944-4e36-960e-b13a284dfae9</SimpleData>
+		<SimpleData name="status">data/stations/1594cd13.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/1594cd13.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>61.6379417982935,46.781490753974</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

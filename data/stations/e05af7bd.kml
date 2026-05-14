@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="e05af7bd" id="e05af7bd">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>e05af7bd</name>
+  <Placemark id="e05af7bd.1">
+	<name>1077</name>
+	<name>ск.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#e05af7bd">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">1692.806</SimpleData>
+		<SimpleData name="benchmark_number">99</SimpleData>
+		<SimpleData name="control_location">Участок: ск. реп. 1213-фунд. реп. 8659</SimpleData>
+		<SimpleData name="benchmark_type">Бартогай, с., в 11.0 км к зап. от него, в 2.0 км кзап. от зимовки, в 10 м к сев. от дороги с. Бартогай-с. Асы</SimpleData>
+		<SimpleData name="location_description">e05af7bd-90e8-4c15-85fb-064b0d27806b</SimpleData>
+		<SimpleData name="status">data/stations/e05af7bd.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/e05af7bd.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>78.3753151170353,43.3112787679723</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

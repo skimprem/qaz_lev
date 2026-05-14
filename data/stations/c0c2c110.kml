@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="c0c2c110" id="c0c2c110">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>c0c2c110</name>
+  <Placemark id="c0c2c110.1">
+	<name>8871</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#c0c2c110">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">327.066</SimpleData>
+		<SimpleData name="benchmark_number">160 оп, знак</SimpleData>
+		<SimpleData name="control_location">Линия № 1: Тюемойнак - Торетоган, 1 класс (1) Участок: грунт, реп, 5812 - грунт,реп, 8871</SimpleData>
+		<SimpleData name="benchmark_type">Тортколь, г,, в 8,0 км к юго-вост, от неё, в 5,4 км к сев,- вост, от мог, Шокыкор, в 10 м к вост, от полевой дороги</SimpleData>
+		<SimpleData name="location_description">c0c2c110-17a8-43fe-b957-0ced385093db</SimpleData>
+		<SimpleData name="status">data/stations/c0c2c110.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/c0c2c110.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>69.406070585468,47.3207993388995</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

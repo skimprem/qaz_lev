@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="041f35a9" id="041f35a9">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>041f35a9</name>
+  <Placemark id="041f35a9.1">
+	<name>3626</name>
+	<description>грунт. реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#041f35a9">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">602.639</SimpleData>
+		<SimpleData name="benchmark_number">160оп</SimpleData>
+		<SimpleData name="control_location">Линия № 1: Акмола (Целиноград) -Нуринская, I класс (1) Участок: пир. 2 кл. Анар -грунт.реп. 92086</SimpleData>
+		<SimpleData name="benchmark_type">Актасты, станц. в 3,6 км к вост. от неё, на 10 ПК 625 км, в 45 м к сев. от жел.- дор. Полотна</SimpleData>
+		<SimpleData name="location_description">041f35a9-010d-4d37-a6d8-edc0153984e5</SimpleData>
+		<SimpleData name="status">data/stations/041f35a9.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/041f35a9.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.7433377821975,50.4526990927635</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

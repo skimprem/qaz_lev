@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="cd4e6d56" id="cd4e6d56">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>cd4e6d56</name>
+  <Placemark id="cd4e6d56.1">
+	<name>5897</name>
+	<description>грунт.реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#cd4e6d56">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="benchmark_number">5 (146)</SimpleData>
+		<SimpleData name="benchmark_type">Кудукшилик с., в 1.0 км на запад от него, в 0.4 км на юго-вост. от кладбища, в 180 м на сев.-зап. от км стб. 18/71, в 26 м на запад от шоссе Урицкий - Ленинское</SimpleData>
+		<SimpleData name="leveling_line_section">не найден</SimpleData>
+		<SimpleData name="location_description">cd4e6d56-4966-4519-aaec-4384500b6f03</SimpleData>
+		<SimpleData name="status">data/stations/cd4e6d56.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/cd4e6d56.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>65.5704967190528,53.4586096395577</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="a8cf5c3d" id="a8cf5c3d">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>a8cf5c3d</name>
+  <Placemark id="a8cf5c3d.1">
+	<name>2135</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#a8cf5c3d">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">382.549</SimpleData>
+		<SimpleData name="control_height">Контрольный репер № 1587 в фундаментной плите</SimpleData>
+		<SimpleData name="benchmark_number">116 оп.знак</SimpleData>
+		<SimpleData name="control_location">Линия №1: Ивановка-р.Кон, ll класс (1). Участок: грунт.реп. 5354-грунт.реп.1719(151)</SimpleData>
+		<SimpleData name="benchmark_type">Изенди с., в 7,7 км к зап. От него, в 90 м к юго-зап. От фунд.реп. № 6095, в 17 м к юго-зап. От столба ЛЭП № 77</SimpleData>
+		<SimpleData name="leveling_line_section">утрачен</SimpleData>
+		<SimpleData name="location_description">a8cf5c3d-ca7d-4972-ae66-f3bed96cdc2d</SimpleData>
+		<SimpleData name="status">data/stations/a8cf5c3d.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/a8cf5c3d.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>70.8300855485129,49.9051646403221</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

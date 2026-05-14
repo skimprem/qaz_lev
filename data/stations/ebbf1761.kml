@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="ebbf1761" id="ebbf1761">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>ebbf1761</name>
+  <Placemark id="ebbf1761.1">
+	<name>292</name>
+	<description>грунт. реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#ebbf1761">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">236.166</SimpleData>
+		<SimpleData name="leveling_order">235.169</SimpleData>
+		<SimpleData name="leveling_height">Контрольный репер в трубе</SimpleData>
+		<SimpleData name="benchmark_number">118 оп</SimpleData>
+		<SimpleData name="control_location">Линия №1: Жосалы - Карсакбай. 1 класс. Участок: грунт.реп. 1500 - грунт.реп. 292</SimpleData>
+		<SimpleData name="benchmark_type">Жиканмола. кладб.. в 4.5 км к сев.-вост.от него. в 1.0 км к юго-зап.от род. Тасбулак. в 36 м к юго-вост.от грунт.дороги с. Карсакбай - с. Жосалы </SimpleData>
+		<SimpleData name="location_description">ebbf1761-dfa1-400f-ae77-68f2a1ae2f79</SimpleData>
+		<SimpleData name="status">data/stations/ebbf1761.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/ebbf1761.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>65.648765540149,46.6858911719683</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

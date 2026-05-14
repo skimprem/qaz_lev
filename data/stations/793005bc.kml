@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="793005bc" id="793005bc">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>793005bc</name>
+  <Placemark id="793005bc.1">
+	<name>0029</name>
+	<name>грунт.реп</name>
+	<ExtendedData><SchemaData schemaUrl="#793005bc">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">359.014</SimpleData>
+		<SimpleData name="control_location">Линия № 2: грунт.реп. 4716-грун.реп. 0092, II класс (2). Участок: грунт.реп. 7846-грунт.реп. 0092</SimpleData>
+		<SimpleData name="benchmark_type">Кенес,с., в 10.5 км к вост.от него, в 0.2 км к сев.от фунд.реп. 2479, в 0.1 км к сев.-зап.от км.стб.105/66 шоссе с.Уланбель-с.Уюк</SimpleData>
+		<SimpleData name="location_description">793005bc-5255-466e-8b98-bdd476a23a3f</SimpleData>
+		<SimpleData name="status">data/stations/793005bc.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/793005bc.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>70.9599784874282,43.9491519798574</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

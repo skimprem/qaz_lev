@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="bd681096" id="bd681096">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>bd681096</name>
+  <Placemark id="bd681096.1">
+	<name>4445</name>
+	<name>грунт реп</name>
+	<ExtendedData><SchemaData schemaUrl="#bd681096">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">395.476</SimpleData>
+		<SimpleData name="benchmark_number">160 оп</SimpleData>
+		<SimpleData name="control_location">Линия № 2: Таскескен – Сайкан, II класс. Участок: фунтд.реп. 1910 – грунт.реп. 7115</SimpleData>
+		<SimpleData name="benchmark_type">Каракол, с., в 2.2 км к юго-зап. от него, в 0.8 км к сев.-вост. от зимовки, в 0.5 км к зап. от пересечения канала и грунт. дороги с. Каракол – с. Абеу</SimpleData>
+		<SimpleData name="location_description">bd681096-3341-4625-8bc5-ff2f246aaf9b</SimpleData>
+		<SimpleData name="status">data/stations/bd681096.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/bd681096.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>80.715920477941,46.9232198832727</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

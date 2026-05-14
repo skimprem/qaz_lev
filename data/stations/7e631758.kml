@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="7e631758" id="7e631758">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>7e631758</name>
+  <Placemark id="7e631758.1">
+	<name>8236</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#7e631758">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">275.075</SimpleData>
+		<SimpleData name="benchmark_number">160 оп</SimpleData>
+		<SimpleData name="control_location">Линия№3:Наурызым-Державинск,II класс(3)Участок:пир. 4 кл.верх.Коко-фунд.реп.4778</SimpleData>
+		<SimpleData name="benchmark_type">Державинск,гор.,в 2.6 км к юго-зап от него, в 0.8 км к вост.от стана, в 0.1 км к вост.от полевой дороги</SimpleData>
+		<SimpleData name="location_description">7e631758-4a4c-4077-9bdf-eb6f41363c28</SimpleData>
+		<SimpleData name="status">data/stations/7e631758.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/7e631758.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>66.2645460756495,51.0826539830218</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

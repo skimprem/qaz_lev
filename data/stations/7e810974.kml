@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="7e810974" id="7e810974">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>7e810974</name>
+  <Placemark id="7e810974.1">
+	<name>7106</name>
+	<name>грунт. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#7e810974">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">350.952</SimpleData>
+		<SimpleData name="benchmark_number">160 оп. знак</SimpleData>
+		<SimpleData name="control_location">Линия № 2: Таскескен – Сайкан, II класс 
+Участок: грунт.реп. б/№ – фунд.реп. 9446
+</SimpleData>
+		<SimpleData name="benchmark_type">Сасыкколь, оз., в 1.8 км к зап. от него, в 0.2 км к югу от ДЭУ, в 50 м к зап. от шоссе гор. Алматы – гор. Усть-Каменогорск</SimpleData>
+		<SimpleData name="location_description">7e810974-0567-42fb-9e6d-e935b81f06e8</SimpleData>
+		<SimpleData name="status">data/stations/7e810974.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/7e810974.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>80.5842506215098,46.6635732508716</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="716b7e06" id="716b7e06">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>716b7e06</name>
+  <Placemark id="716b7e06.1">
+	<name>ГА40</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#716b7e06">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">124.488</SimpleData>
+		<SimpleData name="benchmark_number">160 оп знак</SimpleData>
+		<SimpleData name="control_location">Линия № 1: Золоторунное - Чистовское, II класс Участок: пир. 2 кл. Жарык-Куль - грунт. реп. 532</SimpleData>
+		<SimpleData name="benchmark_type">Золотая Нива, с., в 11.0 км к сев. от него, в 15 м к зап. от 4 пикета 75 й км к узкоколейной жел. дор. гор. Булаево - с. Молодогвардейское, в 11 м к вост. от лесополосы, в 5 м к юго-зап. от стб. линии связи </SimpleData>
+		<SimpleData name="location_description">716b7e06-0731-4174-84b3-f9bd51cdfd4e</SimpleData>
+		<SimpleData name="status">data/stations/716b7e06.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/716b7e06.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>70.8831861913366,54.3197625357568</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

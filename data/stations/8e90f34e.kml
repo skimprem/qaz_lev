@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="8e90f34e" id="8e90f34e">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>8e90f34e</name>
+  <Placemark id="8e90f34e.1">
+	<name>4453</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#8e90f34e">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">207.891</SimpleData>
+		<SimpleData name="leveling_height">206.690</SimpleData>
+		<SimpleData name="benchmark_number">репер в верхней плоскости монолита</SimpleData>
+		<SimpleData name="control_location">Линия №6: грунт. реп. 15636-грунт. реп.4430, III класс</SimpleData>
+		<SimpleData name="benchmark_type">Каратуп, к.,в 4.2 км к сев.-вост. от него, в 0.2 м к юга.-зап. от к. Талды 1-й , в 0.2 км к югу. от полевой дороги </SimpleData>
+		<SimpleData name="location_description">8e90f34e-f6d7-4056-9ca2-b5bc12b40352</SimpleData>
+		<SimpleData name="status">data/stations/8e90f34e.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/8e90f34e.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>66.3472144420685,42.153902025191</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

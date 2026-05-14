@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="7e003944" id="7e003944">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>7e003944</name>
+  <Placemark id="7e003944.1">
+	<name>9888</name>
+	<name>грунт. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#7e003944">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">103.766</SimpleData>
+		<SimpleData name="benchmark_number">160 оп. знак</SimpleData>
+		<SimpleData name="control_location">Линия № 4 : Коккабак - Жосалы, II класс. Участок: фунд. реп. 2 - грунт. реп. 9888</SimpleData>
+		<SimpleData name="benchmark_type">Каратобе, г., в 5.1 км к юго-зап. от неё, в 4.0 км к юго-вост. от мог. Жабагы, в 12 м к зап. от полевой дороги</SimpleData>
+		<SimpleData name="location_description">7e003944-0f4f-41a4-95b7-c38bc227d160</SimpleData>
+		<SimpleData name="status">data/stations/7e003944.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/7e003944.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>63.6724216611399,47.3289495770178</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

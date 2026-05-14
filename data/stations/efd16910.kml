@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="efd16910" id="efd16910">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>efd16910</name>
+  <Placemark id="efd16910.1">
+	<name>9</name>
+	<description>грунт. реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#efd16910">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">533.403</SimpleData>
+		<SimpleData name="leveling_order">530,607</SimpleData>
+		<SimpleData name="control_height">Контрольный репер № 28 в верхней плоскости монолита</SimpleData>
+		<SimpleData name="benchmark_number">123 оп</SimpleData>
+		<SimpleData name="control_location">Линия № 3: Нуринская-Каркаралинск, I класс (1,2)  Участок: триг. пункт. 1 разр. 2139-грунт. реп. 11</SimpleData>
+		<SimpleData name="benchmark_type">Ботакара, райцентр, в 9,3 км к юго-вост. от него, в 0,8 км к сев.-вост, от слияния р. Шили и р. Нура, в 130 м к юго-зап. от бровки шоссе Караганда-Каркаралинск, возле линии ЛЭП</SimpleData>
+		<SimpleData name="location_description">efd16910-e0bf-406f-9457-84ebf71dcb04</SimpleData>
+		<SimpleData name="status">data/stations/efd16910.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/efd16910.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>73.8615656000055,50.0402753973583</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

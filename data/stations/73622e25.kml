@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="73622e25" id="73622e25">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>73622e25</name>
+  <Placemark id="73622e25.1">
+	<name>6252,</name>
+	<name>грунт.реп.</name>
+	<description>грунт.реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#73622e25">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">693.411</SimpleData>
+		<SimpleData name="benchmark_number">160оп.знак</SimpleData>
+		<SimpleData name="control_location">Линия №2:Балхаш-Акчатау II класс                            Участок:грунт.реп.2857-грунт.реп. 4786</SimpleData>
+		<SimpleData name="benchmark_type">Акчатау,с.,в 4.5 км к юго-зап.от него,
+в 60 м к вост.от шоссе Караганда-Бал
+хаш, в 55 м к вост.от км.стб.234/782</SimpleData>
+		<SimpleData name="location_description">73622e25-c3b0-4d2d-b7af-1e2a33da16f9</SimpleData>
+		<SimpleData name="status">data/stations/73622e25.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/73622e25.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>74.0190978540826,47.9475683473993</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

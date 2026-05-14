@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="f171abde" id="f171abde">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>f171abde</name>
+  <Placemark id="f171abde.1">
+	<name>7948</name>
+	<name>грунт,реп,</name>
+	<ExtendedData><SchemaData schemaUrl="#f171abde">
+		<SimpleData name="type">I</SimpleData>
+		<SimpleData name="view">306.654</SimpleData>
+		<SimpleData name="benchmark_number">160 оп,зн,</SimpleData>
+		<SimpleData name="control_location">Линия №1: Петропавловск-Астана (Целиноград), I класс, Участок: грунт,реп, 7114-стен,реп, 5990</SimpleData>
+		<SimpleData name="benchmark_type">Жамантуз, станц,, в 4,6 км к сев,зап,от нее, на 5 пк 228 км жел,дор,, в 48 м к сев,-зап,от стб, ЛЭП б\№, в 12 м к вост,от стб, ЛЭП № 305</SimpleData>
+		<SimpleData name="location_description">f171abde-484a-4719-a035-2a9f7317a285</SimpleData>
+		<SimpleData name="status">data/stations/f171abde.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/f171abde.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>69.8039461072506,53.1046680578132</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

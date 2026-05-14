@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="bee38b97" id="bee38b97">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>bee38b97</name>
+  <Placemark id="bee38b97.1">
+	<name>6488</name>
+	<name>грунт,реп</name>
+	<ExtendedData><SchemaData schemaUrl="#bee38b97">
+		<SimpleData name="type">I</SimpleData>
+		<SimpleData name="view">397.227</SimpleData>
+		<SimpleData name="benchmark_number">160 оп</SimpleData>
+		<SimpleData name="control_location">Линия № 3: Астана (Целиноград) - Новосибирск, I класс (3)
+Участок: фунд,реп, 483 - грунт,реп, 6488</SimpleData>
+		<SimpleData name="benchmark_type">Сарыоба, станция, в 4,2 км к юго-зап, от нее, в 0,7 км к
+сев,-зап, от разв, Жаканколь, в 30 м к сев, от км,
+стб,50/51 и жел,-дор, Полотна</SimpleData>
+		<SimpleData name="location_description">bee38b97-c216-48ea-9672-3880479ed787</SimpleData>
+		<SimpleData name="status">data/stations/bee38b97.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/bee38b97.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.0594415617263,51.2359603204693</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

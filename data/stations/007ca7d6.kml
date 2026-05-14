@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="007ca7d6" id="007ca7d6">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>007ca7d6</name>
+  <Placemark id="007ca7d6.1">
+	<name>15340</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#007ca7d6">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">241.085</SimpleData>
+		<SimpleData name="leveling_height">293.202</SimpleData>
+		<SimpleData name="benchmark_number">репер в верхней плоскости монолита</SimpleData>
+		<SimpleData name="control_location">Линия №1: Куракбулак-Муллалы, II класс Участок:  грунт. реп. 0582-грунт. реп. 2650 </SimpleData>
+		<SimpleData name="benchmark_type">Жауткан, с. , в 20.9 км к зап. от него, в 3.0 км. к сев.-вост. от к Орынбай,в 10 м к сев.   от дороги к.Космырза-с.Жауткан</SimpleData>
+		<SimpleData name="location_description">007ca7d6-6388-4727-9fd2-0acb9203c709</SimpleData>
+		<SimpleData name="status">data/stations/007ca7d6.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/007ca7d6.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.3737256338986,42.0839310666387</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

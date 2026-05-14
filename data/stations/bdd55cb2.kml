@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="bdd55cb2" id="bdd55cb2">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>bdd55cb2</name>
+  <Placemark id="bdd55cb2.1">
+	<name>26</name>
+	<description>грунт. реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#bdd55cb2">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">100.531</SimpleData>
+		<SimpleData name="leveling_order">99,283</SimpleData>
+		<SimpleData name="leveling_height">Контрольный репер №1642 в верхней плоскости монолита </SimpleData>
+		<SimpleData name="benchmark_number">121 оп</SimpleData>
+		<SimpleData name="control_location">линия №1: Аральск - Семиозерное, I класс Участок: грунт.реп. 114 - грунт.реп. 11</SimpleData>
+		<SimpleData name="benchmark_type">Сарысу, с., в 2,7 км к сев.от него, в 350 м к вост.от автодороги с покрытием, в 240 м к зап.от оз. Кумарозек</SimpleData>
+		<SimpleData name="location_description">bdd55cb2-d566-4907-9af6-12812b4f588f</SimpleData>
+		<SimpleData name="status">data/stations/bdd55cb2.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/bdd55cb2.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>63.7769899876303,49.8975145694377</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

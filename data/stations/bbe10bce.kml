@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="bbe10bce" id="bbe10bce">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>bbe10bce</name>
+  <Placemark id="bbe10bce.1">
+	<name>7</name>
+	<name>грунт.реп</name>
+	<ExtendedData><SchemaData schemaUrl="#bbe10bce">
+		<SimpleData name="type">ІІ</SimpleData>
+		<SimpleData name="view">349.177</SimpleData>
+		<SimpleData name="benchmark_number">А</SimpleData>
+		<SimpleData name="control_location">Линия № 1 Астана (Целиноград) - Жумай, ІІ класс (1)  Ход от грунт.реп. 4 до грунт.реп. 8, ІІ класс (3)</SimpleData>
+		<SimpleData name="benchmark_type">Сабынды, с., в 50 м к юго зап от него, к сев от дороги с. Оразак - с. Кургальджинский </SimpleData>
+		<SimpleData name="leveling_line_section">уничтожен</SimpleData>
+		<SimpleData name="location_description">bbe10bce-92ec-4c99-9c1d-c33fe7e9efaa</SimpleData>
+		<SimpleData name="status">data/stations/bbe10bce.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/bbe10bce.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>70.5292582125223,50.874525823059</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="1ec88e01" id="1ec88e01">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>1ec88e01</name>
+  <Placemark id="1ec88e01.1">
+	<name>323</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#1ec88e01">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">563.721</SimpleData>
+		<SimpleData name="leveling_order">561.189</SimpleData>
+		<SimpleData name="control_height">Контрольный репер в верхней плоскости монолита</SimpleData>
+		<SimpleData name="benchmark_number">121</SimpleData>
+		<SimpleData name="control_location">Линия №51:Каркаралинск-Чурбай-Нура,II класс (3) Участок: грунт.реп.324 - фунд.реп. б/№ </SimpleData>
+		<SimpleData name="benchmark_type">Кулаайгыр, с., в 5,0 км к сев.-вост.от него, в 3,5 км к юго-зап.от с.Жаманжол, к сев.от дороги с.Кулайгыр-с.Жаманжол</SimpleData>
+		<SimpleData name="location_description">1ec88e01-5a1f-4c6c-8d34-9fda5d6fc846</SimpleData>
+		<SimpleData name="status">data/stations/1ec88e01.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/1ec88e01.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.9945642766164,49.4359626096098</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

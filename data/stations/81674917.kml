@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="81674917" id="81674917">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>81674917</name>
+  <Placemark id="81674917.1">
+	<name>1904</name>
+	<name>грунт.реп.</name>
+	<description>грунт.реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#81674917">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">379.818</SimpleData>
+		<SimpleData name="control_location">Линия № 3:Бурубайтал-Каратурангы II класс                                     Участок: грунт.реп. 3484-фунд.реп. 412</SimpleData>
+		<SimpleData name="benchmark_type">Кокишбай, с., в 7.0 ?? ? ???-???.?? ??го, ? 4.6 ?? к ???-з??.?? ???.????ак?ай ? 1.8 к? к ???-???. ?? ??????? и колодца</SimpleData>
+		<SimpleData name="location_description">81674917-e323-4283-8f31-c9f1f86ceb27</SimpleData>
+		<SimpleData name="status">data/stations/81674917.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/81674917.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.5424516803903,44.9156018109759</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

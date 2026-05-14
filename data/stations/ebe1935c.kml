@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="ebe1935c" id="ebe1935c">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>ebe1935c</name>
+  <Placemark id="ebe1935c.1">
+	<name>309</name>
+	<description>грунт.реп</description>
+	<ExtendedData><SchemaData schemaUrl="#ebe1935c">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">135,455</SimpleData>
+		<SimpleData name="benchmark_number">107</SimpleData>
+		<SimpleData name="control_location">Линия №2: Наурзум (Аксуат) - Иргиа, 1 класс (1). Участок: грунт.реп. 4041 - грунт.реп. 3306</SimpleData>
+		<SimpleData name="benchmark_type">Наурзум, с., в 14,3 км к юго-вост. от него, в 0,1 км к югу от фунд. реп. 81, в 33 м к сев.- вост. от дороги с.Наурзум - с.Кайга</SimpleData>
+		<SimpleData name="location_description">ebe1935c-51ce-4dfa-8282-f3bc11a6e2e8</SimpleData>
+		<SimpleData name="status">data/stations/ebe1935c.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/ebe1935c.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>64.6257503111664,51.4053573721462</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="050df084" id="050df084">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>050df084</name>
+  <Placemark id="050df084.1">
+	<name>5580</name>
+	<description>ск. реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#050df084">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">356.282</SimpleData>
+		<SimpleData name="control_location">Линия № 3:Сарышаган-Бурубайтал, I класс                            Участок: фунд.реп. 507-ск.реп. 11</SimpleData>
+		<SimpleData name="benchmark_type">Сарышаган, станц., в 2.9 км к сев. от неё, на 1 ПК 1190 км, в 0.1 км к вост. от  жел.-дор. полотна</SimpleData>
+		<SimpleData name="location_description">050df084-6a94-4a40-9d15-4c9190c02328</SimpleData>
+		<SimpleData name="status">data/stations/050df084.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/050df084.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>73.6065554548,46.1485869659233</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

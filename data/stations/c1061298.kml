@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="c1061298" id="c1061298">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>c1061298</name>
+  <Placemark id="c1061298.1">
+	<name>45</name>
+	<name>грунт.реп</name>
+	<ExtendedData><SchemaData schemaUrl="#c1061298">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">415.105</SimpleData>
+		<SimpleData name="control_location">Ход от грунт.реп.330 до грунт.реп.125, 2 класс (6). Участок: грунт.реп.45-грунт.реп.125</SimpleData>
+		<SimpleData name="benchmark_type">Сузак,с., в 10.8 км к юго-зап. От него, в 1.2 км к юго-зап. От сарая, в 0.1 км к югу от дороги с.Сузак-пер. Баджи</SimpleData>
+		<SimpleData name="location_description">c1061298-e42e-473c-a851-b092f9328924</SimpleData>
+		<SimpleData name="status">data/stations/c1061298.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/c1061298.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>68.337409014641,44.0909382679302</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

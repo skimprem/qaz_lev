@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="90363d41" id="90363d41">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>90363d41</name>
+  <Placemark id="90363d41.1">
+	<name>126</name>
+	<name>грунт,реп,</name>
+	<ExtendedData><SchemaData schemaUrl="#90363d41">
+		<SimpleData name="type">І</SimpleData>
+		<SimpleData name="view">315.894</SimpleData>
+		<SimpleData name="leveling_order">313, 671</SimpleData>
+		<SimpleData name="control_height">Контрольный репер № 1863 в верхней плоскости монолита</SimpleData>
+		<SimpleData name="benchmark_number">131</SimpleData>
+		<SimpleData name="control_location">Линия №1: Акмола (Целиноград) - Амангельды, I класса (I) Участок: грунт,реп,3725 - грунт,реп,2252</SimpleData>
+		<SimpleData name="benchmark_type">№ 87 раз,, в 3,2 км к сев-вост от него на 9 пикете 594 км жел дор,, в 60 м к сев от жел дор полотна</SimpleData>
+		<SimpleData name="location_description">90363d41-f2ac-4b90-b180-0ab56cf8df66</SimpleData>
+		<SimpleData name="status">data/stations/90363d41.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/90363d41.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>68.5800648659114,51.8069039917961</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

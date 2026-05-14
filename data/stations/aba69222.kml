@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="aba69222" id="aba69222">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>aba69222</name>
+  <Placemark id="aba69222.1">
+	<name>6233</name>
+	<name>ск.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#aba69222">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">452,33</SimpleData>
+		<SimpleData name="benchmark_number">99 оп </SimpleData>
+		<SimpleData name="control_location">Линия № 2: Каратас – Аягоз, I класс. Участок: грунт.реп. 1071-марка 20138</SimpleData>
+		<SimpleData name="benchmark_type">Раз. № 29, в 4.6 км к сев.-вост. от него, на 9 пк 1070 км, в 1.4 км к юго-зап. от жел.-дор. моста через р. Тансык, в 0.1 км к юго-вост. от жел.-дор. полотна</SimpleData>
+		<SimpleData name="location_description">aba69222-68d4-4e6a-825d-f22d7d78aa65</SimpleData>
+		<SimpleData name="status">data/stations/aba69222.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/aba69222.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>79.9381612464861,47.3766668846829</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="6fcb2056" id="6fcb2056">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>6fcb2056</name>
+  <Placemark id="6fcb2056.1">
+	<name>159</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#6fcb2056">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">524,66</SimpleData>
+		<SimpleData name="benchmark_number">146 оп</SimpleData>
+		<SimpleData name="control_location">Линия №1; Сары-Озек - Пржевальск, 1 класс(2) Участок: грунт. реп. 155- грунт.реп. 682</SimpleData>
+		<SimpleData name="benchmark_type">Таскарасу, с., в 5.7 км к сев.-вост. от него, в 21 м к юго-зап. от тлгр. стб. 654, в 6 м к сев.-вост. от дерева</SimpleData>
+		<SimpleData name="location_description">6fcb2056-b9ff-424a-8ef4-26096f4056c7</SimpleData>
+		<SimpleData name="status">data/stations/6fcb2056.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/6fcb2056.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>79.4828760654349,43.8254739769524</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

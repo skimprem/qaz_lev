@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="eceafdd7" id="eceafdd7">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>eceafdd7</name>
+  <Placemark id="eceafdd7.1">
+	<name>2</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#eceafdd7">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">424.149</SimpleData>
+		<SimpleData name="leveling_order">423,076</SimpleData>
+		<SimpleData name="control_height">в верхней плоскости монолита</SimpleData>
+		<SimpleData name="benchmark_number">131 оп, знак</SimpleData>
+		<SimpleData name="control_location">Линия № 1: Аманкельды - Карсакбай, 1 класс (3)
+Участок: грунт, реп, 3801 - фунд, реп, 2</SimpleData>
+		<SimpleData name="benchmark_type">Байконыр, с,, в 16,9 км к вост, от него, в 7,2 км к зап, от развилки шоссе с, Байконыр - с, Карсакбай - с, Пионер, в 20 м к сев, от грунт, дороги с, Байконыр - с, Карсакбай</SimpleData>
+		<SimpleData name="location_description">eceafdd7-d3fa-4caa-869c-0a417706e8e8</SimpleData>
+		<SimpleData name="status">data/stations/eceafdd7.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/eceafdd7.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>66.278029061684,47.8205978375088</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

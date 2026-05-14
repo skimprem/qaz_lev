@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="f645f44a" id="f645f44a">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>f645f44a</name>
+  <Placemark id="f645f44a.1">
+	<name>8233</name>
+	<name>грунт. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#f645f44a">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">277.201</SimpleData>
+		<SimpleData name="benchmark_number">146 оп</SimpleData>
+		<SimpleData name="control_location">Линия №1: Карталы - Кандагач, I класс. Участок: грунт. реп. 0710 - грунт. реп. 8454</SimpleData>
+		<SimpleData name="benchmark_type">№302, раз., в 0.2 км к зап. от него, на 25 м к югу от полевой дороги, в 11 м к зап. от края лесополосы</SimpleData>
+		<SimpleData name="location_description">f645f44a-e6ca-4463-913f-2d370eba3f61</SimpleData>
+		<SimpleData name="status">data/stations/f645f44a.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/f645f44a.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>58.4605331230551,51.0497010417126</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

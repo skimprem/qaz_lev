@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="d23175e5" id="d23175e5">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>d23175e5</name>
+  <Placemark id="d23175e5.1">
+	<name>123</name>
+	<name>грунт. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#d23175e5">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">1400.715</SimpleData>
+		<SimpleData name="benchmark_number">121 оп. знак</SimpleData>
+		<SimpleData name="control_location">Линия № 3: Карабута – Белая Школа, II класс , Участок: фунд.реп. 131 – ск.реп. 2274</SimpleData>
+		<SimpleData name="benchmark_type">Предгорное, с., в 3.9 км к сев. от него, в 2.8 км к юго-зап. от пер. Сайасу, в 0.1 км к зап. от р. Курумса</SimpleData>
+		<SimpleData name="location_description">d23175e5-a70f-4f26-b4d2-fa151ac5a895</SimpleData>
+		<SimpleData name="status">data/stations/d23175e5.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/d23175e5.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>82.7668979064598,47.1267401556403</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

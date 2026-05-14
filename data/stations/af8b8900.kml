@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="af8b8900" id="af8b8900">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>af8b8900</name>
+  <Placemark id="af8b8900.1">
+	<name>7594</name>
+	<description>фунд.реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#af8b8900">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">732.655</SimpleData>
+		<SimpleData name="leveling_order">732.609*</SimpleData>
+		<SimpleData name="leveling_height">7666</SimpleData>
+		<SimpleData name="control_height">в скале</SimpleData>
+		<SimpleData name="benchmark_number">114 оп.знак</SimpleData>
+		<SimpleData name="control_location">Линия № 1:Сарыозек-Каратас I класс                            Участок: ск. реп. 8415-фунд. реп. 7594</SimpleData>
+		<SimpleData name="benchmark_type">Айнабулак, станц., в 2.4 км к юго-вост. от неё, на 6 ПК 1456 км, в 28 м к зап. от жел.-дор. полотна, в 18 м к юго-запст. ПК 6/7</SimpleData>
+		<SimpleData name="location_description">af8b8900-387d-45d9-8e10-255429996f7b</SimpleData>
+		<SimpleData name="status">data/stations/af8b8900.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/af8b8900.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>78.0015204029713,44.6052198979001</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

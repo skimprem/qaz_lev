@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="159a50cc" id="159a50cc">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>159a50cc</name>
+  <Placemark id="159a50cc.1">
+	<name>Х11</name>
+	<name>грунт.реп</name>
+	<ExtendedData><SchemaData schemaUrl="#159a50cc">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">286.306</SimpleData>
+		<SimpleData name="benchmark_number">121</SimpleData>
+		<SimpleData name="control_location">Линия №2:  Нецветаевка - им.Сталина (р.Оленты), 2 класс. Участок: грунт.реп.Х1У - грунт.реп. Х</SimpleData>
+		<SimpleData name="benchmark_type">Ильника, с., в 13.0 км к сев.-вост. От него, у двух не больших озер, в 30 м к сев. От дороги с.Шийлинка - с. Байсары</SimpleData>
+		<SimpleData name="location_description">159a50cc-e6f4-414a-8306-21870c83d9bb</SimpleData>
+		<SimpleData name="status">data/stations/159a50cc.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/159a50cc.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.828578048546,52.0204677689164</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

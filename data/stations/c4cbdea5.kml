@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="c4cbdea5" id="c4cbdea5">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>c4cbdea5</name>
+  <Placemark id="c4cbdea5.1">
+	<name>б/№</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#c4cbdea5">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">261,787</SimpleData>
+		<SimpleData name="control_location">Линия № 2: Актас - р. Шу. II класс (1,2) Участок: грунт, реп. 8003 - фунд. реп. 5957</SimpleData>
+		<SimpleData name="benchmark_type">Уланбель, с, в 1.6 км к юго-зап. от него, в 0.7 к зап. от шоссе с. Уланбель - с. Мойьгнкум, в 0.4 км к юго-вост. от полевой дороги</SimpleData>
+		<SimpleData name="location_description">c4cbdea5-bc34-44fe-8c61-6ca423838a86</SimpleData>
+		<SimpleData name="status">data/stations/c4cbdea5.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/c4cbdea5.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>71.1105349174121,44.8136781756733</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="1c929534" id="1c929534">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>1c929534</name>
+  <Placemark id="1c929534.1">
+	<name>5322</name>
+	<name>стен. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#1c929534">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">95.736</SimpleData>
+		<SimpleData name="control_location">Висячий ход от марки 4280. II класс</SimpleData>
+		<SimpleData name="benchmark_type">Кемесалган. разв. . в здании разъезда</SimpleData>
+		<SimpleData name="location_description">1c929534-9892-4b32-b9f1-da5c5ac2629b</SimpleData>
+		<SimpleData name="status">data/stations/1c929534.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/1c929534.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>63.7496830019823,45.7568737563154</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

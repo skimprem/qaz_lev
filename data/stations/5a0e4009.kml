@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="5a0e4009" id="5a0e4009">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>5a0e4009</name>
+  <Placemark id="5a0e4009.1">
+	<name>7852</name>
+	<name>грунт,реп,</name>
+	<ExtendedData><SchemaData schemaUrl="#5a0e4009">
+		<SimpleData name="type">I</SimpleData>
+		<SimpleData name="view">338.467</SimpleData>
+		<SimpleData name="leveling_order">337,047</SimpleData>
+		<SimpleData name="control_height">Контрольный репер №5018 в верхней плоскости монолита </SimpleData>
+		<SimpleData name="benchmark_number">121</SimpleData>
+		<SimpleData name="control_location">Линия №2: Астана(Целиноград)-Амангельды, I класса (2)   Участок: грунт,реп,105-грунт,реп,7852</SimpleData>
+		<SimpleData name="benchmark_type">Жалтыр, станция, в 8,0 км к юго-вост,от нее, в 43 м к сев,-вост,от бетонного стб,№ 221, в 37 м к сев,-вост,от жел,-дор, полотна </SimpleData>
+		<SimpleData name="location_description">5a0e4009-7d40-4eed-bc52-f095c7e39c1b</SimpleData>
+		<SimpleData name="status">data/stations/5a0e4009.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/5a0e4009.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>69.9459484315172,51.6043100747889</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

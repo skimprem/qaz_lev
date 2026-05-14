@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="1b36f523" id="1b36f523">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>1b36f523</name>
+  <Placemark id="1b36f523.1">
+	<name>7734</name>
+	<name>грунт,реп,</name>
+	<ExtendedData><SchemaData schemaUrl="#1b36f523">
+		<SimpleData name="type">І</SimpleData>
+		<SimpleData name="view">297.053</SimpleData>
+		<SimpleData name="leveling_order">295, 670</SimpleData>
+		<SimpleData name="control_height">Контрольный репер № 5732 в верхней плоскости монолита</SimpleData>
+		<SimpleData name="benchmark_number">121</SimpleData>
+		<SimpleData name="control_location">Линия №1: Акмола (Целиноград) - Амангельды, I класса (I) Участок: грунт,реп,3725 - грунт,реп,2252</SimpleData>
+		<SimpleData name="benchmark_type">№ 87 раз,, в 9,0 км к вост от него на І пикете 601 км жел дор,, в 32 м к югу от жел дор полотна, в 30 м к югу от бетонного стб, № 284</SimpleData>
+		<SimpleData name="location_description">1b36f523-6279-49c5-93a3-bcd8ea9d7fa1</SimpleData>
+		<SimpleData name="status">data/stations/1b36f523.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/1b36f523.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>68.6656103358487,51.8062798233735</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="b7dc141a" id="b7dc141a">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>b7dc141a</name>
+  <Placemark id="b7dc141a.1">
+	<name>1903</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#b7dc141a">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">728,853</SimpleData>
+		<SimpleData name="leveling_order">727,571</SimpleData>
+		<SimpleData name="control_height">репер № 4082 в фундаментной плите </SimpleData>
+		<SimpleData name="benchmark_number">116 оп</SimpleData>
+		<SimpleData name="control_location">Линия № 3 :       Кара-Аул - Чубартау,                  II класс(2);  Участок : грунт.реп. 1791 -  фунд.реп.137</SimpleData>
+		<SimpleData name="benchmark_type">Жаппаркожа, мог., в 2,4 км к юго-зап. от нее, в 2,3  км к вост. от с. Байкошкар, в 0,5 км к юго-вост. от могилы</SimpleData>
+		<SimpleData name="location_description">b7dc141a-df70-463f-a829-53abc43b436f</SimpleData>
+		<SimpleData name="status">data/stations/b7dc141a.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/b7dc141a.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>78.7876190061209,48.3926299845344</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

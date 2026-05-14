@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="fc04325a" id="fc04325a">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>fc04325a</name>
+  <Placemark id="fc04325a.1">
+	<name>5351</name>
+	<name>грунт.реп</name>
+	<ExtendedData><SchemaData schemaUrl="#fc04325a">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">361.170</SimpleData>
+		<SimpleData name="benchmark_number">160 оп. знак</SimpleData>
+		<SimpleData name="control_location">Линия № 3: Актогай - Сайкан, II класс 
+Участок: фунд.реп. 4112 – грунт.реп. 6477
+</SimpleData>
+		<SimpleData name="benchmark_type">Актогай, станц., в 5.7 км к югу от нее, в 2.8 км к юго-вост. от развилки жел.дор., в 60 м к юго-зап. от жел.дор.</SimpleData>
+		<SimpleData name="location_description">fc04325a-b87f-4f20-b1bc-4be4242b95a9</SimpleData>
+		<SimpleData name="status">data/stations/fc04325a.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/fc04325a.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>79.6857728044309,46.9016342344083</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

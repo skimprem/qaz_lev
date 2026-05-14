@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="bebb5900" id="bebb5900">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>bebb5900</name>
+  <Placemark id="bebb5900.1">
+	<name>6427</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#bebb5900">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">127.158</SimpleData>
+		<SimpleData name="leveling_height">0</SimpleData>
+		<SimpleData name="benchmark_number">146 оп</SimpleData>
+		<SimpleData name="benchmark_type">В 1,5 км к вост.от оз. Улькен калкаман, в 0,5 км к зап.от дороги</SimpleData>
+		<SimpleData name="location_description">bebb5900-5a84-4505-aff6-194e7d70af49</SimpleData>
+		<SimpleData name="status">data/stations/bebb5900.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/bebb5900.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>76.5974375282836,52.023371634214</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

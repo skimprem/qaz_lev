@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="af99fb9f" id="af99fb9f">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>af99fb9f</name>
+  <Placemark id="af99fb9f.1">
+	<name>2413</name>
+	<name>грунт,реп</name>
+	<ExtendedData><SchemaData schemaUrl="#af99fb9f">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">364.714</SimpleData>
+		<SimpleData name="benchmark_number">160</SimpleData>
+		<SimpleData name="control_location">Линия №2: грунт,реп,1200 - грунт,реп, 1180, I класс 
+Участок: грунт,реп,1497 - грунт,реп,1367</SimpleData>
+		<SimpleData name="benchmark_type">Первое Мая,с,,в 1,3 км к сев,-зап,от
+него,в 0,2 км к югу от км,стб,1/91,в
+30 м к зап,от шоссе с,Ошакты-с,Бескубу</SimpleData>
+		<SimpleData name="location_description">af99fb9f-02df-49da-b8f5-2a44c7947f97</SimpleData>
+		<SimpleData name="status">data/stations/af99fb9f.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/af99fb9f.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>68.8857660703524,41.3346022726247</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

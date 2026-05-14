@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="e38f2054" id="e38f2054">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>e38f2054</name>
+  <Placemark id="e38f2054.1">
+	<name>9314</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#e38f2054">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">172,998</SimpleData>
+		<SimpleData name="control_location">Участок: грунт, реп. 9314 - грунт.реп. 5741</SimpleData>
+		<SimpleData name="benchmark_type">Бульдырык. арт. к., в 3.3 км к сев.-вост. от него, в 0.4 км 63.4 к зап. от род. Бульдырык, в 47 м к сев.-зап. от полевой дороги</SimpleData>
+		<SimpleData name="location_description">e38f2054-ed0c-48c9-9b41-c48cb3149b8c</SimpleData>
+		<SimpleData name="status">data/stations/e38f2054.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/e38f2054.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.7163585162498,45.99638344787</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

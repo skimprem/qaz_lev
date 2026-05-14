@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="b7c11442" id="b7c11442">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>b7c11442</name>
+  <Placemark id="b7c11442.1">
+	<name>15300</name>
+	<name>грунт.реп</name>
+	<ExtendedData><SchemaData schemaUrl="#b7c11442">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">293.651</SimpleData>
+		<SimpleData name="benchmark_number">121</SimpleData>
+		<SimpleData name="control_location">Линия №1: Байлюсты (Карасу) - Нецветаевка, 2 класс. Участок:грунт.реп.275- грунт.реп.13550</SimpleData>
+		<SimpleData name="benchmark_type">Минский, свх., в 1.2 км к вост. От неого, в 30 м к югу от дороги свх.Минский - отд.№ 1 свх.минский</SimpleData>
+		<SimpleData name="location_description">b7c11442-6d2d-4e5d-8826-756153e69c58</SimpleData>
+		<SimpleData name="status">data/stations/b7c11442.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/b7c11442.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.2345285929347,52.1077973758954</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

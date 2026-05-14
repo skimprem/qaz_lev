@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="f300f388" id="f300f388">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>f300f388</name>
+  <Placemark id="f300f388.1">
+	<name>194</name>
+	<name>грунт. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#f300f388">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">499.562</SimpleData>
+		<SimpleData name="leveling_order">497,416</SimpleData>
+		<SimpleData name="control_height">репер в верхней плоскости монолита</SimpleData>
+		<SimpleData name="benchmark_number">123</SimpleData>
+		<SimpleData name="control_location">Линия №1: Усть-Каменогорск-Берёзовка, 2 класс (2) Участок: грунт. реп.188 - грунт. реп. 195</SimpleData>
+		<SimpleData name="benchmark_type">Староалександровка, с., в 4.0 км к юго-вост. от него, в 0.1 км к югу от дороги с. Староалександровка - с. Березовка, в 0.2 км от тлф. стб. №90</SimpleData>
+		<SimpleData name="location_description">f300f388-c032-4cd6-8a00-7a00e121adb8</SimpleData>
+		<SimpleData name="status">data/stations/f300f388.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/f300f388.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>83.3750167281356,49.7185707387467</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="53445c83" id="53445c83">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>53445c83</name>
+  <Placemark id="53445c83.1">
+	<name>1124</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#53445c83">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">599.565</SimpleData>
+		<SimpleData name="benchmark_number">146</SimpleData>
+		<SimpleData name="control_location">Линия №26: пир. 4 кл. Ушоба - пир. 4 кл. Связующий, II класс (3)</SimpleData>
+		<SimpleData name="benchmark_type">Караганда, гор., в 3.9 км к вост. от аэропорта, в 0.6 км к югу от щебеночного карьера</SimpleData>
+		<SimpleData name="location_description">53445c83-467c-4e96-99d1-e4a6eebf0899</SimpleData>
+		<SimpleData name="status">data/stations/53445c83.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/53445c83.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>73.1892665105498,49.8015486532239</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

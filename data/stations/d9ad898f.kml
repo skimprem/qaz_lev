@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="d9ad898f" id="d9ad898f">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>d9ad898f</name>
+  <Placemark id="d9ad898f.1">
+	<name>1008</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#d9ad898f">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">518.034</SimpleData>
+		<SimpleData name="leveling_order">516.092</SimpleData>
+		<SimpleData name="control_height">Контрольный репер в фундаментной плите</SimpleData>
+		<SimpleData name="benchmark_number">116</SimpleData>
+		<SimpleData name="control_location">Линия №6: грунт.реп. 1008 - пир. 4 кл. Цемзавод, II класс (3)</SimpleData>
+		<SimpleData name="benchmark_type">Караганда Новая, станция, в 2.8 км к сев. от неё, в 0.4 км к югу от жел.-дор. моста</SimpleData>
+		<SimpleData name="location_description">d9ad898f-629d-41a7-9604-13a128e90971</SimpleData>
+		<SimpleData name="status">data/stations/d9ad898f.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/d9ad898f.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>73.1902937643577,49.9229486319957</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

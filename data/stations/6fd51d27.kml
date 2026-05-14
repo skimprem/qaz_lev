@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="6fd51d27" id="6fd51d27">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>6fd51d27</name>
+  <Placemark id="6fd51d27.1">
+	<name>2472</name>
+	<description>грунт.реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#6fd51d27">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="benchmark_number">5 (146)</SimpleData>
+		<SimpleData name="benchmark_type">Ленинское, п. г. т., 2.0 км к сев. от него, в 20 м к вост. от автодороги Ленинское - свх. Кировский 125 м к сев.-зап. от стб. связи № 71/036</SimpleData>
+		<SimpleData name="leveling_line_section">не найден</SimpleData>
+		<SimpleData name="location_description">6fd51d27-a7d1-4999-aeb7-1086a055f5ce</SimpleData>
+		<SimpleData name="status">data/stations/6fd51d27.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/6fd51d27.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>65.3125227395431,54.0570206700415</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

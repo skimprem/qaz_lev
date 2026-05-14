@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="b03d22f0" id="b03d22f0">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>b03d22f0</name>
+  <Placemark id="b03d22f0.1">
+	<name>318</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#b03d22f0">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">102.51</SimpleData>
+		<SimpleData name="benchmark_number">131</SimpleData>
+		<SimpleData name="control_location">Линия:Урлютюп-Качиры, II класс(3) Участок: фнд.рп.310-гр.рп.341</SimpleData>
+		<SimpleData name="benchmark_type">Прииртышское, с.,на юго-вост. окраине его , в 0.1 км к юго-вост. от перекрестка улиц Целинная и Новая</SimpleData>
+		<SimpleData name="location_description">b03d22f0-76e7-45be-8433-fd12e20dc5cd</SimpleData>
+		<SimpleData name="status">data/stations/b03d22f0.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/b03d22f0.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.1052065764483,53.7037587100595</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

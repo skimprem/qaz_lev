@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="c7f77f45" id="c7f77f45">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>c7f77f45</name>
+  <Placemark id="c7f77f45.1">
+	<name>1394</name>
+	<description>грунт. реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#c7f77f45">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">125.037</SimpleData>
+		<SimpleData name="benchmark_number">118</SimpleData>
+		<SimpleData name="control_location">Линия № 4: Кызылорда - Арыс, I класс. Ход от грунт.реп. 1323 - грунт. Реп. 1286, II класс. Участок: грунт.реп. 1323 - грунт.реп. 1275 (1375)</SimpleData>
+		<SimpleData name="benchmark_type">Когалыколь, с., в 6.8 км к вост.от него, в 0.3 км к югу от шоссе с. Когалыколь - с. Тасбогет, в 0.3 км к зап.от лимана</SimpleData>
+		<SimpleData name="location_description">c7f77f45-ab74-4221-9230-25372bee7439</SimpleData>
+		<SimpleData name="status">data/stations/c7f77f45.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/c7f77f45.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>65.2756546048002,44.7756779787514</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

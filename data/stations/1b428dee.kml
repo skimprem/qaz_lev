@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="1b428dee" id="1b428dee">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>1b428dee</name>
+  <Placemark id="1b428dee.1">
+	<name>1998</name>
+	<description>грунт. реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#1b428dee">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">206.683</SimpleData>
+		<SimpleData name="benchmark_number">146 оп</SimpleData>
+		<SimpleData name="control_location">Линия № 1: Амангельды - Байконур,  II класс Участок: грунт.реп. 301 - грунт.реп. 4293      </SimpleData>
+		<SimpleData name="benchmark_type">Жолоба, с., в 10.2 км к юго-зап. от него, в 2.2 км к сев.-вост. от оз. Киши-Катпаган, в 30 м к вост. от дороги с. Амангельды - с. Рахмет</SimpleData>
+		<SimpleData name="location_description">1b428dee-bdc4-4d81-9895-29aa986d5882</SimpleData>
+		<SimpleData name="status">data/stations/1b428dee.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/1b428dee.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>65.3729486480804,49.6582262173898</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

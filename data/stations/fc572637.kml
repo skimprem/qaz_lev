@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="fc572637" id="fc572637">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>fc572637</name>
+  <Placemark id="fc572637.1">
+	<name>292,</name>
+	<name>грунт.реп.</name>
+	<description>грунт.реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#fc572637">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">351.459</SimpleData>
+		<SimpleData name="leveling_order">349.627*</SimpleData>
+		<SimpleData name="leveling_height">№ 675</SimpleData>
+		<SimpleData name="control_height">В фундаментной плите</SimpleData>
+		<SimpleData name="benchmark_number">116</SimpleData>
+		<SimpleData name="control_location">Ход от·пир.2 кл.Актамша пир.2 кл.Тугарал, П класс  Участок: пир.2 кл.Актамша -грунт.реп.292 </SimpleData>
+		<SimpleData name="benchmark_type">Актамша,мог.,в 8.2 км к сев.-вост.от нее,в 5.4 км к вост.от пир.2 кл.Актамша,в З.б км к юго-вост.от полевой дороги </SimpleData>
+		<SimpleData name="location_description">fc572637-adea-4c82-999a-ba4c3b146aa8</SimpleData>
+		<SimpleData name="status">data/stations/fc572637.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/fc572637.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>76.0316463581119,46.3908442915526</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

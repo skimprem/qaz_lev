@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="bbbf4e2d" id="bbbf4e2d">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>bbbf4e2d</name>
+  <Placemark id="bbbf4e2d.1">
+	<name>5717</name>
+	<name>грунт. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#bbbf4e2d">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">597,614</SimpleData>
+		<SimpleData name="benchmark_number">146 оп</SimpleData>
+		<SimpleData name="control_location">Линия № 137: Жангиз -Тобе -Зайсан. II класс (10)   Участок: грунт. реп. 28 -грунт. реп. 5430</SimpleData>
+		<SimpleData name="benchmark_type">Караоткель, ОТФ, в 0.4 км к югу от нее, в 62 м к сев. -вост. от развалин в 7 м к зап. от дороги с. Николаевка -с. Кокпекты</SimpleData>
+		<SimpleData name="location_description">bbbf4e2d-374a-4198-a213-ef15cba678b5</SimpleData>
+		<SimpleData name="status">data/stations/bbbf4e2d.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/bbbf4e2d.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>82.1021101832249,49.0498099273632</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

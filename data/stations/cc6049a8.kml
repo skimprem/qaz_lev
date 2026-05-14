@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="cc6049a8" id="cc6049a8">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>cc6049a8</name>
+  <Placemark id="cc6049a8.1">
+	<name>91760</name>
+	<name>грунт,реп,</name>
+	<ExtendedData><SchemaData schemaUrl="#cc6049a8">
+		<SimpleData name="type">I</SimpleData>
+		<SimpleData name="view">403.002</SimpleData>
+		<SimpleData name="leveling_order">401,123</SimpleData>
+		<SimpleData name="control_height">репер №514 в верхней плоскости монолита</SimpleData>
+		<SimpleData name="benchmark_number">121</SimpleData>
+		<SimpleData name="control_location">Линия № 1: Петропавловск - Астана (Целиноград), I класс Участок: грунт,реп, 7430 - грунт,реп, 6360</SimpleData>
+		<SimpleData name="benchmark_type">Жасыл, с,, в 3,2 км к сев,-зап, от него, на 2 пк 280 км жел,дор,, в 43 м к юго-зап, от ближнего рельса, на поляне</SimpleData>
+		<SimpleData name="leveling_line_section">репер в хорошем состоянии</SimpleData>
+		<SimpleData name="location_description">cc6049a8-c660-4915-8843-549fe02903c4</SimpleData>
+		<SimpleData name="status">data/stations/cc6049a8.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/cc6049a8.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>70.2493855265189,52.8195391274616</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

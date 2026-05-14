@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="f27b5d20" id="f27b5d20">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>f27b5d20</name>
+  <Placemark id="f27b5d20.1">
+	<name>5082</name>
+	<name>грунтовый репер </name>
+	<ExtendedData><SchemaData schemaUrl="#f27b5d20">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">781,875</SimpleData>
+		<SimpleData name="benchmark_number">160оп</SimpleData>
+		<SimpleData name="control_location">Линия №2: Актогай - Акчатау, II класс (1)  Участок: фунд.реп. 4072 - грунт. реп. 6736</SimpleData>
+		<SimpleData name="benchmark_type">Актогай, с., в 7,0 км к юго-зап. от него, в 2,2 км к юго-вост. от зимовки, в 20 м к югу от линии </SimpleData>
+		<SimpleData name="location_description">f27b5d20-9fbf-405f-bffb-169eb884f6a1</SimpleData>
+		<SimpleData name="status">data/stations/f27b5d20.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/f27b5d20.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>74.9414249734118,48.2492732093623</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

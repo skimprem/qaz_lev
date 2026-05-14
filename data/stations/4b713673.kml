@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="4b713673" id="4b713673">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>4b713673</name>
+  <Placemark id="4b713673.1">
+	<name>10914</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#4b713673">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">633.844</SimpleData>
+		<SimpleData name="leveling_order">632,769*</SimpleData>
+		<SimpleData name="control_height">Контрольный репер в верхней плоскости монолита</SimpleData>
+		<SimpleData name="benchmark_number">121 оп</SimpleData>
+		<SimpleData name="control_location">Линия № 5: Чилик - Кольбастау,  П класс (1,2)  Участок; фунд.реп 2208 - ск.реп. 0370</SimpleData>
+		<SimpleData name="benchmark_type">Масак, с., в 1,0 км к югу от  него, в 0,2 км к вост, от моста через р.Чилик, у дороги с.Чилик-с.Жаланаш</SimpleData>
+		<SimpleData name="location_description">4b713673-19d3-4ab6-b1e7-b6a3d0dba593</SimpleData>
+		<SimpleData name="status">data/stations/4b713673.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/4b713673.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>78.3117481907575,43.6059105273337</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

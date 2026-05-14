@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="dbb63745" id="dbb63745">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>dbb63745</name>
+  <Placemark id="dbb63745.1">
+	<name>6607</name>
+	<description>грунт.реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#dbb63745">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">690.326</SimpleData>
+		<SimpleData name="leveling_order">689.214*</SimpleData>
+		<SimpleData name="leveling_height">554</SimpleData>
+		<SimpleData name="control_height">в верхней плоскости монолита</SimpleData>
+		<SimpleData name="benchmark_number">121 оп.знак</SimpleData>
+		<SimpleData name="control_location">Линия № 1:Сарыозек-Каратас I класс                            Участок: грунт. реп. 6144-грунт. реп. 1411</SimpleData>
+		<SimpleData name="benchmark_type">Копр, раз. в 2.6 км к юго-вост. от него, на 8 ПК 1449 км, в 58 м к юго-зап. от жел.-дор. полотна, в 47 м к югу от тлф. стб. 256/30</SimpleData>
+		<SimpleData name="location_description">dbb63745-e28c-4fae-bd69-b73b573eba62</SimpleData>
+		<SimpleData name="status">data/stations/dbb63745.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/dbb63745.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.9552203585506,44.6433033582999</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

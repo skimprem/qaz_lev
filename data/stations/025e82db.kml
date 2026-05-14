@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="025e82db" id="025e82db">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>025e82db</name>
+  <Placemark id="025e82db.1">
+	<name>2</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#025e82db">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">118.000</SimpleData>
+		<SimpleData name="leveling_height">0</SimpleData>
+		<SimpleData name="benchmark_number">124</SimpleData>
+		<SimpleData name="benchmark_type">В 2,0 км к зап.от с. Седьмого аула, в 0,3 км к зап.от ЛЭП, в м к югу от пол.дороги с. Седьмой аул - с. Калиновка</SimpleData>
+		<SimpleData name="leveling_line_section">утрачен</SimpleData>
+		<SimpleData name="location_description">025e82db-9466-44b9-aa27-9d4b9ea7ee1d</SimpleData>
+		<SimpleData name="status">data/stations/025e82db.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/025e82db.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>76.7343887334562,52.2488357925064</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

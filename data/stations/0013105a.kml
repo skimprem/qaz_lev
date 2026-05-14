@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="0013105a" id="0013105a">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>0013105a</name>
+  <Placemark id="0013105a.1">
+	<name>9676</name>
+	<description>грунт.реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#0013105a">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">100.554</SimpleData>
+		<SimpleData name="benchmark_number">160 оп</SimpleData>
+		<SimpleData name="control_location">Линия № 1: Кустанай - Урицкое, II класс            Участок : грунт.реп.7162 - грунт.реп 3344</SimpleData>
+		<SimpleData name="benchmark_type">Жанасу, с., в 5.0 км к сев.-вост.от него, в 65 м к юго-зап.от стб.65 ЛЭП, в 40 м к сев.-зап.от дороги гор.Кустанай - гор.Кокчетав, в 20 м к сев.-вост.от стб.2286 линии связи</SimpleData>
+		<SimpleData name="location_description">0013105a-2c3b-44a5-968b-02d7e2805a1b</SimpleData>
+		<SimpleData name="status">data/stations/0013105a.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/0013105a.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>64.9824819995076,53.3134478164249</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

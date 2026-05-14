@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="db1ea798" id="db1ea798">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>db1ea798</name>
+  <Placemark id="db1ea798.1">
+	<name>2969</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#db1ea798">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">663,419</SimpleData>
+		<SimpleData name="leveling_order">662,419</SimpleData>
+		<SimpleData name="control_height">в трубе</SimpleData>
+		<SimpleData name="benchmark_number">А оп</SimpleData>
+		<SimpleData name="control_location">Линия № 1 :       Акбулак - Чубартау,              I класс(1);  Участок : грунт.реп. 7183 - фунд.реп. 527</SimpleData>
+		<SimpleData name="benchmark_type">Алекун, мог., в 1,0 км к сев.-вост. от нее, в 0,4 км к югу от  с.Баршатас (Чубартау),  в 30 м к сев. от дороги с.Баршатас (Чубартау) - гор. Аягуз</SimpleData>
+		<SimpleData name="location_description">db1ea798-5306-4963-b588-433c5afe0c32</SimpleData>
+		<SimpleData name="status">data/stations/db1ea798.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/db1ea798.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>78.665537209365,48.1680626808867</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

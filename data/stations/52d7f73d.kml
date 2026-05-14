@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="52d7f73d" id="52d7f73d">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>52d7f73d</name>
+  <Placemark id="52d7f73d.1">
+	<name>3879</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#52d7f73d">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">210,068</SimpleData>
+		<SimpleData name="benchmark_number">160оп</SimpleData>
+		<SimpleData name="control_location">Линия №10: пир. 4 кл. Щурф - фунд. реп. 3504, II класс (2)</SimpleData>
+		<SimpleData name="benchmark_type">Ангрен, оз., в 1,5 км к вост. от него, в 1,5 км к юго-зап. от водосточной трубы под жел.дор., в 0,5 км к юго-вост. от могилы</SimpleData>
+		<SimpleData name="location_description">52d7f73d-3c27-49e6-87b4-6600be311e03</SimpleData>
+		<SimpleData name="status">data/stations/52d7f73d.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/52d7f73d.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.6856250455013,51.5446901260867</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

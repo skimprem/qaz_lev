@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="ec8bcad7" id="ec8bcad7">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>ec8bcad7</name>
+  <Placemark id="ec8bcad7.1">
+	<name>3</name>
+	<name>грунт. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#ec8bcad7">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">418.231</SimpleData>
+		<SimpleData name="control_location">Линия № 2: Коктума(фунд.реп.3002) - Учарал(фунд.реп.25), II класс. Участок: фунд.реп. 3002 – грунт.реп. 272</SimpleData>
+		<SimpleData name="benchmark_type">Коктума, с., в 5.3 км к сев.-зап. от него, в 1.4 км к зап. от жел. дор., в 80 м к сев.-вост. от пересечения грунт. дороги с. Ушбулак – с. Коктума с ар. Бельтоган</SimpleData>
+		<SimpleData name="location_description">ec8bcad7-b47b-4d11-ab50-210c3a44b240</SimpleData>
+		<SimpleData name="status">data/stations/ec8bcad7.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/ec8bcad7.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>81.5819839820912,45.8992276063873</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

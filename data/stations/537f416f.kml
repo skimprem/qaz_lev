@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="537f416f" id="537f416f">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>537f416f</name>
+  <Placemark id="537f416f.1">
+	<name>1411</name>
+	<description>грунт.реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#537f416f">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">634.602</SimpleData>
+		<SimpleData name="benchmark_number">160 оп.знак</SimpleData>
+		<SimpleData name="control_location">Линия: Свры-Озек — Локоть (06,03.0541 и 06.03.1235), I класс,</SimpleData>
+		<SimpleData name="benchmark_type">Мойынкум, станц., в 3,1км к юго-
+вост. от неё, на 3 ПК 1440км жел.
+дор., в 51м к юго-вост. от светофора,
+в j7m к сев. от ПК стб. 3/4, в 13м к
+сев.-вост. от жел.-дор. полотна, в Зм к вост. от пол. Дороги</SimpleData>
+		<SimpleData name="location_description">537f416f-3523-49bf-a54d-e340c88fa37f</SimpleData>
+		<SimpleData name="status">data/stations/537f416f.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/537f416f.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.9084227426765,44.7164059441863</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

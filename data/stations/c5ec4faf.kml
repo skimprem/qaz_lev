@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="c5ec4faf" id="c5ec4faf">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>c5ec4faf</name>
+  <Placemark id="c5ec4faf.1">
+	<name>604</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#c5ec4faf">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">155,304</SimpleData>
+		<SimpleData name="leveling_order">152,674</SimpleData>
+		<SimpleData name="control_height">Контрольный репер №728 в верхней плоскости монолита. </SimpleData>
+		<SimpleData name="benchmark_number">121</SimpleData>
+		<SimpleData name="control_location">Ход от грунт.реп. 268 до грунт.реп. 287, II класс (4)</SimpleData>
+		<SimpleData name="benchmark_type">Алтыкудук, лет., в 12,0 км к югу от него, в 3,2 км к югу от лет.Алтыкудук, к вост.от полевой дороги</SimpleData>
+		<SimpleData name="leveling_line_section">уничтожен</SimpleData>
+		<SimpleData name="location_description">c5ec4faf-9499-4559-8ac8-3e0eedad2ec7</SimpleData>
+		<SimpleData name="status">data/stations/c5ec4faf.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/c5ec4faf.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.5134030428806,51.0193826366236</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

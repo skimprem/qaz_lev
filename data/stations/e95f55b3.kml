@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="e95f55b3" id="e95f55b3">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>e95f55b3</name>
+  <Placemark id="e95f55b3.1">
+	<name>150</name>
+	<name>грунт. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#e95f55b3">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">257.784</SimpleData>
+		<SimpleData name="leveling_order">256.321</SimpleData>
+		<SimpleData name="benchmark_number">А</SimpleData>
+		<SimpleData name="control_location">Линия №1 : Карабутак - Жанатурмыс , II класс . Участок : грунт. Реп. 2702-грунт. Реп. 169</SimpleData>
+		<SimpleData name="benchmark_type">Восточное, с., в 6.6 км к вост. от него, в 24 м к вост. от полевой дороги </SimpleData>
+		<SimpleData name="location_description">e95f55b3-36d4-4d49-a493-6d3a227d30c8</SimpleData>
+		<SimpleData name="status">data/stations/e95f55b3.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/e95f55b3.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>61.9409395926655,51.1664483436052</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

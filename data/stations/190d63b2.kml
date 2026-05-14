@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="190d63b2" id="190d63b2">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>190d63b2</name>
+  <Placemark id="190d63b2.1">
+	<name>Шагамбай</name>
+	<description>пирамида</description>
+	<ExtendedData><SchemaData schemaUrl="#190d63b2">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">497.959</SimpleData>
+		<SimpleData name="leveling_height">47</SimpleData>
+		<SimpleData name="benchmark_number">1</SimpleData>
+		<SimpleData name="control_location">Линия № 3: Алажиде – Оз. Жаланашколь, Участок: фунд. реп. 386 – грунт. реп. 5214</SimpleData>
+		<SimpleData name="benchmark_type">Кызылагаш, с., в 17.3 км к вост. от него, на 343 км шоссе гор. Алматы – гор. Усть-Каменогорск, в 0.6 км к сев. от шоссе, на кургане</SimpleData>
+		<SimpleData name="location_description">190d63b2-ec6c-410c-94ba-7f463d7254bb</SimpleData>
+		<SimpleData name="status">data/stations/190d63b2.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/190d63b2.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>78.9582518953543,45.4089722766654</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

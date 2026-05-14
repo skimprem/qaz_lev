@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="085b2840" id="085b2840">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>085b2840</name>
+  <Placemark id="085b2840.1">
+	<name>4657</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#085b2840">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">205.313</SimpleData>
+		<SimpleData name="control_location">Линия № 4: Тимур- Баиркум,  II класс</SimpleData>
+		<SimpleData name="benchmark_type">Ферма № 2 свх.Акдалинский, в 1.7 км к югу от нее, в 80 м к зап.от кладб.Акынтам, в 10 м к вост.от зимовки</SimpleData>
+		<SimpleData name="location_description">085b2840-6c4f-4f2c-94a9-03fe51609ac9</SimpleData>
+		<SimpleData name="status">data/stations/085b2840.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/085b2840.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>68.2750210388136,42.4262641332405</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

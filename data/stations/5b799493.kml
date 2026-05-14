@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="5b799493" id="5b799493">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>5b799493</name>
+  <Placemark id="5b799493.1">
+	<name>20107</name>
+	<name>стенной репер</name>
+	<ExtendedData><SchemaData schemaUrl="#5b799493">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">382.175</SimpleData>
+		<SimpleData name="benchmark_number">143</SimpleData>
+		<SimpleData name="control_location">Линия № 1: Карсакбай - Тюемойнак, 1 класс (1) Участок: грунт, реп, 6483 - стен, реп, 921</SimpleData>
+		<SimpleData name="benchmark_type">Жезды, разв,, в стене зд, бывшего вокзала</SimpleData>
+		<SimpleData name="location_description">5b799493-be4b-4d08-8f1c-3fbce77430a3</SimpleData>
+		<SimpleData name="status">data/stations/5b799493.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/5b799493.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.2280188182157,47.8317569077765</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="fcd74f6a" id="fcd74f6a">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>fcd74f6a</name>
+  <Placemark id="fcd74f6a.1">
+	<name>6087</name>
+	<name>грунт. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#fcd74f6a">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">271.526</SimpleData>
+		<SimpleData name="leveling_order">269,444</SimpleData>
+		<SimpleData name="control_height">репер № 9322 в верхней плоскости монолита</SimpleData>
+		<SimpleData name="benchmark_number">121</SimpleData>
+		<SimpleData name="control_location">Линия № 1: Жангиз-Тобе-Локоть, I класс (1) Участок: марка 20128-марка 20077</SimpleData>
+		<SimpleData name="benchmark_type">Дельбегетей, станц., в 8.7 км к юго-вост. от нее, на 9 пикете 66 км, в 48 м к юго-зап. от жел.-дор. полотна</SimpleData>
+		<SimpleData name="location_description">fcd74f6a-5aa6-4600-80c6-42fd5d2791b0</SimpleData>
+		<SimpleData name="status">data/stations/fcd74f6a.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/fcd74f6a.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>80.7206529064293,49.9736478179838</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

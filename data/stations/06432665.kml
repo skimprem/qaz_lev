@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="06432665" id="06432665">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>06432665</name>
+  <Placemark id="06432665.1">
+	<name>106</name>
+	<name>фунд. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#06432665">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">366,876</SimpleData>
+		<SimpleData name="leveling_order">365,876</SimpleData>
+		<SimpleData name="control_height">марка №3170 в фундаментной плите</SimpleData>
+		<SimpleData name="benchmark_number">154 оп</SimpleData>
+		<SimpleData name="control_location">Линия № 1: Сары- Озек -Локоть, I класс (1) Участок: грунт. реп. 4038- грунт. реп. 7703</SimpleData>
+		<SimpleData name="benchmark_type">Бельагаш, с., в 5.7 км к сев.-вост. от него, в 0.2 км к юго-зап. от км стб. №598/599, в 0.1 км к юго-зап. от тлгр. стб. № 706/37, в 0.1 км к зап. от оси жел. -дор. полотна</SimpleData>
+		<SimpleData name="location_description">06432665-5dfc-488f-ad33-d4854b4a23b7</SimpleData>
+		<SimpleData name="status">data/stations/06432665.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/06432665.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>80.6113299181684,50.7347823452559</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="ade3504a" id="ade3504a">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>ade3504a</name>
+  <Placemark id="ade3504a.1">
+	<name>1384</name>
+	<name>стен. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#ade3504a">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">522,623</SimpleData>
+		<SimpleData name="benchmark_number">143</SimpleData>
+		<SimpleData name="control_location">Висячий ход от марки 1409, II класс (4)</SimpleData>
+		<SimpleData name="benchmark_type">Аврора, станц., в 1.5 км к зап. от нее, 166-й км, во втором устое жел.-дор. трубы, с зап. стороны</SimpleData>
+		<SimpleData name="location_description">ade3504a-3975-48dc-9a70-792d4ebc9295</SimpleData>
+		<SimpleData name="status">data/stations/ade3504a.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/ade3504a.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>82.110270595666,50.3858328977189</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

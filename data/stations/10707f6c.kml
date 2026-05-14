@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="10707f6c" id="10707f6c">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>10707f6c</name>
+  <Placemark id="10707f6c.1">
+	<name>10</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#10707f6c">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">122.160</SimpleData>
+		<SimpleData name="benchmark_number">64</SimpleData>
+		<SimpleData name="control_location">Линия №4:  Павлодар -Семиярск, , II класс (4) Участок:  марка 9703 - грунт. реп. 9</SimpleData>
+		<SimpleData name="benchmark_type">Ферма №2, в 2.8 км к сев.-вост. от нее, в 0.3 км к сев.-зап. от развалин с. Гавриловка, в 43 м к юго-зап. от дороги ферма №2 -с. Ямышево       </SimpleData>
+		<SimpleData name="leveling_line_section">утрачен</SimpleData>
+		<SimpleData name="location_description">10707f6c-ccaa-49bd-a722-fd6487b88e0e</SimpleData>
+		<SimpleData name="status">data/stations/10707f6c.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/10707f6c.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.2224938099946,52.0231244594248</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

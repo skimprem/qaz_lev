@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="6aff27ca" id="6aff27ca">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>6aff27ca</name>
+  <Placemark id="6aff27ca.1">
+	<name>75</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#6aff27ca">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">405,251</SimpleData>
+		<SimpleData name="leveling_order">402,514</SimpleData>
+		<SimpleData name="control_height">Контрольный репер № 113 в верхней плоскости монолита</SimpleData>
+		<SimpleData name="benchmark_number">123</SimpleData>
+		<SimpleData name="control_location">Линия №4: Карабастуз - Каркаралинск, II класс (3) Участок: ск. реп. 1678 - грунт. реп. 71</SimpleData>
+		<SimpleData name="benchmark_type">Байщулак, разв. пикета, в 22,0 км к юго-зап. от них, в 2,5 км к зап. от развалин и колодца, в 34 м к югу от дороги с.Муржик-с.Молдары</SimpleData>
+		<SimpleData name="location_description">6aff27ca-3c69-4614-9202-bb0c60a4edd2</SimpleData>
+		<SimpleData name="status">data/stations/6aff27ca.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/6aff27ca.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.8261997268756,50.0860814194232</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="a24b5230" id="a24b5230">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>a24b5230</name>
+  <Placemark id="a24b5230.1">
+	<name>113</name>
+	<name>грунт. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#a24b5230">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">96.084</SimpleData>
+		<SimpleData name="benchmark_number">160 оп. знак</SimpleData>
+		<SimpleData name="control_location">Линия № 2 : Коккабак - Жынгылдак, II класс. Участок: фунд. реп. 2 - грунт. реп. 308</SimpleData>
+		<SimpleData name="benchmark_type">Жуздак, кладб., в 6.7 км к сев.-зап. от него, в 4.2 км к юго-вост. от зим. Караунгир, в 0.7 км к зап. от солончака</SimpleData>
+		<SimpleData name="location_description">a24b5230-9dfd-4a78-91ce-7af83798c5ef</SimpleData>
+		<SimpleData name="status">data/stations/a24b5230.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/a24b5230.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>63.6047959128048,47.6437827513034</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

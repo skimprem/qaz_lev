@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="a81ac360" id="a81ac360">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>a81ac360</name>
+  <Placemark id="a81ac360.1">
+	<name>240</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#a81ac360">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">194,179</SimpleData>
+		<SimpleData name="leveling_height">193,181</SimpleData>
+		<SimpleData name="benchmark_number">в трубе</SimpleData>
+		<SimpleData name="control_location">Линия № 4: Кендырлык (Айгарлык) грунт. реп. 9617, II класс (2) Участок: фунд. реп. 25 - грунт. реп. 284 </SimpleData>
+		<SimpleData name="benchmark_type">Табан, кладб., в 10.9 км к юго-зап. от него, в 4.6 км к 0.3 юго-вост, от кладб. Кызылмола, в 0.5 км к вост. от грунт. дороги гор. Жезказган - с. Сузак. в 0.1 км к юго-зап. от фунд. реп. 25</SimpleData>
+		<SimpleData name="location_description">a81ac360-79df-453f-b50b-3d2950ec0885</SimpleData>
+		<SimpleData name="status">data/stations/a81ac360.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/a81ac360.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>68.221593633624,46.0751380308191</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

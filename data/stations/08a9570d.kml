@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="08a9570d" id="08a9570d">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>08a9570d</name>
+  <Placemark id="08a9570d.1">
+	<name>2223</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#08a9570d">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">214,004</SimpleData>
+		<SimpleData name="benchmark_number">146 оп</SimpleData>
+		<SimpleData name="control_location">Линия №6: Карабутак-Сарысай, II класс. Участок: фунд. реп. 5070-фунд. реп. 8140</SimpleData>
+		<SimpleData name="benchmark_type">Ферма №I, свх. им. XX съезда КПСС, в 6.6 км к юго-вост. от нее, в 1.0 км к югу от кладбища, в 38 м к вост. от дороги с. Аралтогай- с. Акбулак</SimpleData>
+		<SimpleData name="location_description">08a9570d-f941-40b4-8431-dfb8911d1d0a</SimpleData>
+		<SimpleData name="status">data/stations/08a9570d.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/08a9570d.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>60.2199860768839,49.6428612445709</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="e041ca7e" id="e041ca7e">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>e041ca7e</name>
+  <Placemark id="e041ca7e.1">
+	<name>47</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#e041ca7e">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">461.617</SimpleData>
+		<SimpleData name="control_height">Контрольный репер  в верхней плоскости монолита</SimpleData>
+		<SimpleData name="control_location">Линия №2: Талдысай-Жиделысай, II класс (2) Участок: грунт.реп.41-фунд.реп.0539</SimpleData>
+		<SimpleData name="benchmark_type">Таскудук,род.,в 3.4 км к сев.-зап.от него,в 0.2 км к сев.от ручья Талдыбулаксай,в 0.1 км к вост.от дороги с.Малшыбай-гор.Сатпаев</SimpleData>
+		<SimpleData name="location_description">e041ca7e-565a-48cc-b01d-f493810eb6bf</SimpleData>
+		<SimpleData name="status">data/stations/e041ca7e.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/e041ca7e.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.6856011359199,48.2435607614789</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

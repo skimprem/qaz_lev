@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="d4f4789d" id="d4f4789d">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>d4f4789d</name>
+  <Placemark id="d4f4789d.1">
+	<name>5194</name>
+	<name>грунтовый репер </name>
+	<ExtendedData><SchemaData schemaUrl="#d4f4789d">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">724,467</SimpleData>
+		<SimpleData name="benchmark_number">160оп</SimpleData>
+		<SimpleData name="control_location">Линия №2: Актогай - Акчатау, II класс (1)  Участок: фунд.реп. 4072 - грунт. реп. 6736</SimpleData>
+		<SimpleData name="benchmark_type">Нуркен, с., в 2,4 км к юго-зап. от него, в 0,7 км к сев.-зап. от ЛЭП, в 20 м к югу от полевой дороги</SimpleData>
+		<SimpleData name="location_description">d4f4789d-9a0a-43d7-828e-10dd07b56f84</SimpleData>
+		<SimpleData name="status">data/stations/d4f4789d.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/d4f4789d.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>74.5173764433507,48.0944870206634</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

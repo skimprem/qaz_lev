@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="fbfd9964" id="fbfd9964">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>fbfd9964</name>
+  <Placemark id="fbfd9964.1">
+	<name>98</name>
+	<name>грунт. реп. </name>
+	<ExtendedData><SchemaData schemaUrl="#fbfd9964">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">201,358</SimpleData>
+		<SimpleData name="leveling_order">198,658</SimpleData>
+		<SimpleData name="control_height">репер № 42 в верхней плоскости монолита</SimpleData>
+		<SimpleData name="benchmark_number">123</SimpleData>
+		<SimpleData name="control_location">Ход от фунд. реп. 1329 - грунт. реп. 94, II класс (8)</SimpleData>
+		<SimpleData name="benchmark_type">Семей, гор., в 4.0 км к юго-зап. от мкрн. Бобровка, в 76 м к сев. от улучщ. грунт. дороги с. Шаган - гор. Семей.</SimpleData>
+		<SimpleData name="leveling_line_section">уничтожен</SimpleData>
+		<SimpleData name="location_description">fbfd9964-0995-4399-a8c5-85874cb79d48</SimpleData>
+		<SimpleData name="status">data/stations/fbfd9964.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/fbfd9964.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>80.1259758606678,50.4022299224807</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

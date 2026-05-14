@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="b2bd6eee" id="b2bd6eee">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>b2bd6eee</name>
+  <Placemark id="b2bd6eee.1">
+	<name>205</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#b2bd6eee">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">483,435</SimpleData>
+		<SimpleData name="control_height">Контрольный репер в верхней плоскости монолита</SimpleData>
+		<SimpleData name="benchmark_number">121</SimpleData>
+		<SimpleData name="control_location">Ход от грунт.реп. 200 по фунд.реп.485, II класс (6)</SimpleData>
+		<SimpleData name="benchmark_type">Пионерское, с., в 1,5 км к юго-вост.от него, в 0,3 км к юго-зап.от базы заготскот, в 30 м к югу от дороги с.Пионерское- с. Приишимское</SimpleData>
+		<SimpleData name="leveling_line_section">уничтожен</SimpleData>
+		<SimpleData name="location_description">b2bd6eee-c40d-4418-a7db-5cf58fff3de1</SimpleData>
+		<SimpleData name="status">data/stations/b2bd6eee.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/b2bd6eee.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.919630936164,50.6098275124661</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

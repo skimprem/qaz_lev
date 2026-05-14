@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="e321ce67" id="e321ce67">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>e321ce67</name>
+  <Placemark id="e321ce67.1">
+	<name>7842</name>
+	<description>гр. реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#e321ce67">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">301.505</SimpleData>
+		<SimpleData name="benchmark_number">160 оп.знак</SimpleData>
+		<SimpleData name="control_location">Линия № 1:Торетоган-Берлик, I класс                            Участок: гр.реп. 1446-гр.реп. 2653</SimpleData>
+		<SimpleData name="benchmark_type">Карабугет, с., в 17,5 км к зап. от него, в 40 м к югу от линии связи, в 26 м к сев. от км стб. 141/80</SimpleData>
+		<SimpleData name="location_description">e321ce67-9c91-4d20-b836-c8abeab82253</SimpleData>
+		<SimpleData name="status">data/stations/e321ce67.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/e321ce67.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.0441338902554,44.5568030856567</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

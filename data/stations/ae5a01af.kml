@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="ae5a01af" id="ae5a01af">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>ae5a01af</name>
+  <Placemark id="ae5a01af.1">
+	<name>2881</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#ae5a01af">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">516,908</SimpleData>
+		<SimpleData name="benchmark_number">160оп</SimpleData>
+		<SimpleData name="control_location">Линия № 4: Степное-Актасты, II класс (6) Участок: фунд.реп. 446-грунт. реп.200</SimpleData>
+		<SimpleData name="benchmark_type">Приишимское, с. в 2,2 км к вост. от него, в 0,2 км к вост. от полевой дороги, в 0,1 км к сев. от бригады №3 свх. им. ХХI Партсъезда</SimpleData>
+		<SimpleData name="leveling_line_section">утрачен</SimpleData>
+		<SimpleData name="location_description">ae5a01af-f24f-458f-bf27-9d1718de3df9</SimpleData>
+		<SimpleData name="status">data/stations/ae5a01af.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/ae5a01af.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>73.056399652084,50.6166866855701</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

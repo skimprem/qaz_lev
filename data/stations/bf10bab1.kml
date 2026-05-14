@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="bf10bab1" id="bf10bab1">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>bf10bab1</name>
+  <Placemark id="bf10bab1.1">
+	<name>259</name>
+	<name>ск.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#bf10bab1">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">1520.599</SimpleData>
+		<SimpleData name="benchmark_number">99 оп</SimpleData>
+		<SimpleData name="control_location">Линия № 11: Курметы-Жаланаш, II класс, Участок: фунд. реп. 7959-фунд. реп. 8462</SimpleData>
+		<SimpleData name="benchmark_type">Саты, с., в 3.8 км к зап. от него, в 60 м к вост. от дороги с. Саты-с. Курмети, к зап. от р. Кольсай</SimpleData>
+		<SimpleData name="location_description">bf10bab1-b35c-497d-9c57-a08493c2700f</SimpleData>
+		<SimpleData name="status">data/stations/bf10bab1.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/bf10bab1.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>78.3515961845871,43.0623121903317</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

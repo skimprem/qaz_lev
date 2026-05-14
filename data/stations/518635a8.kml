@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="518635a8" id="518635a8">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>518635a8</name>
+  <Placemark id="518635a8.1">
+	<name>521</name>
+	<name>фунд. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#518635a8">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">388.246.</SimpleData>
+		<SimpleData name="leveling_order">387.666*  386.202*</SimpleData>
+		<SimpleData name="control_height">Контрольный репер в верхней плоскости монолита</SimpleData>
+		<SimpleData name="benchmark_number">141 оп. знак.</SimpleData>
+		<SimpleData name="control_location">Линия № 1: Сарышаган - Каратас, I класс 
+Участок: грунт.реп. 16234 – ск.реп. 16149
+</SimpleData>
+		<SimpleData name="benchmark_type">Шолькыкыл, станц., в 7.7 км к юго-вост. от нее, в 5.1 км к юго-зап. от могилы и двух родников, в 0.4 км к югу от дороги с. Саяк – с. Каратас</SimpleData>
+		<SimpleData name="location_description">518635a8-2596-4651-ac5c-1e1dc8d7c8ba</SimpleData>
+		<SimpleData name="status">data/stations/518635a8.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/518635a8.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>78.2851796494142,46.7728641232317</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

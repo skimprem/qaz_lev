@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="fc413f36" id="fc413f36">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>fc413f36</name>
+  <Placemark id="fc413f36.1">
+	<name>477</name>
+	<name>скальный репер</name>
+	<ExtendedData><SchemaData schemaUrl="#fc413f36">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">267,287</SimpleData>
+		<SimpleData name="benchmark_number">99</SimpleData>
+		<SimpleData name="control_location">Линия №20: пир. 1 кл. Кузеу-Куль = фунд. реп. 1170, II класс (2)</SimpleData>
+		<SimpleData name="benchmark_type">Подхоз, с., в 10,5 км к юго-вост. от нее, в 5,7 км к зап. от к. Биркудук, в 0,3 км к сев.-вост. от полевой дороги</SimpleData>
+		<SimpleData name="location_description">fc413f36-e4bd-4493-a241-c8e64e662d22</SimpleData>
+		<SimpleData name="status">data/stations/fc413f36.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/fc413f36.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.9737542908706,51.3538408234433</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

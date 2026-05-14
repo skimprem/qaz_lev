@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="eda814e3" id="eda814e3">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>eda814e3</name>
+  <Placemark id="eda814e3.1">
+	<name>0342</name>
+	<name>фундаментальный репер</name>
+	<ExtendedData><SchemaData schemaUrl="#eda814e3">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">223,674</SimpleData>
+		<SimpleData name="leveling_order">222,119</SimpleData>
+		<SimpleData name="control_height">контрольный репер №3033 в фундаментальной плите</SimpleData>
+		<SimpleData name="benchmark_number">161оп</SimpleData>
+		<SimpleData name="control_location">Линия №9: фунд. реп. 3103 - пир. 4 кл. Щурф, II класс (2)</SimpleData>
+		<SimpleData name="benchmark_type">Экибастуз III, станция, в 2,5 км к юго-вст. от нее, в 1,4 км к сев.-вост. от ЛЭП, в 0,2 км к сев.-зап. от пир. 4 кл. Щурф</SimpleData>
+		<SimpleData name="location_description">eda814e3-98c9-41e5-9a80-f1ae78c541ef</SimpleData>
+		<SimpleData name="status">data/stations/eda814e3.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/eda814e3.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.5013260203783,51.6048709723429</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

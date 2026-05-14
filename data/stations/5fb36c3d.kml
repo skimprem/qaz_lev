@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="5fb36c3d" id="5fb36c3d">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>5fb36c3d</name>
+  <Placemark id="5fb36c3d.1">
+	<name>802</name>
+	<description>грунт.репер</description>
+	<ExtendedData><SchemaData schemaUrl="#5fb36c3d">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">232.034</SimpleData>
+		<SimpleData name="leveling_order">230,425</SimpleData>
+		<SimpleData name="benchmark_number">121</SimpleData>
+		<SimpleData name="control_location">Участок:грунт.реп.1024-грунт.реп.802</SimpleData>
+		<SimpleData name="benchmark_type">Дружба,с.,в 6.3 км к юго-вост.от него,в 0.4 км к юго-зап.от оз.Егизбай,в 250 м к югу от трубы под.дорогой, в 120 м к зап.от асф. дороги с. Бестауский- с. Дружба</SimpleData>
+		<SimpleData name="location_description">5fb36c3d-0cee-4f75-a4f2-f5c95748c4e0</SimpleData>
+		<SimpleData name="status">data/stations/5fb36c3d.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/5fb36c3d.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>62.9385663242212,51.3851538004489</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

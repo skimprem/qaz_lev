@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="bacd3182" id="bacd3182">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>bacd3182</name>
+  <Placemark id="bacd3182.1">
+	<name>Баскараул</name>
+	<description>пирамида</description>
+	<ExtendedData><SchemaData schemaUrl="#bacd3182">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">616.748</SimpleData>
+		<SimpleData name="benchmark_number">163</SimpleData>
+		<SimpleData name="control_location">Линия № 2: Баршатас - Катбар, II класс. Участок: грунт.реп. 7661 – ск.реп. 44-314</SimpleData>
+		<SimpleData name="benchmark_type">Косагаш, с., в 2.5 км к югу от него, в 0.3 км к зап. от шоссе гор. Аягоз – с. Баршатас, в 80 м к зап. от кладбища на бугре, в 25 м к югу от мазара, над центром посажено святое дерево</SimpleData>
+		<SimpleData name="location_description">bacd3182-17c0-4ddc-9e68-10bd019fab57</SimpleData>
+		<SimpleData name="status">data/stations/bacd3182.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/bacd3182.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>78.6000302372535,47.9815194490318</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

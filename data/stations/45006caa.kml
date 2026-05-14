@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="45006caa" id="45006caa">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>45006caa</name>
+  <Placemark id="45006caa.1">
+	<name>13</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#45006caa">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">371.209</SimpleData>
+		<SimpleData name="control_location">Линия №3: р.Кон-Талдысай, II класс (2) Участок: фунд.реп.2286 - грунт.реп.34</SimpleData>
+		<SimpleData name="benchmark_type">Байделдал, зим., в 2.7 к юго-зап.от нее, в 0.2 км к сев.-вост.от кладбища, к зап.от пересыхающего русла р.Жаксы-Кон</SimpleData>
+		<SimpleData name="location_description">45006caa-3dcd-4912-ab3e-a825b9458ade</SimpleData>
+		<SimpleData name="status">data/stations/45006caa.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/45006caa.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>69.3105409537939,49.624618751916</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

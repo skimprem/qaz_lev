@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="d906a79d" id="d906a79d">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>d906a79d</name>
+  <Placemark id="d906a79d.1">
+	<name>4861</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#d906a79d">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="leveling_order">337.260</SimpleData>
+		<SimpleData name="benchmark_number">107  (уничтожен)</SimpleData>
+		<SimpleData name="control_location">Линия № 1: Володарское - Максимовка, II класс, Участок: грунт.реп. 8033 - фунд. реп. 2883,     Ход от грунт. реп. 7503 до фунд. реп. 2883, II класс </SimpleData>
+		<SimpleData name="benchmark_type">Максимовка, с., в 5.4 км к сев.-зап. от него, в 5.2 км к
+юго-вост. от сарая, в 0.1 км к вост. от улучшенной грунт,
+дороги с. Быстримовка - с. Максимовка.
+
+ Контрольный репер в трубе</SimpleData>
+		<SimpleData name="location_description">d906a79d-ec75-473f-b4bd-47db7586b57f</SimpleData>
+		<SimpleData name="status">data/stations/d906a79d.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/d906a79d.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>68.5916093126095,52.4513315059252</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

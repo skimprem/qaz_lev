@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="dea9ff4b" id="dea9ff4b">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>dea9ff4b</name>
+  <Placemark id="dea9ff4b.1">
+	<name>3298</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#dea9ff4b">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">555.096</SimpleData>
+		<SimpleData name="benchmark_number">160</SimpleData>
+		<SimpleData name="control_location">Линия № 2: Баршатас - Катбар, II класс. Участок: грунт.реп. 7661 – ск.реп. 44-320</SimpleData>
+		<SimpleData name="benchmark_type">Мадениет, с., в 6.8 км к юго-вост. от него, в 1.8 км к зап. от с. Бидайык, в 0.5 км к юго-вост. от зимовки, в 0.2 км к вост. от полевой дороги, в 0.1 км к сев. от кладбища</SimpleData>
+		<SimpleData name="location_description">dea9ff4b-29c0-43f6-9c08-b7a43da5772c</SimpleData>
+		<SimpleData name="status">data/stations/dea9ff4b.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/dea9ff4b.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>78.6748481858241,47.8188725089113</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

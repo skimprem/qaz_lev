@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="d02a8a2d" id="d02a8a2d">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>d02a8a2d</name>
+  <Placemark id="d02a8a2d.1">
+	<name>3979</name>
+	<name>грунт. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#d02a8a2d">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">175,308</SimpleData>
+		<SimpleData name="leveling_order">172,717</SimpleData>
+		<SimpleData name="control_height">репер № 684 в верхней плоскости монолита</SimpleData>
+		<SimpleData name="benchmark_number">121 оп</SimpleData>
+		<SimpleData name="control_location">Линия № 3: Семиярск-Михайловка, II класс (2) Участок: фунд. реп. 4422-грунт. реп., 446 </SimpleData>
+		<SimpleData name="benchmark_type">Жандос, отд. дв., в 1.4 км к югу от него, в 0.2 км к юго-зап. от кладбища, в 6 м к сев. от отдельно стоящей сосны, на вершине бугра</SimpleData>
+		<SimpleData name="location_description">d02a8a2d-2a1b-4757-9061-1b8628bd4d1b</SimpleData>
+		<SimpleData name="status">data/stations/d02a8a2d.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/d02a8a2d.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>78.9352029322881,51.2966202627283</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

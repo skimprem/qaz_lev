@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="bbd4fa7c" id="bbd4fa7c">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>bbd4fa7c</name>
+  <Placemark id="bbd4fa7c.1">
+	<name>5163</name>
+	<name>грунтовый репер </name>
+	<ExtendedData><SchemaData schemaUrl="#bbd4fa7c">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">816,966</SimpleData>
+		<SimpleData name="benchmark_number">160оп</SimpleData>
+		<SimpleData name="control_location">Линия №2: Актогай - Акчатау, II класс (1)  Участок: фунд.реп. 4072 - грунт. реп. 6736</SimpleData>
+		<SimpleData name="benchmark_type">Актогай, с., в 15,3 км к юго-зап. от него, в 0,1 км к югу от ЛЭП, против стб. №416, в 0,1 км к сев. от шоссе с.Актогай - с. Акчатау </SimpleData>
+		<SimpleData name="location_description">bbd4fa7c-d2c3-4d74-99a7-a66a7fe39496</SimpleData>
+		<SimpleData name="status">data/stations/bbd4fa7c.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/bbd4fa7c.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>74.7894626587858,48.2014302382147</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

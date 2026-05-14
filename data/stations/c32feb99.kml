@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="c32feb99" id="c32feb99">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>c32feb99</name>
+  <Placemark id="c32feb99.1">
+	<name>91236</name>
+	<description>грунт. реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#c32feb99">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">472.195</SimpleData>
+		<SimpleData name="leveling_order">470,342</SimpleData>
+		<SimpleData name="control_height">Контрольный репер № 1224 в верхней плоскости монолита</SimpleData>
+		<SimpleData name="benchmark_number">121</SimpleData>
+		<SimpleData name="control_location">Линия № 1: Акмола (Целиноград) -Нуринская, I класс (1) Участок: пир. 2 кл. Анар -грунт.реп. 92074</SimpleData>
+		<SimpleData name="benchmark_type">Осакаровка, станц, в 7,0 км к сев.-зап. от неё, на 3 ПК 595 км, в 35 м к сев. от жел.-дор. полотна.</SimpleData>
+		<SimpleData name="location_description">c32feb99-76cc-4a1e-8070-3e2d4377c29c</SimpleData>
+		<SimpleData name="status">data/stations/c32feb99.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/c32feb99.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.4860700565426,50.6036823978132</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

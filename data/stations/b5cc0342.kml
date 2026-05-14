@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="b5cc0342" id="b5cc0342">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>b5cc0342</name>
+  <Placemark id="b5cc0342.1">
+	<name>3992</name>
+	<name>стен.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#b5cc0342">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="leveling_order">351.051</SimpleData>
+		<SimpleData name="control_height">в верхней плоскости монолита</SimpleData>
+		<SimpleData name="control_location">Линия № 1: Петропавловск - Астана (Целиноград), I класс, Участок: грунт.реп. 0772 - грунт. реп. б/№ ГМС Ход от марки 2762 до стен.реп.4560 II класс Участок: марка 2762 - степ.реп. 6064 Висячий ход от фунд.реп. 480,   II класс</SimpleData>
+		<SimpleData name="benchmark_type">Макинка, гор., в 5.2 км к югу от него, на 2 пк 310 км жел.-дор.мост, на юго-вост. устое моста </SimpleData>
+		<SimpleData name="location_description">b5cc0342-8c67-4781-96d2-c18aa0e4b6c1</SimpleData>
+		<SimpleData name="status">data/stations/b5cc0342.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/b5cc0342.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>70.419291675077,52.5703142026011</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

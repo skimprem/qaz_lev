@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="e9b16913" id="e9b16913">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>e9b16913</name>
+  <Placemark id="e9b16913.1">
+	<name>114</name>
+	<name>грунт. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#e9b16913">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">52.168</SimpleData>
+		<SimpleData name="benchmark_number">160 оп.з.</SimpleData>
+		<SimpleData name="control_location">Линия №2: фунд. реп. 4580 - фунд. реп. 4436, II класса (1) Участок: грунт.реп.114 - фунд. реп. 0791</SimpleData>
+		<SimpleData name="benchmark_type">Тастак, с., в 2.1 км к югу от р. Сырдарии, в 1.2 км к юго-вост. от грунтовой дороги с. Жанакурылыс- с. Тастак </SimpleData>
+		<SimpleData name="location_description">e9b16913-724c-43f6-9f4e-9e7e94fc8bb2</SimpleData>
+		<SimpleData name="status">data/stations/e9b16913.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/e9b16913.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>61.1173714710584,46.0120031753064</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

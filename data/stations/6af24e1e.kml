@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="6af24e1e" id="6af24e1e">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>6af24e1e</name>
+  <Placemark id="6af24e1e.1">
+	<name>0108</name>
+	<name>фунд. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#6af24e1e">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">399,850</SimpleData>
+		<SimpleData name="leveling_order">398.521</SimpleData>
+		<SimpleData name="control_height">репер  в фундаментной плите</SimpleData>
+		<SimpleData name="benchmark_number">161оп</SimpleData>
+		<SimpleData name="control_location">Линия №146:  грунт. реп. 5440 - грунт. реп. 227, 2 класс (19) Участок: грунт. реп. 1234 - грунт. реп. 227</SimpleData>
+		<SimpleData name="benchmark_type">Аксуат, с., в 1.8 км к юго-вост. от него, по дороге в с. Кызылогуз, в 30 м к сев. от кладбища, в 10 м к югу от дороги в с. Кызылогуз</SimpleData>
+		<SimpleData name="location_description">6af24e1e-e44c-4f1c-aec4-76b46603ef3d</SimpleData>
+		<SimpleData name="status">data/stations/6af24e1e.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/6af24e1e.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>83.7123800146346,48.2146349098524</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

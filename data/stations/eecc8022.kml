@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="eecc8022" id="eecc8022">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>eecc8022</name>
+  <Placemark id="eecc8022.1">
+	<name>8180</name>
+	<description>фунд. реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#eecc8022">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">148.646</SimpleData>
+		<SimpleData name="leveling_order">147,332</SimpleData>
+		<SimpleData name="benchmark_number">154 оп</SimpleData>
+		<SimpleData name="control_location">Линия № 1: Аще-Бутак = Сарысай,  II класс Участок: пир. 3 кл. Жамартмола - грунт.реп. 580      </SimpleData>
+		<SimpleData name="benchmark_type">Актогай, с., в 2.0 км к сев.-зап. от него, в 0.9 км к сев.-вост. от р. Ыргыз, в 0.1 км к вост. от полевой дороги</SimpleData>
+		<SimpleData name="location_description">eecc8022-3e07-452a-8de1-e5eb2e8d5b41</SimpleData>
+		<SimpleData name="status">data/stations/eecc8022.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/eecc8022.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>60.173576092801,48.8134594832145</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

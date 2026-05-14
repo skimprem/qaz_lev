@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="08dc788c" id="08dc788c">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>08dc788c</name>
+  <Placemark id="08dc788c.1">
+	<name>3225</name>
+	<name>грунт,реп,</name>
+	<ExtendedData><SchemaData schemaUrl="#08dc788c">
+		<SimpleData name="type">І</SimpleData>
+		<SimpleData name="view">438.324</SimpleData>
+		<SimpleData name="benchmark_number">160</SimpleData>
+		<SimpleData name="control_location">Линия № 1: Тюемойнак - Жарык, І класс (1) Участок: грунт,реп, 5222 - грунт,реп, 1644</SimpleData>
+		<SimpleData name="benchmark_type">Атасу, станция, в 7,8 км к зап от нее, в 94 м к сев от км стб 147/148, в 1 м к вост от оп стб</SimpleData>
+		<SimpleData name="location_description">08dc788c-580c-4b70-bd0d-2d8644a2ab0a</SimpleData>
+		<SimpleData name="status">data/stations/08dc788c.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/08dc788c.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>70.9783337041628,48.4939517960521</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

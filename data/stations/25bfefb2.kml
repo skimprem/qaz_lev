@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="25bfefb2" id="25bfefb2">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>25bfefb2</name>
+  <Placemark id="25bfefb2.1">
+	<name>б/№</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#25bfefb2">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">278.096</SimpleData>
+		<SimpleData name="benchmark_number">121 оп</SimpleData>
+		<SimpleData name="control_location">Линия №1: Сергеевка - Терсакан, II класс (I) Участок: грунт.реп.390 - грунт.реп.б/№</SimpleData>
+		<SimpleData name="benchmark_type">Чурумсай,с.,в 9.2 км к сев.от него,в 0.6 км к вост.от дороги с.Уки-с.Чурумсай,в 0.4 км к югу от полевой дороги</SimpleData>
+		<SimpleData name="location_description">25bfefb2-dea0-4248-bf88-ce967a5233b7</SimpleData>
+		<SimpleData name="status">data/stations/25bfefb2.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/25bfefb2.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.8301530934429,51.2571272172937</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

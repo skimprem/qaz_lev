@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="3ba07287" id="3ba07287">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>3ba07287</name>
+  <Placemark id="3ba07287.1">
+	<name>1752</name>
+	<name>грунт,реп</name>
+	<ExtendedData><SchemaData schemaUrl="#3ba07287">
+		<SimpleData name="type">I</SimpleData>
+		<SimpleData name="view">138.136</SimpleData>
+		<SimpleData name="leveling_order">136,391</SimpleData>
+		<SimpleData name="control_height">Контрольный репер № 512 в верхней плоскости монолита</SimpleData>
+		<SimpleData name="benchmark_number">121</SimpleData>
+		<SimpleData name="control_location">Линия № 1: Челябинск - Петропавловск, I класс, Участок: стен,реп,3669 - стен,реп,1969</SimpleData>
+		<SimpleData name="benchmark_type">Мамлютка, ст,, жел,дор, Курган - Петропавловск, в 8,9 км к юго-вост,от нее, 3 пк 2591 км, в 30 м к сев от жел,-дор,полотна</SimpleData>
+		<SimpleData name="location_description">3ba07287-0f99-4915-add7-ed147ca51ff8</SimpleData>
+		<SimpleData name="status">data/stations/3ba07287.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/3ba07287.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>68.6653430546944,54.9098402646248</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

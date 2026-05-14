@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="06149f43" id="06149f43">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>06149f43</name>
+  <Placemark id="06149f43.1">
+	<name>1526</name>
+	<name>грунт.реп.</name>
+	<description>грунт.реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#06149f43">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">369,116</SimpleData>
+		<SimpleData name="leveling_order">367,595*</SimpleData>
+		<SimpleData name="control_height">в трубе</SimpleData>
+		<SimpleData name="benchmark_number">А</SimpleData>
+		<SimpleData name="control_location">Линия № 3-Бурубайтал-Каратурангы II класс           Участок: фунд. реп.127 -грунт.реп.705</SimpleData>
+		<SimpleData name="benchmark_type">Бегимбек,буг,с.,в 10,2 км к юго-вост.от него,в 1,5км к юго-зап.от зимовки,в 0,5км к зап.от полевой дороги</SimpleData>
+		<SimpleData name="location_description">06149f43-ec5d-4a99-9731-8ae0fddabef0</SimpleData>
+		<SimpleData name="status">data/stations/06149f43.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/06149f43.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>74.9363583500952,44.9420855157783</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

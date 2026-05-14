@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="672973e4" id="672973e4">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>672973e4</name>
+  <Placemark id="672973e4.1">
+	<name>2603</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#672973e4">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">112.785</SimpleData>
+		<SimpleData name="benchmark_number">146 оп</SimpleData>
+		<SimpleData name="benchmark_type">Павлодарский свх, в 0,8 км к вост.от него, в 0,1 км к юго-зап.от перекрестка дорог гор. Павлодар - гор. Омск - свх. Павлодарский, в 70 м к зап.от асфальта</SimpleData>
+		<SimpleData name="location_description">672973e4-9137-4ab2-8f3d-8744dc1375eb</SimpleData>
+		<SimpleData name="status">data/stations/672973e4.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/672973e4.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>76.8745967202304,52.3788179132939</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

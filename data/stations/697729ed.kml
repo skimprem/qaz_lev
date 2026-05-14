@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="697729ed" id="697729ed">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>697729ed</name>
+  <Placemark id="697729ed.1">
+	<name>0729</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#697729ed">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">531.666</SimpleData>
+		<SimpleData name="benchmark_number">146</SimpleData>
+		<SimpleData name="control_location">Линия №18: пир. 1 разр. СМТ-232 - грунт.реп.1008, II класс (3)</SimpleData>
+		<SimpleData name="benchmark_type">Компанейск, с., в 2.6 км к юго-вост. от него, в 40 м к сев. от дороги гор.Караганда - гор.Каркаралинск</SimpleData>
+		<SimpleData name="location_description">697729ed-abcc-4c94-aff5-1b75783b92aa</SimpleData>
+		<SimpleData name="status">data/stations/697729ed.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/697729ed.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>73.2305925759259,49.9253693867002</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

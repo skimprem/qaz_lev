@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="60a36a0a" id="60a36a0a">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>60a36a0a</name>
+  <Placemark id="60a36a0a.1">
+	<name>8840</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#60a36a0a">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">224,416</SimpleData>
+		<SimpleData name="control_location">Линия № 1: Древний Курган - Кендырлык (Айгарлык), II класс (3) Участок: грунт. реп. 8361 - фунд. реп. 25</SimpleData>
+		<SimpleData name="benchmark_type">Табан, к., в 13,8 км к сев.-вост. от него, в 5,7 км к юго­ зап. от пир. 3 кл. Киикты, в 57 м к юго-вост. от грунт. дороги гор. Жезказган - с. Сузак</SimpleData>
+		<SimpleData name="location_description">60a36a0a-7017-4788-aaa7-aa5757119ad8</SimpleData>
+		<SimpleData name="status">data/stations/60a36a0a.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/60a36a0a.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>68.3730885045534,46.278689010974</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

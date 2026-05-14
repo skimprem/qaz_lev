@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="3cd83664" id="3cd83664">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>3cd83664</name>
+  <Placemark id="3cd83664.1">
+	<name>Гидропост</name>
+	<description>пирамида</description>
+	<ExtendedData><SchemaData schemaUrl="#3cd83664">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">350.931</SimpleData>
+		<SimpleData name="benchmark_number">2 оп</SimpleData>
+		<SimpleData name="control_location">Линия № 1: Учарал - Урджар, II класс. Участок: стен. реп. 8792 – грунт. реп. 2897</SimpleData>
+		<SimpleData name="benchmark_type">Алаколь, с., в 5.1 км к сев.-вост. от него, в 3.6 км к юго-зап. от мог. Курушбай, в 0.2 км к вост. от оз. Кошкарколь</SimpleData>
+		<SimpleData name="location_description">3cd83664-9b76-4821-a7a5-86397309ecd5</SimpleData>
+		<SimpleData name="status">data/stations/3cd83664.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/3cd83664.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>81.3349733923458,46.3885864200119</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

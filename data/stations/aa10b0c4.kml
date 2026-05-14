@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="aa10b0c4" id="aa10b0c4">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>aa10b0c4</name>
+  <Placemark id="aa10b0c4.1">
+	<name>0377</name>
+	<name>грунт. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#aa10b0c4">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">96.278</SimpleData>
+		<SimpleData name="benchmark_number">160 оп</SimpleData>
+		<SimpleData name="control_location">Линия №1 : Ащылысай-Майлыозек , II класс . Участок : грунт. реп. 514-фунд. реп. 2938</SimpleData>
+		<SimpleData name="benchmark_type">Комекбаев, с., в 11.0 км к сев.-вост. от него, в 1.9 км к юго-зап. от мазара Туйебай, в 1.8 км к сев.-зап. от зимовки</SimpleData>
+		<SimpleData name="location_description">aa10b0c4-8d1a-4a2a-adbe-0a4be3243f42</SimpleData>
+		<SimpleData name="status">data/stations/aa10b0c4.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/aa10b0c4.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>63.3135404832329,44.9024726796423</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

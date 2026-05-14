@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="d442304b" id="d442304b">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>d442304b</name>
+  <Placemark id="d442304b.1">
+	<name>3</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#d442304b">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">182.602</SimpleData>
+		<SimpleData name="benchmark_number">А</SimpleData>
+		<SimpleData name="control_location">Линия №2: Петропавловск - Кокчетав, II класс. Участок: марка 11589 - марка 8330</SimpleData>
+		<SimpleData name="benchmark_type">Приречное, с., в 4.3 км к юго-зап.от него, в 30 м к вост.от жел.-дор.полотна, между тлгр.стб. №413 и № 414</SimpleData>
+		<SimpleData name="location_description">d442304b-8b97-4d2a-ace0-b0a8545d3e26</SimpleData>
+		<SimpleData name="status">data/stations/d442304b.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/d442304b.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>69.6011528587669,53.6663064744941</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

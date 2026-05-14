@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="276abcba" id="276abcba">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>276abcba</name>
+  <Placemark id="276abcba.1">
+	<name>32</name>
+	<name>грунт.реп</name>
+	<ExtendedData><SchemaData schemaUrl="#276abcba">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">168.878</SimpleData>
+		<SimpleData name="control_location">Линия № 1 Чиили-Мергенбай,II класс Участок: грунт.реп.51-грунт.25</SimpleData>
+		<SimpleData name="benchmark_type">Мышик,пир.2 кл., в 3.3 км к сев.-вост. От нее, в 3.3 км к юго-вост. От пир. 3 кл. Мазар, в 1.7 км к югу от зим. Свх. Сырдарьинский, в 27 м к вост. От полевой дороги</SimpleData>
+		<SimpleData name="location_description">276abcba-8f47-4f13-b4f0-08521b5ec9b7</SimpleData>
+		<SimpleData name="status">data/stations/276abcba.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/276abcba.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>66.0325123694218,43.5666373555816</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

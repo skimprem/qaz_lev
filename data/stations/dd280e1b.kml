@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="dd280e1b" id="dd280e1b">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>dd280e1b</name>
+  <Placemark id="dd280e1b.1">
+	<name>4888</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#dd280e1b">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="leveling_order">369.932</SimpleData>
+		<SimpleData name="control_height">в трубе</SimpleData>
+		<SimpleData name="benchmark_number">160 оп.знак</SimpleData>
+		<SimpleData name="control_location">Линия № 2: Атбасар - Максимовка, II класс.
+Участок: грунт. реп. 8421 - грунт. реп. 2883</SimpleData>
+		<SimpleData name="benchmark_type">Спасское, с., в 0.8 км к сев.-вост. от него, в 0.6 км к вост.
+от шоссе гор. Кокшетау - гор. Атбасар, в 0.2 км к сев.-
+зап. от полевой дороги
+
+
+
+ </SimpleData>
+		<SimpleData name="location_description">dd280e1b-6bf0-451b-a64b-88a69612c65d</SimpleData>
+		<SimpleData name="status">data/stations/dd280e1b.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/dd280e1b.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>68.538641198647,52.1707420872152</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="ab214089" id="ab214089">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>ab214089</name>
+  <Placemark id="ab214089.1">
+	<name>4879</name>
+	<description>грунт.реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#ab214089">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">187.563</SimpleData>
+		<SimpleData name="benchmark_number">160 оп</SimpleData>
+		<SimpleData name="control_location">Линия № 1: Кустанай - Урицкое, II класс            Участок : грунт.реп.7162 - грунт.реп 3344</SimpleData>
+		<SimpleData name="benchmark_type">Басбек, с., в 4.1 км к юго-вост.от него, в 65 м к сев.-вост.от км.стб.32/400 дороги гор.Кустанай - гор.Кокчетав, в 47 м к сев.от дороги гор.Кустанай - гор.Кокчетав</SimpleData>
+		<SimpleData name="location_description">ab214089-9d77-400b-ad0f-f1c86715f4b4</SimpleData>
+		<SimpleData name="status">data/stations/ab214089.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/ab214089.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>64.0976216050458,53.1559366210828</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

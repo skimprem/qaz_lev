@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="ea288114" id="ea288114">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>ea288114</name>
+  <Placemark id="ea288114.1">
+	<name>6</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#ea288114">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">372,619</SimpleData>
+		<SimpleData name="benchmark_number">А</SimpleData>
+		<SimpleData name="control_location">Линия № 1 :     Жангиз-Тобе-Локоть, I класс (1),Участок : ск.реп. 4053 - фунд.реп. 391</SimpleData>
+		<SimpleData name="benchmark_type">Суурлы, станц., в 1,3 км к сев.-зап. от нее, на 1 пикете 137 км, в 42 м к юго-зап. от дороги гор. Аягуз - гор. Чарск, в 13 м к сев.-зап. от тлф. стб. 676/32</SimpleData>
+		<SimpleData name="leveling_line_section">утрачен в дополнении к сводному каталогу      М-44-XXII (Чарск)</SimpleData>
+		<SimpleData name="location_description">ea288114-9157-415b-a288-bc6b659b3f67</SimpleData>
+		<SimpleData name="status">data/stations/ea288114.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/ea288114.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>81.1994543031685,49.4532318161617</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

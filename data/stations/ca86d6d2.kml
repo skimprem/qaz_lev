@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="ca86d6d2" id="ca86d6d2">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>ca86d6d2</name>
+  <Placemark id="ca86d6d2.1">
+	<name>341</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#ca86d6d2">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">110.787</SimpleData>
+		<SimpleData name="benchmark_number">131</SimpleData>
+		<SimpleData name="control_location">Линия:Урлютюп-Качиры, II класс (3) Участок: фнд.рп.310-гр.рп.341</SimpleData>
+		<SimpleData name="benchmark_type">Бобровка, с., в 3.5 км к северу от него, в 28 м вправо от дорги с.Боброво - с.Пятирыжск, в 0.4 км к сев.-зап. от развилка дороги в с.Бобровка</SimpleData>
+		<SimpleData name="location_description">ca86d6d2-5daa-4435-b2cf-a759c8484a85</SimpleData>
+		<SimpleData name="status">data/stations/ca86d6d2.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/ca86d6d2.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.6142556483253,53.3050853702383</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="a057f403" id="a057f403">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>a057f403</name>
+  <Placemark id="a057f403.1">
+	<name>0657</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#a057f403">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">526.716</SimpleData>
+		<SimpleData name="benchmark_number">130</SimpleData>
+		<SimpleData name="control_location">Линия №9: грунт.реп.1028 - п.п. VI, II класс (3)</SimpleData>
+		<SimpleData name="benchmark_type">Караганда, Старый город, в 1.5 км к сев.-зап. от шахты №33, в 0.2 км к сев. от жел.-дор. моста</SimpleData>
+		<SimpleData name="location_description">a057f403-9c10-44f9-93dd-e9ce7d8fd01b</SimpleData>
+		<SimpleData name="status">data/stations/a057f403.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/a057f403.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>73.1538122720406,49.8936006874208</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

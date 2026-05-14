@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="9ace96bd" id="9ace96bd">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>9ace96bd</name>
+  <Placemark id="9ace96bd.1">
+	<name>161</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#9ace96bd">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">380,636</SimpleData>
+		<SimpleData name="leveling_height">379,569</SimpleData>
+		<SimpleData name="benchmark_number">в верхней плоскости монолита</SimpleData>
+		<SimpleData name="control_location">Линия № 3: Созак - Шолаккорган, II класс (1) Участок: фунд. реп.6972 - пир. 2 кл. Итмурун</SimpleData>
+		<SimpleData name="benchmark_type">Кайнар, с., в 7.9 км к юго-вост, от него,              в 0.6 км к сев,- зап. от развилки шоссе                     с. Созак - с. Шолаккорган - с. Козмолдак,                  в 0.4 км к зап. от к. Белькудык,                               в 50 м к зап. от шоссе                                                 с. Созак - с. Шолаккорган</SimpleData>
+		<SimpleData name="location_description">9ace96bd-34b6-441e-90fc-f7acfa88fdc8</SimpleData>
+		<SimpleData name="status">data/stations/9ace96bd.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/9ace96bd.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>68.6175908370595,44.0483824795916</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

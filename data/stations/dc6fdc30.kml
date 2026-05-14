@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="dc6fdc30" id="dc6fdc30">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>dc6fdc30</name>
+  <Placemark id="dc6fdc30.1">
+	<name>3523</name>
+	<name>грунт. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#dc6fdc30">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">924.900</SimpleData>
+		<SimpleData name="benchmark_number">146оп</SimpleData>
+		<SimpleData name="control_location">Линия №50: Усть-Каменогорск - Чиганчи, 2 класс (13)  Участок: грунт. реп. 793 - ск. реп. 8522</SimpleData>
+		<SimpleData name="benchmark_type">Таинты, с., в 2.2 км к юго-вост. от него, в 0.2 км к сев.-вост. от км. стб. №87, в 7 м к вост. от дороги с. Самарка - гор. Усть-Каменогорск</SimpleData>
+		<SimpleData name="location_description">dc6fdc30-eb89-4ae5-b96a-04937f42d67e</SimpleData>
+		<SimpleData name="status">data/stations/dc6fdc30.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/dc6fdc30.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>83.0818386491946,49.3807134109004</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

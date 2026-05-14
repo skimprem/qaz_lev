@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="ba97e552" id="ba97e552">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>ba97e552</name>
+  <Placemark id="ba97e552.1">
+	<name>2753</name>
+	<name>грунт.реп.</name>
+	<description>грунт.реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#ba97e552">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">802.147</SimpleData>
+		<SimpleData name="control_location">Линия : Берлик-Отар-Алматы-Сары-Озек I класс                            </SimpleData>
+		<SimpleData name="benchmark_type">Жоломан, станц., в 3,2км к юго-зап.
+от неё, на 1 ПК 1546км, в 3,0км к
+сев.-вост. от станц. Архарлы, в 93 м к
+югу от км. стб. 1545/1546, в 32м к
+юго-зап. от жел.-дор. полотна, в 6м к зап. от пол. Дороги</SimpleData>
+		<SimpleData name="location_description">ba97e552-50f8-4b66-bfe2-300836aa7ac5</SimpleData>
+		<SimpleData name="status">data/stations/ba97e552.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/ba97e552.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.5424744393962,44.2493853325927</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

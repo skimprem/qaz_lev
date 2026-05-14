@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="e8c17b59" id="e8c17b59">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>e8c17b59</name>
+  <Placemark id="e8c17b59.1">
+	<name>3778</name>
+	<name>грунт. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#e8c17b59">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">794.488</SimpleData>
+		<SimpleData name="benchmark_number">160 оп. знак</SimpleData>
+		<SimpleData name="control_location">Линия № 1: Уштобе – Текели, II класс
+Участок: грунт. реп. 2940 – фунд. реп. 7980
+
+</SimpleData>
+		<SimpleData name="benchmark_type">Карабулак, с., в 3.8 км к сев.-вост. от него, в 0.6 км к юго-зап. от зимовки, в 19 м к сев. от шоссе с. Карабулак – с. Кокжазык</SimpleData>
+		<SimpleData name="location_description">e8c17b59-47d4-487d-8a67-424c4775f6ef</SimpleData>
+		<SimpleData name="status">data/stations/e8c17b59.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/e8c17b59.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>78.5525954889516,44.9198198500126</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

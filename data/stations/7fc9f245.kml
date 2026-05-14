@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="7fc9f245" id="7fc9f245">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>7fc9f245</name>
+  <Placemark id="7fc9f245.1">
+	<name>214</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#7fc9f245">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">492,578</SimpleData>
+		<SimpleData name="leveling_order">489,903</SimpleData>
+		<SimpleData name="control_height">Контрольный репер в верхней плоскости монолита</SimpleData>
+		<SimpleData name="benchmark_number">121 оп</SimpleData>
+		<SimpleData name="control_location">Линия № 7: Ульяновский - Степное. II класс (6)</SimpleData>
+		<SimpleData name="benchmark_type">Откормочное, с., в 8,7 км к сев.-вост. от него, в 55 км к зап. от оз. Тузащы, в 15 м к сев. от полевой дороги</SimpleData>
+		<SimpleData name="location_description">7fc9f245-cb59-48e4-bccd-aff043ad8759</SimpleData>
+		<SimpleData name="status">data/stations/7fc9f245.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/7fc9f245.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>73.6380716511101,50.4873952161391</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

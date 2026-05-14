@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="7c7a819c" id="7c7a819c">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>7c7a819c</name>
+  <Placemark id="7c7a819c.1">
+	<name>4224</name>
+	<description>марка</description>
+	<ExtendedData><SchemaData schemaUrl="#7c7a819c">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">81.697</SimpleData>
+		<SimpleData name="control_location">Линия 1: Аральск- Айтеке Би (Новоказалинск)-Жосалы, I класс(1,2). Участок: Грунт. реп. 803-марка 3936</SimpleData>
+		<SimpleData name="benchmark_type">Байкожа, станц., в 5,9 км к сев.-зап. от нее, 1421 жел.дор., жел-дор. казарма</SimpleData>
+		<SimpleData name="location_description">7c7a819c-0624-4ad3-b6db-73c656cb7d36</SimpleData>
+		<SimpleData name="status">data/stations/7c7a819c.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/7c7a819c.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>62.8654089448656,45.746653886144</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

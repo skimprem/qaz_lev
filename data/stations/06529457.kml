@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="06529457" id="06529457">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>06529457</name>
+  <Placemark id="06529457.1">
+	<name>300</name>
+	<name>ск. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#06529457">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">680,057</SimpleData>
+		<SimpleData name="benchmark_number">99</SimpleData>
+		<SimpleData name="control_location">Линия: Яровское - Лениногорск, II класс (1) Участок: фунд. реп. 198 - грунт. реп. 6965</SimpleData>
+		<SimpleData name="benchmark_type">Старый Белопорожний, с., в 13 км к сев.-вост. от него, в 0.2  км от правого берега р. Белопорожная Уба, в 0.4 км к юго-зап. от устья р. Рыжнев, в 10 м влево от тропы в с. Инское (Харьковка).</SimpleData>
+		<SimpleData name="location_description">06529457-77dc-4ed9-9895-b0dd5e1ecfff</SimpleData>
+		<SimpleData name="status">data/stations/06529457.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/06529457.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>83.2516190021966,50.9375583201393</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

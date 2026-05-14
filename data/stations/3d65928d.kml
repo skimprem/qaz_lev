@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="3d65928d" id="3d65928d">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>3d65928d</name>
+  <Placemark id="3d65928d.1">
+	<name>6432</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#3d65928d">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">517.765</SimpleData>
+		<SimpleData name="benchmark_number">160 оп.знак</SimpleData>
+		<SimpleData name="control_location">Линия № 1:Кaрacу - Актогай. II класс                         Участок: фунд. реп. 39 -  ск.реп. 2511</SimpleData>
+		<SimpleData name="benchmark_type">Жанаорталык, с., в 7.5км к юго-зап. от него, в 3.5км к юго-зап. от моста через р. Токрау,в 40м к юго-вост. от км. стб. 335/81 шоссе с. Актогай-гор. Балхаш</SimpleData>
+		<SimpleData name="location_description">3d65928d-b8be-4614-a6a8-1cf366a528fd</SimpleData>
+		<SimpleData name="status">data/stations/3d65928d.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/3d65928d.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.6138064588198,47.5297935161284</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

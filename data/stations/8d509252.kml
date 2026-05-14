@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="8d509252" id="8d509252">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>8d509252</name>
+  <Placemark id="8d509252.1">
+	<name>2655</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#8d509252">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">766,271</SimpleData>
+		<SimpleData name="benchmark_number">160оп.</SimpleData>
+		<SimpleData name="control_location">Линия № 4: Карасорский-Каркаралинск, II класс (3) Участок: грунтовый репер 9858 - фундаментальный репер 7349</SimpleData>
+		<SimpleData name="benchmark_type">Каркаралинск, гор., 10,0 км к сев.-вост. от него, в 0,6 км к сев.-вост. от оз. Сасым, в 50 м к юго-зап. от км. стб. 22/6 шоссе с. Акжал-гор. Каркаралинск</SimpleData>
+		<SimpleData name="location_description">8d509252-262f-4bb2-a368-9ad9ae329a29</SimpleData>
+		<SimpleData name="status">data/stations/8d509252.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/8d509252.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.5280847327201,49.5043109926652</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="bcdf25b0" id="bcdf25b0">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>bcdf25b0</name>
+  <Placemark id="bcdf25b0.1">
+	<name>12600</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#bcdf25b0">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">414.617</SimpleData>
+		<SimpleData name="leveling_order">№ 2061 в верхней плоскости монолита</SimpleData>
+		<SimpleData name="leveling_height">413.205</SimpleData>
+		<SimpleData name="benchmark_number">116 оп.</SimpleData>
+		<SimpleData name="control_location">Линия № 2: Актасты-Ивановка, II класс. Участок: ск.реп. 1595-фунд.реп.2817</SimpleData>
+		<SimpleData name="benchmark_type">Шункырколь ,с. , в 3.2 км к сев.от него, в 2.7 км к югу от  с. Куркопа, в 0.2 км к зап.от шоссе с. Морозовка-с. Богучар </SimpleData>
+		<SimpleData name="leveling_line_section">утрачен</SimpleData>
+		<SimpleData name="location_description">bcdf25b0-d1bb-4f06-b48c-e3d7edae585c</SimpleData>
+		<SimpleData name="status">data/stations/bcdf25b0.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/bcdf25b0.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>71.8792151632087,50.2969327663256</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

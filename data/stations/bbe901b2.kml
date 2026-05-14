@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="bbe901b2" id="bbe901b2">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>bbe901b2</name>
+  <Placemark id="bbe901b2.1">
+	<name>3858</name>
+	<name>грунт. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#bbe901b2">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">494,640</SimpleData>
+		<SimpleData name="benchmark_number">146 оп</SimpleData>
+		<SimpleData name="control_location">Линия № 123: Усть-Каменогорск - Зайсан, II класс (14) Участок: грунт. реп. 4279 - грунт. реп. 4154</SimpleData>
+		<SimpleData name="benchmark_type">Куйган, с., в 4.5 км к сев.-вост. от него, в 15 м к югу от развилки полевой дороги, в 5 м к вост. от дороги с. Куйган - с. Сергеевка</SimpleData>
+		<SimpleData name="location_description">bbe901b2-3baf-4e0a-9ed7-b307b6c82654</SimpleData>
+		<SimpleData name="status">data/stations/bbe901b2.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/bbe901b2.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>83.5495392412795,48.7004423090894</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

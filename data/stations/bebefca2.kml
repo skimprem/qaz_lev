@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="bebefca2" id="bebefca2">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>bebefca2</name>
+  <Placemark id="bebefca2.1">
+	<name>22</name>
+	<name>фунд. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#bebefca2">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">284,287</SimpleData>
+		<SimpleData name="leveling_order">283,798/282,199</SimpleData>
+		<SimpleData name="control_height">Контрольный репер в трубе/Контрольный репер в плоскости монолита</SimpleData>
+		<SimpleData name="benchmark_number">141оп</SimpleData>
+		<SimpleData name="control_location">Линия №5: Старый Ерментау-Каратал, II класс (1)</SimpleData>
+		<SimpleData name="benchmark_type">Коржынколь, станц., в 9,1 км к сев.-вост. от нее, в 5,5 км к юго-зап. от зим. Сарыадыр, в 3,1 км к сев.-вост. от оз. Кызылсор, в 352 м к зап. от грейдера, в 0,1 км к юго-вост. от грунт. реп. 32</SimpleData>
+		<SimpleData name="location_description">bebefca2-1b7d-4a19-b8f7-c5f8530baa7f</SimpleData>
+		<SimpleData name="status">data/stations/bebefca2.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/bebefca2.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>73.4781073206123,51.6531207698142</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="cad98f90" id="cad98f90">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>cad98f90</name>
+  <Placemark id="cad98f90.1">
+	<name>68</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#cad98f90">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">281,894</SimpleData>
+		<SimpleData name="leveling_order">279,980</SimpleData>
+		<SimpleData name="control_height">контрольный репер в верхней плоскости монолита</SimpleData>
+		<SimpleData name="benchmark_number">121оп</SimpleData>
+		<SimpleData name="control_location">Линия №1: Карасорвкий - Сарыкияк, II класс (1) Участок: ск. реп. 6100 - грунт. реп. 8674</SimpleData>
+		<SimpleData name="benchmark_type">Бирлик, с. в 16.2 км к сев.-зап. от него, в 0.3 км к зап. от вдкч. Журеккудык, в 0.1 км к сев.-зап. от развалин</SimpleData>
+		<SimpleData name="location_description">cad98f90-82f7-4f17-8b4c-f66302ee1ab1</SimpleData>
+		<SimpleData name="status">data/stations/cad98f90.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/cad98f90.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.50396871965,51.169372809846</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

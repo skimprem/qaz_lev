@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="acffd1cd" id="acffd1cd">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>acffd1cd</name>
+  <Placemark id="acffd1cd.1">
+	<name>1779</name>
+	<description>грунт. реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#acffd1cd">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">125.144</SimpleData>
+		<SimpleData name="benchmark_number">160 оп</SimpleData>
+		<SimpleData name="control_location">Линия 1 класса :Тактайконыр -Семиозёрное(фунд.реп.83 -фунд.реп.349)  Участок :фунд.реп.893 -пир.3 кл.Алгабас</SimpleData>
+		<SimpleData name="benchmark_type">Кайгы,с.,в 0.8 км к юго-вост.от него,в 0.7 км к вост.от вдхр.,в 54 м к зап.от развилки грунт.дороги с.Бестамак -с.Карасу -с.Кайгы</SimpleData>
+		<SimpleData name="location_description">acffd1cd-b6fd-4088-ae34-720263be9373</SimpleData>
+		<SimpleData name="status">data/stations/acffd1cd.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/acffd1cd.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>64.7197285047861,50.9358419413418</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

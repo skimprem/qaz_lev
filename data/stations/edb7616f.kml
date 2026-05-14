@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="edb7616f" id="edb7616f">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>edb7616f</name>
+  <Placemark id="edb7616f.1">
+	<name>14110</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#edb7616f">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">105</SimpleData>
+		<SimpleData name="benchmark_number">121</SimpleData>
+		<SimpleData name="control_location">Линия: Урлютюп-Шипицыно, II класс (2). Участок: гр. рп. 12628-марка 697</SimpleData>
+		<SimpleData name="benchmark_type">Екишек,с.,на западной окраине его, в 20 м вправо от дороги в с.Алаколь</SimpleData>
+		<SimpleData name="location_description">edb7616f-d20f-4a75-804b-00a922e95808</SimpleData>
+		<SimpleData name="status">data/stations/edb7616f.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/edb7616f.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>76.1029181838658,54.101257541443</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="40f970c4" id="40f970c4">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>40f970c4</name>
+  <Placemark id="40f970c4.1">
+	<name>4189</name>
+	<description>грунт.реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#40f970c4">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">211.755</SimpleData>
+		<SimpleData name="leveling_order">209.352</SimpleData>
+		<SimpleData name="leveling_height">Контрольный репер № 4108 в верхней плоскости монолита</SimpleData>
+		<SimpleData name="benchmark_number">121</SimpleData>
+		<SimpleData name="control_location">Линия № 1: Карталы - Семиозерный, I класс            Участок : грунт.реп.3235 - грунт.реп.1211</SimpleData>
+		<SimpleData name="benchmark_type">Баталы, станц., в 12.0 км к юго-вост.от нее, 113-й км жел.дор.,  в 85 м к сев.-вост.от жел.-дор.полотна, в 60 м к зап.от развалин казармы</SimpleData>
+		<SimpleData name="location_description">40f970c4-f036-44b6-b5d7-3d974ec29810</SimpleData>
+		<SimpleData name="status">data/stations/40f970c4.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/40f970c4.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>62.1892177120259,52.8059756806384</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

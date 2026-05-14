@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="cf7e2fda" id="cf7e2fda">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>cf7e2fda</name>
+  <Placemark id="cf7e2fda.1">
+	<name>101</name>
+	<name>скальный репер</name>
+	<ExtendedData><SchemaData schemaUrl="#cf7e2fda">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">264,807</SimpleData>
+		<SimpleData name="benchmark_number">99</SimpleData>
+		<SimpleData name="control_location">Линия №3: ск. реп. 101 - грунт. реп. 17, II класс (5)</SimpleData>
+		<SimpleData name="benchmark_type">Кутаяксор, разв. , в 5.4 км к зап. от них, в 0.6 км к юго-зап. от зим. Карабудур, в 0.1 км к югу от ЛЭП </SimpleData>
+		<SimpleData name="location_description">cf7e2fda-a585-4b87-bf78-9e4a918f9aa4</SimpleData>
+		<SimpleData name="status">data/stations/cf7e2fda.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/cf7e2fda.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>74.60252960155,51.5805472618653</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

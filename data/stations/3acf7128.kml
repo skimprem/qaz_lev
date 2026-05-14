@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="3acf7128" id="3acf7128">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>3acf7128</name>
+  <Placemark id="3acf7128.1">
+	<name>189</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#3acf7128">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">235,306</SimpleData>
+		<SimpleData name="leveling_order">234,169</SimpleData>
+		<SimpleData name="benchmark_number">121 оп</SimpleData>
+		<SimpleData name="control_location">Линия №4: Карабутак-Жанатурмыс, II класс. Участок: фунд.реп. 5070-гунт.реп. 418</SimpleData>
+		<SimpleData name="benchmark_type">Карабутак, с., в 3.8 км к вост. -от него, в 0.6 км к югу от оз. Караколь, в 10 м к сев. от дороги с. Жарутколь - с. Акколь</SimpleData>
+		<SimpleData name="leveling_line_section">не найден</SimpleData>
+		<SimpleData name="location_description">3acf7128-f866-463b-a6ee-c92a41deea26</SimpleData>
+		<SimpleData name="status">data/stations/3acf7128.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/3acf7128.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>60.179697479484,49.9557254019431</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

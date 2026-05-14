@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="bd0917cf" id="bd0917cf">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>bd0917cf</name>
+  <Placemark id="bd0917cf.1">
+	<name>15855</name>
+	<name>грунтовый репер </name>
+	<ExtendedData><SchemaData schemaUrl="#bd0917cf">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">786,508</SimpleData>
+		<SimpleData name="leveling_order">784,893</SimpleData>
+		<SimpleData name="control_height">Контрольный репер в верхней плоскости монолита</SimpleData>
+		<SimpleData name="benchmark_number">121</SimpleData>
+		<SimpleData name="control_location">Линия № 1: Акбулак - Акозек, II класс (1) Участок: ск.реп. 12181 - грунт.реп. 1026</SimpleData>
+		<SimpleData name="benchmark_type">Татан, с., в 5.0 км к юго-зап. от него, в 3.0 км к зап. от полевой дороги, в 0.6 км к юго-вост. от пересыхающего русла р. Кусак</SimpleData>
+		<SimpleData name="location_description">bd0917cf-153d-4479-9291-2b558b691e84</SimpleData>
+		<SimpleData name="status">data/stations/bd0917cf.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/bd0917cf.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>76.9240375271051,48.2979518280493</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

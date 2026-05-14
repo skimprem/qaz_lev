@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="ea157870" id="ea157870">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>ea157870</name>
+  <Placemark id="ea157870.1">
+	<name>8275</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#ea157870">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">333,955</SimpleData>
+		<SimpleData name="control_location">Линия № 3: Созак - Шолаккорган, II класс (1) Участок: фунд. реп.6972 - пир. 2 кл. Итмурун</SimpleData>
+		<SimpleData name="benchmark_type">Кайнар, с., в 0.5 км к юго-зап. от него, в 46 м к юго-зап. от моста на шоссе с. Созак - с. Шолаккорган, в 25 м к югу от шоссе</SimpleData>
+		<SimpleData name="location_description">ea157870-7b86-47fd-8e05-7d5133a3df97</SimpleData>
+		<SimpleData name="status">data/stations/ea157870.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/ea157870.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>68.5421665888634,44.0946429441422</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

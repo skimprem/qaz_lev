@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="8ccd79e1" id="8ccd79e1">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>8ccd79e1</name>
+  <Placemark id="8ccd79e1.1">
+	<name>Гои</name>
+	<description>пирамида</description>
+	<ExtendedData><SchemaData schemaUrl="#8ccd79e1">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">359.554</SimpleData>
+		<SimpleData name="leveling_height">9482</SimpleData>
+		<SimpleData name="benchmark_number">146</SimpleData>
+		<SimpleData name="control_location">Линия № 2: Урочище Куйган – Лепсы
+Участок: пир. 3 кл. Аксор – фунд.реп. 5699
+</SimpleData>
+		<SimpleData name="benchmark_type">Тулебаево, с., в 13.0 км к зап. от него, в 3.2 км к юго-зап. от разв. Кукан, в 0.5 км к югу от полевой дороги</SimpleData>
+		<SimpleData name="location_description">8ccd79e1-6b13-48a3-b0fd-4382ee76eeae</SimpleData>
+		<SimpleData name="status">data/stations/8ccd79e1.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/8ccd79e1.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>78.1504706683737,46.2805617674949</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

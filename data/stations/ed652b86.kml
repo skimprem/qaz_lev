@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="ed652b86" id="ed652b86">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>ed652b86</name>
+  <Placemark id="ed652b86.1">
+	<name>7919</name>
+	<name>грунт. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#ed652b86">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">530.708</SimpleData>
+		<SimpleData name="benchmark_number">146оп</SimpleData>
+		<SimpleData name="control_location">Линия №108: Сары-Озек - Зайсан, 2 класс (21) Участок: фунд. реп. 8633 - фунд. реп. 5307</SimpleData>
+		<SimpleData name="benchmark_type">Николаевка, с., в 3.4 км к сев.-зап. от него, в 73 м к юго-зап. от трассы с. Георгиевка - с. Кокпекты, в 1 м к югу от опознавательного стб</SimpleData>
+		<SimpleData name="leveling_line_section">не найден</SimpleData>
+		<SimpleData name="location_description">ed652b86-84ef-49da-89fd-6d39babcb714</SimpleData>
+		<SimpleData name="status">data/stations/ed652b86.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/ed652b86.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>81.955779083815,49.1949872975799</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

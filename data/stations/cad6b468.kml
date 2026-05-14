@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="cad6b468" id="cad6b468">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>cad6b468</name>
+  <Placemark id="cad6b468.1">
+	<name>39</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#cad6b468">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">407.795</SimpleData>
+		<SimpleData name="leveling_order">405,496</SimpleData>
+		<SimpleData name="control_height">Контрольный репер в верхней плоскости монолита</SimpleData>
+		<SimpleData name="benchmark_number">124</SimpleData>
+		<SimpleData name="control_location">Линия №5: фунд. реп. 6752 - фунд. реп. б/№ (3), II класс (1) Участок: фунд. реп. 3 - фунд. реп. б/№ (3)</SimpleData>
+		<SimpleData name="benchmark_type">Благодатное, с., в 8.9 км к сев.-вост. от него, в 4.0 км к сев.-зап. от развалин, в 50 м к зап. от полевой дороги</SimpleData>
+		<SimpleData name="leveling_line_section"></SimpleData>
+		<SimpleData name="location_description">cad6b468-906f-4c3f-b99a-4d22369fe70f</SimpleData>
+		<SimpleData name="status">data/stations/cad6b468.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/cad6b468.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8373719440249,51.3823869030549</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

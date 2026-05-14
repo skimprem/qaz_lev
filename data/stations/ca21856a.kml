@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="ca21856a" id="ca21856a">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>ca21856a</name>
+  <Placemark id="ca21856a.1">
+	<name>21</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#ca21856a">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">506,875</SimpleData>
+		<SimpleData name="leveling_height">505,804</SimpleData>
+		<SimpleData name="benchmark_number">в верхней плоскости монолита </SimpleData>
+		<SimpleData name="control_location">Линия № 2: Аркарлы - Актас. 2 класс ( 2 ) Участок: фунд. реп. 23 - фунд. реп. 3023</SimpleData>
+		<SimpleData name="benchmark_type">Пыстан, г., в 14.2 км к сев. от нее, в 6.9 км к юго-зап. от пересечения пересыхающей р. Кайыпмергеннин - Карасу и грунт, дороги с. Шалгинский - с. Жайлауколь, в 25 м к зап. от грунт, дороги</SimpleData>
+		<SimpleData name="location_description">ca21856a-9083-40d1-9aac-52e27a424a75</SimpleData>
+		<SimpleData name="status">data/stations/ca21856a.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/ca21856a.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>70.7804794251176,46.832282343538</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

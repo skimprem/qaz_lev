@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="4beb1660" id="4beb1660">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>4beb1660</name>
+  <Placemark id="4beb1660.1">
+	<name>620</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#4beb1660">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">770,389</SimpleData>
+		<SimpleData name="leveling_order">768,005</SimpleData>
+		<SimpleData name="control_height">Контрольный репер в верхней плоскости монолита</SimpleData>
+		<SimpleData name="benchmark_number">121оп</SimpleData>
+		<SimpleData name="control_location">Линия № 2: Спасск - Каркаралинск, II класс (2) Участок: грунт.реп. 428 -ск.реп. 0131</SimpleData>
+		<SimpleData name="benchmark_type">Шункыркудык, с., в 8,4 км к зап.от него, в 0,2 км к вост.от озера, в 40 м к юго-зап, от дороги с.Бесоба - Шункыркудык</SimpleData>
+		<SimpleData name="location_description">4beb1660-6c31-476c-b934-1bb1a7e9873f</SimpleData>
+		<SimpleData name="status">data/stations/4beb1660.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/4beb1660.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>74.832813942718,49.335451722569</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

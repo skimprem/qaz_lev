@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="556ee0cb" id="556ee0cb">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>556ee0cb</name>
+  <Placemark id="556ee0cb.1">
+	<name>1008</name>
+	<name>грунт,реп,</name>
+	<ExtendedData><SchemaData schemaUrl="#556ee0cb">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">506.268</SimpleData>
+		<SimpleData name="benchmark_number">160оп</SimpleData>
+		<SimpleData name="control_location">Линия №1: Арысь-Сарыозек, I класс</SimpleData>
+		<SimpleData name="benchmark_type">Чимкент, станц,, в 2,4 км к зап,от нее, на
+4 ПК 3286 км, в 10 м к югу от жел,-дор,
+полотна</SimpleData>
+		<SimpleData name="location_description">556ee0cb-0744-40cc-9147-d5f34f289c29</SimpleData>
+		<SimpleData name="status">data/stations/556ee0cb.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/556ee0cb.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>69.5885762040345,42.295609932207</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

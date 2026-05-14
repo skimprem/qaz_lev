@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="915b80aa" id="915b80aa">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>915b80aa</name>
+  <Placemark id="915b80aa.1">
+	<name>XII</name>
+	<name>грунт. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#915b80aa">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">63,897</SimpleData>
+		<SimpleData name="leveling_order">61,962</SimpleData>
+		<SimpleData name="benchmark_number">120</SimpleData>
+		<SimpleData name="control_location">Участок: грунт.реп. X - грунт.реп. 5511</SimpleData>
+		<SimpleData name="benchmark_type">Есмурат, мог., в 3,6 км к юго-зап.от нее, в 1,5 км к сев.-зап.от арт.к. Иисбулак, в 0,1 км к зап.от полевой дороги</SimpleData>
+		<SimpleData name="location_description">915b80aa-df63-45c4-8d6a-4b78dd85be41</SimpleData>
+		<SimpleData name="status">data/stations/915b80aa.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/915b80aa.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>62.0233166553447,44.2409466995753</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

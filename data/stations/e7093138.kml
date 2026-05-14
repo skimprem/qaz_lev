@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="e7093138" id="e7093138">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>e7093138</name>
+  <Placemark id="e7093138.1">
+	<name>3719</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#e7093138">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">88.648</SimpleData>
+		<SimpleData name="benchmark_number">121</SimpleData>
+		<SimpleData name="control_location">Линия №2: Чапаевский-Карасук, II класс (I) Участок:  грунт. реп. 3719-грунт. реп. 3085 </SimpleData>
+		<SimpleData name="benchmark_type">Ферма №2 свх. Новотроицкий, в 2.8 км к юго-вост. от него, в 38 м к югу от полевой дороги</SimpleData>
+		<SimpleData name="location_description">e7093138-30b4-41b0-b7fa-7b401dd35e2e</SimpleData>
+		<SimpleData name="status">data/stations/e7093138.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/e7093138.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>74.4009531609278,52.7480299272551</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

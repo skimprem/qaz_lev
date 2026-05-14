@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="c7f9034c" id="c7f9034c">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>c7f9034c</name>
+  <Placemark id="c7f9034c.1">
+	<name>1998</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#c7f9034c">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">382.688</SimpleData>
+		<SimpleData name="benchmark_number">160 оп.знак</SimpleData>
+		<SimpleData name="control_location">Линия №2: Ивановка - р.Кон, II класс (I) Участок: грунт.реп.1983 - фунд.реп.2294</SimpleData>
+		<SimpleData name="benchmark_type">Баршино, с., в 12.0 км к сев.-вост.от него, в 5.6 км к вост.от р.Кон, в 4.1 км к юго-вост.от мог.Акмыс</SimpleData>
+		<SimpleData name="location_description">c7f9034c-f8c2-4bc0-9da5-8b536c7d0004</SimpleData>
+		<SimpleData name="status">data/stations/c7f9034c.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/c7f9034c.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>69.6259922592584,49.775614109574</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

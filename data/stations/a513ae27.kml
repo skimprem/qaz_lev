@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="a513ae27" id="a513ae27">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>a513ae27</name>
+  <Placemark id="a513ae27.1">
+	<name>0416</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#a513ae27">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">619,94</SimpleData>
+		<SimpleData name="benchmark_number">160 оп</SimpleData>
+		<SimpleData name="control_location">Линия №1: Коянды-Каркаралинск, II класс (I). Участок: грунт.реп.3423-грунт.реп.9313</SimpleData>
+		<SimpleData name="benchmark_type">Бастал, с., в 2,7 км к юго-вост.от него, в 0,5 км к сев.-вост.от кладбища, в 60 м к сев.от русла р.Тундик, в 50 м к югу от шоссе с.Айнабулак-с.Егиндыбулак</SimpleData>
+		<SimpleData name="location_description">a513ae27-1d13-4be3-9b4b-f0fbcf79d182</SimpleData>
+		<SimpleData name="status">data/stations/a513ae27.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/a513ae27.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>76.5631036687744,49.7820155614665</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

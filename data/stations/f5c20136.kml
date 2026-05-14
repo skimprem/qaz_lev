@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="f5c20136" id="f5c20136">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>f5c20136</name>
+  <Placemark id="f5c20136.1">
+	<name>6222</name>
+	<description>грунт. реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#f5c20136">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">124.459</SimpleData>
+		<SimpleData name="leveling_order">121,885</SimpleData>
+		<SimpleData name="benchmark_number">121 оп</SimpleData>
+		<SimpleData name="control_location">Линия № 2: Карабутак - Сарысай,  II класс Участок: грунт.реп. 5961 - грунт.реп. 6222      </SimpleData>
+		<SimpleData name="benchmark_type">Курлыс, с., в 10.8 км к юго-зап. от него, в 2.4 км к юго-зап. от кладб. Иксенбай, в 0.3 км к сев. от дороги с. Жанакурылыс  (ферма № 2 свх. им. Калинина) - с. Курлыс</SimpleData>
+		<SimpleData name="location_description">f5c20136-cb6d-47cb-ab69-02333acbc329</SimpleData>
+		<SimpleData name="status">data/stations/f5c20136.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/f5c20136.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>60.5879987616762,48.6052403006106</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="ac4128e5" id="ac4128e5">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>ac4128e5</name>
+  <Placemark id="ac4128e5.1">
+	<name>2896</name>
+	<name>грунт. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#ac4128e5">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">625.626</SimpleData>
+		<SimpleData name="benchmark_number">160 оп. знак</SimpleData>
+		<SimpleData name="control_location">Линия № 4: Учарал – Кабанбай, II класс 
+Участок: грунт.реп. 2095 – грунт.реп. 2896
+</SimpleData>
+		<SimpleData name="benchmark_type">Кызылащы, с., в 1.2 км к юго-зап. от него, в 20 м к юго-вост. от шоссе гор. Алматы – гор. Усть-Каменогорск</SimpleData>
+		<SimpleData name="leveling_line_section">не найден</SimpleData>
+		<SimpleData name="location_description">ac4128e5-3c16-4e9c-9bc7-516211906b48</SimpleData>
+		<SimpleData name="status">data/stations/ac4128e5.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/ac4128e5.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>80.7065410385527,45.9875982510913</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

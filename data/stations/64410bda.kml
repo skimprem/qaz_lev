@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="64410bda" id="64410bda">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>64410bda</name>
+  <Placemark id="64410bda.1">
+	<name>45</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#64410bda">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">423.477</SimpleData>
+		<SimpleData name="control_location">Линия №2: Талдысай-Жиделысай, II класс (2) Участок: грунт.реп.41-фунд.реп.0539</SimpleData>
+		<SimpleData name="benchmark_type">Малшыбай,с.,в 5.8 км к зап.от него,в 0.7 км к югу от р.Кара-Кенгир,в 0.2 км к зап.от дороги с.Клинино-с.Малшыбай</SimpleData>
+		<SimpleData name="location_description">64410bda-33ef-4ed3-9828-8a10844c5253</SimpleData>
+		<SimpleData name="status">data/stations/64410bda.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/64410bda.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.7653103996729,48.3892997783534</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

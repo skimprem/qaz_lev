@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="e2308fad" id="e2308fad">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>e2308fad</name>
+  <Placemark id="e2308fad.1">
+	<name>4184</name>
+	<name>грунт. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#e2308fad">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">1105.140</SimpleData>
+		<SimpleData name="benchmark_number">160 оп. знак</SimpleData>
+		<SimpleData name="control_location">Линия № 1: Алажиде - оз.Жаланашколь, I класс. Участок: грунт.реп. 4351 – грунт.реп. 842</SimpleData>
+		<SimpleData name="benchmark_type">Ушбулак, с., в 6.8 км к юго-вост. от него, в 92 м к сев.-зап. от км. стб. 70/116 шоссе с. Кабанбай – cтанц. Дружба, в 43 м к сев.-вост. от могилы с оградой, в 17 м к юго-зап. от шоссе</SimpleData>
+		<SimpleData name="location_description">e2308fad-b49c-4960-9225-157ae1e59a2f</SimpleData>
+		<SimpleData name="status">data/stations/e2308fad.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/e2308fad.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>81.4016086351032,45.7841320205494</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

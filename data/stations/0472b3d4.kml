@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="0472b3d4" id="0472b3d4">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>0472b3d4</name>
+  <Placemark id="0472b3d4.1">
+	<name>6070</name>
+	<name>грунт. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#0472b3d4">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">270.896</SimpleData>
+		<SimpleData name="leveling_order">269.054</SimpleData>
+		<SimpleData name="benchmark_number">116</SimpleData>
+		<SimpleData name="control_location">Линия №1 : Каратогай-Кандагач , I класс . Участок : грунт. реп. 7187-грунт. реп. 3579</SimpleData>
+		<SimpleData name="benchmark_type">Аккемир, станция, в 5,3 км к юго-вост. от неё, на 9 пк. 1864 км, в 45 м к сев.-вост. от жел.-дор. полотна</SimpleData>
+		<SimpleData name="location_description">0472b3d4-8bf9-4917-b1a2-0707a9f415bd</SimpleData>
+		<SimpleData name="status">data/stations/0472b3d4.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/0472b3d4.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>57.35786086671,49.512894811076</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

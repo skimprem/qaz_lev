@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="ab61bdea" id="ab61bdea">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>ab61bdea</name>
+  <Placemark id="ab61bdea.1">
+	<name>Сарытерек</name>
+	<description>пирамида</description>
+	<ExtendedData><SchemaData schemaUrl="#ab61bdea">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">381.812</SimpleData>
+		<SimpleData name="leveling_height">237</SimpleData>
+		<SimpleData name="benchmark_number">2</SimpleData>
+		<SimpleData name="control_location">Линия № 2: Егинсу  – Урджар , II класс </SimpleData>
+		<SimpleData name="benchmark_type">Егинсу, с., в 17.1 км к югу от него, в 4.5 км к югу от зим. Жалын, в 0.6 км к сев.-зап. от шоссе с. Егинсу – ОТФ</SimpleData>
+		<SimpleData name="location_description">ab61bdea-b087-4d49-b93f-afd130cfe29d</SimpleData>
+		<SimpleData name="status">data/stations/ab61bdea.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/ab61bdea.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>81.490506339782,46.7982682014175</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

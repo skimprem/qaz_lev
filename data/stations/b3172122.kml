@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="b3172122" id="b3172122">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>b3172122</name>
+  <Placemark id="b3172122.1">
+	<name>9840</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#b3172122">
+		<SimpleData name="type">ІІ</SimpleData>
+		<SimpleData name="view">306.855</SimpleData>
+		<SimpleData name="benchmark_number">160 оп.знак</SimpleData>
+		<SimpleData name="control_location">Линия № 4: Атбасар-Жумай, ІІ класс (3) Участок: от фунд.реп.340 - грунт.реп.0072</SimpleData>
+		<SimpleData name="benchmark_type">Бес-Бидаик, станц., в 14.8 км к сев-зап от нее, в 2.5 км к юго-вост от разв.раз.Узкоколейный, в 0.1 км к сев-зап от км.стб.57/58 жел дор</SimpleData>
+		<SimpleData name="location_description">b3172122-1f1f-456a-a5c4-89b91b8be478</SimpleData>
+		<SimpleData name="status">data/stations/b3172122.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/b3172122.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>68.8294821303307,51.4102606678065</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

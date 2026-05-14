@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="d1afd615" id="d1afd615">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>d1afd615</name>
+  <Placemark id="d1afd615.1">
+	<name>3401</name>
+	<name>фундаментальный репер</name>
+	<ExtendedData><SchemaData schemaUrl="#d1afd615">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">130.449</SimpleData>
+		<SimpleData name="leveling_order">128.714</SimpleData>
+		<SimpleData name="control_height">Контрольный репер №3576в фундаментальной плите</SimpleData>
+		<SimpleData name="benchmark_type">с. Сольветка, в 5,5 км к юго-вост.от него, в 0,8 км к сев-зап.от сооружения №101 на канале, в 75 м к юго-вост.от линии связи</SimpleData>
+		<SimpleData name="location_description">d1afd615-f138-4889-97cf-6c10a32fd9a4</SimpleData>
+		<SimpleData name="status">data/stations/d1afd615.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/d1afd615.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>76.5816075348659,51.9876326506123</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

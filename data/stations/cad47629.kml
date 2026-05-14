@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="cad47629" id="cad47629">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>cad47629</name>
+  <Placemark id="cad47629.1">
+	<name>8444</name>
+	<name>грунт. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#cad47629">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">367.198</SimpleData>
+		<SimpleData name="benchmark_number">160 оп. знак</SimpleData>
+		<SimpleData name="control_location">Линия № 3: Сайкан  – Учарал , II класс </SimpleData>
+		<SimpleData name="benchmark_type">Раз. № 8, в 6.2 км к сев.-зап. от него, в 0.2 км к юго-зап. от км. стб. 117/118 жел. дор., в 15 м к вост. от полевой дороги</SimpleData>
+		<SimpleData name="location_description">cad47629-d896-46c5-935f-1f3d628169a5</SimpleData>
+		<SimpleData name="status">data/stations/cad47629.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/cad47629.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>80.8450065886674,46.3180448125631</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

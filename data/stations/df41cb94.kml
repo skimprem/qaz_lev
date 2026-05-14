@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="df41cb94" id="df41cb94">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>df41cb94</name>
+  <Placemark id="df41cb94.1">
+	<name>5066</name>
+	<name>стен.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#df41cb94">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">305.531</SimpleData>
+		<SimpleData name="benchmark_number">(уничтожен)</SimpleData>
+		<SimpleData name="control_location">Ход от стен.реп. 5990 до грунт.реп. 912287, II класс</SimpleData>
+		<SimpleData name="benchmark_type">Жамантуз, станц.,  в2.1 км к сев.-зап.от нее, на 229 км жел.дор., жел.-дор.мост</SimpleData>
+		<SimpleData name="location_description">df41cb94-bce9-479e-9f07-7c4d5ad219c9</SimpleData>
+		<SimpleData name="status">data/stations/df41cb94.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/df41cb94.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>69.8379852420227,53.0951957863429</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

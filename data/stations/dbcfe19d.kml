@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="dbcfe19d" id="dbcfe19d">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>dbcfe19d</name>
+  <Placemark id="dbcfe19d.1">
+	<name>32</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#dbcfe19d">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">468.402</SimpleData>
+		<SimpleData name="leveling_order">465.714</SimpleData>
+		<SimpleData name="control_height">Контрольный репер в верхней плоскости монолита</SimpleData>
+		<SimpleData name="benchmark_number">121</SimpleData>
+		<SimpleData name="control_location">Линия №3: Актасты-Чурбай-Нура, II  класс (3) Участок: грунт.реп. 30 - фунд.реп. б/№</SimpleData>
+		<SimpleData name="benchmark_type">Кызылжар, с., в 2,8 км к юго-зап. от него, в 0,3 км к сев.-вост.от разв.Жартас, в 23 м к сев.от полевой дороги</SimpleData>
+		<SimpleData name="location_description">dbcfe19d-4cf1-484c-921c-1c8834ed9fd9</SimpleData>
+		<SimpleData name="status">data/stations/dbcfe19d.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/dbcfe19d.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.5884214835508,49.9551500203106</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

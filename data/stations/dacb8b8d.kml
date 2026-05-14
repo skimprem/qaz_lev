@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="dacb8b8d" id="dacb8b8d">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>dacb8b8d</name>
+  <Placemark id="dacb8b8d.1">
+	<name>24</name>
+	<name>грунт. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#dacb8b8d">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">279.092</SimpleData>
+		<SimpleData name="benchmark_number">131</SimpleData>
+		<SimpleData name="control_location">Линия 2:Кызылуй-Байконыр, II класс (2),  Участок; грунт. реп. 9203-пир. 3 кл. Суре</SimpleData>
+		<SimpleData name="benchmark_type">Байгабыл, клабд.,  в 7.4 км к сев.-вост. от него, в 7.0  км к юго-вост. от озера,  у развилки полевой дороги и могил</SimpleData>
+		<SimpleData name="location_description">dacb8b8d-8a3c-4a8f-860d-e2f73b963954</SimpleData>
+		<SimpleData name="status">data/stations/dacb8b8d.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/dacb8b8d.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>65.6479938785364,47.9636645218357</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

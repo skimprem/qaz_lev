@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="bdd09d51" id="bdd09d51">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>bdd09d51</name>
+  <Placemark id="bdd09d51.1">
+	<name>0841</name>
+	<name>грунт.реп</name>
+	<ExtendedData><SchemaData schemaUrl="#bdd09d51">
+		<SimpleData name="type">ІІ</SimpleData>
+		<SimpleData name="view">340.319</SimpleData>
+		<SimpleData name="benchmark_number">146 оп</SimpleData>
+		<SimpleData name="control_location">Линия № 1 Астана (Целиноград) - Жумай, ІІ класс (1)  Участок: пир. 3 кл. Жаланаш - грунт.реп. 0018</SimpleData>
+		<SimpleData name="benchmark_type">Оразак, с., в 0.5 км к сев-зап.от него, в 50 м к сев-зап.от дороги с. Родионовка - с. Оразак, в 40 к юго-зап.от стб. ЛЭП № 103, в 30 м к сев. от линии связи</SimpleData>
+		<SimpleData name="leveling_line_section">не найден</SimpleData>
+		<SimpleData name="location_description">bdd09d51-f75e-47bb-a6e1-3bdbe70059c9</SimpleData>
+		<SimpleData name="status">data/stations/bdd09d51.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/bdd09d51.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>70.7108596432804,50.9448233439009</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

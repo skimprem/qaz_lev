@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="b4b0df5d" id="b4b0df5d">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>b4b0df5d</name>
+  <Placemark id="b4b0df5d.1">
+	<name>Обуховское</name>
+	<description>сигнал</description>
+	<ExtendedData><SchemaData schemaUrl="#b4b0df5d">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">420.907</SimpleData>
+		<SimpleData name="leveling_height">70</SimpleData>
+		<SimpleData name="benchmark_number">1 оп </SimpleData>
+		<SimpleData name="control_location">Линия № 8: Коктума  – Учарал , II класс 
+Участок: сигн. 2 кл. Обуховское – фунд.реп. 25
+</SimpleData>
+		<SimpleData name="benchmark_type">Казахстан, с., в 4.6 км к югу от него, в 2.9 км к юго-зап. от пол. ст. Каратоган, к зап. от моста на арыке</SimpleData>
+		<SimpleData name="location_description">b4b0df5d-ade2-4ba3-a231-cf24793ef615</SimpleData>
+		<SimpleData name="status">data/stations/b4b0df5d.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/b4b0df5d.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>81.006858201762,46.1517421937833</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

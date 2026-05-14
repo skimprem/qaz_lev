@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="60338930" id="60338930">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>60338930</name>
+  <Placemark id="60338930.1">
+	<name>14</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#60338930">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">320.399</SimpleData>
+		<SimpleData name="benchmark_number">А</SimpleData>
+		<SimpleData name="control_location">Линия №1: Кзыл-Сенгир = Жумай, II класса (1) Участок: фунд.реп.5003 - гркнт.реп.2940  Ход от грунт.реп. 8 до грунт.реп. 15, II класс (4)  Участок: грунт.реп. 12 - грунт.реп.15</SimpleData>
+		<SimpleData name="benchmark_type">Жумай,с., в 10.0 км к юго-зап.от него, в 2.0 км к сев.-вост.от полевого стана, в 0.1 км к зап.от полевой дороги</SimpleData>
+		<SimpleData name="leveling_line_section">уничтожен</SimpleData>
+		<SimpleData name="location_description">60338930-a397-4954-8c85-ab3b295bf372</SimpleData>
+		<SimpleData name="status">data/stations/60338930.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/60338930.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>69.6930046857354,50.6262873472085</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="1cc58e43" id="1cc58e43">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>1cc58e43</name>
+  <Placemark id="1cc58e43.1">
+	<name>7731</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#1cc58e43">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">146,388</SimpleData>
+		<SimpleData name="control_location">Линия № 3: Кичиктай - Созак, 2 класс (3) Участок: фунд. реп. 7911 - грунт. реп. 9460 </SimpleData>
+		<SimpleData name="benchmark_type">Балатай, буг., в 4.5 км к югу от него, в 0.1 км к вост. от солончака, в 10 м к зап. от грунт. дороги гор. Жезказган - с. Созак</SimpleData>
+		<SimpleData name="location_description">1cc58e43-f1c0-4968-88bb-0a760a944dec</SimpleData>
+		<SimpleData name="status">data/stations/1cc58e43.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/1cc58e43.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>68.2775361054052,44.9004983182665</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

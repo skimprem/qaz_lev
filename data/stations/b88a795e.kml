@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="b88a795e" id="b88a795e">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>b88a795e</name>
+  <Placemark id="b88a795e.1">
+	<name>44 - 395</name>
+	<description>грунт.реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#b88a795e">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">125.943</SimpleData>
+		<SimpleData name="leveling_order">124.696</SimpleData>
+		<SimpleData name="leveling_height">Контрольный репер в верхней плоскости монолита</SimpleData>
+		<SimpleData name="benchmark_number">121</SimpleData>
+		<SimpleData name="control_location">Линия № 4: Кызылорда - Арыс, I класс. Ход от грунт.реп. 1323 - грунт. Реп. 1286, II класс. Участок: грунт.реп. 1323 - грунт.реп. 1275 (1375)</SimpleData>
+		<SimpleData name="benchmark_type">Кызылорда, станц., в 3.0 км к вост.от неё, в 0.8 км к вост.от шоссе гор. Кызылорда - с. Досан, в 5 м к зап.от кан. Кызылжарма</SimpleData>
+		<SimpleData name="location_description">b88a795e-29e1-454f-99b1-1b5a81558344</SimpleData>
+		<SimpleData name="status">data/stations/b88a795e.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/b88a795e.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>65.5220343884642,44.8631849202451</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

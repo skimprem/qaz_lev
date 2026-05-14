@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="1f65177c" id="1f65177c">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>1f65177c</name>
+  <Placemark id="1f65177c.1">
+	<name>21</name>
+	<name>грунт. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#1f65177c">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">584.111</SimpleData>
+		<SimpleData name="leveling_order">582,607</SimpleData>
+		<SimpleData name="control_height">репер № 497 в фундаментной плите</SimpleData>
+		<SimpleData name="benchmark_number">116</SimpleData>
+		<SimpleData name="control_location">Линия №3: Эмбек - Березовка, 2 класс (1) Участок: грунт. реп.б/№ - грунт. реп. 195</SimpleData>
+		<SimpleData name="benchmark_type">Васильевка, с., в 2.2 км к юго-вост. от него, в 0.3 км к вост. от перевала через хребет, в 10 м к сев.-вост. от дороги с. Васильевка - с. Первороссийск</SimpleData>
+		<SimpleData name="location_description">1f65177c-ce1a-4f53-8317-4f0af54bb21f</SimpleData>
+		<SimpleData name="status">data/stations/1f65177c.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/1f65177c.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>83.6917511051501,49.7278275495962</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

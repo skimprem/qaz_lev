@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="cff2888d" id="cff2888d">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>cff2888d</name>
+  <Placemark id="cff2888d.1">
+	<name>1900</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#cff2888d">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">375,017</SimpleData>
+		<SimpleData name="control_location">Линия № 3: Жезказган - р,Сарысу, 2 класс (4) Участок: фунд, реп. 495 - грунт. реп. 826</SimpleData>
+		<SimpleData name="benchmark_type">Ески Талап, разв,, в 20,1 км к юго-зап, от них, в 2,0 км к югу от г, Бестобе, в 20 м к сев,-вост, от развилки полевой дороги, в 6 м к вост, от полевой дороги</SimpleData>
+		<SimpleData name="location_description">cff2888d-9817-44cf-9f1f-7472c1a37076</SimpleData>
+		<SimpleData name="status">data/stations/cff2888d.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/cff2888d.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.6236731101003,47.4382646771046</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

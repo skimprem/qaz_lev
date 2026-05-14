@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="fbfa80f8" id="fbfa80f8">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>fbfa80f8</name>
+  <Placemark id="fbfa80f8.1">
+	<name>2946</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#fbfa80f8">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">123.065</SimpleData>
+		<SimpleData name="benchmark_number">121</SimpleData>
+		<SimpleData name="control_location">Линия №I: Волотовка-Чапаевский, II класс (I) Участок:  грунт. реп. 2946-грунт. реп. 2987 </SimpleData>
+		<SimpleData name="benchmark_type">Голубовка,с., в 2.9 км к сев. от него, в 2.0 км к сев-вост. от оз.Голубовка, в 100 м к югу от фунд.реп. 162</SimpleData>
+		<SimpleData name="location_description">fbfa80f8-30d8-41c1-ae9f-83d31738c362</SimpleData>
+		<SimpleData name="status">data/stations/fbfa80f8.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/fbfa80f8.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>74.2039097898423,53.1575404871996</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

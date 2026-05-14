@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2413caaf" id="2413caaf">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>2413caaf</name>
+  <Placemark id="2413caaf.1">
+	<name>9741</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#2413caaf">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">187,931</SimpleData>
+		<SimpleData name="control_location">Линия № 2: Сарысу - Кендырлык (Айгарлык).ІІ класс (1) Участок: грунт, реп. 3939 - пир. 3 кл. Дувана Зап.</SimpleData>
+		<SimpleData name="benchmark_type">Дувана Зап., пир. 3 кл., в 3.8 км к сев.-зап. от нее, в 2.2 км к юго-вост. от пир. 3 кл. Угловой, в 1.4 км к югу                  от полевой дороги</SimpleData>
+		<SimpleData name="location_description">2413caaf-9a52-4fef-bf31-10af0f3197a1</SimpleData>
+		<SimpleData name="status">data/stations/2413caaf.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/2413caaf.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.4865446765551,46.0045297950962</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="d153a4a0" id="d153a4a0">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>d153a4a0</name>
+  <Placemark id="d153a4a0.1">
+	<name>Г104</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#d153a4a0">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">240,948</SimpleData>
+		<SimpleData name="benchmark_number">160оп</SimpleData>
+		<SimpleData name="control_location">Линия №5: Сарыкияк - Шидерты, II класс (3). Участок:  фунд. реп. 134 - фунд. реп. 1882</SimpleData>
+		<SimpleData name="benchmark_type">Карабудур, зим. , в 5.3 км к сев.-вост. от неё, в 0.1 км к сев.-зап. от поворота ЛЭП, в 10 м к вост. от полевой дороги</SimpleData>
+		<SimpleData name="location_description">d153a4a0-98b9-430c-87dd-e9f051f280a0</SimpleData>
+		<SimpleData name="status">data/stations/d153a4a0.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/d153a4a0.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>74.6657532933174,51.6148987475461</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

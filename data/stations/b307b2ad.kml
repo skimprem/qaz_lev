@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="b307b2ad" id="b307b2ad">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>b307b2ad</name>
+  <Placemark id="b307b2ad.1">
+	<name>35</name>
+	<name>фундаментальный репер</name>
+	<ExtendedData><SchemaData schemaUrl="#b307b2ad">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">718,868</SimpleData>
+		<SimpleData name="leveling_order">718,343/718,262/717,567</SimpleData>
+		<SimpleData name="control_height">контрольный репер в трубе/ контрольный репер в верхней плоскости монолита/ контрольный репер в скале</SimpleData>
+		<SimpleData name="benchmark_number">А</SimpleData>
+		<SimpleData name="control_location">Линия №2: Карасу - Актогай, II класс (1)              Участок: ск. реп. 5486 - фунд. реп. 4072</SimpleData>
+		<SimpleData name="benchmark_type">Каракула, с., в 1,8 км к сев. от него, в 0,6 км к юго-зап. от полевой дороги, в 30 м к югу от р.Токрау</SimpleData>
+		<SimpleData name="location_description">b307b2ad-23be-45b8-992c-91a344f07237</SimpleData>
+		<SimpleData name="status">data/stations/b307b2ad.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/b307b2ad.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.2346658354155,48.1833994137429</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

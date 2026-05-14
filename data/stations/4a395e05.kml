@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="4a395e05" id="4a395e05">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>4a395e05</name>
+  <Placemark id="4a395e05.1">
+	<name>112</name>
+	<name>фунд. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#4a395e05">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">238,852</SimpleData>
+		<SimpleData name="leveling_order">237,871</SimpleData>
+		<SimpleData name="control_height">марка № 1263 в фундаментной плите</SimpleData>
+		<SimpleData name="benchmark_number">140</SimpleData>
+		<SimpleData name="control_location">Линия: Семипалатинск - Локоть, I класс (1) Участок: грунт. реп. б/№ - фунд. реп. 3 (Вдоль жел. дор. Новосибирск - Семипалатинск)</SimpleData>
+		<SimpleData name="benchmark_type">в 0.1 км к северу от грунт. реп. 6488</SimpleData>
+		<SimpleData name="location_description">4a395e05-1d1e-4029-8d75-ebe2ec489a23</SimpleData>
+		<SimpleData name="status">data/stations/4a395e05.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/4a395e05.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>81.0522545463705,51.0877909578067</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

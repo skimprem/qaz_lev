@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="470c91a8" id="470c91a8">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>470c91a8</name>
+  <Placemark id="470c91a8.1">
+	<name>б/№</name>
+	<description>марка</description>
+	<ExtendedData><SchemaData schemaUrl="#470c91a8">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">128.813</SimpleData>
+		<SimpleData name="control_location">Линия № 4: Кызылорда - Арыс, I класс. Ход от грунт.реп. 1323 - грунт. Реп. 1286, II класс. Участок: грунт.реп. 1323 - грунт.реп. 1275 (1375)</SimpleData>
+		<SimpleData name="benchmark_type">Кызылорда, гор., ул. Д. Конаева № 34, в зап. стене зд. продмага № 5</SimpleData>
+		<SimpleData name="location_description">470c91a8-3fe7-4e99-9211-328a7101f760</SimpleData>
+		<SimpleData name="status">data/stations/470c91a8.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/470c91a8.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>65.4975892243223,44.8538240763028</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

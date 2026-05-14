@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="fb76708d" id="fb76708d">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>fb76708d</name>
+  <Placemark id="fb76708d.1">
+	<name>5857</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#fb76708d">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">229,258</SimpleData>
+		<SimpleData name="control_location">Линия № 1: Жезказган - Caрысу. ІІ класс (2) Участок: - грунт реп. 730 - грунт.реп. 9470</SimpleData>
+		<SimpleData name="benchmark_type">Сарысу. р., в 1.2 км к сев.-зап. от нее,    в 0.2 км к югу от км. стб. 142, в 35 м       к вост. от дороги гор.Жезказган -      гор. Кызылорда, на 142 км</SimpleData>
+		<SimpleData name="location_description">fb76708d-6b31-4578-886f-2ff687e31d4e</SimpleData>
+		<SimpleData name="status">data/stations/fb76708d.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/fb76708d.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.5131441379085,46.5916985517149</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

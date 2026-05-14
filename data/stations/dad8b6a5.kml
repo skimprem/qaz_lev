@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="dad8b6a5" id="dad8b6a5">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>dad8b6a5</name>
+  <Placemark id="dad8b6a5.1">
+	<name>460</name>
+	<name>марка</name>
+	<ExtendedData><SchemaData schemaUrl="#dad8b6a5">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">1024,324</SimpleData>
+		<SimpleData name="control_location">Линия №3; Сары-Озек - Фрунзе, II класс (6) Участок: грунт. реп. 602 - марка 460</SimpleData>
+		<SimpleData name="benchmark_type">Темирлик, с., в 2.0 км к сев.-зап. от него, в 35 м к зап. от дороги с.Чунджа- с. Кеген, в скале</SimpleData>
+		<SimpleData name="location_description">dad8b6a5-b6ce-424f-9f5a-2aaab48eb798</SimpleData>
+		<SimpleData name="status">data/stations/dad8b6a5.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/dad8b6a5.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>79.1860506053098,43.321618357112</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

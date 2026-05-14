@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="1b0107ab" id="1b0107ab">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>1b0107ab</name>
+  <Placemark id="1b0107ab.1">
+	<name>№4195</name>
+	<name>нуль барометра</name>
+	<ExtendedData><SchemaData schemaUrl="#1b0107ab">
+		<SimpleData name="type">ІІ</SimpleData>
+		<SimpleData name="view">305.196</SimpleData>
+		<SimpleData name="leveling_order">272.744</SimpleData>
+		<SimpleData name="control_height">Контрольный репер №1721 в верхней плоскости монолита</SimpleData>
+		<SimpleData name="control_location">Висячий ход от грунт.реп. 7770, ІІ класс (І)</SimpleData>
+		<SimpleData name="benchmark_type">Жалтыр, с., юго-зап.окраина его, в здании метеостанции</SimpleData>
+		<SimpleData name="location_description">1b0107ab-bf9c-41e8-b492-bd478d9a59ec</SimpleData>
+		<SimpleData name="status">data/stations/1b0107ab.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/1b0107ab.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>69.8251578827973,51.6294901207729</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

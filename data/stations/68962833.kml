@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="68962833" id="68962833">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>68962833</name>
+  <Placemark id="68962833.1">
+	<name>1529</name>
+	<description>грунт. реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#68962833">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">68.746</SimpleData>
+		<SimpleData name="leveling_order">67.622</SimpleData>
+		<SimpleData name="leveling_height">Контрольный репер № 822 в фундаментной плите</SimpleData>
+		<SimpleData name="benchmark_number">116</SimpleData>
+		<SimpleData name="control_location">Линия 1: Аральск- Айтеке Би (Новоказалинск)-Жосалы, I класс(1,2). Участок: Грунт. реп. 803-марка 3906</SimpleData>
+		<SimpleData name="benchmark_type">Айтеке Би, с., в 6,3 км к вост. от здания вокзала, на 1 пк. 2505 км жел.дор. , в 37 м к югу от оси жел. дор. полотна, в 22 м к вост. от фунд.репера 473</SimpleData>
+		<SimpleData name="location_description">68962833-0e5f-4b52-a0ca-1dce2d438498</SimpleData>
+		<SimpleData name="status">data/stations/68962833.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/68962833.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>62.2343832128322,45.8440377217595</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

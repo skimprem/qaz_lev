@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="3046795b" id="3046795b">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>3046795b</name>
+  <Placemark id="3046795b.1">
+	<name>7533</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#3046795b">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">144,644</SimpleData>
+		<SimpleData name="control_location">Линия № 3: Кичиктай - Созак, 2 класс (3) Участок: фунд. реп. 7911 - грунт. реп. 9460 </SimpleData>
+		<SimpleData name="benchmark_type">Балатай, буг., в 1.0 км к юго-зап. от него, в 0.8 км к югу от развилки грунт. дороги гор. Жезказган - с. Созак - с. Жуантобе, в 22 м к зап. от грунт. дороги</SimpleData>
+		<SimpleData name="location_description">3046795b-9b6e-4180-8bb1-fa4282a2df48</SimpleData>
+		<SimpleData name="status">data/stations/3046795b.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/3046795b.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>68.2771413295679,44.9319907145706</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

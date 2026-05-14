@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="bac05e0e" id="bac05e0e">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>bac05e0e</name>
+  <Placemark id="bac05e0e.1">
+	<name>0070</name>
+	<name>грунт. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#bac05e0e">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">178,279</SimpleData>
+		<SimpleData name="benchmark_number">160 оп</SimpleData>
+		<SimpleData name="control_location">Линия № 3: Семиярск-Михайловка, II класс (2) Участок: фунд. реп. 4422-грунт. реп., 446 </SimpleData>
+		<SimpleData name="benchmark_type">Семиярка, с., в 13.5 км к сев.-вост. от него, в 2.5 км к юго-зап. от разв. Кулжан, в 10 м к юго-вост. от полевой дороги, в 1 м к юго-зап. от оп. стб.</SimpleData>
+		<SimpleData name="location_description">bac05e0e-263d-47ee-a7c5-257e655c3d77</SimpleData>
+		<SimpleData name="status">data/stations/bac05e0e.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/bac05e0e.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>78.4411244535628,50.9942883203046</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

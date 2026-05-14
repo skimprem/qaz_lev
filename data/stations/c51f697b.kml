@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="c51f697b" id="c51f697b">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>c51f697b</name>
+  <Placemark id="c51f697b.1">
+	<name>Уличный</name>
+	<description>пирамида</description>
+	<ExtendedData><SchemaData schemaUrl="#c51f697b">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">575.153</SimpleData>
+		<SimpleData name="benchmark_number">1</SimpleData>
+		<SimpleData name="control_location">Линия № 1: Уштобе – Текели, II класс
+Участок: грунт. реп. 2940 – фунд. реп. 7980
+
+</SimpleData>
+		<SimpleData name="benchmark_type">Талдыкорган, гор., вост. окраина его, к зап. от дома № 81а по ул. Абая</SimpleData>
+		<SimpleData name="location_description">c51f697b-b4f7-441c-990c-b4293c0945a4</SimpleData>
+		<SimpleData name="status">data/stations/c51f697b.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/c51f697b.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>78.3807052219606,45.0372217221287</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

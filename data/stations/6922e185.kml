@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="6922e185" id="6922e185">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>6922e185</name>
+  <Placemark id="6922e185.1">
+	<name>1787</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#6922e185">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">513,210</SimpleData>
+		<SimpleData name="leveling_order">511,753</SimpleData>
+		<SimpleData name="control_height">Контрольный репер в фундаментной плите</SimpleData>
+		<SimpleData name="benchmark_number">116</SimpleData>
+		<SimpleData name="control_location">Линия № 1:Каржунколь-Степное,  II класс (1) Участок : ск.реп.1186-ск.реп.1207</SimpleData>
+		<SimpleData name="benchmark_type">Шакей(Жанатурмыс), с., в 8,0 км к юго-вост. от него, в 2,9 км к юго-зап. от родника, в 0,4 км к юго-зап. от развилки полевой дороги</SimpleData>
+		<SimpleData name="location_description">6922e185-8d99-4254-a9be-c444ca9c3842</SimpleData>
+		<SimpleData name="status">data/stations/6922e185.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/6922e185.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>73.2524347792134,51.0827775303637</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

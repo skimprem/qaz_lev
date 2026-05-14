@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="ed276015" id="ed276015">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>ed276015</name>
+  <Placemark id="ed276015.1">
+	<name>888</name>
+	<description>грунт. реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#ed276015">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">66.208</SimpleData>
+		<SimpleData name="benchmark_number">160 оп. знак</SimpleData>
+		<SimpleData name="control_location">Линия № 2 : Кошкарата - Аральск, I класс. Участок: грунт. реп. б/№ - грунт. реп. 47</SimpleData>
+		<SimpleData name="benchmark_type">Акеспе, с., в 6.4 км к зап. от него, в 3.5км к  сев.-зап.от развалин Кумкудук, в 0.8км к югу от балки Жиделисай, в 80м к сев.кладб., в 12м к сев.от пол.дороги</SimpleData>
+		<SimpleData name="location_description">ed276015-3521-48b0-9add-365e4450c078</SimpleData>
+		<SimpleData name="status">data/stations/ed276015.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/ed276015.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>60.4169204248477,46.7790162841236</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

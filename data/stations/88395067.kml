@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="88395067" id="88395067">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>88395067</name>
+  <Placemark id="88395067.1">
+	<name>2350</name>
+	<description>грунт.реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#88395067">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">209.106</SimpleData>
+		<SimpleData name="leveling_order">208.252</SimpleData>
+		<SimpleData name="benchmark_number">141</SimpleData>
+		<SimpleData name="control_location">Линия № 4: Урицкое - Тран, II класс                       </SimpleData>
+		<SimpleData name="benchmark_type">Урицкое, с., в 1.0 км к сев.от него, в 135 м к вост.от дороги, в 125 м к юго-вост.от тлф.стб. № 27/38</SimpleData>
+		<SimpleData name="location_description">88395067-8c6c-4334-ab63-74c498dcf293</SimpleData>
+		<SimpleData name="status">data/stations/88395067.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/88395067.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>65.5495405185491,53.3350274762692</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="25e1add5" id="25e1add5">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>25e1add5</name>
+  <Placemark id="25e1add5.1">
+	<name>0473</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#25e1add5">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">312,480</SimpleData>
+		<SimpleData name="control_location">Линия № 1: Кумкент - Торыустаган, 2 класс (1) Участок: грунт, реп. 0473 - грунт, реп. 8417</SimpleData>
+		<SimpleData name="benchmark_type">Актам, с., в 15.9 км к сев.-вост. от него, в 0.4 км к сев,- зап. от зимовки, в 84 м к зап. от колодца, на бугре</SimpleData>
+		<SimpleData name="leveling_line_section">уничтожен</SimpleData>
+		<SimpleData name="location_description">25e1add5-7a1b-4d97-977c-a68c8536776f</SimpleData>
+		<SimpleData name="status">data/stations/25e1add5.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/25e1add5.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>69.8509394179422,43.983522243389</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

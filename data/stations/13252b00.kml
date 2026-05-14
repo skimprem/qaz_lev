@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="13252b00" id="13252b00">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>13252b00</name>
+  <Placemark id="13252b00.1">
+	<name>832</name>
+	<description>фунд.реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#13252b00">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">185.728</SimpleData>
+		<SimpleData name="leveling_order">184.368</SimpleData>
+		<SimpleData name="benchmark_number">117</SimpleData>
+		<SimpleData name="control_location">Линия № 4 : Троицк - Кустанай, II класс                       Участок : марка 120 - марка 507</SimpleData>
+		<SimpleData name="benchmark_type">249-й км жел.дор., в 107 м к вост.от пк. 6/7, в 21 м к югу от пк. 7/8, в 19 м к югу от ближайшего рельса</SimpleData>
+		<SimpleData name="leveling_line_section">утрачен</SimpleData>
+		<SimpleData name="location_description">13252b00-0037-4922-bbff-0471b7c3ac13</SimpleData>
+		<SimpleData name="status">data/stations/13252b00.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/13252b00.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>63.205000463539,53.4366696511254</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

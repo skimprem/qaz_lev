@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="e6d2f241" id="e6d2f241">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>e6d2f241</name>
+  <Placemark id="e6d2f241.1">
+	<name>1001</name>
+	<description>грунт.реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#e6d2f241">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">916.860</SimpleData>
+		<SimpleData name="control_location">Линия № 2: Алматы-Сарыозек I класс                            Участок: грунт. реп. 4431-фунд. реп. 384</SimpleData>
+		<SimpleData name="benchmark_type">Сарыозек, станц., в 2.0 км к сев.-вост. от неё, на 9 ПК 1484 км, в 55 м к зап. от жел.-дор. полотна</SimpleData>
+		<SimpleData name="location_description">e6d2f241-8cd5-4171-b82d-81a11296d559</SimpleData>
+		<SimpleData name="status">data/stations/e6d2f241.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/e6d2f241.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.991690050896,44.3722963521918</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

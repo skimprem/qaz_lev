@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="ec78a300" id="ec78a300">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>ec78a300</name>
+  <Placemark id="ec78a300.1">
+	<name>108</name>
+	<name>грунт. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#ec78a300">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">229.331</SimpleData>
+		<SimpleData name="leveling_order">227.866</SimpleData>
+		<SimpleData name="benchmark_number">А</SimpleData>
+		<SimpleData name="control_location">Линия №1 : Новоильиновка - Кулыколь. II класс . Участок : грунт. реп. 89- грунт. реп. 1</SimpleData>
+		<SimpleData name="benchmark_type">Наумоновка. с.. в 2.0 км к сев. от него. в 0.4 км к зап. от р. Тобол. в 0.1 км к вост. от  дороги. с. Гришинка - с. Шокыбай</SimpleData>
+		<SimpleData name="location_description">ec78a300-2f1e-48cd-92ca-837c32ac3071</SimpleData>
+		<SimpleData name="status">data/stations/ec78a300.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/ec78a300.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>61.606837745533,52.3278388101308</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="de7d339a" id="de7d339a">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>de7d339a</name>
+  <Placemark id="de7d339a.1">
+	<name>8385</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#de7d339a">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">376,510</SimpleData>
+		<SimpleData name="control_location">Линия № 3: Жезказган - р,Сарысу, 2 класс (4) Участок: фунд, реп. 495 - грунт. реп. 826</SimpleData>
+		<SimpleData name="benchmark_type">Карамола, мог,, в 14,7 км к югу от неё, в 3,9 км к зап, от мог, Бекембет, в 6 м к вост, от полевой дороги</SimpleData>
+		<SimpleData name="location_description">de7d339a-2f91-4a6f-8f95-0749dea4b4c1</SimpleData>
+		<SimpleData name="status">data/stations/de7d339a.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/de7d339a.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.3725089674093,47.6211636918719</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

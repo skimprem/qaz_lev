@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="e4a85fff" id="e4a85fff">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>e4a85fff</name>
+  <Placemark id="e4a85fff.1">
+	<name>4026</name>
+	<name>грунт. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#e4a85fff">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">726.510</SimpleData>
+		<SimpleData name="leveling_order">724,381</SimpleData>
+		<SimpleData name="control_height">репер № 9154 в верхней плоскости монолита</SimpleData>
+		<SimpleData name="benchmark_number">121</SimpleData>
+		<SimpleData name="control_location">Линия № 1: Аягуз-Жангиз-Тобе, I класс (1) Участок: марка 20827-грунт. реп. 4089</SimpleData>
+		<SimpleData name="benchmark_type">Ушбиик, раз., в 5.5 км к сев.-вост. от него, на 7 пикете 270 км, в 0.2 км к зап. от оси жел.-дор. полотна, в 37 м к зап. от грунтовой дороги</SimpleData>
+		<SimpleData name="location_description">e4a85fff-c3be-4890-a390-62f1109bc695</SimpleData>
+		<SimpleData name="status">data/stations/e4a85fff.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/e4a85fff.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>80.5281108772586,48.4057415726298</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

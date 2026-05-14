@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="e39d42bf" id="e39d42bf">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>e39d42bf</name>
+  <Placemark id="e39d42bf.1">
+	<name>205</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#e39d42bf">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">362,366</SimpleData>
+		<SimpleData name="leveling_height">361,278</SimpleData>
+		<SimpleData name="benchmark_number">в верхней плоскости монолита</SimpleData>
+		<SimpleData name="control_location">Линия № 1: фунд. реп. 9617 - Актас, 2 класс (1) Участок: грунт, реп. 215 - грунт, реп. 0024</SimpleData>
+		<SimpleData name="benchmark_type">Кокиирим, к., в 15.8 км к юго-вост, от него, в 3.7 км к сев.-зап. от кладбища, в 58 м к сев. от грунт, дороги зим. Бетпакдала - с. Мынарал</SimpleData>
+		<SimpleData name="location_description">e39d42bf-d776-4810-b5ea-ce80239cd240</SimpleData>
+		<SimpleData name="status">data/stations/e39d42bf.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/e39d42bf.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>70.8288850361877,45.8795637642349</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

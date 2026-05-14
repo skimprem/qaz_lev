@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="5c7e1104" id="5c7e1104">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>5c7e1104</name>
+  <Placemark id="5c7e1104.1">
+	<name>7375</name>
+	<name>грунт.реп</name>
+	<ExtendedData><SchemaData schemaUrl="#5c7e1104">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">353.224</SimpleData>
+		<SimpleData name="benchmark_number">160 оп. знак</SimpleData>
+		<SimpleData name="control_location">Линия № 2: Сарышаган – Каратас, I класс, Участок: грунт.реп. 9418 – фунд.реп.  3000</SimpleData>
+		<SimpleData name="benchmark_type">Раз. № 14, в 12.4 км к югу от него, в 3.6 км к сев.-зап. от г. Шумек, в 36 м к вост. от грунт. дороги с. Саяк – с. Каратас</SimpleData>
+		<SimpleData name="location_description">5c7e1104-ba76-401b-8eb4-ce331c7f0166</SimpleData>
+		<SimpleData name="status">data/stations/5c7e1104.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/5c7e1104.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>79.1687056752805,46.784780984214</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

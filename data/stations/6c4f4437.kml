@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="6c4f4437" id="6c4f4437">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>6c4f4437</name>
+  <Placemark id="6c4f4437.1">
+	<name>б/№</name>
+	<description>марка</description>
+	<ExtendedData><SchemaData schemaUrl="#6c4f4437">
+		<SimpleData name="view">139.245</SimpleData>
+		<SimpleData name="control_location">Ход от марки 3888 до марки 2136, Iкласс (2) </SimpleData>
+		<SimpleData name="benchmark_type">Тогыз, разъезд., здание разъезда</SimpleData>
+		<SimpleData name="location_description">6c4f4437-bfc5-4259-872a-4f068fbc052a</SimpleData>
+		<SimpleData name="status">data/stations/6c4f4437.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/6c4f4437.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>60.5462091374424,47.5565162972982</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

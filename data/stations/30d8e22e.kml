@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="30d8e22e" id="30d8e22e">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>30d8e22e</name>
+  <Placemark id="30d8e22e.1">
+	<name>20050</name>
+	<name>стен.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#30d8e22e">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">451,132</SimpleData>
+		<SimpleData name="control_location">Линия № 2: Каратас – Аягоз, I класс. Участок: грунт.реп. 1071-марка 20140</SimpleData>
+		<SimpleData name="benchmark_type">Ак-Булат, станц., в 6.5 км к юго-зап. от нее, в устое жел.-дор. моста через р. Тансык</SimpleData>
+		<SimpleData name="location_description">30d8e22e-894b-4b9f-909c-3289df5acc7a</SimpleData>
+		<SimpleData name="status">data/stations/30d8e22e.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/30d8e22e.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>79.9532382954308,47.3856295180998</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="be0746d2" id="be0746d2">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>be0746d2</name>
+  <Placemark id="be0746d2.1">
+	<name>2089</name>
+	<description>грунт.реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#be0746d2">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">377.888</SimpleData>
+		<SimpleData name="benchmark_number">160 оп.знак</SimpleData>
+		<SimpleData name="control_location">Линия № 1:Торнтоган-Берлик I класс                            Участок: пир.2 кл.Сухое Русло - грунт.реп.5241</SimpleData>
+		<SimpleData name="benchmark_type">Амангельда,с.,в  4.2  км  к юго-зап.от
+него,в  0,1 км  к  вост.от  развилки  шоссе
+с. Фурмановка-с. Бирлик-с. Амангельды, в
+10  м  к юго-зад.от  ЛЭП</SimpleData>
+		<SimpleData name="location_description">be0746d2-b026-4e5a-83cf-7a5f71ead9a4</SimpleData>
+		<SimpleData name="status">data/stations/be0746d2.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/be0746d2.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>73.3078242844349,44.2063641925557</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2532b805" id="2532b805">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>2532b805</name>
+  <Placemark id="2532b805.1">
+	<name>5159</name>
+	<name>грунт.реп.</name>
+	<description>грунт.реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#2532b805">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">355.169</SimpleData>
+		<SimpleData name="benchmark_number">160 оп.знак</SimpleData>
+		<SimpleData name="control_location">Линия № 4:Урочище Куйган-Лепсы, II класс                            Участок: фунд.реп. 5749-грунт.реп. 991</SimpleData>
+		<SimpleData name="benchmark_type">Боствай, зим., в 10.4 км к юго-вост. от неё, в 1.5 км к югу от зимовки, в 15 м к сев.от полевой дороги </SimpleData>
+		<SimpleData name="location_description">2532b805-26f4-4f4b-9dd6-65a6fa77a2c5</SimpleData>
+		<SimpleData name="status">data/stations/2532b805.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/2532b805.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.8943904998856,46.2981438368456</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

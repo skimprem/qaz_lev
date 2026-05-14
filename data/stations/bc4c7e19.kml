@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="bc4c7e19" id="bc4c7e19">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>bc4c7e19</name>
+  <Placemark id="bc4c7e19.1">
+	<name>б/№</name>
+	<name>грунт,реп,</name>
+	<ExtendedData><SchemaData schemaUrl="#bc4c7e19">
+		<SimpleData name="type">I</SimpleData>
+		<SimpleData name="view">459.351</SimpleData>
+		<SimpleData name="control_location">Линия № 1: Тюемойнак-Жарык, I класс               Участок: грунт,реп, 3225-марка 1238</SimpleData>
+		<SimpleData name="benchmark_type">Разьезд № 117, в 9,0 км к юго-зап,от него, на 5 пикете 126 км, в 40 м к юго-вост,от жел,полотна</SimpleData>
+		<SimpleData name="location_description">bc4c7e19-c200-46e4-8377-4f8c4809ed8d</SimpleData>
+		<SimpleData name="status">data/stations/bc4c7e19.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/bc4c7e19.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>71.2485612774888,48.5488946896302</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

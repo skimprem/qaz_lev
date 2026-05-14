@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="5379232d" id="5379232d">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>5379232d</name>
+  <Placemark id="5379232d.1">
+	<name>1284(1027)</name>
+	<name>фунд,реп,</name>
+	<ExtendedData><SchemaData schemaUrl="#5379232d">
+		<SimpleData name="type">I</SimpleData>
+		<SimpleData name="view">380.415</SimpleData>
+		<SimpleData name="leveling_order">379,895    378,595</SimpleData>
+		<SimpleData name="control_height">Контрольный репер в трубе               Контрольный репер №1125 в верхней плоскости монолита </SimpleData>
+		<SimpleData name="benchmark_number">141</SimpleData>
+		<SimpleData name="control_location">Линия №1: Петропавловск-Астана(Целиноград), I класса (I)  Ход от фунд,реп,481 до марки 2368, Iкласс (3) Участок: фунд,реп,1284 (1027) - марка 2368</SimpleData>
+		<SimpleData name="benchmark_type">Ак-Куль,станция, в 0,5 км к югу от нее, на 4 пк 387 км, в 45 м к вост,от жел,-дор,плотина</SimpleData>
+		<SimpleData name="leveling_line_section">Уничтожен</SimpleData>
+		<SimpleData name="location_description">5379232d-1e15-4f8e-a99f-a13db821aede</SimpleData>
+		<SimpleData name="status">data/stations/5379232d.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/5379232d.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>70.9433350439366,52.0073250761256</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

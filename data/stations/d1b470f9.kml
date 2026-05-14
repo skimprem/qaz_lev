@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="d1b470f9" id="d1b470f9">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>d1b470f9</name>
+  <Placemark id="d1b470f9.1">
+	<name>Застава</name>
+	<description>пирамида</description>
+	<ExtendedData><SchemaData schemaUrl="#d1b470f9">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">403,796</SimpleData>
+		<SimpleData name="benchmark_number">406.352</SimpleData>
+		<SimpleData name="control_location">Линия № 2: оз. Жаланашколь-Аягоз, I класс (1), Участок: фунд. реп. 707-грунт. реп. 3737</SimpleData>
+		<SimpleData name="benchmark_type">Жаланашколь, станц., в 15.2 км к сев. от нее, в 0.7 км к сев.-вост. от км. стб. 118/18 шоссе с. Маканши-станц. Жаланашколь, в 6 м к сев.-зап. от А-образного стб. ЛЭП</SimpleData>
+		<SimpleData name="location_description">d1b470f9-2ed2-4fb6-bcb5-04a00994bea8</SimpleData>
+		<SimpleData name="status">data/stations/d1b470f9.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/d1b470f9.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>82.1754093364803,45.7310391825943</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

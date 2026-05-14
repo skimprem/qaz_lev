@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="1a802b2e" id="1a802b2e">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>1a802b2e</name>
+  <Placemark id="1a802b2e.1">
+	<name>325</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#1a802b2e">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">608.846</SimpleData>
+		<SimpleData name="leveling_order">606.144</SimpleData>
+		<SimpleData name="control_height">Контрольный репер в верхней плоскости монолита</SimpleData>
+		<SimpleData name="benchmark_number">121</SimpleData>
+		<SimpleData name="control_location">Линия №31: Каркаралинск - Чурбай-Нура, II класс (4). Участок: грунт.реп.429 - грунт.реп. 323</SimpleData>
+		<SimpleData name="benchmark_type">Жаманжол, с., в 5.0 км к сев.-вост. от него, в 2.5 км к юго-вост. от родника, в 75 м к югу от дороги с.Жаманжол-с.Грантный </SimpleData>
+		<SimpleData name="location_description">1a802b2e-693d-42b3-8870-2110936d2160</SimpleData>
+		<SimpleData name="status">data/stations/1a802b2e.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/1a802b2e.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>73.0980014286221,49.4709819801974</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

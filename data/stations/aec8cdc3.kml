@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="aec8cdc3" id="aec8cdc3">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>aec8cdc3</name>
+  <Placemark id="aec8cdc3.1">
+	<name>XXIII</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#aec8cdc3">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">253.949</SimpleData>
+		<SimpleData name="leveling_order">251,294</SimpleData>
+		<SimpleData name="control_height">Контрольный репер в верхней плоскости монолита</SimpleData>
+		<SimpleData name="benchmark_number">121оп</SimpleData>
+		<SimpleData name="control_location">Линия №2: Шортанды - Нецветаевка, II класс (2) Участок: грунт. реп. 0069 - фунд. реп. 5</SimpleData>
+		<SimpleData name="benchmark_type">Бестогай, с., в 19,7 км к юго-зап. от него, в 6,6 км к сев.-вост. от разв. с. Еленовка, в 3,2 км к сев.-зап. от п.тр. Речка, в 0,3 км юго-вост. от кладбища, в 55 км к сев. от развилки дороги </SimpleData>
+		<SimpleData name="location_description">aec8cdc3-5f96-47b7-8a6a-022d16036a6b</SimpleData>
+		<SimpleData name="status">data/stations/aec8cdc3.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/aec8cdc3.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.3562309899608,51.920790910899</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

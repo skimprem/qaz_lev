@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="bdfed840" id="bdfed840">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>bdfed840</name>
+  <Placemark id="bdfed840.1">
+	<name>3773</name>
+	<name>фунд. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#bdfed840">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">835.138</SimpleData>
+		<SimpleData name="leveling_order">833.970</SimpleData>
+		<SimpleData name="control_height">Контрольный репер № 7833 в фундаментной плите</SimpleData>
+		<SimpleData name="benchmark_number">161 оп. знак</SimpleData>
+		<SimpleData name="control_location">Линия № 1: Алажиде – Оз. Жаланашколь, I класс. Участок: грунт. реп. 7982 – грунт. реп. 5196</SimpleData>
+		<SimpleData name="benchmark_type">Каратас, станц., в 0.4 км к юго-зап. от нее, на 7 пк 1168 км, в 0.1 км к сев.-зап. от жел.дор., в 0.1 км к сев.-зап. от водонапорной башни</SimpleData>
+		<SimpleData name="location_description">bdfed840-4997-4878-9dca-bc194d97e140</SimpleData>
+		<SimpleData name="status">data/stations/bdfed840.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/bdfed840.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>80.8876345218525,45.7917866796583</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="f91fc0cf" id="f91fc0cf">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>f91fc0cf</name>
+  <Placemark id="f91fc0cf.1">
+	<name>0077</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#f91fc0cf">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">522.754</SimpleData>
+		<SimpleData name="benchmark_number">146</SimpleData>
+		<SimpleData name="control_location">Линия №6: грунт.реп. 1008 - пир. 4 кл. Цемзавод, II класс (3)</SimpleData>
+		<SimpleData name="benchmark_type">Цемзавод, с., в 0.2 км к вост. от него, в 0.2 км к сев.-вост. от известкового завода</SimpleData>
+		<SimpleData name="location_description">f91fc0cf-7892-4d96-aa1e-fcf762218af1</SimpleData>
+		<SimpleData name="status">data/stations/f91fc0cf.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/f91fc0cf.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>73.1605179875111,49.9368657879783</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

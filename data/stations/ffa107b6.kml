@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="ffa107b6" id="ffa107b6">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>ffa107b6</name>
+  <Placemark id="ffa107b6.1">
+	<name>2795</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#ffa107b6">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">426.237</SimpleData>
+		<SimpleData name="benchmark_number">160 оп</SimpleData>
+		<SimpleData name="control_location">Линия №2: Талдысай-Жиделысай, II класс (2) Участок: грунт.реп.41-фунд.реп.0539</SimpleData>
+		<SimpleData name="benchmark_type">Малшыбай,с.,в 6.7 км ксев.-зап.от него,в 4.7 км к юго-вост.от мог.Исангельды,у пересыхающего русла р.Байсай</SimpleData>
+		<SimpleData name="location_description">ffa107b6-6b8e-4a1e-96e4-4429ed477896</SimpleData>
+		<SimpleData name="status">data/stations/ffa107b6.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/ffa107b6.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.759345875814,48.4196954490436</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

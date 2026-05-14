@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="85365f68" id="85365f68">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>85365f68</name>
+  <Placemark id="85365f68.1">
+	<name>200</name>
+	<description>грунт. реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#85365f68">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">181.860</SimpleData>
+		<SimpleData name="benchmark_number">106</SimpleData>
+		<SimpleData name="control_location">линия №1 Целиноград-Токтайконыр, I класс Участок: грунт.реп. 2929 - грунт.реп. 200</SimpleData>
+		<SimpleData name="benchmark_type">Горняк, свх., в 9.8 км к юго-зап. От него, в 0,5 км к зап. От р. Карынсалды, в 20 м к вост. От дорогои свх. Горняк-свх. Амантогайский</SimpleData>
+		<SimpleData name="location_description">85365f68-91f9-4784-96d1-3159d0146b27</SimpleData>
+		<SimpleData name="status">data/stations/85365f68.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/85365f68.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>65.8239128123726,50.6453228770867</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

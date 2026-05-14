@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="bafc8a2f" id="bafc8a2f">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>bafc8a2f</name>
+  <Placemark id="bafc8a2f.1">
+	<name>9906</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#bafc8a2f">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">121.019</SimpleData>
+		<SimpleData name="leveling_order">119.282</SimpleData>
+		<SimpleData name="leveling_height">0</SimpleData>
+		<SimpleData name="control_height">Контрольный репер №9492в фундаментальной плите</SimpleData>
+		<SimpleData name="benchmark_number">116</SimpleData>
+		<SimpleData name="benchmark_type">В 4,0 км к сев-вост.от лет.стары Калкаман, в 3,2 км к югу-зап.от лет. Айсары, в 0,1 км к юго-вост.от дороги с. Потанина - с. Пограничное</SimpleData>
+		<SimpleData name="leveling_line_section">утрачен</SimpleData>
+		<SimpleData name="location_description">bafc8a2f-78bc-40d6-a977-a30f339c4421</SimpleData>
+		<SimpleData name="status">data/stations/bafc8a2f.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/bafc8a2f.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>76.615561875416,52.0815472211178</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

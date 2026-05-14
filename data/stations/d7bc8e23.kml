@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="d7bc8e23" id="d7bc8e23">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>d7bc8e23</name>
+  <Placemark id="d7bc8e23.1">
+	<name>2183</name>
+	<name>грунт.реп</name>
+	<ExtendedData><SchemaData schemaUrl="#d7bc8e23">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">370.313</SimpleData>
+		<SimpleData name="leveling_order">369.209</SimpleData>
+		<SimpleData name="control_height">Контрольный репер № 864 в верхней плоскости монолита</SimpleData>
+		<SimpleData name="benchmark_number">121 оп</SimpleData>
+		<SimpleData name="control_location">Линия № 1: Каратас - Аягоз, I класс 
+Участок: фунд.реп.  3000 – грунт.реп. 4998
+</SimpleData>
+		<SimpleData name="benchmark_type">Актогай, станц., в 5.2 км к сев.-вост. от нее, в 74 м к зап. от пк.стб. 9/10, в 75 м к сев.-зап. от жел.дор.</SimpleData>
+		<SimpleData name="location_description">d7bc8e23-1fc9-4330-8190-23d0f0f6682f</SimpleData>
+		<SimpleData name="status">data/stations/d7bc8e23.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/d7bc8e23.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>79.7024095100774,47.0007740707229</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

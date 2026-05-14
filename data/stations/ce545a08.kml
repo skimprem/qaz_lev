@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="ce545a08" id="ce545a08">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>ce545a08</name>
+  <Placemark id="ce545a08.1">
+	<name>7850</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#ce545a08">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">155,770</SimpleData>
+		<SimpleData name="benchmark_number">146 оп</SimpleData>
+		<SimpleData name="control_location">Линия №4: Актасты-Тургай, II класс. Участок: фунд.реп. 3780-грунт.реп. 5454</SimpleData>
+		<SimpleData name="benchmark_type">Толыбай (Амангельды), с., в 30.0 км к юго-вост. от него, в 1.9 км к зап. от р.Олькаяк, в 34 м к зап.от полевой дороги </SimpleData>
+		<SimpleData name="leveling_line_section">не найден</SimpleData>
+		<SimpleData name="location_description">ce545a08-537a-4889-946e-d6a9a3931cb7</SimpleData>
+		<SimpleData name="status">data/stations/ce545a08.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/ce545a08.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>62.6124870812226,50.3588708391708</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

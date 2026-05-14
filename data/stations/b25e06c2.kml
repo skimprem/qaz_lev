@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="b25e06c2" id="b25e06c2">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>b25e06c2</name>
+  <Placemark id="b25e06c2.1">
+	<name>Курам </name>
+	<name></name>
+	<description>пирамида</description>
+	<ExtendedData><SchemaData schemaUrl="#b25e06c2">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">566.139</SimpleData>
+		<SimpleData name="benchmark_number">3 оп</SimpleData>
+		<SimpleData name="control_location">Линия № 3: Каратурук - Чилик. П класс (2)
+Участок: фунд.реп. 5285 - фунд.реп. 2208</SimpleData>
+		<SimpleData name="benchmark_type">Курам, с., в 3,3 км к сев.от него, в 15 м к югу от дороги гор, Алма-Ата - с.Чилик, против км.стб. 105</SimpleData>
+		<SimpleData name="location_description">b25e06c2-5003-4e0e-a72f-b5a084564add</SimpleData>
+		<SimpleData name="status">data/stations/b25e06c2.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/b25e06c2.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>78.1570105593522,43.5778641143054</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

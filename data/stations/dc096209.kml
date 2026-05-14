@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="dc096209" id="dc096209">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>dc096209</name>
+  <Placemark id="dc096209.1">
+	<name>897</name>
+	<name>грунт.реп</name>
+	<ExtendedData><SchemaData schemaUrl="#dc096209">
+		<SimpleData name="type">ІІ</SimpleData>
+		<SimpleData name="view">444.070</SimpleData>
+		<SimpleData name="control_height">Контрольный репер № 1283 в фундаментной плите</SimpleData>
+		<SimpleData name="benchmark_number">116</SimpleData>
+		<SimpleData name="control_location">Линия № 3: Тюемойнак - Талдысай, ІІ класс (3) Участок: грунт.реп. 233 - фунд.реп 131</SimpleData>
+		<SimpleData name="benchmark_type">Шубарколь, с., в 7.5 км к юго-вост от него, в 4.0 км к сев-вост от пир. 3 кл. Шубарколь, в 3.0 км к юго-зап от жел дор</SimpleData>
+		<SimpleData name="location_description">dc096209-992d-4144-a841-575dc2eebda3</SimpleData>
+		<SimpleData name="status">data/stations/dc096209.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/dc096209.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>68.8713541956053,48.9309483295512</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

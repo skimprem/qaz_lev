@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="df17246d" id="df17246d">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>df17246d</name>
+  <Placemark id="df17246d.1">
+	<name>41</name>
+	<name>грунт.реп</name>
+	<ExtendedData><SchemaData schemaUrl="#df17246d">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">147.464</SimpleData>
+		<SimpleData name="control_location">Линия № 1 Чиили-Мергенбай,II класс Участок: грунт.реп.51-грунт.25</SimpleData>
+		<SimpleData name="benchmark_type">Нарульген 1-й,к.,в 5.2 км к сев.-вост. От него, в 1.5 км юго-зап. От к.Сок, в 1.4 км к вост. От пир. 2кл. Сок, в 32 м к юго-зап. От к. Кепели</SimpleData>
+		<SimpleData name="location_description">df17246d-6eaa-4500-8573-1f239123964d</SimpleData>
+		<SimpleData name="status">data/stations/df17246d.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/df17246d.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>66.3129738690727,43.826691964073</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

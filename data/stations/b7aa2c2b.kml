@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="b7aa2c2b" id="b7aa2c2b">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>b7aa2c2b</name>
+  <Placemark id="b7aa2c2b.1">
+	<name>1492</name>
+	<description>грунт. реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#b7aa2c2b">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">630.068</SimpleData>
+		<SimpleData name="benchmark_number">А</SimpleData>
+		<SimpleData name="control_location">Участок: грунт.реп. 18 - грунт.реп. 27</SimpleData>
+		<SimpleData name="benchmark_type">Жана Жол с., в 6,3 км к сев.-зап.от него, в 0,6 км к зап.от ж/д моста, в 150 м к сев.от полотна ж/д., в 40 м к сев. от полевой дороги</SimpleData>
+		<SimpleData name="location_description">b7aa2c2b-c1f9-476e-a7ef-c2a55b6f84f0</SimpleData>
+		<SimpleData name="status">data/stations/b7aa2c2b.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/b7aa2c2b.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>74.7869203121101,49.7651589245373</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

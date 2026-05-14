@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="59a4a521" id="59a4a521">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>59a4a521</name>
+  <Placemark id="59a4a521.1">
+	<name>4</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#59a4a521">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">562.269</SimpleData>
+		<SimpleData name="control_location">Линия №3: фунд.реп. 8657-фунд.реп. 1747, II класс</SimpleData>
+		<SimpleData name="benchmark_type">Бесжилдык,с.,  в 2.4 км к юго-зап.от него,в 0.2 км к югу от жел.-дор.полотна,в 74 м юго-вост.от двух ломов путейцев</SimpleData>
+		<SimpleData name="location_description">59a4a521-6dd2-4ae1-bfd1-468a7e895907</SimpleData>
+		<SimpleData name="status">data/stations/59a4a521.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/59a4a521.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>71.2891569651413,42.9754880998823</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

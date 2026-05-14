@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="bff7b382" id="bff7b382">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>bff7b382</name>
+  <Placemark id="bff7b382.1">
+	<name>9399</name>
+	<name>грунт,реп,</name>
+	<ExtendedData><SchemaData schemaUrl="#bff7b382">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">208.317</SimpleData>
+		<SimpleData name="benchmark_number">116оп</SimpleData>
+		<SimpleData name="control_location">Линия №1: Аральск (Аральское море) - Арысь, I класс</SimpleData>
+		<SimpleData name="benchmark_type">Ескара,раз,,в 2,3 км к юго-вост,от него, на 10 ПК 3181 км жел,дор,,в 25 м к вост,от тлф,стб,б/№</SimpleData>
+		<SimpleData name="location_description">bff7b382-d100-4baf-8446-100e64c85e75</SimpleData>
+		<SimpleData name="status">data/stations/bff7b382.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/bff7b382.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>68.5784786381243,42.6555390935969</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

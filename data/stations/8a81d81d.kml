@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="8a81d81d" id="8a81d81d">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>8a81d81d</name>
+  <Placemark id="8a81d81d.1">
+	<name>2863</name>
+	<name>грунт. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#8a81d81d">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="leveling_height">160 оп. знак</SimpleData>
+		<SimpleData name="benchmark_number">Линия  № 2: Жаркент (Панфилов) – Коргас, II класс
+Участок: грунт. реп. 1812 – марка 115</SimpleData>
+		<SimpleData name="control_location">Жаркент, гор., в 3.2 км к юго-зап. от него по шоссе с. Сарыозек – гор. Жаркент, в 48 м к юго-вост. от перекрёстка этого шоссе и шоссе, идущего на ПТФ</SimpleData>
+		<SimpleData name="benchmark_type">L-44-136-Г</SimpleData>
+		<SimpleData name="location_description">8a81d81d-df4a-475e-8ca1-496a985a41a5</SimpleData>
+		<SimpleData name="status">data/stations/8a81d81d.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/8a81d81d.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>79.9537634839254,44.1523383665029</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

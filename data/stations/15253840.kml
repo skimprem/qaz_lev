@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="15253840" id="15253840">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>15253840</name>
+  <Placemark id="15253840.1">
+	<name>8819</name>
+	<name>ск. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#15253840">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">815.720</SimpleData>
+		<SimpleData name="benchmark_number">99</SimpleData>
+		<SimpleData name="control_location">Линия №50: Усть-Каменогорск - Чиганчи, 2 класс (13)  Участок: грунт. реп. 793 - ск. реп. 8522</SimpleData>
+		<SimpleData name="benchmark_type">Таинты, с., в 8.1 км к сев. от него, в 0.5 км к сев. от с. Нов. Таинты, в 20 м к вост. от км. стб. №12, в 12 м к вост. от дороги с. Нов. Таинты - руд. Асубулак</SimpleData>
+		<SimpleData name="location_description">15253840-0b89-4fc4-9b38-0050da12f94a</SimpleData>
+		<SimpleData name="status">data/stations/15253840.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/15253840.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>83.0750450472676,49.4482782286086</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="ea139693" id="ea139693">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>ea139693</name>
+  <Placemark id="ea139693.1">
+	<name>б/№</name>
+	<name>грунт,реп,</name>
+	<ExtendedData><SchemaData schemaUrl="#ea139693">
+		<SimpleData name="type">І</SimpleData>
+		<SimpleData name="view">448.842</SimpleData>
+		<SimpleData name="control_location">Линия № 1: Тюемойнак - Жарык, І класс (1) Участок: грунт,реп, 5222 - грунт,реп, 1644</SimpleData>
+		<SimpleData name="benchmark_type">Атасу, станция, в 11, 0 км к зап от нее, на 5 пк 151 км жел дор,, в 40 м к сев-зап от жел дор</SimpleData>
+		<SimpleData name="location_description">ea139693-866b-4de8-aae7-f83cff182bea</SimpleData>
+		<SimpleData name="status">data/stations/ea139693.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/ea139693.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>70.9317248870213,48.4915870934158</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

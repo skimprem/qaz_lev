@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2345dc50" id="2345dc50">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>2345dc50</name>
+  <Placemark id="2345dc50.1">
+	<name>329</name>
+	<description>грунт. реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#2345dc50">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">143.254</SimpleData>
+		<SimpleData name="benchmark_number">146 оп</SimpleData>
+		<SimpleData name="control_location">Линия №4 : Целиноград - Токтайконыр, I класс. Участок: грунт. реп. 1024 - грунт. реп. 0632 </SimpleData>
+		<SimpleData name="benchmark_type">Мукыр, с., в 14.4 км к юго-вост. от него, в 203 м к вост. от грейдера с. Мукыр - с. Амангельды, в 6.3 км к юго-вост. от разв. с. Отемис, в 23 м к вост. от старой полевой дороги</SimpleData>
+		<SimpleData name="leveling_line_section">Ненайден</SimpleData>
+		<SimpleData name="location_description">2345dc50-15b2-4204-95ba-a6380ffda573</SimpleData>
+		<SimpleData name="status">data/stations/2345dc50.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/2345dc50.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>64.9050640660688,50.4419129814097</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

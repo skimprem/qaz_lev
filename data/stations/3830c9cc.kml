@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="3830c9cc" id="3830c9cc">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>3830c9cc</name>
+  <Placemark id="3830c9cc.1">
+	<name>58</name>
+	<name>грунт. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#3830c9cc">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">50,49</SimpleData>
+		<SimpleData name="control_location">Висячий ход от фунд.реп. 4042, 2 класс. Участок: фунд.реп. 4042 - грунт.реп. б/№</SimpleData>
+		<SimpleData name="benchmark_type">Сулу, г., в 7,2 км к сев.-зап.от нее, в 1,3 км к сев.от разв. Уялы, в 1,0 км к сев.от колодца </SimpleData>
+		<SimpleData name="location_description">3830c9cc-4790-43db-9e35-dfdb3d6990d7</SimpleData>
+		<SimpleData name="status">data/stations/3830c9cc.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/3830c9cc.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>61.0541251236861,44.6659491434276</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

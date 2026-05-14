@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="ecfda36d" id="ecfda36d">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>ecfda36d</name>
+  <Placemark id="ecfda36d.1">
+	<name>2511</name>
+	<name>скальный репер</name>
+	<ExtendedData><SchemaData schemaUrl="#ecfda36d">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">661,653</SimpleData>
+		<SimpleData name="benchmark_number">99оп</SimpleData>
+		<SimpleData name="control_location">Линия №2: Карасу - Актогай, II класс (1)              Участок: ск. реп. 5486 - фунд. реп. 4072</SimpleData>
+		<SimpleData name="benchmark_type">Сарытерек, с., в 6,7 км к юго-вост. от него, в 0,3 км к югу от р.Токрау, в 0,2 км к вост. от полевой дороги, в 35 м к югу от сухого русла, на выходе коренных пород</SimpleData>
+		<SimpleData name="location_description">ecfda36d-0d5b-43a1-b399-662b4dedab55</SimpleData>
+		<SimpleData name="status">data/stations/ecfda36d.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/ecfda36d.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.4337119543532,48.025436521552</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

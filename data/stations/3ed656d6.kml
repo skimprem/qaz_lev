@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="3ed656d6" id="3ed656d6">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>3ed656d6</name>
+  <Placemark id="3ed656d6.1">
+	<name>826</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#3ed656d6">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">353,209</SimpleData>
+		<SimpleData name="control_location">Линия № 3: Жезказган - р,Сарысу, 2 класс (4) Участок: фунд, реп. 495 - грунт. реп. 826</SimpleData>
+		<SimpleData name="benchmark_type">Мустафакудык, к,, в 19,9 км к сев, от него, в 6,5 км к югу от линии связи, в 0,5 км к югу от ямы у полевой дороги, в 5 м к вост, от полевой дороги</SimpleData>
+		<SimpleData name="location_description">3ed656d6-ad0a-45fb-8feb-2f41c138f13b</SimpleData>
+		<SimpleData name="status">data/stations/3ed656d6.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/3ed656d6.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.6871548355316,47.29342870954</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

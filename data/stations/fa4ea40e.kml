@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="fa4ea40e" id="fa4ea40e">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>fa4ea40e</name>
+  <Placemark id="fa4ea40e.1">
+	<name>4580</name>
+	<name>грунт. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#fa4ea40e">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">128.782</SimpleData>
+		<SimpleData name="leveling_order">194.826-194.038</SimpleData>
+		<SimpleData name="control_height">репер в трубе</SimpleData>
+		<SimpleData name="benchmark_number">160 оп.знак</SimpleData>
+		<SimpleData name="control_location">Линия № 1: Костанай - Петропавлоск, I класс
+Участок: грунт. реп. 0784 - пир. 2 кл. Новокаменка Ход от пир. 2 кл. Петровка - грунт. реп. 4113, II класс</SimpleData>
+		<SimpleData name="benchmark_type">Мадениет, с., в 0.6 км к юго-вост. от него, в 20 м к вост.
+от дороги идущей на кладбище, в 15 м к сев.-вост. от угла кладбища, в 2 м от траншеи</SimpleData>
+		<SimpleData name="location_description">fa4ea40e-c455-4d6e-aaff-622979e29410</SimpleData>
+		<SimpleData name="status">data/stations/fa4ea40e.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/fa4ea40e.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>68.1481189911448,54.2964124650668</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

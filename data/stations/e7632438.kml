@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="e7632438" id="e7632438">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>e7632438</name>
+  <Placemark id="e7632438.1">
+	<name>0693</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#e7632438">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">273,818</SimpleData>
+		<SimpleData name="control_location">Линия № 2: Кендырлык (Айгарлык) фунд. реп. 9617, 2 класс (1) Участок: грунт, реп. 9482 - грунт, реп. 7438</SimpleData>
+		<SimpleData name="benchmark_type">Жалпак, кладб., в 10.9 км к сев. от него, в 7.6 км к вост, от кладбища, в 15 м к сев. от полевой дороги</SimpleData>
+		<SimpleData name="location_description">e7632438-124b-4f7e-9f1a-a4fefb3ae0d6</SimpleData>
+		<SimpleData name="status">data/stations/e7632438.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/e7632438.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>68.8327621059639,45.967986497606</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

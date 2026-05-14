@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="6b1a7da2" id="6b1a7da2">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>6b1a7da2</name>
+  <Placemark id="6b1a7da2.1">
+	<name>602</name>
+	<name>грунт,реп,</name>
+	<ExtendedData><SchemaData schemaUrl="#6b1a7da2">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">406.842</SimpleData>
+		<SimpleData name="control_height">в верхней плоскости монолита</SimpleData>
+		<SimpleData name="benchmark_number">118</SimpleData>
+		<SimpleData name="control_location">Линия №16: фунд,реп, 1 (Южн, Куст)- фунд,реп, 1(Южн, Куст) I класс</SimpleData>
+		<SimpleData name="benchmark_type">Мансурата, г,,в 3,6 км к сев,-вост,от неё, в 0,2 км к зап,от дороги с, Монтайтас- с,Шенгельди, в 0,1 к сев,-вост, от кладбища</SimpleData>
+		<SimpleData name="leveling_line_section">за границей</SimpleData>
+		<SimpleData name="location_description">6b1a7da2-fc97-4ddb-a33b-dac3a7c0bc46</SimpleData>
+		<SimpleData name="status">data/stations/6b1a7da2.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/6b1a7da2.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>68.9594258462001,41.9829127046387</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

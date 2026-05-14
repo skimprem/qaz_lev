@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="cae80d99" id="cae80d99">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>cae80d99</name>
+  <Placemark id="cae80d99.1">
+	<name>7118</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#cae80d99">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">117.897</SimpleData>
+		<SimpleData name="benchmark_number">146 оп</SimpleData>
+		<SimpleData name="benchmark_type">г. Павлодар, в 0,6 км к юго-вост.от АЗС - южная, в 0,4 км к сев-зап.от стб. ЛЭП б/н, в 0,2 км к сев-вост.от водопроводной трубы, в 8 м к юго-зап.от дороги г. Павлодар - г. Семипалатинск</SimpleData>
+		<SimpleData name="location_description">cae80d99-f2f6-46a4-a3c1-c0d39c1569b3</SimpleData>
+		<SimpleData name="status">data/stations/cae80d99.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/cae80d99.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>76.9973899358602,52.2356899483277</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

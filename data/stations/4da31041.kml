@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="4da31041" id="4da31041">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>4da31041</name>
+  <Placemark id="4da31041.1">
+	<name>1591</name>
+	<name>грунт. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#4da31041">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">99.719</SimpleData>
+		<SimpleData name="benchmark_number">160 оп. знак</SimpleData>
+		<SimpleData name="control_location">Линия № 4 : Коккабак - Жосалы, II класс. Участок: фунд. реп. 2 - грунт. реп. 9888</SimpleData>
+		<SimpleData name="benchmark_type">Атанша, с., в 8.1 км к юго-зап. от него, в 1.6 км к сев.-вост. от развилки полевой дороги, в 34 м к зап. от полевой дороги</SimpleData>
+		<SimpleData name="location_description">4da31041-e0ea-478b-a49f-c45be6f1f661</SimpleData>
+		<SimpleData name="status">data/stations/4da31041.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/4da31041.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>63.5869971043864,47.4994165905667</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

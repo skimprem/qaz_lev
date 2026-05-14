@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="70f6c88c" id="70f6c88c">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>70f6c88c</name>
+  <Placemark id="70f6c88c.1">
+	<name>15362</name>
+	<name>грунт. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#70f6c88c">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">117.709</SimpleData>
+		<SimpleData name="leveling_order">115.879</SimpleData>
+		<SimpleData name="benchmark_number">120</SimpleData>
+		<SimpleData name="control_location">Линия: Муллалы - Кумкала, II класс. Участок: грунт. реп. 16096 - грунт. реп. 17778</SimpleData>
+		<SimpleData name="benchmark_type">Каракоз, к., в 19.5 км к югу от него, в 15 м к востоку от дороги к к. Каракоз</SimpleData>
+		<SimpleData name="location_description">70f6c88c-b918-4c63-86c6-562dde741be2</SimpleData>
+		<SimpleData name="status">data/stations/70f6c88c.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/70f6c88c.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>64.3166125641523,43.985335311246</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="cca1033f" id="cca1033f">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>cca1033f</name>
+  <Placemark id="cca1033f.1">
+	<name>9385</name>
+	<name>грунт. реп. </name>
+	<ExtendedData><SchemaData schemaUrl="#cca1033f">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">508.596</SimpleData>
+		<SimpleData name="benchmark_number">160 оп. знак</SimpleData>
+		<SimpleData name="control_location">Линия № 1: Сары-Озек – Алажиде, Участок: фунд.реп.  7544 – фунд. реп. 396</SimpleData>
+		<SimpleData name="benchmark_type">Кайракты, станц., в 4.2 км к сев.-вост. от нее, на 3 пк 1347 км, в 40 м к сев.-зап. от жел. дор., в 31 м к сев. от тлгр. стб. № 65/398</SimpleData>
+		<SimpleData name="location_description">cca1033f-8362-44a9-ab54-7eaac32fa43e</SimpleData>
+		<SimpleData name="status">data/stations/cca1033f.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/cca1033f.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>78.1907672886025,45.4288831165702</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

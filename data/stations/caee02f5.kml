@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="caee02f5" id="caee02f5">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>caee02f5</name>
+  <Placemark id="caee02f5.1">
+	<name>3644</name>
+	<name>грунт. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#caee02f5">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">320.324</SimpleData>
+		<SimpleData name="benchmark_number">146 оп</SimpleData>
+		<SimpleData name="control_location">Линия № 87: Сары-Озек-Локоть, I класс (12) Участок: грунт. реп. 2294-марка 20077</SimpleData>
+		<SimpleData name="benchmark_type">№15, раз., в 1,0км к сев. , от него, на I пикете 235км, в 0,5км к вост. от км. стб. 235/236</SimpleData>
+		<SimpleData name="location_description">caee02f5-d190-489b-870f-ddf4cad1c15c</SimpleData>
+		<SimpleData name="status">data/stations/caee02f5.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/caee02f5.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>80.8288309694986,49.737400999012</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

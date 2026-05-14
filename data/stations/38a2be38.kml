@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="38a2be38" id="38a2be38">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>38a2be38</name>
+  <Placemark id="38a2be38.1">
+	<name>713</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#38a2be38">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">282.485</SimpleData>
+		<SimpleData name="control_height">контрольный репер в верхней плоскости монолита</SimpleData>
+		<SimpleData name="benchmark_number">160 оп</SimpleData>
+		<SimpleData name="control_location">Линия №1: Сергеевка - Терсакан, II класс (I) Участок: грунт.реп.390 - грунт.реп.б/№</SimpleData>
+		<SimpleData name="benchmark_type">Чурумсай,с.,в 11.3 км к сев.от него,в 9.7 км к вост.от бригады №7 свх.Есильский,в 30 м к вост.от дороги с.Уки-с.Чурумсай</SimpleData>
+		<SimpleData name="location_description">38a2be38-fb86-4742-9437-44b7abdf43f2</SimpleData>
+		<SimpleData name="status">data/stations/38a2be38.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/38a2be38.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.8180961914721,51.2803770448678</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

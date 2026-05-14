@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="7d556b05" id="7d556b05">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>7d556b05</name>
+  <Placemark id="7d556b05.1">
+	<name>14</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#7d556b05">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">400,564</SimpleData>
+		<SimpleData name="leveling_height">399,472</SimpleData>
+		<SimpleData name="benchmark_number">в верхней плоскости монолита </SimpleData>
+		<SimpleData name="control_location">Линия № 4: Бурубайтал - Актас. 2 класс (3) Участок: грунт, реп. 78 - фунд. реп. 2280</SimpleData>
+		<SimpleData name="benchmark_type">№26, к., в 3.2 км к сев.-зап. от него, в 1.3 км к вост, от такыра, в 40 м к сев. от грунт, дороги зим. Бетпакдала - с. Мынарал</SimpleData>
+		<SimpleData name="location_description">7d556b05-8c2c-45a6-af00-64f991909edd</SimpleData>
+		<SimpleData name="status">data/stations/7d556b05.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/7d556b05.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>71.4580665792435,45.6853999823122</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

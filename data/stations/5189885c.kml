@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="5189885c" id="5189885c">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>5189885c</name>
+  <Placemark id="5189885c.1">
+	<name>17</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#5189885c">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">574,570</SimpleData>
+		<SimpleData name="control_location">Висячий ход от грунт, реп. 347. 2 класс (4)</SimpleData>
+		<SimpleData name="benchmark_type">Карсакбай, с., в 7.5 км к юго-зап. от него, в 2.4 км к вост. от к. Ащикудык, в 10 м к сев.-зап. от грунт, дороги с. Карсакбай - с. Жосалы </SimpleData>
+		<SimpleData name="location_description">5189885c-7d1a-49db-bc33-f280ea19005d</SimpleData>
+		<SimpleData name="status">data/stations/5189885c.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/5189885c.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>66.632278726376,47.8021255381453</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="0c43b85f" id="0c43b85f">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>0c43b85f</name>
+  <Placemark id="0c43b85f.1">
+	<name>15</name>
+	<description>грунт. реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#0c43b85f">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">109.980</SimpleData>
+		<SimpleData name="leveling_order">109.088</SimpleData>
+		<SimpleData name="leveling_height">контрольный репер №2020 в верхней плоскости монолита</SimpleData>
+		<SimpleData name="benchmark_number">131</SimpleData>
+		<SimpleData name="control_location">Линия №1 : Наурзум (Аксуат ) - Иргиз , I класс . Участок : грунт. Реп. 2947-грунт. Реп. 15</SimpleData>
+		<SimpleData name="benchmark_type">Сага с., в 19.5 км к сев.-вост. от  него, в 130 м к зап. от берега залива р.Сары-Озен, в 0.1 км к сев.-зап. от дороги с.Бестамак-с.Сага</SimpleData>
+		<SimpleData name="location_description">0c43b85f-392d-42ce-8b6c-abb9130e71a4</SimpleData>
+		<SimpleData name="status">data/stations/0c43b85f.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/0c43b85f.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>64.4666008182904,50.603795353672</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

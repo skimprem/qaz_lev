@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="ea41a531" id="ea41a531">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>ea41a531</name>
+  <Placemark id="ea41a531.1">
+	<name>7524</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#ea41a531">
+		<SimpleData name="type">ІІ</SimpleData>
+		<SimpleData name="view">631.265</SimpleData>
+		<SimpleData name="benchmark_number">121</SimpleData>
+		<SimpleData name="control_location">Линия № 1: Жиделисай - Бала-Терсаккан, ІІ класс (1) Участок: грунт.реп. 599 - ск.реп. 7585 </SimpleData>
+		<SimpleData name="benchmark_type">Улытау, с., в 1.4 км к сев от него, в 0.2 км к зап от шоссе с. Сарлык - с. Улытау, в 28 м к вост от полевой дороги, в низине, у подножия горы</SimpleData>
+		<SimpleData name="location_description">ea41a531-8d12-4e8e-8792-5a3f0d910e8e</SimpleData>
+		<SimpleData name="status">data/stations/ea41a531.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/ea41a531.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0196435130015,48.668371643528</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

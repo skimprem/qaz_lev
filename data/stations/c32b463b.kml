@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="c32b463b" id="c32b463b">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>c32b463b</name>
+  <Placemark id="c32b463b.1">
+	<name>12-322</name>
+	<name>грунт,реп,</name>
+	<ExtendedData><SchemaData schemaUrl="#c32b463b">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">484.466</SimpleData>
+		<SimpleData name="leveling_order">483,359</SimpleData>
+		<SimpleData name="leveling_height">12-257</SimpleData>
+		<SimpleData name="control_height">в фундаментной плите</SimpleData>
+		<SimpleData name="benchmark_number">116 оп</SimpleData>
+		<SimpleData name="control_location">Линия № I: Арысь - Хаваст, 1 класс 
+Участок; грунт,реп, 12-455 = грунт,реп, 285</SimpleData>
+		<SimpleData name="benchmark_type">Чанак,станц,,в 3,4 км к юго-зап,от
+неё,на I ПК 3280 км, в 17 м к зап,от
+жел, дор,</SimpleData>
+		<SimpleData name="location_description">c32b463b-5735-42d9-9a48-dad7a3dad12e</SimpleData>
+		<SimpleData name="status">data/stations/c32b463b.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/c32b463b.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>69.027141887555,41.9484706942115</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

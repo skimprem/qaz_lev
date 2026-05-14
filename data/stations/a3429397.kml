@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="a3429397" id="a3429397">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>a3429397</name>
+  <Placemark id="a3429397.1">
+	<name>629</name>
+	<name>грунт,реп,</name>
+	<ExtendedData><SchemaData schemaUrl="#a3429397">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">599.508</SimpleData>
+		<SimpleData name="benchmark_number">160оп</SimpleData>
+		<SimpleData name="control_location">Линия №1: Арысь-Сарыозек, I класс</SimpleData>
+		<SimpleData name="benchmark_type">Манкент, станц,, в 1,0 км к сев,-вост,от нее, в 43 м к вост,от жел,-дор, полотна
+в 43 м к юго-вост,от км,стб,3318/3319</SimpleData>
+		<SimpleData name="location_description">a3429397-6b7e-4d01-be85-2c3cf242e6da</SimpleData>
+		<SimpleData name="status">data/stations/a3429397.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/a3429397.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>69.8317064271316,42.4336433829912</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

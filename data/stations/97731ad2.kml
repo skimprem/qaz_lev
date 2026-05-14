@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="97731ad2" id="97731ad2">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>97731ad2</name>
+  <Placemark id="97731ad2.1">
+	<name>90</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#97731ad2">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">241,895</SimpleData>
+		<SimpleData name="leveling_order">239,22</SimpleData>
+		<SimpleData name="control_height">репер № 78                в верхней плоскости монолита</SimpleData>
+		<SimpleData name="benchmark_number">123</SimpleData>
+		<SimpleData name="control_location">Линия № 3 :       Семипалатинск - Карабас-Туз,  2 класс (4) Участок : грунт.реп. 94 - фунд.реп. 86-А</SimpleData>
+		<SimpleData name="benchmark_type">Есиль, с., в 3,5 км к юго-зап. от него, в 1,8 км к сев.-зап. от р.Каражар, в 41 м к сев. от дороги с.Карабастуз-с.Есиль</SimpleData>
+		<SimpleData name="location_description">97731ad2-82ee-4b18-92b8-48d509acb23f</SimpleData>
+		<SimpleData name="status">data/stations/97731ad2.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/97731ad2.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>79.4642112128991,50.3791894391142</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

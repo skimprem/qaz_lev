@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="fbe21774" id="fbe21774">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>fbe21774</name>
+  <Placemark id="fbe21774.1">
+	<name>73</name>
+	<name>ск. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#fbe21774">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">703.512</SimpleData>
+		<SimpleData name="benchmark_number">99</SimpleData>
+		<SimpleData name="control_location">Линия № 2: Бугаз-Аягуз, II класс (3) Участок: грунт. реп. 16020-ск. реп. 934</SimpleData>
+		<SimpleData name="benchmark_type">Отьяр, с., в 4.0 км к юго-зап. от него, в 0.5 км к юго-зап. от брода через р. Аягуз</SimpleData>
+		<SimpleData name="location_description">fbe21774-31ee-4b3f-96d3-c04337e9b782</SimpleData>
+		<SimpleData name="status">data/stations/fbe21774.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/fbe21774.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>80.6855912622976,48.0555435793769</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

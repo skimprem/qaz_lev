@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="a3568e83" id="a3568e83">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>a3568e83</name>
+  <Placemark id="a3568e83.1">
+	<name>б/№</name>
+	<name>грунт.реп</name>
+	<ExtendedData><SchemaData schemaUrl="#a3568e83">
+		<SimpleData name="type">ІІ</SimpleData>
+		<SimpleData name="view">505.179</SimpleData>
+		<SimpleData name="control_location">Линия № 2: Талдысай - Жиделисай, ІІ класс (1), Участок: фунд.реп. 131 - грунт.реп. 39</SimpleData>
+		<SimpleData name="benchmark_type">Алгабас, свх., на территории метеостанции</SimpleData>
+		<SimpleData name="location_description">a3568e83-adc8-485a-850c-85113d4b37ea</SimpleData>
+		<SimpleData name="status">data/stations/a3568e83.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/a3568e83.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>68.0816998855544,48.8741722909763</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

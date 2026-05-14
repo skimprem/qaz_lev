@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="f4dc2613" id="f4dc2613">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>f4dc2613</name>
+  <Placemark id="f4dc2613.1">
+	<name>5815</name>
+	<name>грунт. реп. </name>
+	<ExtendedData><SchemaData schemaUrl="#f4dc2613">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">282,799</SimpleData>
+		<SimpleData name="benchmark_number">160 оп</SimpleData>
+		<SimpleData name="control_location">Линия № 3: Сары - Озек - Семей, I класс (1,2) Участок: грунт. реп. 6087 - фунд. реп. 2906</SimpleData>
+		<SimpleData name="benchmark_type">Разъезд № 3, в 5.2 км к сев.-зап. от него на 9 пк 41 км, в устое жел. - дор. моста.</SimpleData>
+		<SimpleData name="location_description">f4dc2613-638c-4c94-ad27-da30882c403e</SimpleData>
+		<SimpleData name="status">data/stations/f4dc2613.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/f4dc2613.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>80.6151677754146,50.0902233680906</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

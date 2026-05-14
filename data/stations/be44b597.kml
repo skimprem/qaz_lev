@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="be44b597" id="be44b597">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>be44b597</name>
+  <Placemark id="be44b597.1">
+	<name>9994</name>
+	<description>грунт. реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#be44b597">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">95.384</SimpleData>
+		<SimpleData name="benchmark_number">160 оп</SimpleData>
+		<SimpleData name="control_location">линия №1: Аральск - Семиозерное, I класс Участок: грунт.реп. 114 - грунт.реп. 11</SimpleData>
+		<SimpleData name="benchmark_type">Торгай, с., в 3,2 км к сев.-вост.от него, в 638 м к зап.от автодороги с покрытием, в 497 м к сев.от насосной станции </SimpleData>
+		<SimpleData name="location_description">be44b597-cb82-48a3-a2f0-bf39206ff7be</SimpleData>
+		<SimpleData name="status">data/stations/be44b597.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/be44b597.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>63.5184483933711,49.6687933538983</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

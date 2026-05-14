@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="c3391ccd" id="c3391ccd">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>c3391ccd</name>
+  <Placemark id="c3391ccd.1">
+	<name>3559</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#c3391ccd">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">421.423</SimpleData>
+		<SimpleData name="benchmark_number">160оп</SimpleData>
+		<SimpleData name="control_location">Линия №1:р. Кон-Талдысай, II класс (I) Участок: фунд.реп.5865 - грунт.реп.32</SimpleData>
+		<SimpleData name="benchmark_type">Талдысай,с., в 17.0 км к юго-зап.от него, в 6.0 км к югу от кладб.Карымбай ,в 1.7 км к юго-зап.от зим. Казгул</SimpleData>
+		<SimpleData name="location_description">c3391ccd-9482-4916-9301-8424341d88ab</SimpleData>
+		<SimpleData name="status">data/stations/c3391ccd.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/c3391ccd.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>68.9151560975571,49.3660560762154</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

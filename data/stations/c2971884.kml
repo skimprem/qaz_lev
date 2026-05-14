@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="c2971884" id="c2971884">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>c2971884</name>
+  <Placemark id="c2971884.1">
+	<name>383</name>
+	<description>грунт.реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#c2971884">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">201.415</SimpleData>
+		<SimpleData name="benchmark_number">146 оп</SimpleData>
+		<SimpleData name="control_location">Линия № 1: Карталы-Семиозерный, I класс                     Участок : грунт.реп.4041 - грунт.реп.3217</SimpleData>
+		<SimpleData name="benchmark_type">Апановка,станц. в 7.9 км к сев.-зап.от неё, в конце 4 пк. 182 км жел.дор., в 31 м к югу от жел.-дор.полотна, в 12 м к вост.от створа стб. ЛЭП № 295 и 296</SimpleData>
+		<SimpleData name="leveling_line_section">утрачен</SimpleData>
+		<SimpleData name="location_description">c2971884-77ba-4d58-bcc3-0025cc799db0</SimpleData>
+		<SimpleData name="status">data/stations/c2971884.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/c2971884.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>63.0814241912369,52.5472159923789</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

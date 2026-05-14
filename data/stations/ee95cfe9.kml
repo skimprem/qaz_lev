@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="ee95cfe9" id="ee95cfe9">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>ee95cfe9</name>
+  <Placemark id="ee95cfe9.1">
+	<name>XIV</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#ee95cfe9">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">228.034</SimpleData>
+		<SimpleData name="leveling_order">225,047</SimpleData>
+		<SimpleData name="control_height">Контрольный репер №XXI в верхней плоскости монолита</SimpleData>
+		<SimpleData name="benchmark_number">121оп</SimpleData>
+		<SimpleData name="control_location">Линия №4: Нецветаевка - Каратал, II класс (2) Участок: фунд. реп. 5  - грунт. реп. 8087</SimpleData>
+		<SimpleData name="benchmark_type">Бестогай, с., в 2,8 км к сев.-вост. от него, в 0,2 км к сев.-вост. от разв. Баранколь, в 0,1 км к юго-вост. от р. Силеты</SimpleData>
+		<SimpleData name="location_description">ee95cfe9-74b4-4059-a01d-7f99024e7669</SimpleData>
+		<SimpleData name="status">data/stations/ee95cfe9.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/ee95cfe9.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.6835901118297,51.9964926203465</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

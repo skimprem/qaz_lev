@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="8d7494e1" id="8d7494e1">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>8d7494e1</name>
+  <Placemark id="8d7494e1.1">
+	<name>20</name>
+	<name>грунт. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#8d7494e1">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">494.421</SimpleData>
+		<SimpleData name="benchmark_number">121</SimpleData>
+		<SimpleData name="control_location">Линия№ 2: Эмбек - Буран, II класс (1) Участок: ск. реп. 410 - фунд. реп. 2290</SimpleData>
+		<SimpleData name="benchmark_type">Шиганши, с., в 4.2 км к сев.-вост. от него, в 40 м к вост. от дороги с. Алексеевка - с. Буран</SimpleData>
+		<SimpleData name="location_description">8d7494e1-643d-48b3-9bb7-b76a172198c9</SimpleData>
+		<SimpleData name="status">data/stations/8d7494e1.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/8d7494e1.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>85.3076622813848,48.1901460847796</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

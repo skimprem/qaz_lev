@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="ed64995a" id="ed64995a">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>ed64995a</name>
+  <Placemark id="ed64995a.1">
+	<name>5205</name>
+	<name>грунт. реп. </name>
+	<ExtendedData><SchemaData schemaUrl="#ed64995a">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">385.461*</SimpleData>
+		<SimpleData name="benchmark_number">160 оп. знак</SimpleData>
+		<SimpleData name="control_location">Линия № 4: Висячий ход: фунд. реп. 707-фунд. реп. 141, II класс (2, 3), Участок: фунд. реп. 707- грунт. реп. 4869</SimpleData>
+		<SimpleData name="benchmark_type">Жаланашколь, станц., в 1.0 км к сев.-зап. от нее, в 1.0 км к юго-вост. от жел. дор. переезда, на 3 пк 256 км, в 0.1 км к юго-вост. от пк. стб. 1/2, в 32 м к юго-зап. от грейдера</SimpleData>
+		<SimpleData name="location_description">ed64995a-10db-4923-982d-25a546857dd6</SimpleData>
+		<SimpleData name="status">data/stations/ed64995a.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/ed64995a.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>82.1727634928624,45.6006662059369</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

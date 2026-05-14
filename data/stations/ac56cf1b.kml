@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="ac56cf1b" id="ac56cf1b">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>ac56cf1b</name>
+  <Placemark id="ac56cf1b.1">
+	<name>640</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#ac56cf1b">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">493.389</SimpleData>
+		<SimpleData name="benchmark_number">116</SimpleData>
+		<SimpleData name="control_location">Линия №45: грунт.реп.1607 - грунт.реп.599, II класс (2</SimpleData>
+		<SimpleData name="benchmark_type">Сан-Городок,с., в 0,7 км к югу от него, в 50 м к зап.от моста, в 15 м к сев.от дороги с.Жартас-с.Вольный</SimpleData>
+		<SimpleData name="location_description">ac56cf1b-6544-46b6-a7f2-57b5fd4a5fc4</SimpleData>
+		<SimpleData name="status">data/stations/ac56cf1b.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/ac56cf1b.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.7226301275309,49.6503370645969</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

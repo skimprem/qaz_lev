@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="de594713" id="de594713">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>de594713</name>
+  <Placemark id="de594713.1">
+	<name>26</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#de594713">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">646.782</SimpleData>
+		<SimpleData name="control_location">Линия №14: сигн. 1 кл. Уч-Тюбе-пир. 2 кл. Аэропорт, II класс</SimpleData>
+		<SimpleData name="benchmark_type">Джамбул,гор., 4.8 км к зап.от него,в 1.5 км к югу от с. Бектобе,в 0.4 км к сев.от шоссе Джамбул-Чимкент</SimpleData>
+		<SimpleData name="location_description">de594713-695a-4076-8feb-b524c73845c1</SimpleData>
+		<SimpleData name="status">data/stations/de594713.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/de594713.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>71.2804360606386,42.872149357031</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

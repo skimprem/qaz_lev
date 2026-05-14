@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="caec2fba" id="caec2fba">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>caec2fba</name>
+  <Placemark id="caec2fba.1">
+	<name>669</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#caec2fba">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">929,687</SimpleData>
+		<SimpleData name="leveling_order">928,652</SimpleData>
+		<SimpleData name="control_height">контрольный репер в трубе</SimpleData>
+		<SimpleData name="benchmark_number">118</SimpleData>
+		<SimpleData name="control_location">Линия №3; Сары-Озек - Фрунзе, II класс (6) Участок: грунт. реп. 602 - марка 460</SimpleData>
+		<SimpleData name="benchmark_type">Чунджа, с., в 11.0 км к юго-зап. от него, в 3.5 км к сев.-зап. от зимовки, в 30 м к вост. от полевой дороги</SimpleData>
+		<SimpleData name="leveling_line_section"></SimpleData>
+		<SimpleData name="location_description">caec2fba-c4d8-4163-a838-2fff3d24f04a</SimpleData>
+		<SimpleData name="status">data/stations/caec2fba.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/caec2fba.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>79.3786573663392,43.4496243098083</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

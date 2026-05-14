@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="41995820" id="41995820">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>41995820</name>
+  <Placemark id="41995820.1">
+	<name>1629</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#41995820">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">111.227</SimpleData>
+		<SimpleData name="benchmark_number">146 оп</SimpleData>
+		<SimpleData name="benchmark_type">свх.им. Мичурина, в 1,5 км к вост.от него, в 0,1 км к зап.от км.стб.17/198, в 0,1 км к югу от развилки дорог, в 30 м к зап.от асфальта</SimpleData>
+		<SimpleData name="location_description">41995820-42c3-4206-82a0-f17363f81fd3</SimpleData>
+		<SimpleData name="status">data/stations/41995820.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/41995820.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>76.8333044377591,52.4810291988168</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

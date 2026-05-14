@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="415eda7d" id="415eda7d">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>415eda7d</name>
+  <Placemark id="415eda7d.1">
+	<name>7014</name>
+	<name>грунт. реп. </name>
+	<ExtendedData><SchemaData schemaUrl="#415eda7d">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">415.406</SimpleData>
+		<SimpleData name="leveling_order">414.281</SimpleData>
+		<SimpleData name="leveling_height">694</SimpleData>
+		<SimpleData name="control_height">Контрольный репер в верхней плоскости монолита </SimpleData>
+		<SimpleData name="benchmark_number">121 оп. знак</SimpleData>
+		<SimpleData name="control_location">Линия № 3: Алажиде – Оз. Жаланашколь, Участок: фунд. реп. 386 – грунт. реп. 5214</SimpleData>
+		<SimpleData name="benchmark_type">Алажиде, станц., в 1.6 км к юго-зап. от нее, в 35 м к юго-вост. от жел. дор., в 13 м к юго-зап. от стб. ЛЭП № 36</SimpleData>
+		<SimpleData name="location_description">415eda7d-d71a-42b2-8048-907e5a0d17de</SimpleData>
+		<SimpleData name="status">data/stations/415eda7d.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/415eda7d.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>78.3954828474767,45.4411789775025</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="351c0139" id="351c0139">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>351c0139</name>
+  <Placemark id="351c0139.1">
+	<name>505</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#351c0139">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">162,559</SimpleData>
+		<SimpleData name="leveling_order">161,369</SimpleData>
+		<SimpleData name="control_height">контрольный репер в верхней плоскости монолита</SimpleData>
+		<SimpleData name="benchmark_number">121</SimpleData>
+		<SimpleData name="control_location">Линия №4: пир. 4 кл. Разъезд - грунт. реп. 189, II класс (2)</SimpleData>
+		<SimpleData name="benchmark_type">Насосная станция №4, в 1,6 км к сев.-вост.от нее, в 0,3 км к юго-вост. от оз. Жынгылды, в 0,3 км к сев. от канала Иртыш-Караганда</SimpleData>
+		<SimpleData name="location_description">351c0139-0d02-45f1-ade8-ab9b9a2f0cad</SimpleData>
+		<SimpleData name="status">data/stations/351c0139.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/351c0139.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.396333396099,51.8466572265515</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

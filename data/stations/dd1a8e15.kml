@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="dd1a8e15" id="dd1a8e15">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>dd1a8e15</name>
+  <Placemark id="dd1a8e15.1">
+	<name>3980</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#dd1a8e15">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">487.168</SimpleData>
+		<SimpleData name="benchmark_number">146оп</SimpleData>
+		<SimpleData name="control_location">Линия №30: грунт.реп. 3076 - сигн.4 кл. Придолинский, II класс (2)</SimpleData>
+		<SimpleData name="benchmark_type">Долинка,о.ц., в 2,7 км к сев.-вост.от него, в 1,8 км к юго-вост.от о.ц.Новодолинсий, в 0,2 км к юго-вост.от дороги гор.Шахтинск-гор.Караганды</SimpleData>
+		<SimpleData name="location_description">dd1a8e15-0c9e-470c-b629-bea03a90a5c9</SimpleData>
+		<SimpleData name="status">data/stations/dd1a8e15.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/dd1a8e15.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.7397947703248,49.6983322133371</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

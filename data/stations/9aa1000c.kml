@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="9aa1000c" id="9aa1000c">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>9aa1000c</name>
+  <Placemark id="9aa1000c.1">
+	<name>46</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#9aa1000c">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">226,011</SimpleData>
+		<SimpleData name="leveling_order">223,323</SimpleData>
+		<SimpleData name="control_height">Контрольный репер №49 в верхней плоскости монолита</SimpleData>
+		<SimpleData name="benchmark_number">121</SimpleData>
+		<SimpleData name="control_location">Линия №3: ск. реп. 101 - грунт. реп. 17, II класс (5)</SimpleData>
+		<SimpleData name="benchmark_type">Шидерты, с. , в 9.6 км к сев. от него, в 0.4 км к юго-вост. от вдхр. Шидертинское, в 0.1 км к зап. от полевой дороги </SimpleData>
+		<SimpleData name="leveling_line_section">уничтожен</SimpleData>
+		<SimpleData name="location_description">9aa1000c-2635-4a3a-acb9-4c744b97dba3</SimpleData>
+		<SimpleData name="status">data/stations/9aa1000c.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/9aa1000c.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>74.6479871596918,51.8042833130949</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

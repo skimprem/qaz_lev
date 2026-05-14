@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="6b663ecb" id="6b663ecb">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>6b663ecb</name>
+  <Placemark id="6b663ecb.1">
+	<name>3747</name>
+	<name>грунт. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#6b663ecb">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">97.926</SimpleData>
+		<SimpleData name="benchmark_number">10 </SimpleData>
+		<SimpleData name="control_location">Линия : Ишим-Петропавловск, II класс, Участок: марка 3129 - грун. реп. 3747</SimpleData>
+		<SimpleData name="benchmark_type">Жилякова,с., в 1.5км от него по дороге в с.Ильинское,в 30м к востоку от нее, в 0.1км к югу от пересечения дорог Ямки-Жилякова и Ильинское-Красноярское, в 95м к югу от тлф.стб.№4</SimpleData>
+		<SimpleData name="location_description">6b663ecb-e5b3-4680-b4d9-39d3241a13ca</SimpleData>
+		<SimpleData name="status">data/stations/6b663ecb.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/6b663ecb.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>69.3673191006992,55.2906152022491</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

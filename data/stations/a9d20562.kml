@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="a9d20562" id="a9d20562">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>a9d20562</name>
+  <Placemark id="a9d20562.1">
+	<name>3105</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#a9d20562">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">471.919</SimpleData>
+		<SimpleData name="benchmark_number">146оп</SimpleData>
+		<SimpleData name="control_location">Линия №8: грунт.реп.34 - грунт.реп.3105, II класс (2)</SimpleData>
+		<SimpleData name="benchmark_type">Шахан, пос., в 2,1 км к юго-зап.от него, в 1,5 км к юго-вост. от с.Северное, в 0,4 км к сев.-вост.от моста через р.Шерубай-нура </SimpleData>
+		<SimpleData name="location_description">a9d20562-917d-4ca1-81cb-4e28fbc8cebc</SimpleData>
+		<SimpleData name="status">data/stations/a9d20562.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/a9d20562.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.6227861241075,49.7949023637803</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="caea3eef" id="caea3eef">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>caea3eef</name>
+  <Placemark id="caea3eef.1">
+	<name>80</name>
+	<name>фунд. репер</name>
+	<ExtendedData><SchemaData schemaUrl="#caea3eef">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">234.699</SimpleData>
+		<SimpleData name="leveling_height">233.496</SimpleData>
+		<SimpleData name="benchmark_number">репер в верхней плоскости монолита</SimpleData>
+		<SimpleData name="control_location">Линия №2: Куракбулак-Мулалы, II класс</SimpleData>
+		<SimpleData name="benchmark_type">Ленинкудык, к., 9.0 км к юга.-вост. от него,в 3.0 км к юго.-вост. от к.Таскудук, 1-й в 15 м к сев.-вост. от полевой дороги</SimpleData>
+		<SimpleData name="location_description">caea3eef-f724-47d8-bd00-c3b0f6c485dd</SimpleData>
+		<SimpleData name="status">data/stations/caea3eef.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/caea3eef.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>66.4880253748977,41.98873459638</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

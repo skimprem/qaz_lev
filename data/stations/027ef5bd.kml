@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="027ef5bd" id="027ef5bd">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>027ef5bd</name>
+  <Placemark id="027ef5bd.1">
+	<name>5266</name>
+	<name>грунт,реп,</name>
+	<ExtendedData><SchemaData schemaUrl="#027ef5bd">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">434.05</SimpleData>
+		<SimpleData name="benchmark_number">1бОоп</SimpleData>
+		<SimpleData name="control_location">Хоп, от марки б/№ до грунт,реп, 139,1 класс</SimpleData>
+		<SimpleData name="benchmark_type">Дарбаза,станц, ,в 1,8 км к юго-вост,от
+неё,на 4 ПК 3330 км,в 33 м к юго-зап,
+от жел,- дор,</SimpleData>
+		<SimpleData name="leveling_line_section">утрачен</SimpleData>
+		<SimpleData name="location_description">027ef5bd-5852-4d1a-a2c8-996c045de702</SimpleData>
+		<SimpleData name="status">data/stations/027ef5bd.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/027ef5bd.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>69.1011408982563,41.5561124302482</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

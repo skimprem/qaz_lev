@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="bbc67012" id="bbc67012">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>bbc67012</name>
+  <Placemark id="bbc67012.1">
+	<name>0464</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#bbc67012">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">186.768</SimpleData>
+		<SimpleData name="leveling_order">153.545</SimpleData>
+		<SimpleData name="control_height">репер № 912 в верхней плоскости монолита</SimpleData>
+		<SimpleData name="benchmark_number">160 оп.знак</SimpleData>
+		<SimpleData name="control_location">Линия №1: Костанай - Петропавловска, I класс. Участок: грунт.реп. 0712 - грунт.реп. 0731. Ход: от грунт.реп. 11 - пир. 2 кл. Куприяновка, II класс</SimpleData>
+		<SimpleData name="benchmark_type">Аралколь, отд.дв., в 0.4 км к югу от него, в 0.2 км к сев.от водохранилища, на сев.углу кладбища</SimpleData>
+		<SimpleData name="location_description">bbc67012-dade-4841-8858-86e76bae8889</SimpleData>
+		<SimpleData name="status">data/stations/bbc67012.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/bbc67012.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>66.7774660585723,53.3586950550319</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

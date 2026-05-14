@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="faff5a4c" id="faff5a4c">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>faff5a4c</name>
+  <Placemark id="faff5a4c.1">
+	<name>1991</name>
+	<description>фунд.репер.</description>
+	<ExtendedData><SchemaData schemaUrl="#faff5a4c">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">98.439</SimpleData>
+		<SimpleData name="leveling_order">97.480</SimpleData>
+		<SimpleData name="leveling_height">Контрольный репер №1206 в фундаментальной плите</SimpleData>
+		<SimpleData name="control_height">№1206</SimpleData>
+		<SimpleData name="benchmark_number">104 оп.</SimpleData>
+		<SimpleData name="control_location">Линия №1 Аральск-Шалкар, I класс . Участок: фунд. Реп. 5059-грунт. Реп. 9012</SimpleData>
+		<SimpleData name="benchmark_type">Конту, станция.,    в 0.4 км к юго-вост. от неё, на    8 пк  2348 км жел.дор.,в 78 м   к  юго-зап. От жел дор.в 69 км к югу от пк стб.8/9</SimpleData>
+		<SimpleData name="location_description">faff5a4c-00a2-4818-9984-a2e9fc3c3bc7</SimpleData>
+		<SimpleData name="status">data/stations/faff5a4c.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/faff5a4c.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>61.4544486934351,46.9351446412144</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

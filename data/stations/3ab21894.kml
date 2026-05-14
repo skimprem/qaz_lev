@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="3ab21894" id="3ab21894">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>3ab21894</name>
+  <Placemark id="3ab21894.1">
+	<name>9302</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#3ab21894">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">129.661</SimpleData>
+		<SimpleData name="leveling_order">97.117</SimpleData>
+		<SimpleData name="benchmark_number">146 оп.знак</SimpleData>
+		<SimpleData name="control_location">Линия № 6: Ишим - Петропавловск, II класс Участок: грунт.реп.  </SimpleData>
+		<SimpleData name="benchmark_type">Ташкентка, с., в 0.2 км к юго-зап. От него, в 0.2 км к сев. От км стб. № 12/24, рядом с кладбищем  </SimpleData>
+		<SimpleData name="location_description">3ab21894-8a18-43f5-b54b-8f0034183374</SimpleData>
+		<SimpleData name="status">data/stations/3ab21894.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/3ab21894.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>69.2227872923842,55.0592132147218</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

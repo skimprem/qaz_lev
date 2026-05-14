@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="e64b8da6" id="e64b8da6">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>e64b8da6</name>
+  <Placemark id="e64b8da6.1">
+	<name>Агаш </name>
+	<description>пирамида</description>
+	<ExtendedData><SchemaData schemaUrl="#e64b8da6">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">1467.516</SimpleData>
+		<SimpleData name="leveling_order">1468,392*</SimpleData>
+		<SimpleData name="leveling_height">№367,38</SimpleData>
+		<SimpleData name="control_height">Марка в верхней плоскости тура </SimpleData>
+		<SimpleData name="benchmark_number">Г</SimpleData>
+		<SimpleData name="control_location">Линия № 17: грунт.реп. 174 - грунт.реп. 1072, ІІ класс (І)            </SimpleData>
+		<SimpleData name="benchmark_type">Кокпек,пикет,в 10.0 км к сев.-зап. от него,в 2.8 км к юго-вост.от зим. Аккора.в 2.3 км к зап.от дороги с.Чилик-с.Жаланаш</SimpleData>
+		<SimpleData name="location_description">e64b8da6-24e8-4fa2-896d-6f700c597628</SimpleData>
+		<SimpleData name="status">data/stations/e64b8da6.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/e64b8da6.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>78.5854368286342,43.513920381245</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

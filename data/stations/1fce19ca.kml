@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="1fce19ca" id="1fce19ca">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>1fce19ca</name>
+  <Placemark id="1fce19ca.1">
+	<name>3944</name>
+	<name>фундаментальный репер</name>
+	<ExtendedData><SchemaData schemaUrl="#1fce19ca">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">830,247</SimpleData>
+		<SimpleData name="leveling_order">830,077</SimpleData>
+		<SimpleData name="control_height">контрольный репер в скале</SimpleData>
+		<SimpleData name="benchmark_number">114оп</SimpleData>
+		<SimpleData name="control_location">Линия №2: Карааул - Акбулак, II класс (2) Участок: грунт. реп. 5242 - грунт. реп. 5248</SimpleData>
+		<SimpleData name="benchmark_type">Кайнар, с., в 0,5 км к сев. от него, в 1,5 км к зап. от р. Карасу, в 40 м к зап. от дороги с. Кайнар - гор. Семипалатинск </SimpleData>
+		<SimpleData name="location_description">1fce19ca-bb0d-47f0-acb0-5bcb3b17f4b2</SimpleData>
+		<SimpleData name="status">data/stations/1fce19ca.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/1fce19ca.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.3874020166928,49.2092969870368</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

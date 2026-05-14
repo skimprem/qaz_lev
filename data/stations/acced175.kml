@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="acced175" id="acced175">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>acced175</name>
+  <Placemark id="acced175.1">
+	<name>5740</name>
+	<description>грунт.репер</description>
+	<ExtendedData><SchemaData schemaUrl="#acced175">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">91.564</SimpleData>
+		<SimpleData name="leveling_order">89,928</SimpleData>
+		<SimpleData name="benchmark_number">121</SimpleData>
+		<SimpleData name="control_location">Линия №2 грунт.реп.364 -грунт.реп.7112 Участок грунт.реп.7958 -грунт.реп.7112</SimpleData>
+		<SimpleData name="benchmark_type">Мухамед,зим.,в 5.1 км к сев.-зап.от неё,в 3.5 км к юго-вост.от кладб.Дамеш,в 3.2 км к вост.от дороги с.Тургай -с.Кишиколь</SimpleData>
+		<SimpleData name="location_description">acced175-5cd0-4ac8-873c-ae2fca5fc07b</SimpleData>
+		<SimpleData name="status">data/stations/acced175.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/acced175.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>63.3001430746614,49.3099137290952</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="3f5b54f6" id="3f5b54f6">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>3f5b54f6</name>
+  <Placemark id="3f5b54f6.1">
+	<name>2795</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#3f5b54f6">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">116.450</SimpleData>
+		<SimpleData name="leveling_order">114.335</SimpleData>
+		<SimpleData name="control_height">Контрольный репер №21018 в верхней плоскости монолита</SimpleData>
+		<SimpleData name="benchmark_number">121</SimpleData>
+		<SimpleData name="control_location">Линия №1: Разумовка - Зелёная роща, II класс (3) Участок: грунт.реп.130285 фунд.реп. I</SimpleData>
+		<SimpleData name="benchmark_type">Баскамыс, с., в 9,2 км к юго-вост.от него, в 9,0 км к сев-зап.от оз. Сарыкамыс, в 2,8 км к вост.от колодцев, в 30 м к югу от полевой дороги</SimpleData>
+		<SimpleData name="location_description">3f5b54f6-9ab0-4915-b872-3f70f2a5f553</SimpleData>
+		<SimpleData name="status">data/stations/3f5b54f6.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/3f5b54f6.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.2704632430712,52.3053014876236</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

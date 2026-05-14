@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="ac147540" id="ac147540">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>ac147540</name>
+  <Placemark id="ac147540.1">
+	<name>7446</name>
+	<name>ск. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#ac147540">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">707.484</SimpleData>
+		<SimpleData name="benchmark_number">99 оп</SimpleData>
+		<SimpleData name="control_location">Линия № 2: Баршатас - Катбар, II класс 
+Участок: ск.реп. 12247 – фунд.реп. 521
+</SimpleData>
+		<SimpleData name="benchmark_type">Комраубит, зим., в 0.5 км к сев. от нее, в 0.3 км к сев.-зап. от могилы, в 40 м к вост. от полевой дороги</SimpleData>
+		<SimpleData name="location_description">ac147540-b235-4c7c-973d-d60be35e955d</SimpleData>
+		<SimpleData name="status">data/stations/ac147540.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/ac147540.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>78.2831869344165,47.2884697465199</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

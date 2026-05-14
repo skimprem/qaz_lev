@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="7bed34cb" id="7bed34cb">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>7bed34cb</name>
+  <Placemark id="7bed34cb.1">
+	<name>186</name>
+	<description>грунт.репер</description>
+	<ExtendedData><SchemaData schemaUrl="#7bed34cb">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">91.793</SimpleData>
+		<SimpleData name="leveling_order">89.575</SimpleData>
+		<SimpleData name="leveling_height">Контрольный репер в верхней плоскости монолита</SimpleData>
+		<SimpleData name="benchmark_number">118</SimpleData>
+		<SimpleData name="control_location">Линия №1 Наурзум (Аксуат) -Иргиз Участок фунд.реп.89 -грунт.реп.30 </SimpleData>
+		<SimpleData name="benchmark_type">Свх.им.XXI партсъезда,в 21.0 км к юго-зап.от него,в 41 м к сев.-зап.от тлф.стб.,в 34 м к сев.-зап.от дороги с.Тургай -с.Иргиз</SimpleData>
+		<SimpleData name="location_description">7bed34cb-71ae-45bf-8a74-c013b480dfdb</SimpleData>
+		<SimpleData name="status">data/stations/7bed34cb.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/7bed34cb.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>62.4597762833177,49.1948454868801</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

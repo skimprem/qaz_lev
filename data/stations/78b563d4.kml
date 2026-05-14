@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="78b563d4" id="78b563d4">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>78b563d4</name>
+  <Placemark id="78b563d4.1">
+	<name>4033</name>
+	<name>грунт.реп</name>
+	<ExtendedData><SchemaData schemaUrl="#78b563d4">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">930.064</SimpleData>
+		<SimpleData name="control_location">Линпмя №2: Сузак-Туркестан, II класс (3) Участок: грунт.реп. 10178-грунт.реп. 1695</SimpleData>
+		<SimpleData name="benchmark_type">Баджи,пер. в 30 м к сев.от него, у дороги с.Сузак-пер. Баджи</SimpleData>
+		<SimpleData name="leveling_line_section"></SimpleData>
+		<SimpleData name="location_description">78b563d4-8353-4970-bb92-44a9b2f442bf</SimpleData>
+		<SimpleData name="status">data/stations/78b563d4.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/78b563d4.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>68.2069072126809,43.8994922165036</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

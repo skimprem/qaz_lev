@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="c2430d8e" id="c2430d8e">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>c2430d8e</name>
+  <Placemark id="c2430d8e.1">
+	<name>13</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#c2430d8e">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">554.391</SimpleData>
+		<SimpleData name="leveling_order">552.677*</SimpleData>
+		<SimpleData name="control_height">В верхней плоскости монолита</SimpleData>
+		<SimpleData name="benchmark_number">121оп</SimpleData>
+		<SimpleData name="control_location">Ход от грунт. реп. 26 до фунд. реп. 39, II класс                         Участок: грунт. реп. б/№ -  фунд. реп. 39</SimpleData>
+		<SimpleData name="benchmark_type">Жанаорталык, с., в 8.2км к сев.-зап. от него, в 1.5км к зап. от шоссе с. Актогай-гор. Балхаш, в 0.9км к зап. от ЛЭП</SimpleData>
+		<SimpleData name="location_description">c2430d8e-da84-4848-a169-702a84250fdf</SimpleData>
+		<SimpleData name="status">data/stations/c2430d8e.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/c2430d8e.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.5827568424435,47.6591222824958</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

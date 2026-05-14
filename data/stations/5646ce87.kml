@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="5646ce87" id="5646ce87">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>5646ce87</name>
+  <Placemark id="5646ce87.1">
+	<name>7274</name>
+	<name>грунт.реп</name>
+	<ExtendedData><SchemaData schemaUrl="#5646ce87">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">344.465</SimpleData>
+		<SimpleData name="control_height">Контрольный репер в верхней плоскости монолита</SimpleData>
+		<SimpleData name="benchmark_number">160 оп</SimpleData>
+		<SimpleData name="control_location">Линия № 5 Астана (Целиноград) - Жумай. II класс (6)
+Участок: фунд.реп. 483 - грунт реп 7276</SimpleData>
+		<SimpleData name="benchmark_type">Астана, гор., в 2,0 км к юго-зап. от него, по дороге гор.
+Астана- с. Родионовка, в 40 м к юго-вост. от границы
+города, в 30 м к югу от дороги</SimpleData>
+		<SimpleData name="location_description">5646ce87-dab8-48fd-9f0c-fd6d2e34afae</SimpleData>
+		<SimpleData name="status">data/stations/5646ce87.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/5646ce87.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>71.4042608965684,51.1447800178513</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="fb17468d" id="fb17468d">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>fb17468d</name>
+  <Placemark id="fb17468d.1">
+	<name>555</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#fb17468d">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">137.051</SimpleData>
+		<SimpleData name="benchmark_number">146 оп</SimpleData>
+		<SimpleData name="control_location">Линия № 1 : Целиноград -Кулунда, I класс(1) Участок: гр.рп. 2335-марка 1327</SimpleData>
+		<SimpleData name="benchmark_type">Кургамыс, станц., в 13.8 км к вост. от неё,в 20 м к сев. от 5 пикета 562 км</SimpleData>
+		<SimpleData name="location_description">fb17468d-526a-4ce4-bf80-ef04ad465a28</SimpleData>
+		<SimpleData name="status">data/stations/fb17468d.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/fb17468d.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>78.5566326888067,52.5203767824105</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

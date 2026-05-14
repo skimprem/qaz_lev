@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="c16cb13b" id="c16cb13b">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>c16cb13b</name>
+  <Placemark id="c16cb13b.1">
+	<name>78</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#c16cb13b">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">177,496</SimpleData>
+		<SimpleData name="leveling_order">174,647</SimpleData>
+		<SimpleData name="control_height">Контрольный репер № 36  в верхней плоскости монолита</SimpleData>
+		<SimpleData name="benchmark_number">123</SimpleData>
+		<SimpleData name="control_location">Линия  № 2: Павлодар-Карасорский, II класс (2) Участок : грунт.реп.6427-ск.реп.9054</SimpleData>
+		<SimpleData name="benchmark_type">Такырсор, оз., в 8,7 км к юго-зап. от него, в 0,2 км к зап. от линии связи и дороги с. Шийли-с.Баянаул</SimpleData>
+		<SimpleData name="location_description">c16cb13b-00f5-4975-bde6-c93588232b81</SimpleData>
+		<SimpleData name="status">data/stations/c16cb13b.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/c16cb13b.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>76.1691586891756,51.5339566395935</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="acd65e05" id="acd65e05">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>acd65e05</name>
+  <Placemark id="acd65e05.1">
+	<name>790</name>
+	<name>скальный репер</name>
+	<ExtendedData><SchemaData schemaUrl="#acd65e05">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">408,041</SimpleData>
+		<SimpleData name="control_location">Участок: грунт. реп. 334 - грунт. реп. 0833 </SimpleData>
+		<SimpleData name="benchmark_type">Кызказган, к., в 12.0 км к юго-вост. от него, в 3.0 км к юго-зап. от солончака Шукыр, в 0.3 км к вост.                                от полевой дороги</SimpleData>
+		<SimpleData name="location_description">acd65e05-f49f-4677-97b1-2d23f8888b2c</SimpleData>
+		<SimpleData name="status">data/stations/acd65e05.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/acd65e05.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>71.0378732703861,46.0075188371444</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

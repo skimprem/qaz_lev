@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="cb81afa0" id="cb81afa0">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>cb81afa0</name>
+  <Placemark id="cb81afa0.1">
+	<name>123</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#cb81afa0">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">155.190</SimpleData>
+		<SimpleData name="leveling_order">151.636</SimpleData>
+		<SimpleData name="control_height">в верхней плоскости рамы</SimpleData>
+		<SimpleData name="benchmark_number">121</SimpleData>
+		<SimpleData name="control_location">Линия № 3: Сергеевка - Благовещенка. II класс
+Участок: грунт.реп. 733 - грунт, реп. б/№</SimpleData>
+		<SimpleData name="benchmark_type">Балуан, с., в 2.5 км к сев.-зап. от него, в 0.1 км к юго-
+зап. от березовой рощи, в 18 м к сев.-вост. от грунт.
+дороги с. Аманкельды - с. Балуан</SimpleData>
+		<SimpleData name="location_description">cb81afa0-bffa-4ae3-b55a-6823d2867763</SimpleData>
+		<SimpleData name="status">data/stations/cb81afa0.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/cb81afa0.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.1357986750754,54.2301974303778</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

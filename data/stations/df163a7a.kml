@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="df163a7a" id="df163a7a">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>df163a7a</name>
+  <Placemark id="df163a7a.1">
+	<name>5339</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#df163a7a">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">389,514</SimpleData>
+		<SimpleData name="control_location">Линия № 3: Жезказган - р,Сарысу, 2 класс (4) Участок: фунд, реп. 495 - грунт. реп. 826</SimpleData>
+		<SimpleData name="benchmark_type">Карамола, мог,, в 5,9 км к юго-вост, от неё, в 2,2 км к югу                    от ЛЭП, в 40 м к сев, от перекрёстка полевых дорог</SimpleData>
+		<SimpleData name="location_description">df163a7a-0e1e-4153-80c7-5e5fd5d4d41d</SimpleData>
+		<SimpleData name="status">data/stations/df163a7a.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/df163a7a.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.372047703244,47.6980501641224</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

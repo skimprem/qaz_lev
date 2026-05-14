@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="d08d2355" id="d08d2355">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>d08d2355</name>
+  <Placemark id="d08d2355.1">
+	<name>91</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#d08d2355">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">223,421</SimpleData>
+		<SimpleData name="leveling_order">220,738</SimpleData>
+		<SimpleData name="control_height">репер № 93               в верхней плоскости монолита</SimpleData>
+		<SimpleData name="benchmark_number">123</SimpleData>
+		<SimpleData name="control_location">Линия № 3 :       Семипалатинск - Карабас-Туз,  2 класс (4) Участок : грунт.реп. 94 - фунд.реп. 86-А</SimpleData>
+		<SimpleData name="benchmark_type">Талды, с., в 8,5 км к юго-зап. от него, в 3,0 км к вост. от с.Есиль, в 38 м к югу от дороги с.Есиль-гор.Семипалатинск</SimpleData>
+		<SimpleData name="location_description">d08d2355-9627-4bab-96ba-89a4baafdd6a</SimpleData>
+		<SimpleData name="status">data/stations/d08d2355.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/d08d2355.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>79.5563931994945,50.3992498585922</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

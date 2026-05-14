@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="ddd54dc5" id="ddd54dc5">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>ddd54dc5</name>
+  <Placemark id="ddd54dc5.1">
+	<name>6630</name>
+	<name>ск. реп. </name>
+	<ExtendedData><SchemaData schemaUrl="#ddd54dc5">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="benchmark_number">99 оп</SimpleData>
+		<SimpleData name="control_location">Линия № 3: Каратас –  Аягоз, I класс
+Участок: ск.реп. 5533 – фунд.реп. 1027</SimpleData>
+		<SimpleData name="benchmark_type">Жиланды, станц., в 3.7 км к сев.-вост. от нее, в 29 м к зап. от жел.-дор. полотна, в 5 м к юго-зап. от км. стб. 1020/1021</SimpleData>
+		<SimpleData name="location_description">ddd54dc5-dc89-4f34-817d-0da2082ce230</SimpleData>
+		<SimpleData name="status">data/stations/ddd54dc5.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/ddd54dc5.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>80.3011653973487,47.7147777404497</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

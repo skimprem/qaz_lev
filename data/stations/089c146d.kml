@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="089c146d" id="089c146d">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>089c146d</name>
+  <Placemark id="089c146d.1">
+	<name>4096</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#089c146d">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">235.858</SimpleData>
+		<SimpleData name="benchmark_number">160 оп.знак</SimpleData>
+		<SimpleData name="control_location">Линия №3: Володарское - Сергеевка, II класс. Участок: грунт.реп. 8034 - фунд.реп. 0709</SimpleData>
+		<SimpleData name="benchmark_type">Качиловка, с., в 3.6 км к сев.от него, в 3.0 км к сев.-зап.от с. Юдинка, в 36 м к вост. Грунт.дороги с. Качиловка - с. Белоглинка</SimpleData>
+		<SimpleData name="location_description">089c146d-039e-4ad3-af3f-cafae0e4d7a0</SimpleData>
+		<SimpleData name="status">data/stations/089c146d.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/089c146d.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.8956674507962,53.5674739533402</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

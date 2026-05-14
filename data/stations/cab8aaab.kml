@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="cab8aaab" id="cab8aaab">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>cab8aaab</name>
+  <Placemark id="cab8aaab.1">
+	<name>74</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#cab8aaab">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">147,758</SimpleData>
+		<SimpleData name="leveling_height">145,422</SimpleData>
+		<SimpleData name="benchmark_number">в верхней плоскости монолита</SimpleData>
+		<SimpleData name="control_location">Линия № 3: Кичиктай - Созак, 2 класс (3) Участок: фунд. реп. 7911 - грунт. реп. 9460 </SimpleData>
+		<SimpleData name="benchmark_type">Сукубыр, арт. к., в 10.3 км к сев.-зап. от него, в 1.0 км к сев.-вост. от арт. к. Дауит, в 30 м к зап. от грунт. дороги гор. Жезказган - с. Созак</SimpleData>
+		<SimpleData name="location_description">cab8aaab-0061-4b79-bbf3-966f50a1ca42</SimpleData>
+		<SimpleData name="status">data/stations/cab8aaab.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/cab8aaab.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>68.318205245912,44.7801672656909</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

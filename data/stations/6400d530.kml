@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="6400d530" id="6400d530">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>6400d530</name>
+  <Placemark id="6400d530.1">
+	<name>6957</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#6400d530">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">232.46</SimpleData>
+		<SimpleData name="benchmark_number">160 оп, знак</SimpleData>
+		<SimpleData name="control_location">Линия № 1: Туйемойнак - Торыустаган, 1 класс (1) Участок: грунт, реп, 3215 - фунд, реп, 9993</SimpleData>
+		<SimpleData name="benchmark_type">Кисемис, кладб,, в 11,2 км к сев,-зап, от него, в 7,0 км к югу от к, Банмурын, в 0,2 км к сев,-зап, от перекрёстка полевых дорог</SimpleData>
+		<SimpleData name="location_description">6400d530-bb9a-470e-8025-659d0d417340</SimpleData>
+		<SimpleData name="status">data/stations/6400d530.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/6400d530.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>69.834797659137,45.0972396781139</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="cec12381" id="cec12381">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>cec12381</name>
+  <Placemark id="cec12381.1">
+	<name>1949</name>
+	<name>грунт. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#cec12381">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">82.14</SimpleData>
+		<SimpleData name="benchmark_number">160 оп</SimpleData>
+		<SimpleData name="control_location">Линия №4: Ащылысай - Майлыозек, 2 класс. Участок: фунд.реп. 3917 - грунт.реп. 7512</SimpleData>
+		<SimpleData name="benchmark_type">Дайрабай, мог., в 5,6 км к югу от нее, в 2,5 км к сев.-зап.от к. Малик, в 0,1 км к вост.от полевой дороги</SimpleData>
+		<SimpleData name="location_description">cec12381-9c71-4ff9-a316-5f9a9489788e</SimpleData>
+		<SimpleData name="status">data/stations/cec12381.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/cec12381.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>62.3717506871089,44.839823372654</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

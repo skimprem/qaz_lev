@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="c10c0b30" id="c10c0b30">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>c10c0b30</name>
+  <Placemark id="c10c0b30.1">
+	<name>7806</name>
+	<name>грунт. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#c10c0b30">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">492,049</SimpleData>
+		<SimpleData name="leveling_order">490,704</SimpleData>
+		<SimpleData name="control_height">репер № 970 в фундаментной плите</SimpleData>
+		<SimpleData name="benchmark_number">116 оп</SimpleData>
+		<SimpleData name="control_location">Линия № 1: Карабас -Туз -Кара -Аул, II класс (I) Участок: фунд. реп. 595- фунд. реп. 161</SimpleData>
+		<SimpleData name="benchmark_type">Оспанколь, оз., в 4.7 км к юго -зап. от него, в 3.7 км к сев. -вост. от зим. Тыздар, в 2.0 км к сев. от зим. Шошай</SimpleData>
+		<SimpleData name="location_description">c10c0b30-a268-4d1f-9089-674568c89ba0</SimpleData>
+		<SimpleData name="status">data/stations/c10c0b30.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/c10c0b30.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>79.0639227401266,49.2195801370797</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

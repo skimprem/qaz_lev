@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="ada81278" id="ada81278">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>ada81278</name>
+  <Placemark id="ada81278.1">
+	<name>42</name>
+	<name>грунт.реп</name>
+	<ExtendedData><SchemaData schemaUrl="#ada81278">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">151.170</SimpleData>
+		<SimpleData name="control_location">Линия № 1 Чиили-Мергенбай,II класс Участок: грунт.реп.51-грунт.25</SimpleData>
+		<SimpleData name="benchmark_type">Дилцан, к., в 5.0 км к вост.от него, в 1.1 км к юго-зап. От к Коанколь, в 0.2 км к югу от развилки полевой дороги, в 2.1 км вост. От полевой дорои</SimpleData>
+		<SimpleData name="location_description">ada81278-da2f-48ae-9713-6b92deb7cd32</SimpleData>
+		<SimpleData name="status">data/stations/ada81278.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/ada81278.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>66.3443451027344,43.8923409038049</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

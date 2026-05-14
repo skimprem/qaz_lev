@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="19b52c22" id="19b52c22">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>19b52c22</name>
+  <Placemark id="19b52c22.1">
+	<name>0292</name>
+	<name>ск.реп</name>
+	<ExtendedData><SchemaData schemaUrl="#19b52c22">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">970.288</SimpleData>
+		<SimpleData name="benchmark_number">99</SimpleData>
+		<SimpleData name="control_location">Линия № 22: грунт.реп. 15915 - стен.реп. 0245, ІІ класс (І)            </SimpleData>
+		<SimpleData name="benchmark_type">Кокпек,пикет, в 6,5 км к сев. - зап.  от него, в 8 м к югу от дороги с.Чилик - с.Жаланаш </SimpleData>
+		<SimpleData name="location_description">19b52c22-c467-4367-97ef-986701ecf7e4</SimpleData>
+		<SimpleData name="status">data/stations/19b52c22.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/19b52c22.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>78.6293199442666,43.498638698641</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="ccccd2e9" id="ccccd2e9">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>ccccd2e9</name>
+  <Placemark id="ccccd2e9.1">
+	<name>2809</name>
+	<name>грунт. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#ccccd2e9">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">390.29</SimpleData>
+		<SimpleData name="benchmark_number">160 оп. знак</SimpleData>
+		<SimpleData name="control_location">Линия № 2: Таскескен – Сайкан, II класс 
+Участок: грунт.реп. б/№ – фунд.реп. 9446
+</SimpleData>
+		<SimpleData name="benchmark_type">Сайкан, станц., в 1.8 км к юго-вост. от нее, в 50 м к вост. от шоссе гор. Алматы – гор. Усть-Каменогорск</SimpleData>
+		<SimpleData name="location_description">ccccd2e9-d502-4b2c-a81b-a21d29da939c</SimpleData>
+		<SimpleData name="status">data/stations/ccccd2e9.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/ccccd2e9.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>80.698251387597,46.4120868077737</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

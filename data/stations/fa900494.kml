@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="fa900494" id="fa900494">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>fa900494</name>
+  <Placemark id="fa900494.1">
+	<name>58</name>
+	<name>ск. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#fa900494">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">749.315</SimpleData>
+		<SimpleData name="benchmark_number">99 оп</SimpleData>
+		<SimpleData name="control_location">Линия № 1: Бугаз – Аягоз, II класс Участок: грунт.реп. 15305 – грунт.реп. 15781</SimpleData>
+		<SimpleData name="benchmark_type">Кызылкесек, с., в 8.4 км к сев.-зап. от него, в 5.9 км к сев. от с. Егиндыбулак, в 1.2 км к юго-вост. от кладб. Шал, в 0.2 км к сев. от р. Шет-Бугаз</SimpleData>
+		<SimpleData name="location_description">fa900494-7503-4ac9-b58a-daf9488fc4f2</SimpleData>
+		<SimpleData name="status">data/stations/fa900494.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/fa900494.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>81.9364152112159,47.9440582307581</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

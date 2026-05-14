@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="be53624e" id="be53624e">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>be53624e</name>
+  <Placemark id="be53624e.1">
+	<name>865</name>
+	<name>грунт,реп,</name>
+	<ExtendedData><SchemaData schemaUrl="#be53624e">
+		<SimpleData name="type">I</SimpleData>
+		<SimpleData name="view">263.219</SimpleData>
+		<SimpleData name="benchmark_number">160 оп</SimpleData>
+		<SimpleData name="control_location">Линия №1: Астана(Целиноград) - Амангельды, I класс (I) участок: грунт,реп,2241 - фунд,реп,2223</SimpleData>
+		<SimpleData name="benchmark_type">Алгабас,с,,в 6,5 км к зап,от него, в 0,4 км к зап,от поворота дороги гор,Атбасар=с,Жана-Кийма,в 29 м к зап,от км,стб,54/I6</SimpleData>
+		<SimpleData name="leveling_line_section">Уничтожен</SimpleData>
+		<SimpleData name="location_description">be53624e-2588-4e81-832c-1a0bada6b51b</SimpleData>
+		<SimpleData name="status">data/stations/be53624e.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/be53624e.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.7868448475484,51.5752392188221</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

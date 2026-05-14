@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="56efed05" id="56efed05">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>56efed05</name>
+  <Placemark id="56efed05.1">
+	<name>2911</name>
+	<name>грунт. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#56efed05">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="leveling_height">160 оп. знак</SimpleData>
+		<SimpleData name="benchmark_number">Линия  № 1: Сарыозек – Каракол (Пржевальск), I класс
+Участок: грунт. реп.  520 – грунт.реп. 155</SimpleData>
+		<SimpleData name="control_location">Коныролен, с., в 11.8 км к вост. от него, в 0.7 км к сев.-вост. от зимовки, в 45 м к сев. от км. стб. 139/38, в 30 м к сев. от шоссе с. Сарыозек – гор. Жаркент</SimpleData>
+		<SimpleData name="benchmark_type">L-44-135-Б</SimpleData>
+		<SimpleData name="location_description">56efed05-6f26-482a-9b74-4eeab4846459</SimpleData>
+		<SimpleData name="status">data/stations/56efed05.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/56efed05.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>79.457609338059,44.2696324453512</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

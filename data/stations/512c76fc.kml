@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="512c76fc" id="512c76fc">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>512c76fc</name>
+  <Placemark id="512c76fc.1">
+	<name>4065</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#512c76fc">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">191,991</SimpleData>
+		<SimpleData name="control_location">Линия № 4: Кендырлык (Айгарлык) грунт. реп. 9617, II класс (2) Участок: фунд. реп. 25 - грунт. реп. 284 </SimpleData>
+		<SimpleData name="benchmark_type">Кызылмола, кладб., в 8.6 км к юго-вост. от него, в 5.0 км к сев.-зап. от к. Караганкудук </SimpleData>
+		<SimpleData name="location_description">512c76fc-3ec7-40ad-99bf-4d884ac8bcac</SimpleData>
+		<SimpleData name="status">data/stations/512c76fc.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/512c76fc.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>68.2672287218469,46.060253204135</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

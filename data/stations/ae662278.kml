@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="ae662278" id="ae662278">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>ae662278</name>
+  <Placemark id="ae662278.1">
+	<name>6893</name>
+	<description>грунт. реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#ae662278">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">897.185</SimpleData>
+		<SimpleData name="leveling_order">895,622</SimpleData>
+		<SimpleData name="control_height">Контрольный репер №6746 в верхней плоскости монолита </SimpleData>
+		<SimpleData name="benchmark_number">117оп</SimpleData>
+		<SimpleData name="control_location">Линия №1:Каркаралинск-Аягуз, I класс (1) Участок: грунт реп.2574 -грунт.реп. 2359</SimpleData>
+		<SimpleData name="benchmark_type">Кент  (Комсомол), с., в 3,7 км к юго-зап. от него, в 10 м к зап. от дороги с. Кент-с. Талды между тлгр. стб. №61/144 и №61/145</SimpleData>
+		<SimpleData name="location_description">ae662278-9785-4a51-8cb3-e5ab558e1d9b</SimpleData>
+		<SimpleData name="status">data/stations/ae662278.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/ae662278.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.826470598691,49.185157032379</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

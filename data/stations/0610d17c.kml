@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="0610d17c" id="0610d17c">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>0610d17c</name>
+  <Placemark id="0610d17c.1">
+	<name>9338</name>
+	<name>грунт.реп.</name>
+	<description>грунт.реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#0610d17c">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">408.883</SimpleData>
+		<SimpleData name="benchmark_number">160оп.знак</SimpleData>
+		<SimpleData name="control_location">Линия № 1:Урочище Куйган-Уштобе II класс                            Участок: пир. 2 кл. Туранглы-грунт. Реп.2245</SimpleData>
+		<SimpleData name="benchmark_type">Тассуат,зим.,в 5.0 км к сев.-зап.отнее,в 0.9 км к юго-зап.от р.Каратал,в
+13 м к сев.-вост.от шоссе с.Акжар-гор.
+Уштобе</SimpleData>
+		<SimpleData name="location_description">0610d17c-af80-40b2-afd7-168b864919bc</SimpleData>
+		<SimpleData name="status">data/stations/0610d17c.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/0610d17c.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.6638037854986,45.458399325563</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

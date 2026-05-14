@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="3bef4f3b" id="3bef4f3b">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>3bef4f3b</name>
+  <Placemark id="3bef4f3b.1">
+	<name>523</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#3bef4f3b">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">760,772</SimpleData>
+		<SimpleData name="leveling_order">758,396</SimpleData>
+		<SimpleData name="control_height">Контрольный репер в верхней плоскости монолита</SimpleData>
+		<SimpleData name="benchmark_number">121 оп</SimpleData>
+		<SimpleData name="control_location">Линия №1: Спасск-Каркаралинск, II класс (I). Участок:ск.реп.0960-грун.реп.524</SimpleData>
+		<SimpleData name="benchmark_type">Кызылту, с., 5,6 км к юго-вост.от него, в 0,2 км к югу от линии свяязи, в 30 м к югу от дороги с.Бесоба, в 85 м к югу от ЛЭП 10кв.</SimpleData>
+		<SimpleData name="location_description">3bef4f3b-0b43-4553-b574-87100b0c0edd</SimpleData>
+		<SimpleData name="status">data/stations/3bef4f3b.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/3bef4f3b.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>74.310013840827,49.3317128393983</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

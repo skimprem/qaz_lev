@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="50eb5ebe" id="50eb5ebe">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>50eb5ebe</name>
+  <Placemark id="50eb5ebe.1">
+	<name>б/№</name>
+	<name>марка</name>
+	<ExtendedData><SchemaData schemaUrl="#50eb5ebe">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">400.215</SimpleData>
+		<SimpleData name="control_location">Линия №1: Челкар-Изембет, I   класс. Участок: фунд.реп. 144-марка 4264</SimpleData>
+		<SimpleData name="benchmark_type">Берчогур, станц., дом жел.-дор. Служащих</SimpleData>
+		<SimpleData name="location_description">50eb5ebe-e178-483b-98bf-418192ed7662</SimpleData>
+		<SimpleData name="status">data/stations/50eb5ebe.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/50eb5ebe.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>58.549060710729,48.4824355839416</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

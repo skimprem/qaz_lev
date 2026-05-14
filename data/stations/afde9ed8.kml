@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="afde9ed8" id="afde9ed8">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>afde9ed8</name>
+  <Placemark id="afde9ed8.1">
+	<name>880</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#afde9ed8">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">490.689</SimpleData>
+		<SimpleData name="leveling_order">489.569</SimpleData>
+		<SimpleData name="control_height">Контрольный репер в верхней плоскости монолита</SimpleData>
+		<SimpleData name="benchmark_number">121</SimpleData>
+		<SimpleData name="control_location">Линия № 1: Буран - Белая Школа, II класс. Участок: грунт. реп. 1507 - грунт. реп. 22</SimpleData>
+		<SimpleData name="benchmark_type">Зайсан, с., в 3.5 км к юго-вост. от него, в 30 м к зап. от дороги, с. Мужиксу-гор.Зайсан, в 25 м к вост. от деревьев</SimpleData>
+		<SimpleData name="location_description">afde9ed8-67a3-4e96-ad1c-c4fff17e24ff</SimpleData>
+		<SimpleData name="status">data/stations/afde9ed8.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/afde9ed8.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.9057693301093,47.5197265803782</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

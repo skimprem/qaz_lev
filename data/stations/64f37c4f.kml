@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="64f37c4f" id="64f37c4f">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>64f37c4f</name>
+  <Placemark id="64f37c4f.1">
+	<name>б/№</name>
+	<description>грунт. реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#64f37c4f">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">94.689</SimpleData>
+		<SimpleData name="leveling_order">93.578</SimpleData>
+		<SimpleData name="leveling_height">Контрольный репер № 536 фундаментной плите</SimpleData>
+		<SimpleData name="benchmark_number">116 оп</SimpleData>
+		<SimpleData name="control_location">Линия №1 : Аральск - Айтеке Би (Новоказалинск) - Жосалы . I класс . Участок : грунт. реп. 553 - марка 4359</SimpleData>
+		<SimpleData name="benchmark_type">Торетам. станц. . в 5.2 км к сев.- вост. от неё. на 2-м ПК 2600 км жел. дор. . в 30 м к юго- вост. от оси жел.- дор. полотна. в 30 м к вост. от ПК стб. 1/2</SimpleData>
+		<SimpleData name="location_description">64f37c4f-f337-4bad-a57d-d1ebc26ba2d9</SimpleData>
+		<SimpleData name="status">data/stations/64f37c4f.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/64f37c4f.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>63.3801696061114,45.6642275333714</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

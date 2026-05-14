@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="ea8fb2ef" id="ea8fb2ef">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>ea8fb2ef</name>
+  <Placemark id="ea8fb2ef.1">
+	<name>273</name>
+	<name>марка</name>
+	<ExtendedData><SchemaData schemaUrl="#ea8fb2ef">
+		<SimpleData name="type">I</SimpleData>
+		<SimpleData name="view">399.189</SimpleData>
+		<SimpleData name="control_location">Ход от грунт,реп, 5751 до грунт реп, 7189,I класс</SimpleData>
+		<SimpleData name="benchmark_type">Тюемойнак, станц,, в 10,0 км к зап, от нее, на 8 пк 310
+км, жел,-дор, мост</SimpleData>
+		<SimpleData name="leveling_line_section">уничтожен</SimpleData>
+		<SimpleData name="location_description">ea8fb2ef-c484-4c5c-a364-a490f627c262</SimpleData>
+		<SimpleData name="status">data/stations/ea8fb2ef.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/ea8fb2ef.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>68.9547848111864,48.1844830698895</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

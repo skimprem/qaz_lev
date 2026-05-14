@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="291541cc" id="291541cc">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>291541cc</name>
+  <Placemark id="291541cc.1">
+	<name>8144</name>
+	<description>грунт. реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#291541cc">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">129.294</SimpleData>
+		<SimpleData name="leveling_order">127.821</SimpleData>
+		<SimpleData name="leveling_height">контрольный репер в верхней плоскости монолита</SimpleData>
+		<SimpleData name="benchmark_number">146 оп</SimpleData>
+		<SimpleData name="control_location">Линия №4 : Целиноград - Токтайконыр, I класс. Участок: грунт. реп. 1024 - грунт. реп. 0632 </SimpleData>
+		<SimpleData name="benchmark_type">Мукыр, с., в 11,0 км к юго - вост. от него, в 0,5 км к сев. - зап. от перекрестка полевых дорог, в 25 м к юго - зап. от дороги с. Мукыр- с. Амангелды</SimpleData>
+		<SimpleData name="leveling_line_section">Ненайден</SimpleData>
+		<SimpleData name="location_description">291541cc-0802-41e0-8579-9d173d2c6399</SimpleData>
+		<SimpleData name="status">data/stations/291541cc.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/291541cc.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>64.8821791794954,50.4683583386</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

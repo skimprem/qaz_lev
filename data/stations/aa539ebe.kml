@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="aa539ebe" id="aa539ebe">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>aa539ebe</name>
+  <Placemark id="aa539ebe.1">
+	<name>515</name>
+	<name>грунт,реп</name>
+	<ExtendedData><SchemaData schemaUrl="#aa539ebe">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">685.6</SimpleData>
+		<SimpleData name="benchmark_number">160оп </SimpleData>
+		<SimpleData name="control_location">Линия № 1: Арысь-Луговой, 1 класс, Участок : грунт,реп, 2513-стен,реп, 924</SimpleData>
+		<SimpleData name="benchmark_type">Кумшагал, раз,,в 1,2 км к зап,от него, на 1 ПК 3501 км,в 33 м к сев,-зап, От жел,-дор, полотна, в 72 м к сев, от км стб, 3500/3501</SimpleData>
+		<SimpleData name="location_description">aa539ebe-c3fe-4204-a627-a022823d64f9</SimpleData>
+		<SimpleData name="status">data/stations/aa539ebe.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/aa539ebe.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>71.2943566182897,42.8320138731128</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

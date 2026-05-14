@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="1e78e7a1" id="1e78e7a1">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>1e78e7a1</name>
+  <Placemark id="1e78e7a1.1">
+	<name>17</name>
+	<description>грунт. реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#1e78e7a1">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">623.226</SimpleData>
+		<SimpleData name="leveling_order">620,467</SimpleData>
+		<SimpleData name="control_height">контрольный репер №197 в верхней плоскости  монолита</SimpleData>
+		<SimpleData name="benchmark_number">123оп</SimpleData>
+		<SimpleData name="control_location">Линия №1: Ульяновский - Каркаралинск, I класс (1) Участок: грунт. реп.12 - фунд. реп.19</SimpleData>
+		<SimpleData name="benchmark_type">Хорошевское, с., в 9,4 км к юго-вост. от него, в 45 м к сев. от развилки шоссейных дорог ч. Хорошевское - с. Рыбинское - с.Ташик, с юго-зап. стороны водохранилища</SimpleData>
+		<SimpleData name="location_description">1e78e7a1-2eac-4de7-b053-0891b8e26881</SimpleData>
+		<SimpleData name="status">data/stations/1e78e7a1.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/1e78e7a1.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>74.429682380435,50.0444605938793</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

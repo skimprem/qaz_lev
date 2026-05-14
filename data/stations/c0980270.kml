@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="c0980270" id="c0980270">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>c0980270</name>
+  <Placemark id="c0980270.1">
+	<name>б/№ </name>
+	<name>грунт. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#c0980270">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">733.819</SimpleData>
+		<SimpleData name="leveling_order">731,725</SimpleData>
+		<SimpleData name="control_height">репер № 9549 в верхней плоскости монолита</SimpleData>
+		<SimpleData name="benchmark_number">121 оп</SimpleData>
+		<SimpleData name="control_location">Линия № 1: Аягуз-Жангиз-Тобе, I класс (1) Участок: марка 20827-грунт. реп. 4089</SimpleData>
+		<SimpleData name="benchmark_type">Айгыржал, станц., в 0.5 км к сев.-зап. от нее, на 1 пикете 303 км, 0.1 км к вост. от оси жел.-дор. полотна</SimpleData>
+		<SimpleData name="location_description">c0980270-fa9a-4f15-85c2-604f69682cf7</SimpleData>
+		<SimpleData name="status">data/stations/c0980270.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/c0980270.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>80.4607394769436,48.2624554771576</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

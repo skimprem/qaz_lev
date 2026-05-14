@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="c4af9521" id="c4af9521">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>c4af9521</name>
+  <Placemark id="c4af9521.1">
+	<name>16126</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#c4af9521">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">1597.281</SimpleData>
+		<SimpleData name="leveling_order">1597.24</SimpleData>
+		<SimpleData name="leveling_height">526</SimpleData>
+		<SimpleData name="control_height">Контрольный репер в верхней плоскости монолита</SimpleData>
+		<SimpleData name="benchmark_number">121 оп</SimpleData>
+		<SimpleData name="control_location">Линия № 11: Курметы-Жаланаш, II класс, Участок: фунд. реп. 7959-фунд. реп. 8462</SimpleData>
+		<SimpleData name="benchmark_type">Жаланаш, с., в 3.1 км к сев. от него, в 47 м к зап. от шоссе с. Кеген-с. Жаланаш</SimpleData>
+		<SimpleData name="location_description">c4af9521-b811-4d10-bfe2-5e8175929bf3</SimpleData>
+		<SimpleData name="status">data/stations/c4af9521.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/c4af9521.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>78.6419759024321,43.0767687038767</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

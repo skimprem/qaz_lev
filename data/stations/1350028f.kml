@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="1350028f" id="1350028f">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>1350028f</name>
+  <Placemark id="1350028f.1">
+	<name>967</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#1350028f">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">163.543</SimpleData>
+		<SimpleData name="benchmark_number">160</SimpleData>
+		<SimpleData name="control_location">Линия № 2: Золторунное-Кобенсай, II класс. Участок: фунд.реп. 7Б-грунт.реп.57</SimpleData>
+		<SimpleData name="benchmark_type">Золоторунное, с., в 4.8 км к юго-вост.от него, 100-й км жел.дор.гор. Кокшетау-гор. Иртыш, в 25 м к югу от жел.-дор. полотна, напротив км. стб. 100/101, в 5 м к сев.от лесополосы</SimpleData>
+		<SimpleData name="location_description">1350028f-013d-4cb2-b571-0e5476737559</SimpleData>
+		<SimpleData name="status">data/stations/1350028f.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/1350028f.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>70.8428609656365,53.5654523129845</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

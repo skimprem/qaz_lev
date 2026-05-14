@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="7f5f35ea" id="7f5f35ea">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>7f5f35ea</name>
+  <Placemark id="7f5f35ea.1">
+	<name>15684</name>
+	<name>стен.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#7f5f35ea">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="control_location">Висячий ход от марки 20311, I класс </SimpleData>
+		<SimpleData name="benchmark_type">Аягоз, гор., на 10 пк 994 км, в устое жел.-дор. моста</SimpleData>
+		<SimpleData name="location_description">7f5f35ea-508f-4d05-b827-2c1ea99a3d61</SimpleData>
+		<SimpleData name="status">data/stations/7f5f35ea.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/7f5f35ea.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>80.4133920066146,47.9267645406093</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

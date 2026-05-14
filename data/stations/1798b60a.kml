@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="1798b60a" id="1798b60a">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>1798b60a</name>
+  <Placemark id="1798b60a.1">
+	<name>5305</name>
+	<name>фундаментальный репер</name>
+	<ExtendedData><SchemaData schemaUrl="#1798b60a">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">295.622</SimpleData>
+		<SimpleData name="leveling_order">294,62</SimpleData>
+		<SimpleData name="leveling_height">3793</SimpleData>
+		<SimpleData name="control_height">в фундаментной плите</SimpleData>
+		<SimpleData name="benchmark_number">161 оп,зн</SimpleData>
+		<SimpleData name="control_location">Линия № 1: Тюемойнак - Торетоган, I класс (1) Участок: грунт, реп, 2929 - грунт,реп, 1029</SimpleData>
+		<SimpleData name="benchmark_type">Высота 317, пир, 2 кл,, в 11,8 км к сев, от нее и могилы, в 3,2 км к юго-вост, от пир, 3 кл, Бескатын,    в 1,0 км к зап, от полевой дороги, на вост, краю такыра</SimpleData>
+		<SimpleData name="location_description">1798b60a-5303-4455-a277-6aa0926b1386</SimpleData>
+		<SimpleData name="status">data/stations/1798b60a.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/1798b60a.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>69.4520566365615,46.1441616323666</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

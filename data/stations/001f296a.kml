@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="001f296a" id="001f296a">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>001f296a</name>
+  <Placemark id="001f296a.1">
+	<name>2406</name>
+	<name>грунт.реп</name>
+	<ExtendedData><SchemaData schemaUrl="#001f296a">
+		<SimpleData name="type">ІІ</SimpleData>
+		<SimpleData name="view">351.427</SimpleData>
+		<SimpleData name="benchmark_number">146 оп </SimpleData>
+		<SimpleData name="control_location">Линия № 1 Астана (Целиноград) - Жумай, ІІ класс (1)  Участок: пир. 3 кл. Жаланаш - грунт.реп. 0018</SimpleData>
+		<SimpleData name="benchmark_type">Караегин, с., в 2.9 км к юго-зап.от него, в 50 м к юго-вост.от пов.стб.связи, в 20 м к сев от дороги с. Оразак - с. Коргалжын </SimpleData>
+		<SimpleData name="location_description">001f296a-f30d-408c-ac9f-9eee888ed0d6</SimpleData>
+		<SimpleData name="status">data/stations/001f296a.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/001f296a.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>70.3416370055571,50.8382660721387</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="886a18f3" id="886a18f3">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>886a18f3</name>
+  <Placemark id="886a18f3.1">
+	<name>419</name>
+	<name>грунт,реп</name>
+	<ExtendedData><SchemaData schemaUrl="#886a18f3">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">1083.866</SimpleData>
+		<SimpleData name="benchmark_number">160оп</SimpleData>
+		<SimpleData name="control_location">Линия №1: Арысь=Сары-Озек, I класс </SimpleData>
+		<SimpleData name="benchmark_type">Раз,№ 114, в 2,5 км к сев,-вост,от него, на 6 ПК 3418 км, в 52 м к югу от жел,-дор,полотна</SimpleData>
+		<SimpleData name="location_description">886a18f3-34de-492c-ac5b-5d7acaa1039a</SimpleData>
+		<SimpleData name="status">data/stations/886a18f3.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/886a18f3.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>70.5942138799822,42.5029920328179</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

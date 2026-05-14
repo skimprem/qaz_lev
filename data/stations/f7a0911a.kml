@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="f7a0911a" id="f7a0911a">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>f7a0911a</name>
+  <Placemark id="f7a0911a.1">
+	<name>11050</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#f7a0911a">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">112.826</SimpleData>
+		<SimpleData name="benchmark_number">121</SimpleData>
+		<SimpleData name="control_location">Линия:Урлютюп - Шипицыно.II класс(2) Участок: фнд.рп.310-фнд.рп.160</SimpleData>
+		<SimpleData name="benchmark_type">Урлютюб,с.,в 10 км к сев.-вост.от него,в 4.2 км к западу от с.Степное,в 25 м, влево от дороги  с.Урлютюб - с.Степное, в 0.8 км к западу от сухого колодца </SimpleData>
+		<SimpleData name="location_description">f7a0911a-14ef-4b01-98aa-c406c0c80cdf</SimpleData>
+		<SimpleData name="status">data/stations/f7a0911a.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/f7a0911a.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.1856850880613,53.7548742767553</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

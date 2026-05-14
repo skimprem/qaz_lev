@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="b8fa2762" id="b8fa2762">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>b8fa2762</name>
+  <Placemark id="b8fa2762.1">
+	<name>1443</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#b8fa2762">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">342,798</SimpleData>
+		<SimpleData name="control_location">Линия № 4: Жезказган (фунд, реп. 495) - Древний Курган (фунд, реп. 1377), 2 класс (5)</SimpleData>
+		<SimpleData name="benchmark_type">Сарыбас, кладб,, в 8,0 км                        к юго-вост, от него, в 33 м к югу от фунт, дороги с, Жезказган - разв, Ески Талап, в 12 м к вост,           от мог, Жеменке</SimpleData>
+		<SimpleData name="location_description">b8fa2762-0704-4102-8861-70f548ce3177</SimpleData>
+		<SimpleData name="status">data/stations/b8fa2762.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/b8fa2762.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.5032015687654,47.6850304799954</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

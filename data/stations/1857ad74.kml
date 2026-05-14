@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="1857ad74" id="1857ad74">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>1857ad74</name>
+  <Placemark id="1857ad74.1">
+	<name>1586</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#1857ad74">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">124.360</SimpleData>
+		<SimpleData name="benchmark_number">121</SimpleData>
+		<SimpleData name="control_location">Линия: Славгородское - Волотовка, II класс ( 2 ) Участок: гр.рп. 13604 - фнд.рп. 166</SimpleData>
+		<SimpleData name="benchmark_type">Курлеут, с., в 0,4 км к сев.-зап. От него, в 0,1 км влево от дороги с.Курлеут- с.Маркара, в 70 м к югу от леса</SimpleData>
+		<SimpleData name="location_description">1857ad74-e169-4d95-b9c7-fac65bbe037f</SimpleData>
+		<SimpleData name="status">data/stations/1857ad74.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/1857ad74.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>73.6504120675949,53.9271255223024</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

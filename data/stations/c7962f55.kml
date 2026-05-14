@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="c7962f55" id="c7962f55">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>c7962f55</name>
+  <Placemark id="c7962f55.1">
+	<name>315</name>
+	<name>грунт.реп</name>
+	<ExtendedData><SchemaData schemaUrl="#c7962f55">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">239.143</SimpleData>
+		<SimpleData name="control_location">Линпмя №2: Сузак-Туркестан, II класс (3) Участок: грунт.реп. 10178-грунт.реп. 1695</SimpleData>
+		<SimpleData name="benchmark_type">Карашык,с., в 1.0 км к сев.от него,в 0.6 км к юго-вост. От кошары, в 30 м к вост.от шоссе с.Атабай-гор.Туркестан</SimpleData>
+		<SimpleData name="location_description">c7962f55-90fe-4669-af89-f44beba7bcd3</SimpleData>
+		<SimpleData name="status">data/stations/c7962f55.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/c7962f55.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>68.2698550931459,43.3858036693187</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

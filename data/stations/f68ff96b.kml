@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="f68ff96b" id="f68ff96b">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>f68ff96b</name>
+  <Placemark id="f68ff96b.1">
+	<name>Кора</name>
+	<description>пирамида</description>
+	<ExtendedData><SchemaData schemaUrl="#f68ff96b">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">1025,362</SimpleData>
+		<SimpleData name="benchmark_number">1 оп</SimpleData>
+		<SimpleData name="control_location">Линия №1; Сары-Озек - Пржевальск, 1 класс(2) Участок: грунт. реп. 155- грунт.реп. 682</SimpleData>
+		<SimpleData name="benchmark_type">Чунджа, с., в 21.5 км к юго-зап. от него, в 35 м к югу от дороги с.Чунджа- с. Кеген, на 73 км</SimpleData>
+		<SimpleData name="location_description">f68ff96b-760c-4554-8f63-81db346ded95</SimpleData>
+		<SimpleData name="status">data/stations/f68ff96b.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/f68ff96b.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>79.2949150280762,43.3962010559107</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

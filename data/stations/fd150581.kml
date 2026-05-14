@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="fd150581" id="fd150581">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>fd150581</name>
+  <Placemark id="fd150581.1">
+	<name>1988</name>
+	<description>грунт.реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#fd150581">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">134.183</SimpleData>
+		<SimpleData name="leveling_order">133.193</SimpleData>
+		<SimpleData name="leveling_height">Контрольный репер в трубе</SimpleData>
+		<SimpleData name="benchmark_number">107</SimpleData>
+		<SimpleData name="control_location">Линия № 2 : Звериноголовское - Кустанай, I класс                        Участок : грунт.реп.1942 - грунт.реп.1972</SimpleData>
+		<SimpleData name="benchmark_type">Сосна, с., в 8.0 км к сев.-зап.от него, в 5.0 км к юго-вост.от с.Жосалы, в 38 м к юго-вост.от тлф.стб.51/335, в 32 м к юго-зап.от тлф.стб. 51/336</SimpleData>
+		<SimpleData name="leveling_line_section">не найден</SimpleData>
+		<SimpleData name="location_description">fd150581-5fd6-4ce2-93fe-a97300368164</SimpleData>
+		<SimpleData name="status">data/stations/fd150581.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/fd150581.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>64.4805428553493,53.8535953471542</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

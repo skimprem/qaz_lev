@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="3f20165e" id="3f20165e">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>3f20165e</name>
+  <Placemark id="3f20165e.1">
+	<name>2222</name>
+	<name>фунд. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#3f20165e">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">888.788</SimpleData>
+		<SimpleData name="leveling_order">887.490*</SimpleData>
+		<SimpleData name="leveling_height">6259</SimpleData>
+		<SimpleData name="control_height">Контрольный репер  в фундаментной плите</SimpleData>
+		<SimpleData name="benchmark_number">161 оп. знак</SimpleData>
+		<SimpleData name="control_location">Линия  № 1: Сарыозек – Каракол (Пржевальск), I класс
+Участок: грунт. реп.  520 – грунт.реп. 155</SimpleData>
+		<SimpleData name="benchmark_type">Кошкентал, станц., в 4.3 км к юго-зап. от нее, на 10 пк 1012 км, в 31 м к сев.-зап. от жел.-дор. полотна, в 31 м к юго-зап. от тлгр. стб.</SimpleData>
+		<SimpleData name="location_description">3f20165e-ca17-4654-aa29-94667c96f1b4</SimpleData>
+		<SimpleData name="status">data/stations/3f20165e.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/3f20165e.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>79.6721998677028,44.1731212949951</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

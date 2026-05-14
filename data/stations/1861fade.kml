@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="1861fade" id="1861fade">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>1861fade</name>
+  <Placemark id="1861fade.1">
+	<name>4895</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#1861fade">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">250.366</SimpleData>
+		<SimpleData name="leveling_order">248.548</SimpleData>
+		<SimpleData name="benchmark_number">116</SimpleData>
+		<SimpleData name="control_location">Линия №1 : Каратогай - Кандагач, I класс. Участок : грунт. реп. 4485 - грунт. реп. 4895 </SimpleData>
+		<SimpleData name="benchmark_type">Разъезд №43, в 3.0 км к югу от него, на 3 пк. 1825 км, в 28 м к зап. от жел.-дор. полотна  </SimpleData>
+		<SimpleData name="location_description">1861fade-96e2-4ee8-9458-962b14dd168e</SimpleData>
+		<SimpleData name="status">data/stations/1861fade.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/1861fade.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>57.3525322993005,50.6852527112691</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

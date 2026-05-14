@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="ffe8216e" id="ffe8216e">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>ffe8216e</name>
+  <Placemark id="ffe8216e.1">
+	<name>1652 </name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#ffe8216e">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">246.401</SimpleData>
+		<SimpleData name="leveling_order">279.802</SimpleData>
+		<SimpleData name="control_height">Контрольный репер № XXIX в верхней плоскости монолита</SimpleData>
+		<SimpleData name="benchmark_number">146 оп</SimpleData>
+		<SimpleData name="control_location">Линия №2:Есиль-Державинск,II класс(3.6) Участок:пир.3 кл.Джарлы-Агач-фунд.реп.4782</SimpleData>
+		<SimpleData name="benchmark_type">Державинск,гор.,в 1.5 км к сев.от него,в 0.9 км к югу от жел.-дор.моста через р.Кен,у км стб.103/104 железной дороги</SimpleData>
+		<SimpleData name="location_description">ffe8216e-4355-4be6-8e66-4c1b02094bd0</SimpleData>
+		<SimpleData name="status">data/stations/ffe8216e.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/ffe8216e.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>66.3092401059421,51.12415066878</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

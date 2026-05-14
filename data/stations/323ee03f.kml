@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="323ee03f" id="323ee03f">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>323ee03f</name>
+  <Placemark id="323ee03f.1">
+	<name>3333</name>
+	<name>скальный репер</name>
+	<ExtendedData><SchemaData schemaUrl="#323ee03f">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">802,667</SimpleData>
+		<SimpleData name="benchmark_number">99</SimpleData>
+		<SimpleData name="control_location">Ход от скального репера 3029 до грунтового репера 38, II класс (8)</SimpleData>
+		<SimpleData name="benchmark_type">Карагайлы, с., в 7.5 км к сев.-вост. от него, в 2.5 км к югу от разв.Кызылту, в 0.6 км к югу от дороги с.Карагайлы-с.Бакты</SimpleData>
+		<SimpleData name="leveling_line_section">утрачен</SimpleData>
+		<SimpleData name="location_description">323ee03f-39f7-4c6f-bef8-a341be48f5ad</SimpleData>
+		<SimpleData name="status">data/stations/323ee03f.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/323ee03f.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.8406292835584,49.3729836287137</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

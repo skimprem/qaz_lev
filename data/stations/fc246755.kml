@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="fc246755" id="fc246755">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>fc246755</name>
+  <Placemark id="fc246755.1">
+	<name>125</name>
+	<name>грунт.реп</name>
+	<ExtendedData><SchemaData schemaUrl="#fc246755">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">355.416</SimpleData>
+		<SimpleData name="control_location">Линпмя №2: Сузак-Туркестан, II класс (3) Участок: грунт.реп. 10178-грунт.реп. 1695</SimpleData>
+		<SimpleData name="benchmark_type">Кумайлыкас,с., в 1.0 км к сев.от него, в 0.7 км к зап.от мельницы,у дороги с.Бозбутак-с.Кумайлыкас</SimpleData>
+		<SimpleData name="location_description">fc246755-ccdd-4b65-90c9-7ac73c8bcce7</SimpleData>
+		<SimpleData name="status">data/stations/fc246755.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/fc246755.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>68.2271054487298,43.544835297266</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

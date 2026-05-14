@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="50106edc" id="50106edc">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>50106edc</name>
+  <Placemark id="50106edc.1">
+	<name>883</name>
+	<name>грунт. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#50106edc">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">467.261</SimpleData>
+		<SimpleData name="leveling_height">465.495</SimpleData>
+		<SimpleData name="benchmark_number">репер № 949 в фундаментальной плите</SimpleData>
+		<SimpleData name="control_location">Линия № 2: Тюемойнак - Талдысай. II класс
+Участок: грунт.реп. 404 - грунт.реп. 511</SimpleData>
+		<SimpleData name="benchmark_type">Карасор, оз., в 8.0 км к сев.-вост. от него, в 7.6 км к юго-
+зап. от г. Караадыр, в 3.3 км к сев.-вост. от водокачки и
+полевой дороги</SimpleData>
+		<SimpleData name="location_description">50106edc-67e0-4104-a8b1-2398a0a9e1ed</SimpleData>
+		<SimpleData name="status">data/stations/50106edc.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/50106edc.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>68.9030561442594,48.5722627427307</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="ecfa89e1" id="ecfa89e1">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>ecfa89e1</name>
+  <Placemark id="ecfa89e1.1">
+	<name>32</name>
+	<name>грунт. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#ecfa89e1">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">138.209</SimpleData>
+		<SimpleData name="benchmark_number">121 оп. знак</SimpleData>
+		<SimpleData name="control_location">Линия №3: Жынгылдыкак - Кызылуй, II класс. Участок: фунд. реп. 1835 - грунт. реп. 944</SimpleData>
+		<SimpleData name="benchmark_type">Ушкарасу, зим., в 15.8 км к юго-зап. от неё, в 4.2 км к сев.-вост. от оз. Шоштан, в 30 м к сев.-зап. от полевой дороги</SimpleData>
+		<SimpleData name="location_description">ecfa89e1-163a-4568-b124-1f4b08e67807</SimpleData>
+		<SimpleData name="status">data/stations/ecfa89e1.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/ecfa89e1.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>64.7287049667138,47.9502044221694</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

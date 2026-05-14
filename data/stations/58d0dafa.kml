@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="58d0dafa" id="58d0dafa">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>58d0dafa</name>
+  <Placemark id="58d0dafa.1">
+	<name>2365</name>
+	<name>марка</name>
+	<ExtendedData><SchemaData schemaUrl="#58d0dafa">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">184.390</SimpleData>
+		<SimpleData name="control_location">Линия №1: Сагиз-Кандагач, I класс. Участок: грунт. реп. 1675 - марка 2907</SimpleData>
+		<SimpleData name="benchmark_type">Караулкельды. станц.., юго-зап. окраина ее, на 3 пикете 161 км , устой жел-дор. моста, сев.-зап. сторона</SimpleData>
+		<SimpleData name="location_description">58d0dafa-92c4-47ac-8b81-60408a1bb4f6</SimpleData>
+		<SimpleData name="status">data/stations/58d0dafa.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/58d0dafa.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>55.8590323684071,48.7263898325011</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="aed99d48" id="aed99d48">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>aed99d48</name>
+  <Placemark id="aed99d48.1">
+	<name>7972</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#aed99d48">
+		<SimpleData name="type">ІІ</SimpleData>
+		<SimpleData name="view">281.253</SimpleData>
+		<SimpleData name="leveling_order">279. 845</SimpleData>
+		<SimpleData name="control_height">Контрольный репер в верхней плоскости монолита</SimpleData>
+		<SimpleData name="benchmark_number">121</SimpleData>
+		<SimpleData name="control_location">Линия №1: Акмола (Целиноград) - Амангельды, I класса (I) Ход от фунд.реп.340 до грунт.реп. б/№, ІІ класс (7)</SimpleData>
+		<SimpleData name="benchmark_type">Атбасар ІІ, станц., в 6.0 км к юго-зап от нее, в 2.0 км к юго-вост от оз. Чебачье, в 0.2 км к вост от дороги гор. Атбасар-с. Сергеевка</SimpleData>
+		<SimpleData name="leveling_line_section">уничтожен</SimpleData>
+		<SimpleData name="location_description">aed99d48-ad8f-4e40-9333-cbdc75a79c84</SimpleData>
+		<SimpleData name="status">data/stations/aed99d48.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/aed99d48.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>68.2782840410209,51.7290419148958</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

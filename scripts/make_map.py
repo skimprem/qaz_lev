@@ -4,6 +4,8 @@ import geopandas as gpd
 import requests
 import folium
 from transliterate import translit 
+import uuid
+import zipfile
 
 
 url = "https://naturalearth.s3.amazonaws.com/110m_cultural/ne_110m_admin_0_countries.zip"
@@ -22,15 +24,40 @@ if not os.path.exists(extract_path):
 world = gpd.read_file(f"{extract_path}/ne_110m_admin_0_countries.shp")
 kazakhstan = world[world['ADMIN'] == 'Kazakhstan']
 
-source_path = os.path.join('data', 'source', 'gns_1_2.gpkg')
-source = gpd.read_file(source_path, layer='gns_1_2')
+unchecked_path = os.path.join('data', 'source', 'unchecked.gpkg')
+unchecked_gdf = gpd.read_file(unchecked_path, layer='unchecked')
+# unchecked_gdf['guid'] = unchecked_gdf.apply(lambda x: uuid.uuid4(), axis=1)
+# unchecked_gdf.to_file(os.path.join('data', 'source', 'unchecked.gpkg'), driver='GPKG', layer='unchecked')
+
+unchecked_gdf.drop(
+    columns=[
+       'sign_height', 'triangulation_order',
+       'northing', 'easting', 'geodetic_height',
+       'nomenclature', 'zone',
+       'coordinate_catalog_name', 'coordinate_catalog_number',
+       'summary_catalog_name', 'summary_catalog_number',
+       'technical_report_name', 'technical_report_number',
+       'technical_report_name_1', 'technical_report_number_1', 'lon',
+       'lat', 'unknown_25', 'ground_location',
+       'Месторасположения контрольного репера',
+       'Название сводного каталога высот пункта нивелирования, инв. №, год издания',
+       'Unnamed: 26', 'Unnamed: 27', 'Unnamed: 28', 'Unnamed: 29',
+       'Unnamed: 30', 'Unnamed: 31', 'Unnamed: 32', 'Unnamed: 33',
+       'Unnamed: 34', 'Unnamed: 35', 'Unnamed: 36', 'Unnamed: 37',
+       'Unnamed: 38', 'Unnamed: 39', 'Unnamed: 40', 'Unnamed: 41',
+       'Unnamed: 42', 'Unnamed: 43', 'Unnamed: 44', 'Unnamed: 45',
+       'Unnamed: 46', 'Unnamed: 47', 'Unnamed: 48', 'Unnamed: 49',
+       'Unnamed: 50', 'Unnamed: 51', 'Unnamed: 52', 'Unnamed: 53',
+       'Unnamed: 54', 'Unnamed: 55'
+    ], inplace=True)
+ 
+checked_path = os.path.join('data', 'source', 'gns_1_2.gpkg')
+checked_gdf = gpd.read_file(checked_path, layer='gns_1_2')
 
 select_path = os.path.join('data', 'source', 'selected.geojson')
-select = gpd.read_file(select_path)
+select_gdf = gpd.read_file(select_path)
 
-print(select.columns)
-
-select.drop(
+select_gdf.drop(
     columns=[
        'coords_source', 'exterior_design_height', 'leveling_catalog_name',
        'leveling_catalog_number', 'triang_catalog_name',
@@ -47,11 +74,11 @@ select.drop(
     inplace=True
 )
 
-gdf = source[
-    (source['not_found'] != True) & \
-    (source['lost'] != True)]
+checked_gdf = checked_gdf[
+    (checked_gdf['not_found'] != True) & \
+    (checked_gdf['lost'] != True)]
 
-gdf.drop(
+checked_gdf.drop(
     columns=[
         'not_found',
         'lost',
@@ -71,49 +98,85 @@ gdf.drop(
         'team_code', 'surveyed', 'has_errors', 'checked', 'path'
     ], inplace=True)
 
-gdf['kml'] = gdf.apply(lambda row: os.path.join('data', 'stations', f"{str(row['guid'])[:8]}.kml"), axis=1)
-gdf['kml_link'] = gdf.apply(
+checked_gdf['kml'] = checked_gdf.apply(lambda row: os.path.join('data', 'stations', f"{str(row['guid'])[:8]}.kml"), axis=1)
+checked_gdf['kml_link'] = checked_gdf.apply(
     lambda row: f"<a href='{row['kml']}' target='_blank'>Download KML</a>",
     axis=1
 )
 
-for idx, row in gdf.iterrows():
+# for idx, row in checked_gdf.iterrows():
 
-    station_gdf = gpd.GeoDataFrame(
-        row.to_frame().T,
-        geometry='geometry',
-        crs=gdf.crs
-    )
+#     station_gdf = gpd.GeoDataFrame(
+#         row.to_frame().T,
+#         geometry='geometry',
+#         crs=checked_gdf.crs
+#     )
     
-    if not os.path.exists(row['kml']):
-        station_gdf.to_file(row['kml'], driver='KML')
+#     if not os.path.exists(row['kml']):
+#         station_gdf.to_file(row['kml'], driver='KML')
+
+unchecked_gdf['kml'] = unchecked_gdf.apply(lambda row: os.path.join('data', 'stations', f"{str(row['guid'])[:8]}.kml"), axis=1)
+unchecked_gdf['kml_link'] = unchecked_gdf.apply(
+    lambda row: f"<a href='{row['kml']}' target='_blank'>Download KML</a>",
+    axis=1
+)
+
+# for idx, row in unchecked_gdf.iterrows():
+
+#     station_gdf = gpd.GeoDataFrame(
+#         row.to_frame().T,
+#         geometry='geometry',
+#         crs=unchecked_gdf.crs
+#     )
+    
+#     if not os.path.exists(row['kml']):
+#         station_gdf.to_file(row['kml'], driver='KML')
 
 index_map = kazakhstan.explore(
-    color='none',
+    name='Kazakhstan Border',
     tiles='CartoDB positron',
     zoom_start=5,
     tooltip=False,
+    popup=False,
     style_kwds={
-    "color": "black",     # Set border (edge) color to black
-    "weight": 2,          # Increase border thickness
-    "fillOpacity": 0.6    # Transparency of the fill
+        'color': 'black',
+        'weight': 2,
+        'fillOpacity': 0.0,
+        'fill': False
+    },
+    highlight_kwds={
+        'fillOpacity': 0.0,
+        'fill': False
     }
 )
 
-index_map = gdf.explore(
+unchecked_gdf[unchecked_gdf.geometry.notna() & ~unchecked_gdf.geometry.is_empty].explore(
     m=index_map,
-    color='green',
+    name='Unchecked Stations',
+    color='grey',
     marker_kwds={'radius': 3},
-    tooltip=['title'],
+    tooltip='name',
     popup=True
 )
 
-index_map = select.explore(
+checked_gdf[checked_gdf.geometry.notna() & ~checked_gdf.geometry.is_empty].explore(
     m=index_map,
-    color='red',
+    name='Checked Stations',
+    color='green',
     marker_kwds={'radius': 3},
-    tooltip=['name'],
+    tooltip='title',
     popup=True
 )
+
+select_gdf[select_gdf.geometry.notna() & ~select_gdf.geometry.is_empty].explore(
+    m=index_map,
+    name='Selected Stations',
+    color='red',
+    marker_kwds={'radius': 3},
+    tooltip='name',
+    popup=True
+)
+
+folium.LayerControl().add_to(index_map)
 
 index_map.save(os.path.join('index.html'))

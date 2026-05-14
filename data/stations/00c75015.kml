@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="00c75015" id="00c75015">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>00c75015</name>
+  <Placemark id="00c75015.1">
+	<name>Корда (Кормовой)</name>
+	<description>пирамида</description>
+	<ExtendedData><SchemaData schemaUrl="#00c75015">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">454,179</SimpleData>
+		<SimpleData name="benchmark_number">2 оп</SimpleData>
+		<SimpleData name="control_location">Линия № 3: Белая Школа - Зайсан, II класс (2)
+Участок: фунд.реп. 5491 – грунт.реп. 1486</SimpleData>
+		<SimpleData name="benchmark_type">Откорм, с., в 1.0 км к юго-вост. от него, в 1.5 км к зап. от развилки шоссе с. Кокпекты – гор. Зайсан – с. Кабанбай, у шоссе с. Кокпекты – гор. Зайсан</SimpleData>
+		<SimpleData name="location_description">00c75015-aefb-4639-ab52-308217e9f0a6</SimpleData>
+		<SimpleData name="status">data/stations/00c75015.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/00c75015.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>83.5277988694278,47.8412323793576</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

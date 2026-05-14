@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="ac3f05ab" id="ac3f05ab">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>ac3f05ab</name>
+  <Placemark id="ac3f05ab.1">
+	<name>182</name>
+	<description>грунт.реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#ac3f05ab">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">250,783</SimpleData>
+		<SimpleData name="leveling_order">249.326</SimpleData>
+		<SimpleData name="benchmark_number">Б оп</SimpleData>
+		<SimpleData name="control_location">Линия №1: Новоильиновка-Кулыколь,II класс Участок: грунт.реп.189-грунт.реп.171</SimpleData>
+		<SimpleData name="benchmark_type">Приречный, с.,в 0,8 км к сев.-вост.от него,в 0,3 км к вост.от р.Тобол,в 15 м к зап.от грейдера,в 4 м к югу от стб.линии связи,идущей вдоль грейдера</SimpleData>
+		<SimpleData name="location_description">ac3f05ab-868e-441c-87f3-92deba79d785</SimpleData>
+		<SimpleData name="status">data/stations/ac3f05ab.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/ac3f05ab.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>61.5478697542366,51.9325608919405</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

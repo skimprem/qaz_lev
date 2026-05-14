@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="f1942d45" id="f1942d45">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>f1942d45</name>
+  <Placemark id="f1942d45.1">
+	<name>1562</name>
+	<description>грунт. реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#f1942d45">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">125.644</SimpleData>
+		<SimpleData name="benchmark_number">160 оп. знак</SimpleData>
+		<SimpleData name="control_location">Линия № 2: Кызылорда - Торыустаган, I класс. Участок: фунд.реп. 3047 - грунт.реп. 300</SimpleData>
+		<SimpleData name="benchmark_type">Оспанкопир, мост, в 12.6 км к сев.-вост.от него по шоссе гор. Жезказган - гор.Кызылорда, в 1.8 км к сев.-зап.от зим., в 30 м к сев.зап.от шоссе гор. Жезказган- гор.- гор. Кызылорда</SimpleData>
+		<SimpleData name="leveling_line_section">репер в хорошем состоянии</SimpleData>
+		<SimpleData name="location_description">f1942d45-5154-4422-88c0-7ddda958c5eb</SimpleData>
+		<SimpleData name="status">data/stations/f1942d45.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/f1942d45.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>65.8454797921506,44.9563602190942</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

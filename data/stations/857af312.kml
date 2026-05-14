@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="857af312" id="857af312">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>857af312</name>
+  <Placemark id="857af312.1">
+	<name>8354</name>
+	<name>грунт. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#857af312">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">137.666</SimpleData>
+		<SimpleData name="control_height">в трубе</SimpleData>
+		<SimpleData name="benchmark_number">107</SimpleData>
+		<SimpleData name="control_location">Линия № 1: Костанай - Петропавлоск, I класс
+Участок: грунт. реп. 0784 - пир. 2 кл. Новокаменка Ход от марки 3142 - марки 4054. II класс
+Участок: грунт.реп. 2458 - марка 4054</SimpleData>
+		<SimpleData name="benchmark_type">Красная Горка, с., в 0.3 км к юго-зап. от него, в 40 м к югу от автострады с. Семипалатное - с. Красная Горка,
+напротив км. стб. № 45/46</SimpleData>
+		<SimpleData name="location_description">857af312-e3f2-412d-bfb6-0967de50c580</SimpleData>
+		<SimpleData name="status">data/stations/857af312.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/857af312.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>68.7641104726343,54.548941507254</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

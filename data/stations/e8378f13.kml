@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="e8378f13" id="e8378f13">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>e8378f13</name>
+  <Placemark id="e8378f13.1">
+	<name>1695</name>
+	<name>грунт.реп</name>
+	<ExtendedData><SchemaData schemaUrl="#e8378f13">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">217.011</SimpleData>
+		<SimpleData name="control_location">Линия №2: Сузак - Туркестан,  II класс(4)Участок: грунт.реп.315 - фунд.реп.7246</SimpleData>
+		<SimpleData name="benchmark_type">Раз.№6.,в 0,5 км к сев.-вост. от него, на 1-ом ПК 8 км жел.дор., в 36 м к зап. от жел.-дор.переезда</SimpleData>
+		<SimpleData name="location_description">e8378f13-6f91-4ea7-9d77-3de7c58cd777</SimpleData>
+		<SimpleData name="status">data/stations/e8378f13.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/e8378f13.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>68.2706422550077,43.3201024163941</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

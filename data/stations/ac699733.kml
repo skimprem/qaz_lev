@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="ac699733" id="ac699733">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>ac699733</name>
+  <Placemark id="ac699733.1">
+	<name>9398</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#ac699733">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">233,388</SimpleData>
+		<SimpleData name="control_location">Линия № 1: Древний Курган - Кендырлык (Айгарлык), II класс (3) Участок: грунт. реп. 8361 - фунд. реп. 25</SimpleData>
+		<SimpleData name="benchmark_type">Копабай, зим., в 11,7 км к югу от нее, в 6,1 км к юго-зап. от зимовок, в 39 м к юго-вост. от грунт. дороги гор. Жезказган - с. Сузак</SimpleData>
+		<SimpleData name="location_description">ac699733-7f72-4e65-8c98-ec3470160aa6</SimpleData>
+		<SimpleData name="status">data/stations/ac699733.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/ac699733.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>68.407925999728,46.3147701513133</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

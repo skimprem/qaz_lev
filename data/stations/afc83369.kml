@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="afc83369" id="afc83369">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>afc83369</name>
+  <Placemark id="afc83369.1">
+	<name>362</name>
+	<name>ск. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#afc83369">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">397.702</SimpleData>
+		<SimpleData name="benchmark_number">99</SimpleData>
+		<SimpleData name="control_location">Линия № 76:            Усть-Каменогорск - Зайсан, 2 класс (14) Участок: ск.реп. 9561 - грунт. реп. 96</SimpleData>
+		<SimpleData name="benchmark_type">Снегирево, с., в 0.5 км к сев.-зап. от него, у дороги, в вост. конце водосточной трубы </SimpleData>
+		<SimpleData name="location_description">afc83369-9cde-48c2-86c7-a66caacb8d03</SimpleData>
+		<SimpleData name="status">data/stations/afc83369.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/afc83369.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.0604585074415,49.7505995738948</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

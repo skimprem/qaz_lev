@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="608a3968" id="608a3968">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>608a3968</name>
+  <Placemark id="608a3968.1">
+	<name>47</name>
+	<name>грунт,реп</name>
+	<ExtendedData><SchemaData schemaUrl="#608a3968">
+		<SimpleData name="type">I</SimpleData>
+		<SimpleData name="view">391.858</SimpleData>
+		<SimpleData name="leveling_order">389,745</SimpleData>
+		<SimpleData name="control_height">контрольный репер в верхней плоскости монолита</SimpleData>
+		<SimpleData name="benchmark_number">124</SimpleData>
+		<SimpleData name="control_location">Линия № 3: Астана (Целиноград) - Новосибирск, I класс (3)
+Участок: фунд,реп, 483 - грунт,реп, 6488</SimpleData>
+		<SimpleData name="benchmark_type">Береке с,, в 3,7 км к сев,-зап, от него, в 0,7 км к юго-вост от
+жел,-дор, полотна, в 60 м к сев, от дороги с, Шубар -
+Сарыоба</SimpleData>
+		<SimpleData name="leveling_line_section">1,Репер в хорошем состоянии, 2,Марка очищена от ржавчины и покрыта битумным лаком, Возобновлена окопка</SimpleData>
+		<SimpleData name="location_description">608a3968-8986-45c4-a306-0c9da04452d4</SimpleData>
+		<SimpleData name="status">data/stations/608a3968.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/608a3968.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>71.949753619573,51.2005936994426</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

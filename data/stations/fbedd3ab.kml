@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="fbedd3ab" id="fbedd3ab">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>fbedd3ab</name>
+  <Placemark id="fbedd3ab.1">
+	<name>6949</name>
+	<name>ск.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#fbedd3ab">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">1098.839</SimpleData>
+		<SimpleData name="benchmark_number">99 оп</SimpleData>
+		<SimpleData name="control_location">Линия № 7: Кольбастау-Асы, II класс, Участок: фунд. реп. 8059-грун. реп. 39</SimpleData>
+		<SimpleData name="benchmark_type">Бартогай, с., в 6.0 км к югу от него, в 50 м к сев. от безымянного родника, в 30 м к сев. от крутого поворота полевой дороги </SimpleData>
+		<SimpleData name="location_description">fbedd3ab-48ed-4e31-be56-44ca30a091b0</SimpleData>
+		<SimpleData name="status">data/stations/fbedd3ab.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/fbedd3ab.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>78.5007607117497,43.2879882197306</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

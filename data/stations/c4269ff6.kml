@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="c4269ff6" id="c4269ff6">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>c4269ff6</name>
+  <Placemark id="c4269ff6.1">
+	<name>7966</name>
+	<name>грунт,реп</name>
+	<ExtendedData><SchemaData schemaUrl="#c4269ff6">
+		<SimpleData name="type">I</SimpleData>
+		<SimpleData name="view">367.254</SimpleData>
+		<SimpleData name="benchmark_number">160 оп</SimpleData>
+		<SimpleData name="control_location">Линия № 3: Астана (Целиноград) - Новосибирск, I класс (3)
+Участок: фунд,реп, 483 - грунт,реп, 6488</SimpleData>
+		<SimpleData name="benchmark_type">Сороковая, станция, в 3,8 км к вост, от нее, в 50 м к сев,
+от жел,-дор, полотна, в 5 м к сев, от линии связи</SimpleData>
+		<SimpleData name="leveling_line_section">1,Репер не найден, Утрачены внешние ориентиры</SimpleData>
+		<SimpleData name="location_description">c4269ff6-6f49-458a-953b-3a19d759e867</SimpleData>
+		<SimpleData name="status">data/stations/c4269ff6.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/c4269ff6.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>71.6170685160883,51.1420076916683</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

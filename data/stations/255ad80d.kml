@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="255ad80d" id="255ad80d">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>255ad80d</name>
+  <Placemark id="255ad80d.1">
+	<name>5387</name>
+	<description>грунт.реп</description>
+	<ExtendedData><SchemaData schemaUrl="#255ad80d">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">178606</SimpleData>
+		<SimpleData name="leveling_order">176421</SimpleData>
+		<SimpleData name="leveling_height">Контрольный репер №18 в верхней плоскости монолита</SimpleData>
+		<SimpleData name="benchmark_number">121</SimpleData>
+		<SimpleData name="control_location">Участок: грунт.реп.961 - грунт.реп.281 (114)</SimpleData>
+		<SimpleData name="benchmark_type">Кустанай, гор., в 7.5 км к юго-вост.от него, в 1.1 км к вост.от вдкч.,в 0.3 км к юго-вост.от км.стб.8/9, в 24 м к сев.-вост.от дороги гор.Кустанай-с.Семиозерное, в 12 м к югу от тлф.стб.115</SimpleData>
+		<SimpleData name="leveling_line_section">утрачен</SimpleData>
+		<SimpleData name="location_description">255ad80d-ec76-4240-996d-164130de896b</SimpleData>
+		<SimpleData name="status">data/stations/255ad80d.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/255ad80d.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>63.6861471372676,53.1329581555105</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

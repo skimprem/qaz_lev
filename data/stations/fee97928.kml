@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="fee97928" id="fee97928">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>fee97928</name>
+  <Placemark id="fee97928.1">
+	<name>1888</name>
+	<name>грунт,реп,</name>
+	<ExtendedData><SchemaData schemaUrl="#fee97928">
+		<SimpleData name="type">I</SimpleData>
+		<SimpleData name="view">125.32</SimpleData>
+		<SimpleData name="leveling_order">123,507</SimpleData>
+		<SimpleData name="control_height">№ 1005 в верхней плоскости монолита</SimpleData>
+		<SimpleData name="benchmark_number">121 оп,знак</SimpleData>
+		<SimpleData name="control_location">Линия № 1: Петропавловск - Мариановка, I класс Участок: фунп реп, 454 - грунт, реп, 5381</SimpleData>
+		<SimpleData name="benchmark_type">Юнино, остановочный пункт, в 3,6 км к сев,-вост, от него, на 10 пикете 254 км, в 38 м к сев, от жел,-дор, полотна</SimpleData>
+		<SimpleData name="leveling_line_section">Репер утрачен</SimpleData>
+		<SimpleData name="location_description">fee97928-5fd1-44b2-a23d-c5e3eeafee7e</SimpleData>
+		<SimpleData name="status">data/stations/fee97928.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/fee97928.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>70.9555154059512,54.9026522709412</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="e931f701" id="e931f701">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>e931f701</name>
+  <Placemark id="e931f701.1">
+	<name>VIII</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#e931f701">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">184.343</SimpleData>
+		<SimpleData name="benchmark_number">121</SimpleData>
+		<SimpleData name="control_location">Линия №1: Чапаевский-Каратал, II класс (I) Участок: грунт.реп. 17964-грунт.реп. I</SimpleData>
+		<SimpleData name="benchmark_type">Узыншилик, с., в 9.7 км к юго-вост. от него, в 10 км к зап. от дороги свх.Изобильный-станц.Моенты</SimpleData>
+		<SimpleData name="location_description">e931f701-2dc8-408f-a365-ef4bc8da346b</SimpleData>
+		<SimpleData name="status">data/stations/e931f701.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/e931f701.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>73.8782033094513,52.0522226078243</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

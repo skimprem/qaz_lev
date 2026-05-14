@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="30210b31" id="30210b31">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>30210b31</name>
+  <Placemark id="30210b31.1">
+	<name>278</name>
+	<name>грунт. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#30210b31">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">355.658</SimpleData>
+		<SimpleData name="benchmark_number">116</SimpleData>
+		<SimpleData name="control_location">Линия № 2: Коктума (фунд. реп. 3002) – Учарал (фунд. реп. 25), II класс (2)
+Участок: пир. 2 кл. Базисная Вост. – фунд. реп. 27</SimpleData>
+		<SimpleData name="benchmark_type">Жайпак, с., в 3.7 км к сев.-вост. от него, в 0.6 км к сев.-зап. от кладб. Бейт, в 50 м к югу от км. стб. № 166/167 жел. дор.</SimpleData>
+		<SimpleData name="location_description">30210b31-f942-45e2-8c5a-675d984c165e</SimpleData>
+		<SimpleData name="status">data/stations/30210b31.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/30210b31.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>81.3224649332575,46.0352042335901</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

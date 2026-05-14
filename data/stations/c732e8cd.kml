@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="c732e8cd" id="c732e8cd">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>c732e8cd</name>
+  <Placemark id="c732e8cd.1">
+	<name>1512</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#c732e8cd">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">348,631</SimpleData>
+		<SimpleData name="leveling_height">347,602</SimpleData>
+		<SimpleData name="benchmark_number">в фундаментной плите</SimpleData>
+		<SimpleData name="control_location">Линия № 2: Древний Курган - Сасыккудык, 2 класс (3) Участок: фунд. реп. 1377-грунт, реп. 1748</SimpleData>
+		<SimpleData name="benchmark_type">Бесапан, кладб., в 8.8 км к сев.-зап. от него, в 3.8 км к вост, от нефтепровода, к сев. от полевой дороги</SimpleData>
+		<SimpleData name="location_description">c732e8cd-db8e-495f-8a47-6a77c17f697d</SimpleData>
+		<SimpleData name="status">data/stations/c732e8cd.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/c732e8cd.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>68.4698612567666,47.3803501539469</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

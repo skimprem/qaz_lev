@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="89b1e04c" id="89b1e04c">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>89b1e04c</name>
+  <Placemark id="89b1e04c.1">
+	<name>5842</name>
+	<name>грунт. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#89b1e04c">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="leveling_height">160 оп. знак</SimpleData>
+		<SimpleData name="benchmark_number">Линия  № 1: Сарыозек – Каракол (Пржевальск), I класс
+Участок: грунт. реп.  520 – грунт.реп. 155</SimpleData>
+		<SimpleData name="control_location">Коктал, с., в 12.0 км к юго-зап. от него, в 40 м к юго-вост. от шоссе с. Коктал – с. Шонжы, в 34 м к юго-вост. от км. стб. 296/64</SimpleData>
+		<SimpleData name="benchmark_type">L-44-136-В</SimpleData>
+		<SimpleData name="location_description">89b1e04c-eb77-4088-afca-3f3d9328b917</SimpleData>
+		<SimpleData name="status">data/stations/89b1e04c.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/89b1e04c.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>79.7088380320118,44.0436228373479</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="1d40d29c" id="1d40d29c">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>1d40d29c</name>
+  <Placemark id="1d40d29c.1">
+	<name>779</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#1d40d29c">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">130.619</SimpleData>
+		<SimpleData name="benchmark_number">160 оп, знак</SimpleData>
+		<SimpleData name="control_location">Линия № 1: Кызылорда - Торетоган, 1 класс (1) Участок: грунт, реп, 681 - грунт, реп, 1112</SimpleData>
+		<SimpleData name="benchmark_type">Куланкызыл, к,, в 4,0 км к сев, от него, в 3,4 км к зап, от буг, Кабанкулак, в 6 м к югу от полевой дороги</SimpleData>
+		<SimpleData name="location_description">1d40d29c-af18-4880-b7b1-f32d277f30fa</SimpleData>
+		<SimpleData name="status">data/stations/1d40d29c.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/1d40d29c.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.6859887833352,44.8016378999871</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

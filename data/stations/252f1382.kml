@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="252f1382" id="252f1382">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>252f1382</name>
+  <Placemark id="252f1382.1">
+	<name>571</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#252f1382">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">154.185</SimpleData>
+		<SimpleData name="benchmark_number">121 (уничтожен)</SimpleData>
+		<SimpleData name="control_location">Линия №2: Сергеевка - Благовещенка, II класс. Участок: фунд.реп. 0709 - стен.реп. 273</SimpleData>
+		<SimpleData name="benchmark_type">Аканбарак, с., в 0.6 км к зап.от него, в 32 м к вост.от улучшенной грунт.дороги гор. Сергеевка - с. Аканбарак</SimpleData>
+		<SimpleData name="location_description">252f1382-a66a-496c-9241-842b02f9e93d</SimpleData>
+		<SimpleData name="status">data/stations/252f1382.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/252f1382.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.37054718762,53.9155165432919</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

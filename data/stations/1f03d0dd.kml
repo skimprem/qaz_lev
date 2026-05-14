@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="1f03d0dd" id="1f03d0dd">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>1f03d0dd</name>
+  <Placemark id="1f03d0dd.1">
+	<name>4303</name>
+	<name>грунт. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#1f03d0dd">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="leveling_height">160 оп. знак</SimpleData>
+		<SimpleData name="benchmark_number">Линия № 1: Алажиде – Оз. Жаланашколь, I класс 
+Участок: грунт. реп. 7982 – грунт. реп. 5195
+</SimpleData>
+		<SimpleData name="control_location">Абай, с., в 2.7 км к сев.-вост. от него, в 15 м к юго-вост. от км. стб. 436/645 шоссе гор. Алматы – гор. Усть-Каменогорск, в 3 м к сев.-вост. от стб. линии связи 
+№ 63/328, в лесополосе</SimpleData>
+		<SimpleData name="benchmark_type">L-44-89-А</SimpleData>
+		<SimpleData name="location_description">1f03d0dd-8a85-4e80-9d04-000854d2ab8d</SimpleData>
+		<SimpleData name="status">data/stations/1f03d0dd.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/1f03d0dd.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>80.0971412517583,45.5110978770483</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

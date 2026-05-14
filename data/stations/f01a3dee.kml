@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="f01a3dee" id="f01a3dee">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>f01a3dee</name>
+  <Placemark id="f01a3dee.1">
+	<name>15731</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#f01a3dee">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">570,983</SimpleData>
+		<SimpleData name="leveling_order">569.393</SimpleData>
+		<SimpleData name="control_height">Контрольный репер в верхней плоскости монолита</SimpleData>
+		<SimpleData name="benchmark_number">121 оп. знак</SimpleData>
+		<SimpleData name="control_location">Линия № 2: Карабута – Белая Школа, II класс (1)
+Участок: грунт.реп. 93 –  фунд.реп. 5491</SimpleData>
+		<SimpleData name="benchmark_type">Шолакорда, с., в 3.8 км к юго-зап. от него, в 42 м к сев. от грунт. дороги с. Ойчилик – с. Шолакорда</SimpleData>
+		<SimpleData name="location_description">f01a3dee-1fb1-4080-8126-bf6e0ac07f6c</SimpleData>
+		<SimpleData name="status">data/stations/f01a3dee.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/f01a3dee.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>83.3715312462103,47.6698373166137</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

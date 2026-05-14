@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="bd8b2ecd" id="bd8b2ecd">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>bd8b2ecd</name>
+  <Placemark id="bd8b2ecd.1">
+	<name>6</name>
+	<description>грунт. реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#bd8b2ecd">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">212.601 труба</SimpleData>
+		<SimpleData name="control_location">Линия №1: Жосалы - Карсакбай. 1 класс. Участок: грунт.реп. 1500 - грунт.реп. 292</SimpleData>
+		<SimpleData name="benchmark_type">Пикет №6. разв.. в 11.5 км к сев.-вост.от них. в 7.4 км к юго-зап.от разв. Пикета №7. в 76 м к зап.от грунт.дороги с. Карсакбай - с. Жосалы </SimpleData>
+		<SimpleData name="location_description">bd8b2ecd-2afa-4b98-ac83-39fc41a73d50</SimpleData>
+		<SimpleData name="status">data/stations/bd8b2ecd.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/bd8b2ecd.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>65.2167432686423,46.4143989569925</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

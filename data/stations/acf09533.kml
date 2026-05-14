@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="acf09533" id="acf09533">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>acf09533</name>
+  <Placemark id="acf09533.1">
+	<name>8485</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#acf09533">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">131,727</SimpleData>
+		<SimpleData name="benchmark_number">160оп</SimpleData>
+		<SimpleData name="control_location">Линия №2: Семиярск - Павлодар, II класс (1) Участок: грунт. реп. 2660 - грунт. реп. 8101</SimpleData>
+		<SimpleData name="benchmark_type">Черное,с., в 3,5 км к юго-вост. от него, в 50 м к сев.-вост. от км.стб.№ 390, в 18 м к сев.-зап. от тлф.стб.№121</SimpleData>
+		<SimpleData name="leveling_line_section">утрачен</SimpleData>
+		<SimpleData name="location_description">acf09533-5c83-4600-970d-c31ed0fccf8e</SimpleData>
+		<SimpleData name="status">data/stations/acf09533.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/acf09533.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.5586530268294,51.6827842957594</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

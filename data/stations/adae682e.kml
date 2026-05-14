@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="adae682e" id="adae682e">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>adae682e</name>
+  <Placemark id="adae682e.1">
+	<name>9140</name>
+	<name>грунт. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#adae682e">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">63.033</SimpleData>
+		<SimpleData name="benchmark_number">160 оп. знак</SimpleData>
+		<SimpleData name="control_location">Линия №1: Аральск - Коккабак, II класс. Участок: грунт. реп. 9049 - грунт. реп. 2665</SimpleData>
+		<SimpleData name="benchmark_type">Жинишкекум, с., в 25.0 км к зап. от него, в 1.1 км к юго-вост. от род. Аяккайнар, в 12 м к зап. от полевой дороги</SimpleData>
+		<SimpleData name="location_description">adae682e-e2bf-4343-a61b-78a2a9f112ed</SimpleData>
+		<SimpleData name="status">data/stations/adae682e.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/adae682e.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>62.9142835916766,47.0732748931878</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

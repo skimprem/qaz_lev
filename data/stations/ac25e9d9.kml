@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="ac25e9d9" id="ac25e9d9">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>ac25e9d9</name>
+  <Placemark id="ac25e9d9.1">
+	<name>5382</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#ac25e9d9">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">369.602</SimpleData>
+		<SimpleData name="control_height">Контрольный репер в верхней плоскости монолита</SimpleData>
+		<SimpleData name="benchmark_number">146 оп</SimpleData>
+		<SimpleData name="control_location">Линия №1: Тасты=Бала-Терсаккан, II класс (I) Участок: грунт.реп.0735-грунт.реп.1484</SimpleData>
+		<SimpleData name="benchmark_type">Бригада №3,свх.Аркалыкский,в 10.0 км к югу от нее,в 8.0 км к сев.от мог.Каратам,в 20 м к югу от полевой дороги</SimpleData>
+		<SimpleData name="location_description">ac25e9d9-541d-4af2-b516-dad5cff99c02</SimpleData>
+		<SimpleData name="status">data/stations/ac25e9d9.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/ac25e9d9.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>66.8735954129564,49.9633779967569</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="ac2db6f6" id="ac2db6f6">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>ac2db6f6</name>
+  <Placemark id="ac2db6f6.1">
+	<name>1650</name>
+	<name>грунт,реп,</name>
+	<ExtendedData><SchemaData schemaUrl="#ac2db6f6">
+		<SimpleData name="type">I</SimpleData>
+		<SimpleData name="view">260.667</SimpleData>
+		<SimpleData name="benchmark_number">146 оп</SimpleData>
+		<SimpleData name="control_location">Линия №1:Целиноград - Амангельды, I класс (I) участок: грунт,реп,2386 - грунт,реп,2225 Ход от фунд,реп,4778 до грунт,реп,5195,II класс (3)</SimpleData>
+		<SimpleData name="benchmark_type">Державинск,гор,,в0,4 км к югу от него,0,2 в 0,1 км к зап,от железной дороги,у пикета 5/6 108 км железной дороги </SimpleData>
+		<SimpleData name="location_description">ac2db6f6-c75d-44b9-b605-3b5c3af0965e</SimpleData>
+		<SimpleData name="status">data/stations/ac2db6f6.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/ac2db6f6.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>66.2989669094815,51.0798582702272</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

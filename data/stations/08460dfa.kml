@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="08460dfa" id="08460dfa">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>08460dfa</name>
+  <Placemark id="08460dfa.1">
+	<name>2898</name>
+	<description>грунт.реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#08460dfa">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">204.272</SimpleData>
+		<SimpleData name="leveling_order">203.248</SimpleData>
+		<SimpleData name="benchmark_number">107</SimpleData>
+		<SimpleData name="control_location">Линия № 4: Урицкое - Тран, II класс                       </SimpleData>
+		<SimpleData name="benchmark_type">Филинка, с., в 2.5 км к югу от него, в 0.2 км к зап.от тлф.стб. № 28/38, в 30 м к западу от дороги</SimpleData>
+		<SimpleData name="leveling_line_section">не найден</SimpleData>
+		<SimpleData name="location_description">08460dfa-caa0-4608-9d14-da87a07289a4</SimpleData>
+		<SimpleData name="status">data/stations/08460dfa.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/08460dfa.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>65.59447412387,53.3825928490041</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

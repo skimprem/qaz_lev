@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="d13e2674" id="d13e2674">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>d13e2674</name>
+  <Placemark id="d13e2674.1">
+	<name>4018</name>
+	<name>грунт,реп,</name>
+	<ExtendedData><SchemaData schemaUrl="#d13e2674">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">267.653</SimpleData>
+		<SimpleData name="benchmark_number">160оп</SimpleData>
+		<SimpleData name="control_location">Линия № 3: Арысь - Хаваст, I класс</SimpleData>
+		<SimpleData name="benchmark_type">Кабул-Сай, станц,, в 5,8 км к сев,от нее, в 29 м к зап,от жел,-дор,полотна, на I  ПК 3229 км</SimpleData>
+		<SimpleData name="location_description">d13e2674-9b26-4d22-8be3-33c6b7844aa3</SimpleData>
+		<SimpleData name="status">data/stations/d13e2674.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/d13e2674.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>68.9046248742164,42.3168871005482</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

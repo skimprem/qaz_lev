@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="db75a77e" id="db75a77e">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>db75a77e</name>
+  <Placemark id="db75a77e.1">
+	<name>2890</name>
+	<description>гр. реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#db75a77e">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">328.318</SimpleData>
+		<SimpleData name="benchmark_number">160 оп.знак</SimpleData>
+		<SimpleData name="control_location">Линия № 1:Торетоган-Берлик, I класс                            Участок: гр.реп. 1446-гр.реп. 2653</SimpleData>
+		<SimpleData name="benchmark_type">Карла Маркса, с., в 16,5 км к сев.-зап. от него, в 60 м к сев.-зап. от км стб. 86/134, в 22 м к сев. от шоссе с.Уланбель-с. Фурмановка</SimpleData>
+		<SimpleData name="location_description">db75a77e-15e5-4afc-8a12-2c686a1ef704</SimpleData>
+		<SimpleData name="status">data/stations/db75a77e.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/db75a77e.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.593317600408,44.3321297402191</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

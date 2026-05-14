@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="e2b9b152" id="e2b9b152">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>e2b9b152</name>
+  <Placemark id="e2b9b152.1">
+	<name>2573</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#e2b9b152">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">90.227</SimpleData>
+		<SimpleData name="benchmark_number">121</SimpleData>
+		<SimpleData name="control_location">Линия: Славгородское- Волотовка, II класс (2). Участок:  гр. рп. 13857-гр. рп. 2211</SimpleData>
+		<SimpleData name="benchmark_type">Ундирис, с., в 0.7 км к северу от него, в 30 м к востоку от кладбища, в 30 м вправо от улучшенной грунтовой дороги с.Ундирис-с.Бидайыкское</SimpleData>
+		<SimpleData name="location_description">e2b9b152-ce85-4508-9655-8f598ef30da6</SimpleData>
+		<SimpleData name="status">data/stations/e2b9b152.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/e2b9b152.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8889415010282,53.9916338393267</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="ca9982cf" id="ca9982cf">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>ca9982cf</name>
+  <Placemark id="ca9982cf.1">
+	<name>293</name>
+	<description>грунт.реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#ca9982cf">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">89,192</SimpleData>
+		<SimpleData name="benchmark_number">118</SimpleData>
+		<SimpleData name="control_location">Линия №1: Наурузум (Аксуат)-Иргиз,I класс Участок: фунд.реп.92-грунт.реп.226</SimpleData>
+		<SimpleData name="benchmark_type">Иргиз,с.,в 27,5 км к сев.-вост.от него,в 70 м к вост.от тлф.стб.,в 68 м к юго-вост.от тлф.стб.</SimpleData>
+		<SimpleData name="location_description">ca9982cf-bd5d-484e-8013-a5d5ccc6c2b6</SimpleData>
+		<SimpleData name="status">data/stations/ca9982cf.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/ca9982cf.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>61.602609663998,48.7425289574311</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

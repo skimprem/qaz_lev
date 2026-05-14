@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="f0301b9b" id="f0301b9b">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>f0301b9b</name>
+  <Placemark id="f0301b9b.1">
+	<name>46</name>
+	<description>грунт. реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#f0301b9b">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">54.840</SimpleData>
+		<SimpleData name="leveling_order">53.202</SimpleData>
+		<SimpleData name="leveling_height">Контрольный репер в верхней плоскости монолита</SimpleData>
+		<SimpleData name="benchmark_number">121</SimpleData>
+		<SimpleData name="control_location">Линия № 2 : Кошкарата - Аральск, I класс. Участок: грунт. реп. б/№ - грунт. реп. 47</SimpleData>
+		<SimpleData name="benchmark_type">Бутаковка, залив, в 1.1км к зап.от него, в 0.2км к сев.от с.Карабулак, в 78м к югу от колодца</SimpleData>
+		<SimpleData name="location_description">f0301b9b-a76c-4b11-8584-6c90e75f4afb</SimpleData>
+		<SimpleData name="status">data/stations/f0301b9b.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/f0301b9b.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>60.9249228479538,46.7266847690756</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

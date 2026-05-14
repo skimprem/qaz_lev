@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="bc749832" id="bc749832">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>bc749832</name>
+  <Placemark id="bc749832.1">
+	<name>6097</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#bc749832">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">96.682</SimpleData>
+		<SimpleData name="leveling_order">105.077</SimpleData>
+		<SimpleData name="control_height">в трубе</SimpleData>
+		<SimpleData name="benchmark_number">146 оп.знак</SimpleData>
+		<SimpleData name="control_location">Линия № 6: Ишим - Петропавловск, II класс Участок: грунт.реп.  </SimpleData>
+		<SimpleData name="benchmark_type">Красноярка, с., сев.-зап. Окраина его, в 0.6 км к сев. От могилы, в 85 м к юго-вост. От СТФ, в 12 м к югу от трансформаторной будки 
+
+</SimpleData>
+		<SimpleData name="location_description">bc749832-cfec-4616-a29c-8a8d738e502b</SimpleData>
+		<SimpleData name="status">data/stations/bc749832.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/bc749832.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>69.4329868683398,55.2499783219558</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

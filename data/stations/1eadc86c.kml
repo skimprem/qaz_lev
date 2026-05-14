@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="1eadc86c" id="1eadc86c">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>1eadc86c</name>
+  <Placemark id="1eadc86c.1">
+	<name>4607</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#1eadc86c">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">369.960</SimpleData>
+		<SimpleData name="benchmark_number">160 оп.знак</SimpleData>
+		<SimpleData name="control_location">Линия № 3: Володарское - Максимовка, II класс Участок: фунд. реп. 4925 - стен. реп.2180</SimpleData>
+		<SimpleData name="benchmark_type">Арыкбалык, с., юго.-зап. Угол АЗС, в 0.4 м от угла</SimpleData>
+		<SimpleData name="location_description">1eadc86c-9a00-462a-8f8b-dd564b20a04f</SimpleData>
+		<SimpleData name="status">data/stations/1eadc86c.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/1eadc86c.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>68.1924203134864,52.9027968528252</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

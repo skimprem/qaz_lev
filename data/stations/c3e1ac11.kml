@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="c3e1ac11" id="c3e1ac11">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>c3e1ac11</name>
+  <Placemark id="c3e1ac11.1">
+	<name>1477</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#c3e1ac11">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">130,927</SimpleData>
+		<SimpleData name="control_location">Линия № 2: Кызылорда -р.Сарысу, 2 класс (3) Участок: грунт. реп. 1477 - грунт. реп. 6974</SimpleData>
+		<SimpleData name="benchmark_type">Зылика, мет. станц., в 7.7 км к сев.-вост. от нее, в 0.5 км к юго-вост. от мог. Зылика. в 28 м к сев. от р. Сарысу</SimpleData>
+		<SimpleData name="location_description">c3e1ac11-41dd-4645-85ff-c6594fc355df</SimpleData>
+		<SimpleData name="status">data/stations/c3e1ac11.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/c3e1ac11.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>66.9649231287142,45.2490787684248</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="ae89e271" id="ae89e271">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>ae89e271</name>
+  <Placemark id="ae89e271.1">
+	<name>8784</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#ae89e271">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">346,752</SimpleData>
+		<SimpleData name="control_location">Ход от грунт. реп. 4716 до грунт. реп. 0092. 2 класс (2) Участок: грунт. реп. 4716 - грунт. реп. 9405</SimpleData>
+		<SimpleData name="benchmark_type">Биоскенбай, к., в 6.9 км к юго-вост. от него, в 0.1 км к сев.-зап. от км. стб. 80/91 шоссе с. Уланбель - с. Уйик, в 0.1 км к юго-зап. от к. Шурык</SimpleData>
+		<SimpleData name="location_description">ae89e271-0ea4-4c53-880f-f2303a99945e</SimpleData>
+		<SimpleData name="status">data/stations/ae89e271.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/ae89e271.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>71.135248670136,44.1248970171639</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

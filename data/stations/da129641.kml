@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="da129641" id="da129641">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>da129641</name>
+  <Placemark id="da129641.1">
+	<name>1765</name>
+	<description>грунт. реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#da129641">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">354.789</SimpleData>
+		<SimpleData name="leveling_order">352.259</SimpleData>
+		<SimpleData name="leveling_height">Контрольный репер в верхней плоскости монолита</SimpleData>
+		<SimpleData name="benchmark_number">121</SimpleData>
+		<SimpleData name="control_location">Линия 1: Амангельды-Карсакбай, I класс (1),  Участок; грунт. Реп. 3361-грунт.реп. 3986</SimpleData>
+		<SimpleData name="benchmark_type">Байконыр, с., в 20.7 км к сев.-зап.. от него, в 2.5  км к сев.-зап.. от гидр.скв., в 0.3 км к  юго-зап. от р. Жоса, в 50 м к зап. от  дороги с. Аманкельды- с.Байконыр</SimpleData>
+		<SimpleData name="location_description">da129641-de15-4c04-ac06-1e0269ac050a</SimpleData>
+		<SimpleData name="status">data/stations/da129641.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/da129641.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>65.9067295479273,47.9947753303304</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

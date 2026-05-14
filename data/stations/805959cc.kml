@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="805959cc" id="805959cc">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>805959cc</name>
+  <Placemark id="805959cc.1">
+	<name>888</name>
+	<name>грунт. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#805959cc">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">424.183</SimpleData>
+		<SimpleData name="leveling_order">423.029</SimpleData>
+		<SimpleData name="leveling_height">511</SimpleData>
+		<SimpleData name="control_height">фундаментная плита</SimpleData>
+		<SimpleData name="benchmark_number">116</SimpleData>
+		<SimpleData name="control_location">Линия № 2: Карабута - Карабулак, II класс (1, 2), Участок: грунт. реп. 547 – фунд. реп. 3931</SimpleData>
+		<SimpleData name="benchmark_type">Бахты, с., в 6.0 км к юго-зап. от него, в 1.3 км к сев.-вост. от зимовки, в 0.4 км к зап. от канала</SimpleData>
+		<SimpleData name="location_description">805959cc-a5ca-4772-89b9-ae950003753f</SimpleData>
+		<SimpleData name="status">data/stations/805959cc.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/805959cc.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>82.6847785944,46.6107256795868</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

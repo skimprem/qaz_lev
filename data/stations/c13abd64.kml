@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="c13abd64" id="c13abd64">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>c13abd64</name>
+  <Placemark id="c13abd64.1">
+	<name>91767</name>
+	<name>грунт,реп,</name>
+	<ExtendedData><SchemaData schemaUrl="#c13abd64">
+		<SimpleData name="type">I</SimpleData>
+		<SimpleData name="view">156.49</SimpleData>
+		<SimpleData name="leveling_order">154,628</SimpleData>
+		<SimpleData name="control_height">репер №1414 в верхней плоскости монолита</SimpleData>
+		<SimpleData name="benchmark_number">121</SimpleData>
+		<SimpleData name="control_location">Линия №1: Петропавловск - Астана (Целиноград), I класс, Участок: грунт,реп, 5013 - марка 7227</SimpleData>
+		<SimpleData name="benchmark_type">Тайынша, гор,, в 1,5 км к сев,-зап,от него, на 2 пк 120 км жел,дор,, в 32 м к сев,-вост,от тлф,стб, №2128/58, в 31 м к юго-вост,от жел,-дор,полотна, в 23 м к юго-вост,от тлф,стб, №2200, на поляне</SimpleData>
+		<SimpleData name="location_description">c13abd64-a4c1-4757-9de2-677be48f94f3</SimpleData>
+		<SimpleData name="status">data/stations/c13abd64.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/c13abd64.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>69.791223327038,53.8809687554722</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="5679599a" id="5679599a">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>5679599a</name>
+  <Placemark id="5679599a.1">
+	<name>198</name>
+	<description>грунт.реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#5679599a">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">176.621</SimpleData>
+		<SimpleData name="benchmark_number">146 оп</SimpleData>
+		<SimpleData name="control_location">Линия № 1: Амангельды - Байконур, II класс                 Участок: грунт.реп.61 - грунт.реп.66</SimpleData>
+		<SimpleData name="benchmark_type">Рахмет, с., в 22.0 км к юго-вост.от него, в 0.6 км к вост.от р.Улыжиланшик, в 0.1 км к зап.от дороги с.Рахмет - с.Байконур</SimpleData>
+		<SimpleData name="location_description">5679599a-87c1-41b3-ab23-5ed342414653</SimpleData>
+		<SimpleData name="status">data/stations/5679599a.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/5679599a.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>65.4284594792634,49.1013282706417</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

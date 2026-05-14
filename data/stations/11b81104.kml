@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="11b81104" id="11b81104">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>11b81104</name>
+  <Placemark id="11b81104.1">
+	<name>192</name>
+	<name>грунт. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#11b81104">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">858.416</SimpleData>
+		<SimpleData name="leveling_order">856,19</SimpleData>
+		<SimpleData name="control_height">репер в верхней плоскости монолита</SimpleData>
+		<SimpleData name="benchmark_number">123</SimpleData>
+		<SimpleData name="control_location">Линия №1: Усть-Каменогорск-Берёзовка, 2 класс (2) Участок: грунт. реп.188 - грунт. реп. 195</SimpleData>
+		<SimpleData name="benchmark_type">Северное, с., в 8.0 км к юго-вост. от него, в 0.1 км к югу от дороги гор. Усть-Каменогорск - гор. Серебрянск, в 82 м от тлгр. стб. №118, в 44 м от тлф. стб. №119</SimpleData>
+		<SimpleData name="location_description">11b81104-9bb6-4c27-81dd-897f430aa764</SimpleData>
+		<SimpleData name="status">data/stations/11b81104.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/11b81104.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>83.2322873633307,49.7816572143808</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="214a3a16" id="214a3a16">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>214a3a16</name>
+  <Placemark id="214a3a16.1">
+	<name>2180</name>
+	<name>стен.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#214a3a16">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="control_location">Линия № 1: Володарское - Максимовка, II класс, Участок: грунт.реп. 5806 - фунд. реп. 2883</SimpleData>
+		<SimpleData name="benchmark_type">Жаксы Жалгызтау, с., юго - зап. угол здания магазина</SimpleData>
+		<SimpleData name="location_description">214a3a16-e534-499a-b64d-2dca01904a37</SimpleData>
+		<SimpleData name="status">data/stations/214a3a16.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/214a3a16.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>68.2176003753417,52.6390695176807</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

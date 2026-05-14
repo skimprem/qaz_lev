@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="b63d00a1" id="b63d00a1">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>b63d00a1</name>
+  <Placemark id="b63d00a1.1">
+	<name>20293</name>
+	<name>стен. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#b63d00a1">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="control_location">Линия № 3: Каратас –  Аягоз, I класс
+Участок: ск.реп. 5533 – фунд.реп. 1027</SimpleData>
+		<SimpleData name="benchmark_type">Темеклы, станц., в 3.5 км к сев.-вост. от нее, на 7 пк 1041 км, в устое жел.-дор. моста </SimpleData>
+		<SimpleData name="location_description">b63d00a1-f286-48eb-b104-77860d005c82</SimpleData>
+		<SimpleData name="status">data/stations/b63d00a1.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/b63d00a1.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>80.1528274299383,47.5752655862158</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

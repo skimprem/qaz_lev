@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="9912082f" id="9912082f">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>9912082f</name>
+  <Placemark id="9912082f.1">
+	<name>908</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#9912082f">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">103.978</SimpleData>
+		<SimpleData name="leveling_order">102.466</SimpleData>
+		<SimpleData name="leveling_height">0</SimpleData>
+		<SimpleData name="control_height">Контрольный репер №192 в верхней плоскости монолита</SimpleData>
+		<SimpleData name="benchmark_number">121</SimpleData>
+		<SimpleData name="control_location">Линия №2: Качири - Павлодар, II класс. Участок: грунт. реп. 908 - марка 6482</SimpleData>
+		<SimpleData name="benchmark_type">В 5,0 км к югу-вост.от с. Чернорецкое, в 24 м зап.от дороги с. Чернорецкое - с. Григорьевка</SimpleData>
+		<SimpleData name="leveling_line_section">утрачен</SimpleData>
+		<SimpleData name="location_description">9912082f-2a2e-42c3-bb02-c9c83dd47bdf</SimpleData>
+		<SimpleData name="status">data/stations/9912082f.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/9912082f.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>76.6857780458672,52.7034172601474</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="dfe251d1" id="dfe251d1">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>dfe251d1</name>
+  <Placemark id="dfe251d1.1">
+	<name>47</name>
+	<name>грунт.реп</name>
+	<ExtendedData><SchemaData schemaUrl="#dfe251d1">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">154.531</SimpleData>
+		<SimpleData name="control_location">Линия № 1 Чиили-Мергенбай, II класс  Участок: грунт.реп.51-грунт.реп.25</SimpleData>
+		<SimpleData name="benchmark_type">Буланбайбауы, (Каргалы), с., в 0.7 км к вост. От него, в 68 м к юго-вост. От моста через кан.Такырколь, в 4I м к югу от дороги с Чиили-с.Буланбайбауы (Каргалы), в 4 м к зап.от опоры ЛЭП №3</SimpleData>
+		<SimpleData name="leveling_line_section">утрачен</SimpleData>
+		<SimpleData name="location_description">dfe251d1-717c-4a80-a4b4-84d14f24e535</SimpleData>
+		<SimpleData name="status">data/stations/dfe251d1.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/dfe251d1.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>66.6259492892527,43.8976408442037</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

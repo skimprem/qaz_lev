@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="a32a135a" id="a32a135a">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>a32a135a</name>
+  <Placemark id="a32a135a.1">
+	<name>116</name>
+	<name>стенной репер</name>
+	<ExtendedData><SchemaData schemaUrl="#a32a135a">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">374.238</SimpleData>
+		<SimpleData name="benchmark_number">143</SimpleData>
+		<SimpleData name="control_location">Линия № 1: Карсакбай - Тюемойнак, 1 класс (1) Участок: грунт, реп, 6483 - стен, реп, 921</SimpleData>
+		<SimpleData name="benchmark_type">Разъезд № 60, разв,, в 14,2 км к юго-зап, от них, на 8 пк 399 км жел, дор,, в водопропускной трубе</SimpleData>
+		<SimpleData name="location_description">a32a135a-525e-49c4-9c95-ff0f4a1e8ca5</SimpleData>
+		<SimpleData name="status">data/stations/a32a135a.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/a32a135a.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.9066557679308,47.8276346455029</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

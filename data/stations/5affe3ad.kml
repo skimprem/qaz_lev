@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="5affe3ad" id="5affe3ad">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>5affe3ad</name>
+  <Placemark id="5affe3ad.1">
+	<name>4079</name>
+	<name>стен,реп,</name>
+	<ExtendedData><SchemaData schemaUrl="#5affe3ad">
+		<SimpleData name="type">I</SimpleData>
+		<SimpleData name="view">391.325</SimpleData>
+		<SimpleData name="control_location">Линия №1: Петропавловск -Астана (Целиноград), I класса (1) Участок: грунт,реп,92009 - грунт,реп,91306</SimpleData>
+		<SimpleData name="benchmark_type">Тонкерыс, станц,, в фундаменте старого здания вокзала</SimpleData>
+		<SimpleData name="leveling_line_section">1,Репер не найден, Фундамент реставрировн,</SimpleData>
+		<SimpleData name="location_description">5affe3ad-41a4-4397-a856-be8bc9639a1f</SimpleData>
+		<SimpleData name="status">data/stations/5affe3ad.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/5affe3ad.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>71.1914610772879,51.4492238452874</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="30d250de" id="30d250de">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>30d250de</name>
+  <Placemark id="30d250de.1">
+	<name>442</name>
+	<description>грунт.реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#30d250de">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">349.274</SimpleData>
+		<SimpleData name="benchmark_number">160 оп.знак</SimpleData>
+		<SimpleData name="control_location">Линия №1: Сарышаган-Бурубайтал I класс                            Участок:  грунт.реп.8676  -  ск.реп.5693</SimpleData>
+		<SimpleData name="benchmark_type">Чиганак,станц.,в 1.7 км к вост.от нее,
+в 0.2 км к сев.-зап.от рыбацкого поселка Чиганак
+</SimpleData>
+		<SimpleData name="location_description">30d250de-00e5-48ce-b2e2-8227228b545b</SimpleData>
+		<SimpleData name="status">data/stations/30d250de.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/30d250de.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>73.9890929310771,45.1116157093923</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

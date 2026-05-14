@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="fe26fd99" id="fe26fd99">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>fe26fd99</name>
+  <Placemark id="fe26fd99.1">
+	<name>8133</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#fe26fd99">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">291.373</SimpleData>
+		<SimpleData name="benchmark_number">107 (уничтожен)</SimpleData>
+		<SimpleData name="control_location">Линия № 3: Володарское - Максимовка, II класс Висячий ход от грунт. реп. 8045, II класс</SimpleData>
+		<SimpleData name="benchmark_type">Саумалколь, с.,в 6.1 км к югу от него, в 0.3 км к вост. От колки леса, в 2.5 км к зап. От грунт. Дороги с. Саумалколь -с. Орловка</SimpleData>
+		<SimpleData name="location_description">fe26fd99-f337-498f-a72e-c68bb6123b7c</SimpleData>
+		<SimpleData name="status">data/stations/fe26fd99.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/fe26fd99.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>68.1066910068351,53.2223926346379</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

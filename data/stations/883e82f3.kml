@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="883e82f3" id="883e82f3">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>883e82f3</name>
+  <Placemark id="883e82f3.1">
+	<name>23</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#883e82f3">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">331,763</SimpleData>
+		<SimpleData name="control_location">Линия № 2: Древний Курган - Сасыккудык, 2 класс (3) Участок: фунд. реп. 1377-грунт, реп. 1748</SimpleData>
+		<SimpleData name="benchmark_type">Аланбай, кладб., в 10.1 км к юго-вост. от него, в 7.1 км к юго-зап. от мог. Карамола, к югу от полевой дороги</SimpleData>
+		<SimpleData name="location_description">883e82f3-5d9a-47be-84ba-806c6027eb1d</SimpleData>
+		<SimpleData name="status">data/stations/883e82f3.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/883e82f3.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>68.1032562911629,47.3537110004499</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

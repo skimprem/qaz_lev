@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="daf0c4c7" id="daf0c4c7">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>daf0c4c7</name>
+  <Placemark id="daf0c4c7.1">
+	<name>0489</name>
+	<name>ск.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#daf0c4c7">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">1846.664</SimpleData>
+		<SimpleData name="benchmark_number">99</SimpleData>
+		<SimpleData name="control_location">Линия № 12: Беловодск-Курметы, II класс, Участок: фунд. реп. 143-фунд. реп. 7959</SimpleData>
+		<SimpleData name="benchmark_type">Курметы, с., в 1.8 км к юго-зап. от него, на территории сеймостанции, в 34 м к сев.-зап. от жилого здания</SimpleData>
+		<SimpleData name="location_description">daf0c4c7-cb46-45f2-8074-1b8f49d7ba94</SimpleData>
+		<SimpleData name="status">data/stations/daf0c4c7.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/daf0c4c7.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>78.2831318374879,43.0004001433681</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

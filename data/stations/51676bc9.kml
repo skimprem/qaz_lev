@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="51676bc9" id="51676bc9">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>51676bc9</name>
+  <Placemark id="51676bc9.1">
+	<name>7773</name>
+	<name>грунт. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#51676bc9">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">775.216</SimpleData>
+		<SimpleData name="benchmark_number">160 оп. знак</SimpleData>
+		<SimpleData name="control_location">Ход от грунт. реп. 4 до грунт. реп. 5592, II класс </SimpleData>
+		<SimpleData name="benchmark_type">Карабулак, с., вост. окраина его, в 0.3 км к сев.-вост. от шоссе с. Карабулак – с. Жетысу</SimpleData>
+		<SimpleData name="location_description">51676bc9-7442-4173-8225-d0393f139ad8</SimpleData>
+		<SimpleData name="status">data/stations/51676bc9.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/51676bc9.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>78.5124917114372,44.9099546969305</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

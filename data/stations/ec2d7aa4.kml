@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="ec2d7aa4" id="ec2d7aa4">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>ec2d7aa4</name>
+  <Placemark id="ec2d7aa4.1">
+	<name>7817</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#ec2d7aa4">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">352,184</SimpleData>
+		<SimpleData name="control_location">Линия № 1: Кумкент - Торыустаган, 2 класс (1) Участок: грунт, реп. 0473 - грунт, реп. 8417</SimpleData>
+		<SimpleData name="benchmark_type">Талас, отд. дворы, в 34,6 км к сев.-зап. от них, в 0.9 км к юго-вост. от развилки полевых дорог, в 1.8 км к сев-зап от развалин, в 5 м к зап. от дороги отд. дворы Талас - аул. Шу </SimpleData>
+		<SimpleData name="location_description">ec2d7aa4-25a4-4bb5-a0cf-5c1f53970180</SimpleData>
+		<SimpleData name="status">data/stations/ec2d7aa4.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/ec2d7aa4.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>69.7758210373565,44.32062704269</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

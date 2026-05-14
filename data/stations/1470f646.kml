@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="1470f646" id="1470f646">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>1470f646</name>
+  <Placemark id="1470f646.1">
+	<name>4557</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#1470f646">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">337,641</SimpleData>
+		<SimpleData name="leveling_order">336,241</SimpleData>
+		<SimpleData name="control_height">репер № 3500            в фундаментной плите</SimpleData>
+		<SimpleData name="benchmark_number">116</SimpleData>
+		<SimpleData name="control_location">Линия № 1 :       Карабас-Туз - Кара-Аул, II класс (1) Участок : грунт.реп. 4467 - грунт.реп. 177</SimpleData>
+		<SimpleData name="benchmark_type">Тумаозек, пир. 2 кл., в 3,5 км к зап. от нее, в 2,0 км к юго-вост. от оз.Такыр, на северном склоне г.Жуантобе</SimpleData>
+		<SimpleData name="location_description">1470f646-ed4a-481b-b7ad-5af36caab32b</SimpleData>
+		<SimpleData name="status">data/stations/1470f646.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/1470f646.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>79.0672212638865,49.7312881791218</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

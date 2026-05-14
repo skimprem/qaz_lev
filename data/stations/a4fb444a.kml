@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="a4fb444a" id="a4fb444a">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>a4fb444a</name>
+  <Placemark id="a4fb444a.1">
+	<name>6868</name>
+	<description>грунт.реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#a4fb444a">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">274,362</SimpleData>
+		<SimpleData name="benchmark_number">146 оп</SimpleData>
+		<SimpleData name="control_location">Линия №2: Новоильиновка-Актасты,II класс Участок: грунт.реп.6577-грунт.реп.178</SimpleData>
+		<SimpleData name="benchmark_type">Жаилма с.,в 7,0 км к юго-вост.от него,в 2,7 км к сев.-вост.от полевого стана,на меже между пашнями </SimpleData>
+		<SimpleData name="location_description">a4fb444a-f46b-4883-a288-692edbef2ce7</SimpleData>
+		<SimpleData name="status">data/stations/a4fb444a.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/a4fb444a.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>61.721360855738,51.5058303621376</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

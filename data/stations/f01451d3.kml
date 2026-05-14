@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="f01451d3" id="f01451d3">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>f01451d3</name>
+  <Placemark id="f01451d3.1">
+	<name>2994</name>
+	<name>грунт. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#f01451d3">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">109.695</SimpleData>
+		<SimpleData name="benchmark_number">160 оп.знак</SimpleData>
+		<SimpleData name="control_location">Линия № 5 Жанадария-Белькора II  класс . Участок : пир. 3 кл.Бесжан Зап.-фунд.реп.1772</SimpleData>
+		<SimpleData name="benchmark_type">Сатбай, с., в 15.4 км к вост. от него, в 0.4 км к сев. от ЛЭП, в 34 м к вост. от полевой дороги</SimpleData>
+		<SimpleData name="location_description">f01451d3-c893-4a44-bfdb-9cf42e434f8a</SimpleData>
+		<SimpleData name="status">data/stations/f01451d3.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/f01451d3.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>64.4956840864803,44.6194168384486</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

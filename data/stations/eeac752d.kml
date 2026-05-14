@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="eeac752d" id="eeac752d">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>eeac752d</name>
+  <Placemark id="eeac752d.1">
+	<name>5699</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#eeac752d">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">426,183</SimpleData>
+		<SimpleData name="control_location">Линия № 3: фунд. реп. 2723 -Аркарлы. II класс (2) Участок: фунд. реп. 2723 -грунт. реп. 9571 </SimpleData>
+		<SimpleData name="benchmark_type">Туздысу. Coп., в 3.0 км к юго- зап. от неё. в 1.2 км к зап. от развилки полевой дороги, в 15 м к сев. от полевой дороги </SimpleData>
+		<SimpleData name="location_description">eeac752d-a7e6-4a04-bde9-a823c08b53d9</SimpleData>
+		<SimpleData name="status">data/stations/eeac752d.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/eeac752d.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>70.4367646780531,47.3515414270073</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

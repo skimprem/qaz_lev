@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="ee487877" id="ee487877">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>ee487877</name>
+  <Placemark id="ee487877.1">
+	<name>1428</name>
+	<name>фунд. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#ee487877">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">520.850</SimpleData>
+		<SimpleData name="leveling_order">520,8</SimpleData>
+		<SimpleData name="control_height">репер №1398 в скале</SimpleData>
+		<SimpleData name="benchmark_number">114</SimpleData>
+		<SimpleData name="control_location">Линия №1 : Аягуз - Жангиз-Тобе, 1 класс (1) Участок: ск. реп. 9020 - фунд. реп. 3041 </SimpleData>
+		<SimpleData name="benchmark_type">Жангизтобе, станц., здание машинного отделенияэлеватора</SimpleData>
+		<SimpleData name="location_description">ee487877-e011-4798-9243-f43c31a9c70a</SimpleData>
+		<SimpleData name="status">data/stations/ee487877.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/ee487877.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>81.0912207251242,49.096396541537</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

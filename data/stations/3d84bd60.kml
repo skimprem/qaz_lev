@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="3d84bd60" id="3d84bd60">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>3d84bd60</name>
+  <Placemark id="3d84bd60.1">
+	<name>50</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#3d84bd60">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">483,833</SimpleData>
+		<SimpleData name="leveling_order">481,154</SimpleData>
+		<SimpleData name="control_height">контрольный репер №64 в верхней плоскости монолита</SimpleData>
+		<SimpleData name="benchmark_number">123</SimpleData>
+		<SimpleData name="control_location">Линия №5: Карасорский - Каркаралинск, II класс (2) Участок: ск. реп. 6100 - грунт. реп. 0227</SimpleData>
+		<SimpleData name="benchmark_type">Баянаул, с., в 13.5 км к юго-зап. от него, Репер утрачен, в 1.1 км к сев.-вост. от оз. Аманколь, в 25 м к зап. от полевой дороги</SimpleData>
+		<SimpleData name="leveling_line_section">утрачен</SimpleData>
+		<SimpleData name="location_description">3d84bd60-b29a-4c91-8f47-447d71f961de</SimpleData>
+		<SimpleData name="status">data/stations/3d84bd60.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/3d84bd60.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.6047087624814,50.6708976193252</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

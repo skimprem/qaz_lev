@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="ef829645" id="ef829645">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>ef829645</name>
+  <Placemark id="ef829645.1">
+	<name>0122</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#ef829645">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">131,399</SimpleData>
+		<SimpleData name="benchmark_number">160оп</SimpleData>
+		<SimpleData name="control_location">Линия №2: Семиярск - Павлодар, II класс (1) Участок: грунт. реп. 2660 - грунт. реп. 8101</SimpleData>
+		<SimpleData name="benchmark_type">Ямышевский, свх, в 8,5 км к сев.-зап.от него, в 65 м к сев.-вост.от шоссе гор.Павлодар-гор.Семей, в 3 м к сев.-зап.от стб.линии связи</SimpleData>
+		<SimpleData name="location_description">ef829645-e575-4025-906f-9cf2e074ed17</SimpleData>
+		<SimpleData name="status">data/stations/ef829645.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/ef829645.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.3021935300287,51.9577705077811</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

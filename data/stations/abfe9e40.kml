@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="abfe9e40" id="abfe9e40">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>abfe9e40</name>
+  <Placemark id="abfe9e40.1">
+	<name>5454</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#abfe9e40">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">132,329</SimpleData>
+		<SimpleData name="benchmark_number">146 оп</SimpleData>
+		<SimpleData name="control_location">Линия №4: Актасты-Тургай, II класс. Участок: фунд.реп. 3780-грунт.реп. 5454</SimpleData>
+		<SimpleData name="benchmark_type">Кызылкемер, с., в 13.0 км к юго-зап. от него, в 3.0 км к сев.-вост. от слияния р. Олькаяк и р. Кабырга, в 35 м к сев.-зап. от дороги с.Кызылкемер-с. Тургай</SimpleData>
+		<SimpleData name="location_description">abfe9e40-7ea5-4b20-a5ee-f99322f7f9b8</SimpleData>
+		<SimpleData name="status">data/stations/abfe9e40.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/abfe9e40.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>62.2893392147016,49.9770551226137</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

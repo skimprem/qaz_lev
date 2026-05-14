@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="e62f173a" id="e62f173a">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>e62f173a</name>
+  <Placemark id="e62f173a.1">
+	<name>649</name>
+	<name>грунт. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#e62f173a">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">635.902</SimpleData>
+		<SimpleData name="leveling_order">634.863*</SimpleData>
+		<SimpleData name="control_height">Контрольный репер в трубе </SimpleData>
+		<SimpleData name="benchmark_number">118</SimpleData>
+		<SimpleData name="control_location">Линия № 3: Учарал  – Кабанбай , II класс 
+Участок: грунт. реп. 649 – фунд. реп. 1186</SimpleData>
+		<SimpleData name="benchmark_type">Кызылащы, с., в 4.3 км к сев.-вост. от него, в 1.7 км к вост. от шоссе гор. Алматы – гор. Усть-Каменогорск, в 40 м к вост. от полевой дороги </SimpleData>
+		<SimpleData name="leveling_line_section">уничтожен</SimpleData>
+		<SimpleData name="location_description">e62f173a-321a-40c3-bc22-a711b45bd46f</SimpleData>
+		<SimpleData name="status">data/stations/e62f173a.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/e62f173a.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>80.7566710005096,46.0344993610794</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

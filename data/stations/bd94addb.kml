@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="bd94addb" id="bd94addb">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>bd94addb</name>
+  <Placemark id="bd94addb.1">
+	<name>284</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#bd94addb">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">285.575</SimpleData>
+		<SimpleData name="leveling_order">283.644</SimpleData>
+		<SimpleData name="benchmark_number">118 оп</SimpleData>
+		<SimpleData name="control_location">Линия №1: Челкар-Сарысай. II класс. Участок: грунт.реп. 3516-фунд.реп. 7680</SimpleData>
+		<SimpleData name="benchmark_type">Шалкар. станц.. в 57.0 км к сев.-вост. от неё. в 6.0 км к юго-зап. от дормастера Текели. в 1.9 км к сев.-вост. от отдельно стоящей могилы. в 12 м к юго-вост. от полевой дороги.в 30 м к сев.от ЛЭП</SimpleData>
+		<SimpleData name="location_description">bd94addb-676b-4c94-9384-709723d12c69</SimpleData>
+		<SimpleData name="status">data/stations/bd94addb.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/bd94addb.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>54.1411099168951,48.1578163237626</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

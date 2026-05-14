@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="49e23252" id="49e23252">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>49e23252</name>
+  <Placemark id="49e23252.1">
+	<name>44331</name>
+	<name>марка</name>
+	<description>марка</description>
+	<ExtendedData><SchemaData schemaUrl="#49e23252">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">413,273</SimpleData>
+		<SimpleData name="control_location">Линия № 2: Мойынты- Балхаш, II класс
+Участок: марка 44247 - фунд.реп.0653</SimpleData>
+		<SimpleData name="benchmark_type">Сарыкум,станц.,в 16.0 км к юго-вост. от неё,в 3.0 км к зап.от казармы,на
+9 ПК 1149 км,жел.-дор.труба</SimpleData>
+		<SimpleData name="location_description">49e23252-4c68-4ab8-b12b-49a0748cc0fd</SimpleData>
+		<SimpleData name="status">data/stations/49e23252.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/49e23252.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>74.3219445221241,46.917029554313</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

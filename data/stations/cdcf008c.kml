@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="cdcf008c" id="cdcf008c">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>cdcf008c</name>
+  <Placemark id="cdcf008c.1">
+	<name>9508</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#cdcf008c">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">282,856</SimpleData>
+		<SimpleData name="control_location">Линия № 2: Древний Курган - Кендырлик (Айгарлык), II класса (2) Участок:: грунт, реп. 171 - грунт, реп. 184</SimpleData>
+		<SimpleData name="benchmark_type">Талмак, мог., в 12.7 км к сев. от неё, в 65 м к зап. от обрыва р. Сарысу, в 21 м к юго-вост. от шоссе гор.Жезказган - гор. Кызылорда</SimpleData>
+		<SimpleData name="location_description">cdcf008c-81c6-4021-8e8c-57fdc0300181</SimpleData>
+		<SimpleData name="status">data/stations/cdcf008c.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/cdcf008c.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.9429134391226,47.3146835143766</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

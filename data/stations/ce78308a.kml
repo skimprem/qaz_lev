@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="ce78308a" id="ce78308a">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>ce78308a</name>
+  <Placemark id="ce78308a.1">
+	<name>11</name>
+	<name>фунд,реп</name>
+	<ExtendedData><SchemaData schemaUrl="#ce78308a">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">527.32</SimpleData>
+		<SimpleData name="leveling_order">525,51</SimpleData>
+		<SimpleData name="leveling_height">№ 396</SimpleData>
+		<SimpleData name="control_height">репер в боковой
+грани пилона</SimpleData>
+		<SimpleData name="benchmark_number">104оп</SimpleData>
+		<SimpleData name="control_location">Линия № I: Арысь-Хаваст, I класс Участок: грунт,реп, 4566 - грунт,реп, 5134</SimpleData>
+		<SimpleData name="benchmark_type">Ченгельды,станц,, в 1,1 км к сев,от нее,
+на 8 ПК 3289 км,в 85 м к вост, от жел,
+дор,</SimpleData>
+		<SimpleData name="location_description">ce78308a-32eb-4a50-b6bb-a67af9c4ec19</SimpleData>
+		<SimpleData name="status">data/stations/ce78308a.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/ce78308a.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>68.9956343195813,41.8712801260156</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

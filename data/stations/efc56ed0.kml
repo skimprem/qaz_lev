@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="efc56ed0" id="efc56ed0">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>efc56ed0</name>
+  <Placemark id="efc56ed0.1">
+	<name>917</name>
+	<name>грунт. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#efc56ed0">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">587,583</SimpleData>
+		<SimpleData name="leveling_order">586,523</SimpleData>
+		<SimpleData name="control_height">в верхней плоскости монолита </SimpleData>
+		<SimpleData name="benchmark_number">121</SimpleData>
+		<SimpleData name="control_location">Линия № 1:         Эмбек-Березовка, 2 класс (1) Участок: грунт. реп. 96 - грунт. реп. 1454</SimpleData>
+		<SimpleData name="benchmark_type">Бородино, с., в 0.3 км к зап. от него, в 0.1 км к зап. от развилки дорог с.Никольское - с.Бородино - с.Черемшанка</SimpleData>
+		<SimpleData name="location_description">efc56ed0-64a2-4bb8-955b-3e771b43070a</SimpleData>
+		<SimpleData name="status">data/stations/efc56ed0.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/efc56ed0.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>84.0883406419331,49.4932073763159</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

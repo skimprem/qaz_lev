@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="e8aad71c" id="e8aad71c">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>e8aad71c</name>
+  <Placemark id="e8aad71c.1">
+	<name>7</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#e8aad71c">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">128.103</SimpleData>
+		<SimpleData name="leveling_order">125.781</SimpleData>
+		<SimpleData name="leveling_height">0</SimpleData>
+		<SimpleData name="control_height">Контрольный репер  в верхней плоскости монолита</SimpleData>
+		<SimpleData name="benchmark_number">124</SimpleData>
+		<SimpleData name="benchmark_type">Марковка, с., в 1,6 км к юго-зап.от него, в 30 м к югу от дороги с. Марковка - с. Жанагуль</SimpleData>
+		<SimpleData name="location_description">e8aad71c-c556-413d-991a-b4667435f825</SimpleData>
+		<SimpleData name="status">data/stations/e8aad71c.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/e8aad71c.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>76.0813410130023,52.1901178565811</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="f4fd1002" id="f4fd1002">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>f4fd1002</name>
+  <Placemark id="f4fd1002.1">
+	<name>91947</name>
+	<description>грунт. реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#f4fd1002">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">616.482</SimpleData>
+		<SimpleData name="leveling_order">614,631</SimpleData>
+		<SimpleData name="control_height">Контрольный репер № 1352 в верхней плоскости монолита</SimpleData>
+		<SimpleData name="benchmark_number">121</SimpleData>
+		<SimpleData name="control_location">Линия № 1: Акмола (Целиноград) -Нуринская, I класс (1) Участок: пир. 2 кл. Анар -грунт.реп. 92090</SimpleData>
+		<SimpleData name="benchmark_type">Блок-пост 640 км, в 0,3 км к сев.-зап. от него, на 10 ПК 639 км, в 33 м к зап. от жел.- дор. Полотна</SimpleData>
+		<SimpleData name="location_description">f4fd1002-054b-4b93-b774-71e41635df42</SimpleData>
+		<SimpleData name="status">data/stations/f4fd1002.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/f4fd1002.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.8786917803786,50.4144194172466</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="52172065" id="52172065">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>52172065</name>
+  <Placemark id="52172065.1">
+	<name>3107</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#52172065">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">343.239</SimpleData>
+		<SimpleData name="leveling_order">337.328</SimpleData>
+		<SimpleData name="benchmark_number">121</SimpleData>
+		<SimpleData name="control_location">Линия №2: Терсаккан=Бала-Терсаккан, II класс (1) Участок: грунт.реп.3371 - грунт.реп.2910</SimpleData>
+		<SimpleData name="benchmark_type">Целинное,с.,в 4.2 км к юго-зап.от него,в 2.5 км к зап.от с.Дальнее,в 2.5 км к зап.от р.Терисаккан</SimpleData>
+		<SimpleData name="leveling_line_section">уничтожен</SimpleData>
+		<SimpleData name="location_description">52172065-9f53-4b9c-8aaa-29ded232c98e</SimpleData>
+		<SimpleData name="status">data/stations/52172065.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/52172065.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.2680339643996,50.0805275202354</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

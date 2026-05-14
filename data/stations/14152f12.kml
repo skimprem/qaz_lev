@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="14152f12" id="14152f12">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>14152f12</name>
+  <Placemark id="14152f12.1">
+	<name>1176</name>
+	<description>грунт. реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#14152f12">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">103.005</SimpleData>
+		<SimpleData name="leveling_order">102.026</SimpleData>
+		<SimpleData name="leveling_height">контрольный репер №2691 в верхней плоскости монолита</SimpleData>
+		<SimpleData name="benchmark_number">121</SimpleData>
+		<SimpleData name="control_location">Линия №2 : Наурзум (Аксуат ) - Иргиз , I класс . Участок : грунт. Реп. 11-грунт. Реп. 1176</SimpleData>
+		<SimpleData name="benchmark_type">Шестой Аул(ферма№2 свх. Албарбогетский),с., в 10.0 км к сев.-вост. От него ,в 0,1 м к юго-вост. От берега сухого оз.Татыр, в 40 м к юго-вост. От  дороги с Шобан-с. Тургай</SimpleData>
+		<SimpleData name="location_description">14152f12-846e-409e-b28c-d77ca857f097</SimpleData>
+		<SimpleData name="status">data/stations/14152f12.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/14152f12.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>63.8695674988627,49.937315414889</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

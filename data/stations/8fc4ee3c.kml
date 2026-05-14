@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="8fc4ee3c" id="8fc4ee3c">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>8fc4ee3c</name>
+  <Placemark id="8fc4ee3c.1">
+	<name>1419</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#8fc4ee3c">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">239.073</SimpleData>
+		<SimpleData name="control_location">Линия №1: Куракбулак-Чардара, ІІ класс  Участок: грунт.реп.1905-грунт.реп.869</SimpleData>
+		<SimpleData name="benchmark_type">Ферма №1 свх.Восход,а 0.3 км к югу от нее,в 0.3 км к сев.-зап.от кошары,в 18 м к югу от полевой дороги</SimpleData>
+		<SimpleData name="location_description">8fc4ee3c-91d6-4926-b003-fffa5fe8acdc</SimpleData>
+		<SimpleData name="status">data/stations/8fc4ee3c.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/8fc4ee3c.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.9674194508907,41.3903509767945</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="49953471" id="49953471">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>49953471</name>
+  <Placemark id="49953471.1">
+	<name>0203</name>
+	<name>фундаментальный репер</name>
+	<ExtendedData><SchemaData schemaUrl="#49953471">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">752,680</SimpleData>
+		<SimpleData name="leveling_order">751,384</SimpleData>
+		<SimpleData name="control_height">контрольный репер в фундаментальной плите </SimpleData>
+		<SimpleData name="benchmark_number">161оп</SimpleData>
+		<SimpleData name="control_location">Линия №2: Актогай - Акчатау, II класс (1)  Участок: фунд.реп. 4072 - грунт. реп. 6736</SimpleData>
+		<SimpleData name="benchmark_type">Нуркен, с., в 4,6 км к сев.-вост. от него, в 0,2 км к сев.-зап. от стб. ЛЭП №299, в 88 м к югу от дороги с. Актогай - с. Акчатау</SimpleData>
+		<SimpleData name="location_description">49953471-f480-4690-aae8-8a7f5a05a3f8</SimpleData>
+		<SimpleData name="status">data/stations/49953471.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/49953471.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>73.8897682153517,48.1252120793572</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

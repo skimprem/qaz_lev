@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="ecdf8a03" id="ecdf8a03">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>ecdf8a03</name>
+  <Placemark id="ecdf8a03.1">
+	<name>221</name>
+	<name>грунт. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#ecdf8a03">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">392,000</SimpleData>
+		<SimpleData name="leveling_order">389,920</SimpleData>
+		<SimpleData name="control_height">репер в верхней плоскости монолита </SimpleData>
+		<SimpleData name="benchmark_number">123</SimpleData>
+		<SimpleData name="control_location">Линия №2: Березовка - Каракас, 2 класс (6) Участок: грунт. реп. 218 - грунт. реп. 225</SimpleData>
+		<SimpleData name="benchmark_type">Зеленый, с., в 5.2 км к юго-зап. от него, в 0.3 км к сев.-зап. от базы Заготскот, в 0.2 км к югу от полевой дороги раз. Кокжыра - база Заготскот</SimpleData>
+		<SimpleData name="location_description">ecdf8a03-9967-42e9-95e6-4ea770d379ab</SimpleData>
+		<SimpleData name="status">data/stations/ecdf8a03.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/ecdf8a03.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>83.5651841278941,48.4464678523392</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

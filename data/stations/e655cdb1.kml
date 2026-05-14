@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="e655cdb1" id="e655cdb1">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>e655cdb1</name>
+  <Placemark id="e655cdb1.1">
+	<name>5426</name>
+	<description>грунт. Реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#e655cdb1">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">160.76</SimpleData>
+		<SimpleData name="benchmark_number">146</SimpleData>
+		<SimpleData name="control_location">Линия №15: грунт.реп. 46-сигн. 2кл Харьковка , Техн</SimpleData>
+		<SimpleData name="benchmark_type">Харьковка.с.,в7.0км к сев-зап. От него в 3.0км к юго-зап от пол. Ст., в 20м к сев от Грейдерной дороги</SimpleData>
+		<SimpleData name="location_description">e655cdb1-e912-4e28-b98d-97976c0937e0</SimpleData>
+		<SimpleData name="status">data/stations/e655cdb1.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/e655cdb1.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>64.298720969221,52.3352116916579</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

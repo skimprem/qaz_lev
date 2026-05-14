@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="b5b2a38d" id="b5b2a38d">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>b5b2a38d</name>
+  <Placemark id="b5b2a38d.1">
+	<name>2605</name>
+	<description>грунт.реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#b5b2a38d">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">178.029</SimpleData>
+		<SimpleData name="leveling_order">177.939</SimpleData>
+		<SimpleData name="leveling_height">Контрольный репер в трубе</SimpleData>
+		<SimpleData name="benchmark_number">107</SimpleData>
+		<SimpleData name="control_location">Линия № 2 : Звериноголовское - Кустанай, I класс                        Участок : грунт.реп.1942 - грунт.реп.1972</SimpleData>
+		<SimpleData name="benchmark_type">Боровской, с., в 11.0 км к сев.-вост.от него, в 0.4 км к югу от грунтовой дороги с.Боровской - с.Аксуат, в 85 м к юго-зап.от тлф.стб.стб.39/164, в 80 м к юго-вост.от тлф.стб.39/163</SimpleData>
+		<SimpleData name="location_description">b5b2a38d-fadf-48e8-9728-0d729508ebbb</SimpleData>
+		<SimpleData name="status">data/stations/b5b2a38d.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/b5b2a38d.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>64.3218656898589,53.8338829207222</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

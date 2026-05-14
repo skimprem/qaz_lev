@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="25933002" id="25933002">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>25933002</name>
+  <Placemark id="25933002.1">
+	<name>4245</name>
+	<name>грунт.реп.</name>
+	<description>грунт.реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#25933002">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">493,973</SimpleData>
+		<SimpleData name="benchmark_number">160 оп.знак</SimpleData>
+		<SimpleData name="control_location">Линия № 4: Мойынты-Балхаш, II класс                            Участок: фунд.реп. 44480-грунт.реп. 5738</SimpleData>
+		<SimpleData name="benchmark_type">Бирюк, раз., в 7,4 км к юго-вост.от него, в 45 м к юго-зап.от 9 ПК 1104 км жел.-дор.полотна,в 20 м к юго-зап.от полевой дороги
+ 
+</SimpleData>
+		<SimpleData name="location_description">25933002-3d7a-4bb9-8375-5248a3e03e76</SimpleData>
+		<SimpleData name="status">data/stations/25933002.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/25933002.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>73.7978376744353,47.1061280914035</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

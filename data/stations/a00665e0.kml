@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="a00665e0" id="a00665e0">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>a00665e0</name>
+  <Placemark id="a00665e0.1">
+	<name>311</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#a00665e0">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">144,584</SimpleData>
+		<SimpleData name="control_location">Линия № 4: Кызылорда - Сарысу, 2 класс (2, 3) Участок: грунт. реп. 4907 - фунд. реп. 815</SimpleData>
+		<SimpleData name="benchmark_type">Баламола, к., в 4.0 км к сев.-вост. от него, в 1.0 км к юго­ зап. от к. № 256, в 7 м к вост. от полевой дороги</SimpleData>
+		<SimpleData name="location_description">a00665e0-deed-4e17-b86a-404a6d2ac822</SimpleData>
+		<SimpleData name="status">data/stations/a00665e0.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/a00665e0.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.2328408006568,45.4406954797994</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

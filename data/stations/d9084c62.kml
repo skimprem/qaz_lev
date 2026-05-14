@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="d9084c62" id="d9084c62">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>d9084c62</name>
+  <Placemark id="d9084c62.1">
+	<name>16149</name>
+	<name>ск. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#d9084c62">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">344.707</SimpleData>
+		<SimpleData name="leveling_order">343.824*  343.424*</SimpleData>
+		<SimpleData name="control_height">Контрольный репер в верхней плоскости монолита</SimpleData>
+		<SimpleData name="benchmark_number">111 оп. знак.</SimpleData>
+		<SimpleData name="control_location">Линия № 1: Сарышаган - Каратас, I класс 
+Участок: грунт.реп. 16234 – ск.реп. 16149
+</SimpleData>
+		<SimpleData name="benchmark_type">Жаксыбулак, род., в 13.0 км к юго-вост. от него, в 1.0 км к юго-вост. от могилы, в 40 м к югу от дороги с. Саяк – с. Каратас</SimpleData>
+		<SimpleData name="location_description">d9084c62-935d-496e-b1b0-91f6cd9185c7</SimpleData>
+		<SimpleData name="status">data/stations/d9084c62.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/d9084c62.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>79.0614620982254,46.8171981921202</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

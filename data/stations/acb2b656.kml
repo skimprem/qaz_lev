@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="acb2b656" id="acb2b656">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>acb2b656</name>
+  <Placemark id="acb2b656.1">
+	<name>1416</name>
+	<description>грунт.реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#acb2b656">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">199.965</SimpleData>
+		<SimpleData name="benchmark_number">146 оп</SimpleData>
+		<SimpleData name="control_location">Линия № 1: Карталы-Семиозерный, I класс                     Участок : грунт.реп.4041 - грунт.реп.3217</SimpleData>
+		<SimpleData name="benchmark_type">Апановка, станц., в 11.6 км к сев.-зап.от неё, в конце 3 пк.178 км жел.дор., в 22 м к югу от жел.-дор. полотна, в 20 м к югу от ПК №4/3, в 4 м к сев. от стб. ВЛЭП №380</SimpleData>
+		<SimpleData name="location_description">acb2b656-099b-4c41-9a93-c83edac9617c</SimpleData>
+		<SimpleData name="status">data/stations/acb2b656.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/acb2b656.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>63.0313086022019,52.5535303006352</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="a7e1a07e" id="a7e1a07e">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>a7e1a07e</name>
+  <Placemark id="a7e1a07e.1">
+	<name>1891</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#a7e1a07e">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">287,534</SimpleData>
+		<SimpleData name="leveling_height">286,354</SimpleData>
+		<SimpleData name="benchmark_number">в верхней плоскости монолита</SimpleData>
+		<SimpleData name="control_location">Ход от грунт. реп. 2099 до грунт. реп. 8286. 2 класс (2) Участок: грунт. реп. 8109 - грунт. реп. 1664</SimpleData>
+		<SimpleData name="benchmark_type">Батсай, мог., в 7.2 км к юго-зап. от неё, в 1.6 км к сев.-вост. от пов. стб. ЛЭП, в 35 м к сев. от грунт, дороги с. Киши Камкалы - с. Сарыозек</SimpleData>
+		<SimpleData name="location_description">a7e1a07e-3ede-4930-b288-d0854f26dc11</SimpleData>
+		<SimpleData name="status">data/stations/a7e1a07e.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/a7e1a07e.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>71.7564044871094,44.6463280479931</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="521efab8" id="521efab8">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>521efab8</name>
+  <Placemark id="521efab8.1">
+	<name>101</name>
+	<name>грунт. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#521efab8">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">907.905</SimpleData>
+		<SimpleData name="leveling_order">906.559</SimpleData>
+		<SimpleData name="control_height">репер № 210 в фундаментной плите </SimpleData>
+		<SimpleData name="benchmark_number">116</SimpleData>
+		<SimpleData name="control_location">Линия № 1:           Эмбек - Березовка, 2 класс (1), Участок: фунд. реп. 490 - грунт. реп. 180</SimpleData>
+		<SimpleData name="benchmark_type">Топкаин, с., в 3.0 км к юго-вост. от него, в 40 м к вост. от моста, в 15 м к сев. от дороги с.Большенарымское -с.Катон-Карагай</SimpleData>
+		<SimpleData name="leveling_line_section">Утрачен по объекту F.07.13.4284</SimpleData>
+		<SimpleData name="location_description">521efab8-f5ec-4d8b-8705-5434c7581b89</SimpleData>
+		<SimpleData name="status">data/stations/521efab8.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/521efab8.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>85.4690382591276,49.1762415888585</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

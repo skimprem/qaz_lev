@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="3b53f2c8" id="3b53f2c8">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>3b53f2c8</name>
+  <Placemark id="3b53f2c8.1">
+	<name>2349</name>
+	<name>марка</name>
+	<ExtendedData><SchemaData schemaUrl="#3b53f2c8">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">121.208</SimpleData>
+		<SimpleData name="control_location">Линия №1: Сагиз-Кандагач, І класс Участок: марка-2864-грнут.реп.1615</SimpleData>
+		<SimpleData name="benchmark_type">Нугайты, станц., в 4.8км к юго-зап.от нее, на 4пикете 223км, жел.-дор.мост</SimpleData>
+		<SimpleData name="location_description">3b53f2c8-dc68-41e4-9dfa-977daadf9f37</SimpleData>
+		<SimpleData name="status">data/stations/3b53f2c8.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/3b53f2c8.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>55.1687662564293,48.4448993526922</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

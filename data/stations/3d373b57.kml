@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="3d373b57" id="3d373b57">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>3d373b57</name>
+  <Placemark id="3d373b57.1">
+	<name>1698</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#3d373b57">
+		<SimpleData name="type">ІІ</SimpleData>
+		<SimpleData name="view">269.577</SimpleData>
+		<SimpleData name="benchmark_number">160 оп</SimpleData>
+		<SimpleData name="control_location">Линия № 5: Сергеевка-Терсаккан, ІІ класс (4) Участок: фунд.реп. 1536 - грунт.реп. 351</SimpleData>
+		<SimpleData name="benchmark_type">Косбармак, с., в 9.0 км к юго-зап от него, в 3.0 км к югу от оз. Жарколь, в 0.3 км к зап.от развилки полевой дороги</SimpleData>
+		<SimpleData name="leveling_line_section">уничтожен</SimpleData>
+		<SimpleData name="location_description">3d373b57-ddea-434e-ba6f-46b16c5a11dc</SimpleData>
+		<SimpleData name="status">data/stations/3d373b57.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/3d373b57.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>68.0170647271323,51.4934505042923</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

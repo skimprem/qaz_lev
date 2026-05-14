@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="283121fd" id="283121fd">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>283121fd</name>
+  <Placemark id="283121fd.1">
+	<name>20299</name>
+	<name>марка</name>
+	<ExtendedData><SchemaData schemaUrl="#283121fd">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">425.103</SimpleData>
+		<SimpleData name="control_location">Линия № 1: Каратас - Аягоз, I класс 
+Участок: фунд.реп.  3000 – грунт.реп. 4998
+</SimpleData>
+		<SimpleData name="benchmark_type">Тансык, станц., в 5.5 км к юго-зап. от нее, на 1 пк 1090 км, устой жел.-дор. моста</SimpleData>
+		<SimpleData name="location_description">283121fd-40d7-4b7d-860d-e010f2e2deeb</SimpleData>
+		<SimpleData name="status">data/stations/283121fd.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/283121fd.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>79.7737417567271,47.2444288559027</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

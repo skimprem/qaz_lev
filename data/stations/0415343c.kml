@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="0415343c" id="0415343c">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>0415343c</name>
+  <Placemark id="0415343c.1">
+	<name>5942</name>
+	<name>скальный репер</name>
+	<ExtendedData><SchemaData schemaUrl="#0415343c">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">710,356</SimpleData>
+		<SimpleData name="benchmark_number">99оп</SimpleData>
+		<SimpleData name="control_location">Линия № 2: Спасск - Каркаралинск, II класс (2) Участок: грунт.реп. 428 -ск.реп. 0131</SimpleData>
+		<SimpleData name="benchmark_type">Кызылту, с., в 6,5 км к зап.от него, в 0,7 км к югу от развилки дороги с.Суыксу - с.Кызылту и полевой дороги, в 0,3 км к зап.от р.Шотайсу</SimpleData>
+		<SimpleData name="leveling_line_section">утрачен</SimpleData>
+		<SimpleData name="location_description">0415343c-b8dd-41ba-af30-0038cd550aa8</SimpleData>
+		<SimpleData name="status">data/stations/0415343c.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/0415343c.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>74.1390232297467,49.3539433870523</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

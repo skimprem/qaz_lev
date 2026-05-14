@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="f869f305" id="f869f305">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>f869f305</name>
+  <Placemark id="f869f305.1">
+	<name>64</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#f869f305">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">346.231</SimpleData>
+		<SimpleData name="benchmark_number">160 оп</SimpleData>
+		<SimpleData name="control_location">Линия №1: Атбасар-Жумай, ll (l) Участок: грунт. реп. 0072-фунд. реп. 7120</SimpleData>
+		<SimpleData name="benchmark_type">Абай с., в 10,0 км к сев. От него, в 1,9 км к юго-зап. От бригады №2, в 13 м к зап.от шоссе с.Краснознаменское-с.Абай</SimpleData>
+		<SimpleData name="location_description">f869f305-6dcd-43f6-b38a-000783a1b880</SimpleData>
+		<SimpleData name="status">data/stations/f869f305.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/f869f305.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>69.509863092439,50.8106161242486</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

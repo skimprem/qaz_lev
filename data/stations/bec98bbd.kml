@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="bec98bbd" id="bec98bbd">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>bec98bbd</name>
+  <Placemark id="bec98bbd.1">
+	<name>9257</name>
+	<name>грунт.реп.</name>
+	<description>грунт.реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#bec98bbd">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">566.444</SimpleData>
+		<SimpleData name="benchmark_number">160 оп.знак</SimpleData>
+		<SimpleData name="control_location">Линия № 1:Колшенгель-Капчагай II класс                            Участок: грунт.реп. 9257-грунт.реп. 10410</SimpleData>
+		<SimpleData name="benchmark_type">Кельбулак,род.,в 0.5 км к юго-вост.от неrо,в 20 м к юrо-зап.от шоссе с.Буру-
+байта.л-гор.А.лматы,в 10 м к юrу от поворотного стб.ЛЭП</SimpleData>
+		<SimpleData name="location_description">bec98bbd-9a25-469f-88c7-488df0d80c3c</SimpleData>
+		<SimpleData name="status">data/stations/bec98bbd.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/bec98bbd.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.9883255763335,44.0913337559288</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

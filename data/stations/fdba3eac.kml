@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="fdba3eac" id="fdba3eac">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>fdba3eac</name>
+  <Placemark id="fdba3eac.1">
+	<name>1071</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#fdba3eac">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">565.397</SimpleData>
+		<SimpleData name="benchmark_number">118 оп</SimpleData>
+		<SimpleData name="control_location">Линия № 4: Таскарасу - Чилик. П класс (2)  Участок; грунт.реп, 1411 - фунд.реп. 2208</SimpleData>
+		<SimpleData name="benchmark_type">МТФ клх. 1 Мая, в 3,0 км к юго - зап. от него, в 0,7 км к юго - вост. от МТФ, у  дороги  с.Чилик - с. Чарын,</SimpleData>
+		<SimpleData name="location_description">fdba3eac-fef3-47a7-b15b-2fd8432d6cc0</SimpleData>
+		<SimpleData name="status">data/stations/fdba3eac.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/fdba3eac.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>78.4030363489578,43.6719231599978</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

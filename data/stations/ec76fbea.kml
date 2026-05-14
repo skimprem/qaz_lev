@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="ec76fbea" id="ec76fbea">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>ec76fbea</name>
+  <Placemark id="ec76fbea.1">
+	<name>13516</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#ec76fbea">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">181.373</SimpleData>
+		<SimpleData name="benchmark_number">121</SimpleData>
+		<SimpleData name="control_location">Линия №2: Нецветаевка-Каратал, II класс (2) Участок: грунт.реп. 86-ск.реп. XIX</SimpleData>
+		<SimpleData name="benchmark_type">Бестобе, пос., в 2.4 км к зап. от него, в 0.2 км к сев. от асфальтированной дороги, в 80.0 м к сев.-зап. от ЛЭП</SimpleData>
+		<SimpleData name="location_description">ec76fbea-24c0-4adf-a40a-8e741ee80ec6</SimpleData>
+		<SimpleData name="status">data/stations/ec76fbea.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/ec76fbea.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>73.0487970894167,52.4827266779268</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

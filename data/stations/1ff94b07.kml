@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="1ff94b07" id="1ff94b07">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>1ff94b07</name>
+  <Placemark id="1ff94b07.1">
+	<name>13590</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#1ff94b07">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">111.810</SimpleData>
+		<SimpleData name="leveling_order">109.609</SimpleData>
+		<SimpleData name="control_height">Контрольный репер №18987 в верхней плоскости монолита</SimpleData>
+		<SimpleData name="benchmark_number">121</SimpleData>
+		<SimpleData name="control_location">Линия №1: Разумовка - Зелёная роща, II класс (3) Участок: грунт.реп.130285 фунд.реп. I</SimpleData>
+		<SimpleData name="benchmark_type">Койбагар, оз., в 5,5 км к юго-зап. 36,7 от него, в 3,5 км к юго-зап.от оз. Аганас, в 1,0 км к сев-вост.от перекрестка поевых работ</SimpleData>
+		<SimpleData name="location_description">1ff94b07-7912-43c2-9d57-02a2899daaeb</SimpleData>
+		<SimpleData name="status">data/stations/1ff94b07.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/1ff94b07.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.0287386898576,52.5788010958903</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

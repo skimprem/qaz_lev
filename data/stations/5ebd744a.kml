@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="5ebd744a" id="5ebd744a">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>5ebd744a</name>
+  <Placemark id="5ebd744a.1">
+	<name>б/№</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#5ebd744a">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">290,318</SimpleData>
+		<SimpleData name="control_location">Ход от грунт. реп. 2099 до грунт, реп. 8286. II класс (3^) Участок: грунт, реп. б/№ — грунт, реп. 8286</SimpleData>
+		<SimpleData name="benchmark_type">Киши Камкалы, с, в 8.0 км к юго-вост. от него, в 6.0 км к юго.-зап. от      мазара Куралай, в 0.5 км к югу от полевой дороги</SimpleData>
+		<SimpleData name="location_description">5ebd744a-fe3b-4751-a288-8b0662c34453</SimpleData>
+		<SimpleData name="status">data/stations/5ebd744a.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/5ebd744a.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>71.551439800268,44.6664098341833</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

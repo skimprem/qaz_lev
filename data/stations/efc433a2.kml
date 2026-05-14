@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="efc433a2" id="efc433a2">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>efc433a2</name>
+  <Placemark id="efc433a2.1">
+	<name>6550</name>
+	<name>грунт реп</name>
+	<ExtendedData><SchemaData schemaUrl="#efc433a2">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">432.833</SimpleData>
+		<SimpleData name="benchmark_number">160 оп. Знак</SimpleData>
+		<SimpleData name="control_location">Линия № 2: Таскескен – Сайкан, II класс. Участок: фунтд.реп. 1910 – грунт.реп. 7111</SimpleData>
+		<SimpleData name="benchmark_type">Жанама, с., в 1.8 км к югу от него, в 0.6 км к вост. от р. Каракол, в 10 м к вост. от грунт. дороги с. Жанама – с. Каракол</SimpleData>
+		<SimpleData name="leveling_line_section">утрачен</SimpleData>
+		<SimpleData name="location_description">efc433a2-5b55-43a0-965a-5b7ca08da577</SimpleData>
+		<SimpleData name="status">data/stations/efc433a2.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/efc433a2.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>80.7350380650806,47.0402045433669</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

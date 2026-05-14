@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="90fd3817" id="90fd3817">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>90fd3817</name>
+  <Placemark id="90fd3817.1">
+	<name>8965</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#90fd3817">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">487.272</SimpleData>
+		<SimpleData name="benchmark_number">160 оп</SimpleData>
+		<SimpleData name="control_location">Линия №2: Ивановка - Жана-Арка, II класс (4) Участок: грунт.реп.4029 - фунд.реп.501</SimpleData>
+		<SimpleData name="benchmark_type">Атасу,с.,в 1.7 км к сев.от него,в 1.2 км к юго-зап.от оз.Сабынды-Хак,в 0.2 км к зап.от полевой дороги</SimpleData>
+		<SimpleData name="location_description">90fd3817-8a69-430c-8982-780504ee37d9</SimpleData>
+		<SimpleData name="status">data/stations/90fd3817.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/90fd3817.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>71.6418286627681,48.7079944152774</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

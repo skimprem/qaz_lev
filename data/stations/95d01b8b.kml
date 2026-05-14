@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="95d01b8b" id="95d01b8b">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>95d01b8b</name>
+  <Placemark id="95d01b8b.1">
+	<name>2312</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#95d01b8b">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">417.952</SimpleData>
+		<SimpleData name="benchmark_number">160 оп.знак</SimpleData>
+		<SimpleData name="control_location">Линия № 2: Актасты-Ивановка, II класс. Участок: ск.реп. 1595-фунд.реп.2817</SimpleData>
+		<SimpleData name="benchmark_type">Карим-Мынбаев, с., в 12.2 км к сев.-вост.от него, в 0.3 км к вост.от р. Бала-Кундызды, у полевой дороги</SimpleData>
+		<SimpleData name="location_description">95d01b8b-539a-4f76-b650-b974130b8f44</SimpleData>
+		<SimpleData name="status">data/stations/95d01b8b.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/95d01b8b.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>71.6473944664814,50.1369152008186</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

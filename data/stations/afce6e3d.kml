@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="afce6e3d" id="afce6e3d">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>afce6e3d</name>
+  <Placemark id="afce6e3d.1">
+	<name>758</name>
+	<name>грунт. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#afce6e3d">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">380.494</SimpleData>
+		<SimpleData name="benchmark_number">125</SimpleData>
+		<SimpleData name="control_location">Линия № 2: Карабута - Карабулак, II класс (1, 2), Участок: грунт. реп. 547 – фунд. реп. 3940</SimpleData>
+		<SimpleData name="benchmark_type">Киши-Аркалы, г., в 11.7 км к юго-вост. от нее, в 2.7 км к югу от мог. Куттыбай, в 0.1 км к зап. от полевой дороги</SimpleData>
+		<SimpleData name="location_description">afce6e3d-9198-4c7a-897d-e7c982e22eda</SimpleData>
+		<SimpleData name="status">data/stations/afce6e3d.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/afce6e3d.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>82.3431456508139,46.3615539925354</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

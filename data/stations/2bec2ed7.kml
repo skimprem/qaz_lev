@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2bec2ed7" id="2bec2ed7">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>2bec2ed7</name>
+  <Placemark id="2bec2ed7.1">
+	<name>Шойтас</name>
+	<description>пир. п.п. </description>
+	<ExtendedData><SchemaData schemaUrl="#2bec2ed7">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="leveling_height">3</SimpleData>
+		<SimpleData name="control_height">497</SimpleData>
+		<SimpleData name="benchmark_number">Линия  № 1: Сарыозек – Каракол (Пржевальск), I класс
+Участок: грунт. реп.  520 – грунт.реп. 155</SimpleData>
+		<SimpleData name="control_location">Коктал, с., в 8.0 км к юго-зап. от него, в 80 м к югу от км. стб. 300/60, в 60 м к юго-вост. от шоссе с. Коктал – с. Шонжы</SimpleData>
+		<SimpleData name="benchmark_type">L-44-136-В</SimpleData>
+		<SimpleData name="location_description">2bec2ed7-546a-4b9a-aed3-097c428955da</SimpleData>
+		<SimpleData name="status">data/stations/2bec2ed7.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/2bec2ed7.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>79.7412627957417,44.0708132879844</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

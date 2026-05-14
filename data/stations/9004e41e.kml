@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="9004e41e" id="9004e41e">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>9004e41e</name>
+  <Placemark id="9004e41e.1">
+	<name>10339</name>
+	<name>грунт. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#9004e41e">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">532,442</SimpleData>
+		<SimpleData name="leveling_order">531,329</SimpleData>
+		<SimpleData name="benchmark_number">121</SimpleData>
+		<SimpleData name="control_location">Линия: Яровское - Лениногорск, II класс (1) Участок: фунд. реп. 198 - грунт. реп. 6965</SimpleData>
+		<SimpleData name="benchmark_type">Старый Белопорожний, с., в 3.8 км к сев.-вост. лт него, в 0.7 км к северу от разв. с. Белопорожний, в 56 м от правого берега р. Белопорожная Уба, в 63 м к северу от фунд. реп. 192.</SimpleData>
+		<SimpleData name="location_description">9004e41e-af56-4f18-8ac6-1e7115111c44</SimpleData>
+		<SimpleData name="status">data/stations/9004e41e.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/9004e41e.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>83.1690839154241,50.876187867596</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

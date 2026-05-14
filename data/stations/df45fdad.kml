@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="df45fdad" id="df45fdad">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>df45fdad</name>
+  <Placemark id="df45fdad.1">
+	<name>5120</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#df45fdad">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">666.470</SimpleData>
+		<SimpleData name="benchmark_number">146 оп</SimpleData>
+		<SimpleData name="control_location">Линия № 2: Каратурук - Асы, 2класс, Участок: фунд.реп. 5285 - ск.реп. 8161</SimpleData>
+		<SimpleData name="benchmark_type">Каратурук,с., в 3.0 км у югу от 3,9 него, в 0,2 км к зап.от дорроги с.Каратурук - схв.Таусугурский, у подножья сев. Стороны кургана</SimpleData>
+		<SimpleData name="location_description">df45fdad-5fac-47f4-a348-2e78de2784c6</SimpleData>
+		<SimpleData name="status">data/stations/df45fdad.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/df45fdad.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>78.0133342195924,43.529198040793</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

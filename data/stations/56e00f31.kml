@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="56e00f31" id="56e00f31">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>56e00f31</name>
+  <Placemark id="56e00f31.1">
+	<name>Бериктас</name>
+	<description>пирамида</description>
+	<ExtendedData><SchemaData schemaUrl="#56e00f31">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">698.703</SimpleData>
+		<SimpleData name="leveling_height">121</SimpleData>
+		<SimpleData name="benchmark_number">1 оп</SimpleData>
+		<SimpleData name="control_location">Линия № 3: Карабулак - оз. Жаланашколь, II класс (3), Участок: грунт. реп. 297-фунд. реп. 707</SimpleData>
+		<SimpleData name="benchmark_type">Тасты, зим., в 8.9 км к юго-зап. от нее, в 5.2 км к сев.-вост. от зим. Долаты, в 30 м к зап. от полевой дороги, на линии государственной границы</SimpleData>
+		<SimpleData name="location_description">56e00f31-cd0c-48d0-ac6e-479d71f959af</SimpleData>
+		<SimpleData name="status">data/stations/56e00f31.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/56e00f31.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>82.3345857645221,45.9351113722381</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="ec3d83ec" id="ec3d83ec">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>ec3d83ec</name>
+  <Placemark id="ec3d83ec.1">
+	<name>7164</name>
+	<name>марка</name>
+	<ExtendedData><SchemaData schemaUrl="#ec3d83ec">
+		<SimpleData name="type">I</SimpleData>
+		<SimpleData name="view">137.881</SimpleData>
+		<SimpleData name="control_location">Линия № 1: Петпопавловск - Макинск, I класс
+Участок: грунт, реп, 91285 - грунт, реп, 91338</SimpleData>
+		<SimpleData name="benchmark_type">Кауданды, раз,, в 1,8 км к сев,-зап, от него, на 5 пк 32
+км жел, дор, гор, Петропавловск - гор, Кокшетау,
+жел,-дор, мост, вост, сторона, сев, Устой</SimpleData>
+		<SimpleData name="leveling_line_section">В хорошем состоянии</SimpleData>
+		<SimpleData name="location_description">ec3d83ec-79ad-472c-8c44-e76ce752946f</SimpleData>
+		<SimpleData name="status">data/stations/ec3d83ec.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/ec3d83ec.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>69.3575289947304,54.6212563680352</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

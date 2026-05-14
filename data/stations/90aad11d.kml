@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="90aad11d" id="90aad11d">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>90aad11d</name>
+  <Placemark id="90aad11d.1">
+	<name>31</name>
+	<name>грунт.реп</name>
+	<ExtendedData><SchemaData schemaUrl="#90aad11d">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">162.235</SimpleData>
+		<SimpleData name="control_location">Линия № 1 Чиили-Мергенбай,II класс Участок: грунт.реп.51-грунт.25</SimpleData>
+		<SimpleData name="benchmark_type">Мурат, пир. 2 кл., в 3.6 км к сев. От нее, в 3.5 км к югу от пир. 2 кл. Мышик, в 15 м к зап. От полевой дороги</SimpleData>
+		<SimpleData name="location_description">90aad11d-9ecb-4700-9217-e42fbfbfdd9a</SimpleData>
+		<SimpleData name="status">data/stations/90aad11d.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/90aad11d.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>66.0183276211591,43.5074437182733</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

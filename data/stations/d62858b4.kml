@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="d62858b4" id="d62858b4">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>d62858b4</name>
+  <Placemark id="d62858b4.1">
+	<name>9</name>
+	<name>грунт. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#d62858b4">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">158,355</SimpleData>
+		<SimpleData name="control_location">Висячий ход: от грунт. реп. 511, II класс (7)</SimpleData>
+		<SimpleData name="benchmark_type">Березовое, ур., в 5.0 км к сев.-зап. от него, в 2.3 км к юго-зап. от развалин, в 10 м к югу от полевой дороги</SimpleData>
+		<SimpleData name="location_description">d62858b4-a3dd-4d67-b0c3-b7e5e53313ff</SimpleData>
+		<SimpleData name="status">data/stations/d62858b4.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/d62858b4.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>78.7501142897417,50.6723593900098</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

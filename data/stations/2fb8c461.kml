@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2fb8c461" id="2fb8c461">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>2fb8c461</name>
+  <Placemark id="2fb8c461.1">
+	<name>7</name>
+	<description>грунт. реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#2fb8c461">
+		<SimpleData name="control_location">Линия 1 класса :Аральск -Тактайконыр(фунд.реп.5059 -фунд.реп.83)  Участок :грунт.реп.3254 -фунд.реп.83</SimpleData>
+		<SimpleData name="benchmark_type">Карасу,с.(нежил.),в 1.4 км к югу от него,в 0.4 км к юго-зап.от кладбища,в 33 м к юго-вост.от полевой дороги</SimpleData>
+		<SimpleData name="location_description">2fb8c461-a2a7-41d8-a5e3-188edb8f65c7</SimpleData>
+		<SimpleData name="status">data/stations/2fb8c461.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/2fb8c461.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>64.5965324896901,50.7293059951035</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

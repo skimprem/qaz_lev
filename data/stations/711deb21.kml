@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="711deb21" id="711deb21">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>711deb21</name>
+  <Placemark id="711deb21.1">
+	<name>8056</name>
+	<description>фунд. реп</description>
+	<ExtendedData><SchemaData schemaUrl="#711deb21">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">115,84</SimpleData>
+		<SimpleData name="leveling_order">114,581</SimpleData>
+		<SimpleData name="leveling_height">Контрольный репер в фундаментной плите</SimpleData>
+		<SimpleData name="benchmark_number">161</SimpleData>
+		<SimpleData name="control_location">Линия № 2: Кумкала -- Кызылорда, 1 класс (2,5). Участок: грунт. реп. 6131 - грунт. реп. 3096</SimpleData>
+		<SimpleData name="benchmark_type">Акжарма, с., в 4,8 км к юго-вост. от него, в 2,0 км к юго-вост. от полевого стана, в 2,9 км к юго-зап. от развилки шоссе с.Акжарма - с.Шаган - с.Жанадария</SimpleData>
+		<SimpleData name="leveling_line_section">утрачен</SimpleData>
+		<SimpleData name="location_description">711deb21-eaba-4fda-ac9f-f0a90f6f8dfa</SimpleData>
+		<SimpleData name="status">data/stations/711deb21.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/711deb21.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>64.8254416624588,44.8413567220404</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

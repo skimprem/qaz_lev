@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="bd24efef" id="bd24efef">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>bd24efef</name>
+  <Placemark id="bd24efef.1">
+	<name>729</name>
+	<description>грунт. реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#bd24efef">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">82.316</SimpleData>
+		<SimpleData name="benchmark_number">146оп</SimpleData>
+		<SimpleData name="control_location">Линия 1: Ходжейли - Кзыл-Орда, I класс . Участок: Грунт. реп. 1220 - фунд. реп. 8490</SimpleData>
+		<SimpleData name="benchmark_type">Иркибай, мазар, в 4,9 км к юго-зап. от него, в 1,7 км к сев.-зап. от могилы , в 14 м к сев.-зап. от  дороги  гор. Кзыл-Орда - гор. Чимбай </SimpleData>
+		<SimpleData name="location_description">bd24efef-1789-4473-a036-220991d6c4df</SimpleData>
+		<SimpleData name="status">data/stations/bd24efef.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/bd24efef.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>62.762217966536,43.9935763305249</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

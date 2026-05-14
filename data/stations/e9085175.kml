@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="e9085175" id="e9085175">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>e9085175</name>
+  <Placemark id="e9085175.1">
+	<name>1073</name>
+	<name>фунд. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#e9085175">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">365.550</SimpleData>
+		<SimpleData name="leveling_order">364.588</SimpleData>
+		<SimpleData name="control_height">Контрольный репер № 299 в фундаментной плите </SimpleData>
+		<SimpleData name="benchmark_number">161</SimpleData>
+		<SimpleData name="control_location">Ход от грунт. реп. 5554 до грунт. реп. 4344, I класс</SimpleData>
+		<SimpleData name="benchmark_type">Актогай, станц., в 1.4 км к сев.-вост. от нее, на 1 пк 1122 км, в 69 м к сев.-зап. от жел.дор.</SimpleData>
+		<SimpleData name="leveling_line_section">уничтожен</SimpleData>
+		<SimpleData name="location_description">e9085175-3ba7-47c2-833e-d9dd7a3ca33f</SimpleData>
+		<SimpleData name="status">data/stations/e9085175.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/e9085175.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>79.6892225461736,46.9646961614285</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

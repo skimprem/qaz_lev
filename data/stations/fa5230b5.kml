@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="fa5230b5" id="fa5230b5">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>fa5230b5</name>
+  <Placemark id="fa5230b5.1">
+	<name>2095</name>
+	<description>грунт.реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#fa5230b5">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">196.714</SimpleData>
+		<SimpleData name="leveling_order">195.762</SimpleData>
+		<SimpleData name="benchmark_number">121</SimpleData>
+		<SimpleData name="control_location">Линия № 6:  Апановка - Жана-Турмыс(Улькен-Сор), II класс                     Участок : грунт.реп.4165 - грунт.реп.847</SimpleData>
+		<SimpleData name="benchmark_type">Шигибай, с., в 3.0 км к юго-зап.от него, в 1.9 км к юго-зап.от оз.Шигибай, в 46 м к сев.-зап.от дороги с.Шигибай-с.Шумак</SimpleData>
+		<SimpleData name="leveling_line_section">утрачен</SimpleData>
+		<SimpleData name="location_description">fa5230b5-1464-4f0e-981f-845fa2d4cf34</SimpleData>
+		<SimpleData name="status">data/stations/fa5230b5.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/fa5230b5.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>63.1098639076979,52.12840565181</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

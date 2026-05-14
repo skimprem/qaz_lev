@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="d35347c2" id="d35347c2">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>d35347c2</name>
+  <Placemark id="d35347c2.1">
+	<name>6668</name>
+	<name>грунт. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#d35347c2">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">503.890</SimpleData>
+		<SimpleData name="benchmark_number">160 оп. знак</SimpleData>
+		<SimpleData name="control_location">Линия № 2: Каратал  – Карабута , II класс </SimpleData>
+		<SimpleData name="benchmark_type">Каратал, с., в 10.2 км к вост. от него, в 2.0 км к сев. от зимовки, в 40 м к вост. от пересечения полевой дороги с арыком</SimpleData>
+		<SimpleData name="location_description">d35347c2-030c-43ef-9b99-761dca0e9c7b</SimpleData>
+		<SimpleData name="status">data/stations/d35347c2.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/d35347c2.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>82.2401585639863,46.7519107133099</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

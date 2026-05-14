@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="693d2425" id="693d2425">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>693d2425</name>
+  <Placemark id="693d2425.1">
+	<name>4004</name>
+	<name>грунт,реп,</name>
+	<ExtendedData><SchemaData schemaUrl="#693d2425">
+		<SimpleData name="type">I</SimpleData>
+		<SimpleData name="view">355.893</SimpleData>
+		<SimpleData name="benchmark_number">160 оп,</SimpleData>
+		<SimpleData name="control_location">Линия №1: Петропавловск -Астана (Целиноград), I класса (1) Участок: грунт,реп,92009 - грунт,реп,91306</SimpleData>
+		<SimpleData name="benchmark_type">Тонкерис, станция, в 12,5 км к юго-вост,от нее, на 1 пк 472 км, в 20 м к вост,от жел,-дор,полотна</SimpleData>
+		<SimpleData name="leveling_line_section">1,Репер в хорошом состоянии, 2,Марка очищена от ржавчины и покрыта битумным лаком, Опознавательный знак окрашен,</SimpleData>
+		<SimpleData name="location_description">693d2425-a556-4b78-bc72-ea1596dcdb04</SimpleData>
+		<SimpleData name="status">data/stations/693d2425.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/693d2425.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>71.2847381897879,51.3509997405426</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

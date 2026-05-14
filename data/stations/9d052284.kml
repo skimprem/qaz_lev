@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="9d052284" id="9d052284">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>9d052284</name>
+  <Placemark id="9d052284.1">
+	<name>1899</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#9d052284">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">503.840</SimpleData>
+		<SimpleData name="benchmark_number">146</SimpleData>
+		<SimpleData name="control_location">Линия №16: пир. 4 кл. Колхозная - марка 6, II класс (3). Участок п.п. 22 - марка 6</SimpleData>
+		<SimpleData name="benchmark_type">Караганда, гор., в 2.2 км к юго-зап. от кирпичного завода №4, в 0.6 км к юго-зап. от глиняного карьера</SimpleData>
+		<SimpleData name="location_description">9d052284-be79-4cd8-ac16-41df59c0b530</SimpleData>
+		<SimpleData name="status">data/stations/9d052284.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/9d052284.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>73.0024230047209,49.7508199419193</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

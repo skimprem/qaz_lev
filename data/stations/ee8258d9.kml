@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="ee8258d9" id="ee8258d9">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>ee8258d9</name>
+  <Placemark id="ee8258d9.1">
+	<name>9049</name>
+	<description>грунт. реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#ee8258d9">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">106.476</SimpleData>
+		<SimpleData name="leveling_height">0</SimpleData>
+		<SimpleData name="benchmark_number">146 оп</SimpleData>
+		<SimpleData name="benchmark_type">Седьмой аул, с., в 0,4 км к юго-вост.от него, км стб. 426/427, в 12 м к сев-зап.от нжел-дор.полотна</SimpleData>
+		<SimpleData name="location_description">ee8258d9-e124-4773-8c25-692cc04e38b9</SimpleData>
+		<SimpleData name="status">data/stations/ee8258d9.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/ee8258d9.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>76.8023287535303,52.2630977363452</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

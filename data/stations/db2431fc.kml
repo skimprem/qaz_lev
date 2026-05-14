@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="db2431fc" id="db2431fc">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>db2431fc</name>
+  <Placemark id="db2431fc.1">
+	<name>б/N</name>
+	<name>грунт.реп</name>
+	<ExtendedData><SchemaData schemaUrl="#db2431fc">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">347.892</SimpleData>
+		<SimpleData name="leveling_order">387,234</SimpleData>
+		<SimpleData name="benchmark_number">121</SimpleData>
+		<SimpleData name="control_location">Ход от стен.реп. 5030 до грунт.реп. 6/N. II класс (8)</SimpleData>
+		<SimpleData name="benchmark_type">Астана, гор., в 5.0 км к югу от него, в 0.1 км к юго-зап.
+от подсобного хозяйства завода Сельмаш, в 0.1 км к
+вост. от дороги гор. Астана - с. Тельман</SimpleData>
+		<SimpleData name="leveling_line_section">уничтожен</SimpleData>
+		<SimpleData name="location_description">db2431fc-dbff-446e-b5bc-ec2ad4782599</SimpleData>
+		<SimpleData name="status">data/stations/db2431fc.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/db2431fc.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>71.441103697971,51.1116509751498</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="abd3765a" id="abd3765a">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>abd3765a</name>
+  <Placemark id="abd3765a.1">
+	<name>627</name>
+	<description>грунт. реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#abd3765a">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">90.994</SimpleData>
+		<SimpleData name="leveling_order">89.872</SimpleData>
+		<SimpleData name="leveling_height">Контрольный репер №1022 в фундаментной плите</SimpleData>
+		<SimpleData name="benchmark_number">116</SimpleData>
+		<SimpleData name="control_location">Линия 1: Аральск- Айтеке Би (Новоказалинск)-Жосалы, I класс(1,2). Участок: Грунт. реп. 803-марка 3926</SimpleData>
+		<SimpleData name="benchmark_type">Тубек, раз., в 3,1 км к вост. от жел.дор. казармы, на 9 пк 2557 км жел.-дор. , в 24 м к югк от оси жел.-дор. полотна. </SimpleData>
+		<SimpleData name="location_description">abd3765a-2473-4017-a9e4-f315a4120398</SimpleData>
+		<SimpleData name="status">data/stations/abd3765a.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/abd3765a.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>62.8576985997898,45.7466445525313</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

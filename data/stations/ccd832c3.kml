@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="ccd832c3" id="ccd832c3">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>ccd832c3</name>
+  <Placemark id="ccd832c3.1">
+	<name>8437</name>
+	<name>грунт. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#ccd832c3">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">110.208</SimpleData>
+		<SimpleData name="benchmark_number">160</SimpleData>
+		<SimpleData name="control_location">Линия №2: Жынгылдыкак - Тасбулак. 2 класс. Участок: грунт.реп. 1414 - грунт. реп. 5609</SimpleData>
+		<SimpleData name="benchmark_type">Соркудык. к.. в 6.4 км к юго-вост.от него. в 2.2 км к сев.от ЛЭП. в 1.2 км к сев.-вост.от могилы</SimpleData>
+		<SimpleData name="location_description">ccd832c3-8f6d-41de-8ab9-e87f19facc96</SimpleData>
+		<SimpleData name="status">data/stations/ccd832c3.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/ccd832c3.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>64.5503880871277,46.2178285851028</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

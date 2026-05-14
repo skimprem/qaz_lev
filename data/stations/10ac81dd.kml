@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="10ac81dd" id="10ac81dd">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>10ac81dd</name>
+  <Placemark id="10ac81dd.1">
+	<name>3296</name>
+	<name>стен.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#10ac81dd">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="control_location">Линия № 1: Петропавловск - Астана (Целиноград), I класс, Участок: грунт.реп. 0772 - грунт. реп. б/№ ГМС Ход от фунд.реп. 481 до марки 2368, I класс Висячий ход от фунд.реп. 1284(1027), II класс </SimpleData>
+		<SimpleData name="benchmark_type">Акколь,станц., в 0.6 км к югу от неё, на 5 пк 387 км жел.-дор., на жел.-дор.моста</SimpleData>
+		<SimpleData name="location_description">10ac81dd-ed08-4d02-bdac-420434ac26a8</SimpleData>
+		<SimpleData name="status">data/stations/10ac81dd.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/10ac81dd.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>70.9418018136277,52.0055526235068</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

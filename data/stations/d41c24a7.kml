@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="d41c24a7" id="d41c24a7">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>d41c24a7</name>
+  <Placemark id="d41c24a7.1">
+	<name>942</name>
+	<name>грунт,реп</name>
+	<ExtendedData><SchemaData schemaUrl="#d41c24a7">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">1001.571</SimpleData>
+		<SimpleData name="benchmark_number">160оп</SimpleData>
+		<SimpleData name="control_location">Линия №1: Арысь=Сары-Озек, I класс </SimpleData>
+		<SimpleData name="benchmark_type">Казбастау, раз,, в 0,3 км к сев,-вост, от него, на 10 ПК 3451 км, в 19 м к сев,от жел,-дор,полотна</SimpleData>
+		<SimpleData name="location_description">d41c24a7-9553-4341-91db-9508af8e6b26</SimpleData>
+		<SimpleData name="status">data/stations/d41c24a7.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/d41c24a7.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>70.891946651625,42.6532927235807</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

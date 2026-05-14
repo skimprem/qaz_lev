@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="c550f033" id="c550f033">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>c550f033</name>
+  <Placemark id="c550f033.1">
+	<name>7928</name>
+	<name>грунт. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#c550f033">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">543.166</SimpleData>
+		<SimpleData name="benchmark_number">160 оп. знак</SimpleData>
+		<SimpleData name="control_location">Линия № 1: Уштобе – Текели, II класс
+Участок: грунт. реп. 2940 – фунд. реп. 7980
+
+</SimpleData>
+		<SimpleData name="benchmark_type">Талдыкорган, гор., в 9.1 км к сев.-зап. от него, в 0.6 км к сев.-зап. от моста через р. Каратал, в 68 м к сев. от шоссе гор. Уштобе – гор. Талдыкорган</SimpleData>
+		<SimpleData name="location_description">c550f033-2b8b-4696-a4d0-1911f0b98994</SimpleData>
+		<SimpleData name="status">data/stations/c550f033.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/c550f033.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>78.2308014390005,45.0413146084137</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

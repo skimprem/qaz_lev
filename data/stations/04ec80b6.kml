@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="04ec80b6" id="04ec80b6">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>04ec80b6</name>
+  <Placemark id="04ec80b6.1">
+	<name>б/N</name>
+	<name>ск.реп</name>
+	<ExtendedData><SchemaData schemaUrl="#04ec80b6">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">922.230</SimpleData>
+		<SimpleData name="control_location">Линия № 5: Чилик - Кольбастау,  П класс (1,2)  Участок; фунд.реп 2208 - ск.реп. 0372</SimpleData>
+		<SimpleData name="benchmark_type">Кокпек, пикет, в 8,0 км к сев. - зап. от него, в 7 м сев. от мостика, в скале </SimpleData>
+		<SimpleData name="leveling_line_section">уничтожен</SimpleData>
+		<SimpleData name="location_description">04ec80b6-b8ed-4ade-8ada-b2cbdc29ee16</SimpleData>
+		<SimpleData name="status">data/stations/04ec80b6.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/04ec80b6.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>78.6226485886287,43.5111005945424</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

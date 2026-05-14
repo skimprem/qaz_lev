@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="f50309b9" id="f50309b9">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>f50309b9</name>
+  <Placemark id="f50309b9.1">
+	<name>4457</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#f50309b9">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">64,260</SimpleData>
+		<SimpleData name="benchmark_number">160</SimpleData>
+		<SimpleData name="control_location">Участок: грунт.реп.4711-грунт.реп. XV</SimpleData>
+		<SimpleData name="benchmark_type">Кызылкум, с., в 17.8км к сев.-вост.от него, в 3.0км к вост.от юуровой вышки, в 1.4кмк юго-вост.от мог.</SimpleData>
+		<SimpleData name="location_description">f50309b9-1c4a-45db-95f7-4926a214ca60</SimpleData>
+		<SimpleData name="status">data/stations/f50309b9.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/f50309b9.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>61.5337449086691,44.6692625878355</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

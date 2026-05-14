@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="06b2aa2b" id="06b2aa2b">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>06b2aa2b</name>
+  <Placemark id="06b2aa2b.1">
+	<name>528</name>
+	<name>стенной репер</name>
+	<ExtendedData><SchemaData schemaUrl="#06b2aa2b">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">149,209</SimpleData>
+		<SimpleData name="control_location">Висячий ход от марки 653, 2 класс (4)</SimpleData>
+		<SimpleData name="benchmark_type">Раз. № 20, раз., в 2.2 км к юго-вост, от него, 2931 км жел. дор., жел.- дор. Мост</SimpleData>
+		<SimpleData name="leveling_line_section">утрачен</SimpleData>
+		<SimpleData name="location_description">06b2aa2b-1521-4052-938d-aef625580c7b</SimpleData>
+		<SimpleData name="status">data/stations/06b2aa2b.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/06b2aa2b.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>66.5810384495273,44.2616285600748</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

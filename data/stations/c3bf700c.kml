@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="c3bf700c" id="c3bf700c">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>c3bf700c</name>
+  <Placemark id="c3bf700c.1">
+	<name>115</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#c3bf700c">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">107.300</SimpleData>
+		<SimpleData name="benchmark_number">А</SimpleData>
+		<SimpleData name="control_location">линия №1:  Чапаевский - Карасук. 2 класс. Участок: грунтовый репер.14304 - грунтовый репер. 7128</SimpleData>
+		<SimpleData name="benchmark_type">В 3.0 км к зап. От с. Демьяновка, в 3.5 км к вост. От землянки и колодца, в 5 м к сев. От дороги с. Демьяновка - с. Подстепка</SimpleData>
+		<SimpleData name="leveling_line_section">не найден</SimpleData>
+		<SimpleData name="location_description">c3bf700c-2f55-46f1-ad52-dc4eb4492c69</SimpleData>
+		<SimpleData name="status">data/stations/c3bf700c.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/c3bf700c.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.0099135067441,53.2510891288319</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="e25cac3e" id="e25cac3e">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>e25cac3e</name>
+  <Placemark id="e25cac3e.1">
+	<name>21</name>
+	<description>грунт. реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#e25cac3e">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">623.135</SimpleData>
+		<SimpleData name="leveling_order">620,303</SimpleData>
+		<SimpleData name="control_height">Контрольный репер № 20  в верхней плоскости монолита</SimpleData>
+		<SimpleData name="benchmark_number">123оп</SimpleData>
+		<SimpleData name="control_location">Участок: грунт.реп. 18 - грунт.реп. 27</SimpleData>
+		<SimpleData name="benchmark_type">Акбулак, (нежил.) с., в 12,2 км к сев.-зап.от него, в 14 м к сев.-вост.от полевой дороги с. Акбулак - с. Косшокы, в 5 м к юго-зап.от пашни</SimpleData>
+		<SimpleData name="location_description">e25cac3e-dc22-4eba-b4a6-715e34852a6e</SimpleData>
+		<SimpleData name="status">data/stations/e25cac3e.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/e25cac3e.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>74.6832549955266,49.9105718654126</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

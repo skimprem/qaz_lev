@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2cbed2ec" id="2cbed2ec">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>2cbed2ec</name>
+  <Placemark id="2cbed2ec.1">
+	<name>5809</name>
+	<name>грунт. реп. </name>
+	<ExtendedData><SchemaData schemaUrl="#2cbed2ec">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">409.810</SimpleData>
+		<SimpleData name="leveling_order">408.736</SimpleData>
+		<SimpleData name="leveling_height">4385</SimpleData>
+		<SimpleData name="control_height">Контрольный репер в верхней плоскости монолита </SimpleData>
+		<SimpleData name="benchmark_number">121 оп </SimpleData>
+		<SimpleData name="control_location">Линия № 2: Алажиде - Каратас, Участок: фунд.реп. 386 –  грунт. реп. 41</SimpleData>
+		<SimpleData name="benchmark_type">Акозек, станц., в 4.0 км к юго-зап. от нее, на 1 пк 1286 км, в 40 м к юго-зап. от км. стб. 1285/1286, в 33 м к зап. от жел. дор., в 6 м к югу от тлгр. стб. № 5960/35</SimpleData>
+		<SimpleData name="location_description">2cbed2ec-2361-4133-b115-03e8099e1613</SimpleData>
+		<SimpleData name="status">data/stations/2cbed2ec.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/2cbed2ec.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>78.6460394378499,45.7576929609736</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

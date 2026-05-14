@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="578884d7" id="578884d7">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>578884d7</name>
+  <Placemark id="578884d7.1">
+	<name>3258 (3288)</name>
+	<name>марка</name>
+	<ExtendedData><SchemaData schemaUrl="#578884d7">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">146,284</SimpleData>
+		<SimpleData name="control_location">Ход от марки 2130 до марки 2429. 2 класс (4)</SimpleData>
+		<SimpleData name="benchmark_type">Бактысай, раз., в 4.8 км юго-вост, от него, 2910 км жел. дор., в стене жел.-дор. казармы</SimpleData>
+		<SimpleData name="leveling_line_section">утрачен</SimpleData>
+		<SimpleData name="location_description">578884d7-c85f-4deb-92ef-323f40fc888b</SimpleData>
+		<SimpleData name="status">data/stations/578884d7.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/578884d7.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>66.3703674347883,44.3802609418338</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

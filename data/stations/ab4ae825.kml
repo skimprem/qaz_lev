@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="ab4ae825" id="ab4ae825">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>ab4ae825</name>
+  <Placemark id="ab4ae825.1">
+	<name>4193</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#ab4ae825">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">480,343</SimpleData>
+		<SimpleData name="control_location">Линия № 2: Аркарлы - Актас. 2 класс ( 2 ) Участок: фунд. реп. 23 - фунд. реп. 3010</SimpleData>
+		<SimpleData name="benchmark_type">Шалгинский, с., в 10.2 км к юго-вост, от него, в 2.5 км к сев. от род. Сагантайбулак, в 0.8 км к зап. от р. Сагантай, в 40 м к юго-зап. от перекрестка полевых дорог</SimpleData>
+		<SimpleData name="location_description">ab4ae825-3423-4a3b-9c22-c0d510adeac4</SimpleData>
+		<SimpleData name="status">data/stations/ab4ae825.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/ab4ae825.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>70.7951029285307,47.3088085220128</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

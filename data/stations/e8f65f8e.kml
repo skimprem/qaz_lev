@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="e8f65f8e" id="e8f65f8e">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>e8f65f8e</name>
+  <Placemark id="e8f65f8e.1">
+	<name>1033</name>
+	<name>грунт.реп.</name>
+	<description>грунт.реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#e8f65f8e">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">395.195</SimpleData>
+		<SimpleData name="leveling_order">393.676*</SimpleData>
+		<SimpleData name="control_height">в трубе</SimpleData>
+		<SimpleData name="benchmark_number">А</SimpleData>
+		<SimpleData name="control_location">Линия  №  I; Каратурангы  - Колшенгель II класс .Участок: пир.1.кл. Ортажол - фунд.реп.5785</SimpleData>
+		<SimpleData name="benchmark_type">Каншенгель,с.,в  27.2 км  к  сев.от  него, в 0,1 км  к  сев.-зап.от к.№  7, в 32 м  к зап.от  дороги  с.Кокишбай-с.Каншенгель</SimpleData>
+		<SimpleData name="location_description">e8f65f8e-7648-461d-9aa8-a0a8f0301b18</SimpleData>
+		<SimpleData name="status">data/stations/e8f65f8e.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/e8f65f8e.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.536554247085,44.5680692195735</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

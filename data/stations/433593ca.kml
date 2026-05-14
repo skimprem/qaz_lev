@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="433593ca" id="433593ca">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>433593ca</name>
+  <Placemark id="433593ca.1">
+	<name>20</name>
+	<name>грунт. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#433593ca">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">178,387</SimpleData>
+		<SimpleData name="control_location">Ход: грунт. реп. 3823-фунд. реп. 871, II класс (6)</SimpleData>
+		<SimpleData name="benchmark_type">Есенбай, разв., в 0.5 км к юго-зап. от них, в 84 м к юго-вост. от полевой дорги, в 48 м к сев.-вост. от грунт. реп. 3700</SimpleData>
+		<SimpleData name="location_description">433593ca-1ecc-4841-adf1-903b7d4c474b</SimpleData>
+		<SimpleData name="status">data/stations/433593ca.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/433593ca.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>78.6647660804211,51.1076246110418</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="1ed380ee" id="1ed380ee">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>1ed380ee</name>
+  <Placemark id="1ed380ee.1">
+	<name>158</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#1ed380ee">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">277,147</SimpleData>
+		<SimpleData name="benchmark_number">121</SimpleData>
+		<SimpleData name="control_location">Линия №2: фунд. реп. 2178 - пир. 3 кл. Ушкулын, II класс (3) Участок: пир. 4 кл. Рамковый - пир. 4 кл. Болотный</SimpleData>
+		<SimpleData name="benchmark_type">ЦЭС, с., в 4.0 км к сев.-зап. от него, в 1.7 км к сев.-зап. от развалин, в 0,1 км к сев.- вост. от полевой дороги</SimpleData>
+		<SimpleData name="location_description">1ed380ee-aece-4d2b-a92f-d097687804f0</SimpleData>
+		<SimpleData name="status">data/stations/1ed380ee.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/1ed380ee.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.7568677263834,51.3334026275426</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

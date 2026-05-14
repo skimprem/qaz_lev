@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="3d74edda" id="3d74edda">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>3d74edda</name>
+  <Placemark id="3d74edda.1">
+	<name>48</name>
+	<name>фунд.реп</name>
+	<ExtendedData><SchemaData schemaUrl="#3d74edda">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">710,446</SimpleData>
+		<SimpleData name="leveling_order">708,218</SimpleData>
+		<SimpleData name="control_height">Контрольный репер № 138 в верхней плоскости монолита </SimpleData>
+		<SimpleData name="benchmark_number">124оп</SimpleData>
+		<SimpleData name="control_location">Линия №1: Карасорский-Каркаралинск, II класс (1) Участок: грунт.реп. 50 - грунт.реп.0224</SimpleData>
+		<SimpleData name="benchmark_type">Шоптыколь, с., в 0,8 км к югу от него, в 1,5 км к сев.-зап. от развалин, в 61 м к к югу от грунт. реп. 68</SimpleData>
+		<SimpleData name="location_description">3d74edda-bdc4-4e95-9ef1-8390e4fcbf19</SimpleData>
+		<SimpleData name="status">data/stations/3d74edda.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/3d74edda.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.7040555841266,50.1228504536161</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

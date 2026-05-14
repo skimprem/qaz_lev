@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="daafe18e" id="daafe18e">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>daafe18e</name>
+  <Placemark id="daafe18e.1">
+	<name>3187</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#daafe18e">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">390.404</SimpleData>
+		<SimpleData name="control_height">Контрольный репер №3055 в верхней плоскости монолита</SimpleData>
+		<SimpleData name="benchmark_number">160 оп</SimpleData>
+		<SimpleData name="control_location">Линия №2: Есиль-Атбасар, II класс (2) Участок: грунт.реп.4113 - грунт.реп.3995</SimpleData>
+		<SimpleData name="benchmark_type">Казахская,станц.,в 6.5 км к сев.-зап.от нее,в 60 м к сев.от жел.дор.полотна,на 518 км 5 пк,в 40 м к сев.от ЛЭП</SimpleData>
+		<SimpleData name="location_description">daafe18e-06c2-4208-8bef-1ae9a1b2233d</SimpleData>
+		<SimpleData name="status">data/stations/daafe18e.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/daafe18e.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.5675931080009,51.866341549811</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

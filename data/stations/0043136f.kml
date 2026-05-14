@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="0043136f" id="0043136f">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>0043136f</name>
+  <Placemark id="0043136f.1">
+	<name>4295</name>
+	<name>грунт. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#0043136f">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">406.271</SimpleData>
+		<SimpleData name="benchmark_number">160 оп. знак</SimpleData>
+		<SimpleData name="control_location">Линия № 1: Алажиде - оз.Жаланашколь, I класс. Участок: грунт.реп. 4351 – грунт.реп. 833</SimpleData>
+		<SimpleData name="benchmark_type">Киши-Аркалы, г., в 6.6 км к юго-зап. от нее, в 6.7 км к сев. от моста на р. Емель, в 53 м к сев.-зап. от тлф. стб. 70/792, в 34 м к юго-зап. от шоссе с. Маканши – станц. Жаланашколь</SimpleData>
+		<SimpleData name="location_description">0043136f-e374-4a74-80fb-73499f831503</SimpleData>
+		<SimpleData name="status">data/stations/0043136f.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/0043136f.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>82.2446834893636,46.4306880015363</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="4c07ed56" id="4c07ed56">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>4c07ed56</name>
+  <Placemark id="4c07ed56.1">
+	<name>4154</name>
+	<name>грунт. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#4c07ed56">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">445,234</SimpleData>
+		<SimpleData name="benchmark_number">146оп</SimpleData>
+		<SimpleData name="control_location">Линия №145:  Усть-Каменогорск - Зайсан, 2 класс (19) Участок: грунт. реп. 0850 - ск. реп. 4205</SimpleData>
+		<SimpleData name="benchmark_type">Дорога Казнаковская переправа - с. Курчум, в 60 м к сев.-зап. от км. ктб. 35/145, в 60 м к юго-зап. от водосточной трубы, в 33 м к сев.-вост. от стб. линии связи 34/430</SimpleData>
+		<SimpleData name="location_description">4c07ed56-b0a5-45ec-b80c-084c206309b8</SimpleData>
+		<SimpleData name="status">data/stations/4c07ed56.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/4c07ed56.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>83.5411695603867,48.6421679026719</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

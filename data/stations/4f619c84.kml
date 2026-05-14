@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="4f619c84" id="4f619c84">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>4f619c84</name>
+  <Placemark id="4f619c84.1">
+	<name>9042</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#4f619c84">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">290,707</SimpleData>
+		<SimpleData name="control_location">Линия № 4: Жезказган (фунд, реп. 495) - Древний Курган (фунд, реп. 1377), 2 класс (5)</SimpleData>
+		<SimpleData name="benchmark_type">Алтыбай, кладб,, в 6,5 км                            к югу от него, в 56 м к вост,                      от полевой дороги, в 54 м                         к зап, от старого русла                               р, Кара Кенгир</SimpleData>
+		<SimpleData name="location_description">4f619c84-8f5c-4767-b42a-968d1f06ffe2</SimpleData>
+		<SimpleData name="status">data/stations/4f619c84.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/4f619c84.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.9766996692406,47.4696802027681</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

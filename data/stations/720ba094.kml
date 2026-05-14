@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="720ba094" id="720ba094">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>720ba094</name>
+  <Placemark id="720ba094.1">
+	<name>11602</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#720ba094">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">533,427</SimpleData>
+		<SimpleData name="leveling_order">532,307</SimpleData>
+		<SimpleData name="control_height">Контрольный репер №224 в верхней плоскости монолита</SimpleData>
+		<SimpleData name="benchmark_number">121 оп</SimpleData>
+		<SimpleData name="control_location">Линия №4; Таскарасу - Чилик, II класс (1) Участок: фунд. реп. 1407 - грунт. реп. 2438 </SimpleData>
+		<SimpleData name="benchmark_type">Чарын, с., в 12.2 км к юго - зап. от него, в 1.5 км к вост. от зимовки, в 30 м к сев. от дороги с. Чилик - с. Чарын </SimpleData>
+		<SimpleData name="location_description">720ba094-8344-41ff-8d49-7114ddb711db</SimpleData>
+		<SimpleData name="status">data/stations/720ba094.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/720ba094.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>79.231508150303,43.7498560668741</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="fc9ff369" id="fc9ff369">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>fc9ff369</name>
+  <Placemark id="fc9ff369.1">
+	<name>226</name>
+	<name>грунт. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#fc9ff369">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">402,658</SimpleData>
+		<SimpleData name="leveling_order">400,513</SimpleData>
+		<SimpleData name="control_height">репер в верхней плоскости монолита </SimpleData>
+		<SimpleData name="benchmark_number">123</SimpleData>
+		<SimpleData name="control_location">Линия №3:  Каракас - Буран, 2 класс (3) Участок: грунт. реп. 225 - грунт. реп. 1234</SimpleData>
+		<SimpleData name="benchmark_type">Аксуат (Белая Могила), с., в 3.0 км к сев.-зап. от него, в 0.3 км к сев. от дороги с. Аксуат (Белая Могила) - зим. Карашилик</SimpleData>
+		<SimpleData name="location_description">fc9ff369-a049-4a14-8adf-1ba399fe7957</SimpleData>
+		<SimpleData name="status">data/stations/fc9ff369.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/fc9ff369.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>83.6471172625815,48.2278495300292</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

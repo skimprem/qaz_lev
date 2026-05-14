@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="694f0509" id="694f0509">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>694f0509</name>
+  <Placemark id="694f0509.1">
+	<name>190</name>
+	<name>грунт. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#694f0509">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">734.112</SimpleData>
+		<SimpleData name="leveling_order">732,231</SimpleData>
+		<SimpleData name="control_height">репер в верхней плоскости монолита</SimpleData>
+		<SimpleData name="benchmark_number">123</SimpleData>
+		<SimpleData name="control_location">Линия №1: Усть-Каменогорск-Берёзовка, 2 класс (2) Участок: грунт. реп.188 - грунт. реп. 195</SimpleData>
+		<SimpleData name="benchmark_type">Феклистовка, с., в 7.0 км к югу от него, в 50 м к зап. от дороги гор. Усть-Каменогорск - с. Северное</SimpleData>
+		<SimpleData name="location_description">694f0509-acbc-431d-b41e-d5d632631cdd</SimpleData>
+		<SimpleData name="status">data/stations/694f0509.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/694f0509.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>83.1036622741023,49.8577969716043</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

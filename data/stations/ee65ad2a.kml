@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="ee65ad2a" id="ee65ad2a">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>ee65ad2a</name>
+  <Placemark id="ee65ad2a.1">
+	<name>3897</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#ee65ad2a">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">129.974</SimpleData>
+		<SimpleData name="benchmark_number">121</SimpleData>
+		<SimpleData name="control_location">Линия №I: Волотовка-Чапаевский, II класс (I) Участок:  грунт. реп. 3897-грунт. реп. 2987 </SimpleData>
+		<SimpleData name="benchmark_type">Голубовка,с., в 9.0 км к сев. от него, в 6.5 км к юго-зап. от разв. с.Соколиновка, в 14 м к зап. от дороги разв. с.Соколиновка - с.Голубовка</SimpleData>
+		<SimpleData name="location_description">ee65ad2a-9f06-4224-86d1-f0dc67f2e5c6</SimpleData>
+		<SimpleData name="status">data/stations/ee65ad2a.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/ee65ad2a.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>74.1998501968439,53.2150225162054</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="3f5201ac" id="3f5201ac">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>3f5201ac</name>
+  <Placemark id="3f5201ac.1">
+	<name>621</name>
+	<name>грунт.реп.</name>
+	<description>грунт.реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#3f5201ac">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">345.184</SimpleData>
+		<SimpleData name="leveling_order">343.391*</SimpleData>
+		<SimpleData name="leveling_height">№ 392</SimpleData>
+		<SimpleData name="control_height">В фундаментной плите</SimpleData>
+		<SimpleData name="benchmark_number">116 оп.знак</SimpleData>
+		<SimpleData name="control_location">Линия № 4:Урочище Куйган-Лепсы, II класс                            Участок: фунд.реп. 5749-грунт.реп. 991</SimpleData>
+		<SimpleData name="benchmark_type">Фрунзе, с., в 12.5 км к вост. от него, в 75 м к зап. от развалин,  в 15 м к сев.от полевой дороги </SimpleData>
+		<SimpleData name="location_description">3f5201ac-1f3a-4a77-8def-d013885396b8</SimpleData>
+		<SimpleData name="status">data/stations/3f5201ac.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/3f5201ac.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.4937973012196,46.4078750400007</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

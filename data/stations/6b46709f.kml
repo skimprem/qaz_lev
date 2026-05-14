@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="6b46709f" id="6b46709f">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>6b46709f</name>
+  <Placemark id="6b46709f.1">
+	<name>1760</name>
+	<name>грунт. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#6b46709f">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">174.873</SimpleData>
+		<SimpleData name="leveling_order">173.748</SimpleData>
+		<SimpleData name="benchmark_number">121</SimpleData>
+		<SimpleData name="control_location">Линия № 1: Сагиз - Кандагач, I класс. Участок: грунт.реп. 2025 - марка 2404</SimpleData>
+		<SimpleData name="benchmark_type">Кинжалы, станц., в 1.0 км к юго-зап.от неё, на 5 пк. 119 км, в 69 м к сев.-зап.от жел.-дор.полотна, в 19 м к сев.-зап.от тлф.стб. № 25</SimpleData>
+		<SimpleData name="leveling_line_section">Утрачен</SimpleData>
+		<SimpleData name="location_description">6b46709f-4618-41d0-bc9a-c2f10527c26a</SimpleData>
+		<SimpleData name="status">data/stations/6b46709f.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/6b46709f.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>56.22708683928,48.9741377428353</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

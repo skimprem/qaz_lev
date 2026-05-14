@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="30678ecf" id="30678ecf">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>30678ecf</name>
+  <Placemark id="30678ecf.1">
+	<name>1014</name>
+	<description>грунт.реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#30678ecf">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">364.580</SimpleData>
+		<SimpleData name="benchmark_number">160 оп.знак</SimpleData>
+		<SimpleData name="control_location">Линия № 1:Торнтоган-Берлик I класс                            Участок: пир.2 кл.Сухое Русло - грунт.реп.5241</SimpleData>
+		<SimpleData name="benchmark_type">Кызылту,с.,в  2.4  км  к  сев.-зап.от  него,
+в  0.1  км  к  зап.от  км.стб.  шоссе  с.Фур-
+мановка-с.Бирлик,в  13  м  к  зап.от  пово
+ротного  стб.линии  связи</SimpleData>
+		<SimpleData name="location_description">30678ecf-dd68-4d9f-9ffb-78d3c73c3e4e</SimpleData>
+		<SimpleData name="status">data/stations/30678ecf.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/30678ecf.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>73.1569641244566,44.2697251380881</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

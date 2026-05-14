@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="b6360375" id="b6360375">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>b6360375</name>
+  <Placemark id="b6360375.1">
+	<name>587</name>
+	<name>грунт,реп,</name>
+	<ExtendedData><SchemaData schemaUrl="#b6360375">
+		<SimpleData name="type">I</SimpleData>
+		<SimpleData name="view">147.428</SimpleData>
+		<SimpleData name="benchmark_number">160 оп,знак</SimpleData>
+		<SimpleData name="control_location">Линия №1: Костанай - Петропавловск, I класс, Участок: грунт,реп, 0790 - грунт,реп, 0785</SimpleData>
+		<SimpleData name="benchmark_type">Сергеевка, гор,, в 2,9 км к юго-зап,от него, в 1,1 км к сев,-зап,от пол,ст,, у шоссе гор, Сергеевка - с, Тимирязево</SimpleData>
+		<SimpleData name="location_description">b6360375-13e5-4e98-97c4-0d5efe33e91e</SimpleData>
+		<SimpleData name="status">data/stations/b6360375.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/b6360375.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.3578805598614,53.8702003946297</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

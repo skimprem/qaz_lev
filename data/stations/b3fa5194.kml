@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="b3fa5194" id="b3fa5194">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>b3fa5194</name>
+  <Placemark id="b3fa5194.1">
+	<name>7804</name>
+	<description>грунт.реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#b3fa5194">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">409.909</SimpleData>
+		<SimpleData name="benchmark_number">146</SimpleData>
+		<SimpleData name="control_location">Линия №1 Карталы -Кандагач Участок фунд.реп.95 -грунт.реп.5595</SimpleData>
+		<SimpleData name="benchmark_type">Просторное,станц.,в 9.8 км к сев.-вост.от неё,на 5-ом пк.121 км жел.дор.,в 15 м к зап.от жел.-дор.полотна</SimpleData>
+		<SimpleData name="location_description">b3fa5194-d017-4753-af7c-1737aa373c0c</SimpleData>
+		<SimpleData name="status">data/stations/b3fa5194.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/b3fa5194.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>58.1714944926073,50.2151076483747</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="f30615ff" id="f30615ff">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>f30615ff</name>
+  <Placemark id="f30615ff.1">
+	<name>3630</name>
+	<description>грунт. реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#f30615ff">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">563.948</SimpleData>
+		<SimpleData name="benchmark_number">160оп</SimpleData>
+		<SimpleData name="control_location">Линия № 1: Акмола (Целиноград) -Нуринская, I класс (1) Участок: пир. 2 кл. Анар -грунт.реп. 92083</SimpleData>
+		<SimpleData name="benchmark_type">Актасты, станция., в 2,6 км к сев.-зап. От нее, на I ПК 619 км, в 35 м к сев.от жел.-дор.полотна</SimpleData>
+		<SimpleData name="leveling_line_section">репер не подлежал обследованию</SimpleData>
+		<SimpleData name="location_description">f30615ff-c735-4c4b-9fac-c942ed1fca50</SimpleData>
+		<SimpleData name="status">data/stations/f30615ff.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/f30615ff.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.6655547889794,50.4679587097867</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

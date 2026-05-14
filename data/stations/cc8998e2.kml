@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="cc8998e2" id="cc8998e2">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>cc8998e2</name>
+  <Placemark id="cc8998e2.1">
+	<name>7204</name>
+	<name>грунт. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#cc8998e2">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">718.669</SimpleData>
+		<SimpleData name="leveling_order">716,556</SimpleData>
+		<SimpleData name="control_height">репер № 6098 в верхней плоскости монолита</SimpleData>
+		<SimpleData name="benchmark_number">121</SimpleData>
+		<SimpleData name="control_location">Линия № 1: Аягуз-Жангиз-Тобе, I класс (1) Участок: марка 20827-грунт. реп. 4089</SimpleData>
+		<SimpleData name="benchmark_type">Айгыржал, станц., в 6.5 км к сев. от нее, на 5 пикете 296 км, в 0.1 км к зап. от оси жел.-дор. полотна</SimpleData>
+		<SimpleData name="location_description">cc8998e2-d51a-4877-9821-1d03fcc959d8</SimpleData>
+		<SimpleData name="status">data/stations/cc8998e2.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/cc8998e2.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>80.4426438938892,48.3163282926586</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

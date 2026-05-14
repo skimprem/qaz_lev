@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="805cd27c" id="805cd27c">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>805cd27c</name>
+  <Placemark id="805cd27c.1">
+	<name>254</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#805cd27c">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">492,187</SimpleData>
+		<SimpleData name="leveling_order">489,985</SimpleData>
+		<SimpleData name="control_height">Контрольный репер в верхней плоскости монолита</SimpleData>
+		<SimpleData name="benchmark_number">121</SimpleData>
+		<SimpleData name="control_location">Линия №8: ск.реп.1515-пир.4 кл.Егизтобе, II класс (4,7) Участок: ск.реп.1515 - пир.4 кл. Загон</SimpleData>
+		<SimpleData name="benchmark_type">Нуринская станция, в 2,3 км в юго-зап. от нее в 1,0 км к сев. от с. Токаревка, в 0,2 км к  вост. от линии связи</SimpleData>
+		<SimpleData name="leveling_line_section">уничтожен</SimpleData>
+		<SimpleData name="location_description">805cd27c-d20b-424f-8e68-239e1ed4740a</SimpleData>
+		<SimpleData name="status">data/stations/805cd27c.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/805cd27c.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>73.1544823935182,50.1309820926516</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

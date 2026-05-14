@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="b131b8cb" id="b131b8cb">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>b131b8cb</name>
+  <Placemark id="b131b8cb.1">
+	<name>1082</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#b131b8cb">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">159.415</SimpleData>
+		<SimpleData name="leveling_order">160.510</SimpleData>
+		<SimpleData name="control_height">Контрольный репер № 1675 в верхней плоскости монолита</SimpleData>
+		<SimpleData name="benchmark_number">121 (уничтожен)</SimpleData>
+		<SimpleData name="control_location">Линия № 1: Тран - Благовещенка. II класс 
+Участок: грунт. реп. 979 - фунд. реп. 3109</SimpleData>
+		<SimpleData name="benchmark_type">Каракамыс, с., в 4.0 км к юго-вост. от него, в 2.4 км к
+сев.-вост. от кладбища, в 15 м к сев. от полевой дороги</SimpleData>
+		<SimpleData name="location_description">b131b8cb-dbe6-4f5c-99b5-03d70ccc3f8a</SimpleData>
+		<SimpleData name="status">data/stations/b131b8cb.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/b131b8cb.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>66.4157651754998,54.2411662745021</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

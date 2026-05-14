@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="e35deb2f" id="e35deb2f">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>e35deb2f</name>
+  <Placemark id="e35deb2f.1">
+	<name>8160</name>
+	<description>грунт.репер</description>
+	<ExtendedData><SchemaData schemaUrl="#e35deb2f">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">83.420</SimpleData>
+		<SimpleData name="leveling_order">81.566</SimpleData>
+		<SimpleData name="benchmark_number">121</SimpleData>
+		<SimpleData name="control_location">Линия №4 Жаксыкарсакбас -Коккабак (Кеншагыл) Участок фунд.реп.351 -грунт.реп.8572</SimpleData>
+		<SimpleData name="benchmark_type">Жаныс,оз.,в 2.1 км к сев.-вост.от него,в 0.6 км к вост.от полевой дороги</SimpleData>
+		<SimpleData name="location_description">e35deb2f-c516-46b1-97cc-bb24571fe0ec</SimpleData>
+		<SimpleData name="status">data/stations/e35deb2f.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/e35deb2f.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>62.4982922752258,49.0493510206421</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

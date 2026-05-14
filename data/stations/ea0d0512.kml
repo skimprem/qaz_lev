@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="ea0d0512" id="ea0d0512">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>ea0d0512</name>
+  <Placemark id="ea0d0512.1">
+	<name>92311</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#ea0d0512">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">98.427</SimpleData>
+		<SimpleData name="benchmark_number">121</SimpleData>
+		<SimpleData name="control_location">Линия: Славгородское- Айбас, II класс (2). Участок:  гр. рп. 10390-гр. рп. 92804</SimpleData>
+		<SimpleData name="benchmark_type">Молодая Гвардия, с., в 5 км к юго-вост. от него, в 30 м влево от полевой дороги в с.Отд.№ 3 свх.Молодая Гвардия, в 100 м к югу от искусственного водоема</SimpleData>
+		<SimpleData name="location_description">ea0d0512-d250-40ee-a998-517fe41778a7</SimpleData>
+		<SimpleData name="status">data/stations/ea0d0512.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/ea0d0512.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.706577404977,53.3672921483515</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

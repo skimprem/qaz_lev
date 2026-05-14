@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="8020a006" id="8020a006">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>8020a006</name>
+  <Placemark id="8020a006.1">
+	<name>1918</name>
+	<name>фунд,реп,</name>
+	<ExtendedData><SchemaData schemaUrl="#8020a006">
+		<SimpleData name="type">I</SimpleData>
+		<SimpleData name="view">368.031</SimpleData>
+		<SimpleData name="leveling_order">366,506</SimpleData>
+		<SimpleData name="control_height">Контрольный репер в верхней плоскости монолита</SimpleData>
+		<SimpleData name="benchmark_number">119</SimpleData>
+		<SimpleData name="control_location">Линия №2: Тюемойнак-Жарык, I класс (2) Участок: фунд,реп,497 - пир, 1 кл,Арал-Тюбе</SimpleData>
+		<SimpleData name="benchmark_type">Кызылжар, станция, в 10,5 км к сев,-вост, от нее, на 8 пк
+244 км, в 50 м к сев, от жел,-дор, полотна</SimpleData>
+		<SimpleData name="location_description">8020a006-c2c7-4695-8c0e-a91ddf748d4d</SimpleData>
+		<SimpleData name="status">data/stations/8020a006.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/8020a006.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>69.7853786888926,48.3209895945892</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

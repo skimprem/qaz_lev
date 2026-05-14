@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="ee8623b7" id="ee8623b7">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>ee8623b7</name>
+  <Placemark id="ee8623b7.1">
+	<name>9446</name>
+	<name>фунд. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#ee8623b7">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">390.339</SimpleData>
+		<SimpleData name="leveling_order">389,227*</SimpleData>
+		<SimpleData name="leveling_height">1504</SimpleData>
+		<SimpleData name="control_height">Контрольный репер в фундаментной плите</SimpleData>
+		<SimpleData name="benchmark_number">161 оп. знак</SimpleData>
+		<SimpleData name="control_location">Линия № 1: Актогай – Сайкан, II класс 
+Участок: грунт.реп. 0125 – фунд.реп. 9446
+</SimpleData>
+		<SimpleData name="benchmark_type">Сайкан, станц., в 1.7 км к юго-вост. от нее, в 50 м к вост. от шоссе гор. Алматы – гор. Усть-Каменогорск, в 40 м к югу от перекрестка полевых дорог</SimpleData>
+		<SimpleData name="location_description">ee8623b7-174e-4013-98df-790934e38e7c</SimpleData>
+		<SimpleData name="status">data/stations/ee8623b7.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/ee8623b7.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>80.6983231473726,46.4108635295713</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

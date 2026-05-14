@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="83821410" id="83821410">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>83821410</name>
+  <Placemark id="83821410.1">
+	<name>91628</name>
+	<description>грунт. реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#83821410">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">440.201</SimpleData>
+		<SimpleData name="leveling_order">438,329</SimpleData>
+		<SimpleData name="control_height">Контрольный репер №495 в верхней плоскости монолита</SimpleData>
+		<SimpleData name="benchmark_number">121</SimpleData>
+		<SimpleData name="control_location">Линия №2: Целиноград - Актасты, I класс (2) Участок: грунт.реп. 91430 - марка 2139</SimpleData>
+		<SimpleData name="benchmark_type">Вишневка, станц., в 4,2 км к сев.-зап.от неё, на 6 ПК 553 км, в 32 м к сев.от жел.-пор.полотна</SimpleData>
+		<SimpleData name="location_description">83821410-e50e-4cb9-bb03-c27ebfda6a7d</SimpleData>
+		<SimpleData name="status">data/stations/83821410.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/83821410.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.112230782203,50.8897942135137</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

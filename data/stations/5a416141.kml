@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="5a416141" id="5a416141">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>5a416141</name>
+  <Placemark id="5a416141.1">
+	<name>1009</name>
+	<name>грунт. Реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#5a416141">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">154.744</SimpleData>
+		<SimpleData name="benchmark_number">146 оп</SimpleData>
+		<SimpleData name="control_location">Линия №4 : Амангельды-Байконур, II класс(2) . Участок : марка 2839-грунт. Реп. 0671</SimpleData>
+		<SimpleData name="benchmark_type">Жанайтай, с., в 8.7 км к юго-вост.от него, в 6.7 км к сев.-вост.от оз.Жуалагаш, в 20 м к зап.от дороги с.Жанатай-с.Рахмет</SimpleData>
+		<SimpleData name="location_description">5a416141-e770-449a-ae09-9c921b8fd821</SimpleData>
+		<SimpleData name="status">data/stations/5a416141.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/5a416141.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>65.24504518457,50.0384343571745</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

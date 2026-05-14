@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="39cb563e" id="39cb563e">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>39cb563e</name>
+  <Placemark id="39cb563e.1">
+	<name>1</name>
+	<name>стен.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#39cb563e">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">227.593</SimpleData>
+		<SimpleData name="control_location">Линия № 2: Кошетау-Володарское, II класс. Участок: фунд.реп. 478-грунт.реп. 2674. Висячий ход от стен.реп. 5742,II класс</SimpleData>
+		<SimpleData name="benchmark_type">Кокшетау, гор., в здании вдкч.на берегу оз Копа</SimpleData>
+		<SimpleData name="location_description">39cb563e-8670-43ed-98d9-e59fea4f87df</SimpleData>
+		<SimpleData name="status">data/stations/39cb563e.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/39cb563e.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>69.3799800599535,53.2970194602667</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

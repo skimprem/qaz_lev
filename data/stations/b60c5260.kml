@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="b60c5260" id="b60c5260">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>b60c5260</name>
+  <Placemark id="b60c5260.1">
+	<name>357</name>
+	<name>грунт. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#b60c5260">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">95.240</SimpleData>
+		<SimpleData name="benchmark_number">160 оп. знак</SimpleData>
+		<SimpleData name="control_location">Линия № 2 : Коккабак - Жынгылдак, II класс. Участок: фунд. реп. 2 - грунт. реп. 308</SimpleData>
+		<SimpleData name="benchmark_type">Каракум, разв., в 2.5 км к сев.-вост. от них, в 0.6 км к югу от с. Казангап, в 40 м к сев. от полевой дороги</SimpleData>
+		<SimpleData name="location_description">b60c5260-45d9-4f87-b6f5-8d8f08b9b831</SimpleData>
+		<SimpleData name="status">data/stations/b60c5260.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/b60c5260.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>63.8041906136075,47.8661963647481</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

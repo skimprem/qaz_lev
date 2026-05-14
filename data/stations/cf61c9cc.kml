@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="cf61c9cc" id="cf61c9cc">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>cf61c9cc</name>
+  <Placemark id="cf61c9cc.1">
+	<name>951</name>
+	<description>грунт. реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#cf61c9cc">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">505.975</SimpleData>
+		<SimpleData name="leveling_order">504.351</SimpleData>
+		<SimpleData name="control_height">Контрольный репер №14772 в верхней плоскости монолита</SimpleData>
+		<SimpleData name="benchmark_number">121</SimpleData>
+		<SimpleData name="control_location">Линия №1:Нуринская-Чурбай-Нура, I класс (1) Участок: грунт.реп.951 - фунд.реп. б/№</SimpleData>
+		<SimpleData name="benchmark_type">Большая Михайловка, станц., в 9,0 км к юго-зап.от нее, на 2 пикете 746 км, в 88 м к юго-вост.от жел.-дор. полотна</SimpleData>
+		<SimpleData name="leveling_line_section">не подлежал обследованию</SimpleData>
+		<SimpleData name="location_description">cf61c9cc-bc48-4054-a1f0-749d3f86b1fa</SimpleData>
+		<SimpleData name="status">data/stations/cf61c9cc.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/cf61c9cc.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>73.017504112938,49.6872369414908</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

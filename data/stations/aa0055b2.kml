@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="aa0055b2" id="aa0055b2">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>aa0055b2</name>
+  <Placemark id="aa0055b2.1">
+	<name>4208</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#aa0055b2">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">310.687</SimpleData>
+		<SimpleData name="benchmark_number">160 оп, знак</SimpleData>
+		<SimpleData name="control_location">Линия № I: Джусалы - Карсакпай, I класс (1) Участок: грунт, реп, 5846- грунт,реп, 5833</SimpleData>
+		<SimpleData name="benchmark_type">Развалины, в 0,9 км к югу от них, в 0,6 км к югу от р, Коктал, в 10 м к вост, от дороги, в 1 м к югу от оп, стб,</SimpleData>
+		<SimpleData name="location_description">aa0055b2-445e-4cd6-8594-ebc2c5776fc1</SimpleData>
+		<SimpleData name="status">data/stations/aa0055b2.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/aa0055b2.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>66.0403350939074,47.3199490247269</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

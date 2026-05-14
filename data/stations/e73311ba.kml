@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="e73311ba" id="e73311ba">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>e73311ba</name>
+  <Placemark id="e73311ba.1">
+	<name>Сарсеккур </name>
+	<description>пирамида</description>
+	<ExtendedData><SchemaData schemaUrl="#e73311ba">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">1184.936  марка №130 в боковой граня тура </SimpleData>
+		<SimpleData name="leveling_order">1185.765*</SimpleData>
+		<SimpleData name="leveling_height">41</SimpleData>
+		<SimpleData name="control_height">Марка в верхней плоскости тура </SimpleData>
+		<SimpleData name="benchmark_number">Б</SimpleData>
+		<SimpleData name="control_location">Линия № 18: грунт.реп. 15915 - грунт.реп. 15915, ІІ класс (І)            </SimpleData>
+		<SimpleData name="benchmark_type">Кокпек,пикет, в 8,5 км к сев. от него, в 1,5 км к юго - зап. от разв. Сарсеккура, в 1,2 км к вост. от дороги с.Чилик - с.Жаланаш </SimpleData>
+		<SimpleData name="location_description">e73311ba-edbb-4442-9a4a-a47bb1d09691</SimpleData>
+		<SimpleData name="status">data/stations/e73311ba.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/e73311ba.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>78.6309812004478,43.5193740057488</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

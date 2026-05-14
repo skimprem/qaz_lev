@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="bc332cef" id="bc332cef">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>bc332cef</name>
+  <Placemark id="bc332cef.1">
+	<name>1617</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#bc332cef">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">250.377</SimpleData>
+		<SimpleData name="benchmark_number">146 оп</SimpleData>
+		<SimpleData name="control_location">Линия №1: Челкар-Сарысай. II класс. Участок: грунт.реп. 3516-фунд.реп. 7680</SimpleData>
+		<SimpleData name="benchmark_type">Шалкар. станц.. в 85.3 км к сев.-вост. от неё. в 3.8 км к сев.-вост. от к.Соркудук. в 0.3 км сев. от грейдера станц.Шалкар-с.Ыргыз. в 30 м к вост. от кустарников</SimpleData>
+		<SimpleData name="location_description">bc332cef-a33a-48a1-bcb5-55cd2877c00d</SimpleData>
+		<SimpleData name="status">data/stations/bc332cef.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/bc332cef.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>60.4489755212952,48.2955509818933</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

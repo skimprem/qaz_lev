@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="202a29fb" id="202a29fb">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>202a29fb</name>
+  <Placemark id="202a29fb.1">
+	<name>4002</name>
+	<name>грунт,реп,</name>
+	<ExtendedData><SchemaData schemaUrl="#202a29fb">
+		<SimpleData name="type">І</SimpleData>
+		<SimpleData name="view">432.253</SimpleData>
+		<SimpleData name="benchmark_number">160</SimpleData>
+		<SimpleData name="control_location">Линия № 1: Тюемойнак - Жарык, І класс (1) Участок: грунт,реп, 5222 - грунт,реп, 1644</SimpleData>
+		<SimpleData name="benchmark_type">Манадырь, станция, в 8,5 км к вост от нее, на 10 пк 167 км жел дор,, в 41 м к сев от жел дор,, в 4 м к сев от линии связи</SimpleData>
+		<SimpleData name="location_description">202a29fb-2828-40cb-81ec-28499d856bcc</SimpleData>
+		<SimpleData name="status">data/stations/202a29fb.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/202a29fb.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>70.7327699360617,48.5532748837346</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="4af963d2" id="4af963d2">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>4af963d2</name>
+  <Placemark id="4af963d2.1">
+	<name>7660</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#4af963d2">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">200.820</SimpleData>
+		<SimpleData name="control_location">Линия № 4: Тимур- Баиркум,  II класс</SimpleData>
+		<SimpleData name="benchmark_type">Сарыколь, с., в 2.8 км к юго.-зап.от него, в 1.0 км к сев.-зап.от зимовки, в 0.1 км к сев.от опоры № 128 ЛЭП, в 20 м к сев.от дороги с.Шаульдер-с.Коксарай</SimpleData>
+		<SimpleData name="location_description">4af963d2-a498-46ff-9bd4-bf713e7b58ec</SimpleData>
+		<SimpleData name="status">data/stations/4af963d2.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/4af963d2.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>68.2667275775852,42.6161583417636</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

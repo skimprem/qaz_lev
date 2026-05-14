@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="e4d04b89" id="e4d04b89">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>e4d04b89</name>
+  <Placemark id="e4d04b89.1">
+	<name>7204</name>
+	<name>грунт. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#e4d04b89">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">718.669</SimpleData>
+		<SimpleData name="leveling_order">716,556</SimpleData>
+		<SimpleData name="control_height">репер № 6098 в верхней плоскости монолита</SimpleData>
+		<SimpleData name="benchmark_number">121</SimpleData>
+		<SimpleData name="control_location">Линия № 1: Аягуз-Жангиз-Тобе, I класс (1) Участок: марка 20827-грунт. реп. 4089</SimpleData>
+		<SimpleData name="benchmark_type">Енрекей, раз., в 4.4 км к сев.-вост. от него, на 287 км, устой жел.-дор. моста</SimpleData>
+		<SimpleData name="location_description">e4d04b89-e6d0-4ec5-aa4c-c27cc69baa49</SimpleData>
+		<SimpleData name="status">data/stations/e4d04b89.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/e4d04b89.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>80.4426438938892,48.3163282926586</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

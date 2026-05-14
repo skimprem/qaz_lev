@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="27ba936f" id="27ba936f">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>27ba936f</name>
+  <Placemark id="27ba936f.1">
+	<name>1501</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#27ba936f">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">806,586</SimpleData>
+		<SimpleData name="leveling_order">805,033</SimpleData>
+		<SimpleData name="control_height">Контрольный репер в верхней плоскости монолита</SimpleData>
+		<SimpleData name="control_location">Линия № 4: Акбулак - Акозек, II класс (4) Участок: фунд.реп. 3398 - грунт.реп. 15855</SimpleData>
+		<SimpleData name="benchmark_type">Татан, с., в 3.9 км к сев.-вост. от него, в 1.0 км к сев. от дороги с. Татан-с.Кара-Булак, на пашне</SimpleData>
+		<SimpleData name="leveling_line_section">уничтожен</SimpleData>
+		<SimpleData name="location_description">27ba936f-1621-4862-9779-1a01c250173e</SimpleData>
+		<SimpleData name="status">data/stations/27ba936f.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/27ba936f.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>76.7553582340846,48.7233382426264</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

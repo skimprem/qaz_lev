@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="dad81421" id="dad81421">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>dad81421</name>
+  <Placemark id="dad81421.1">
+	<name>346</name>
+	<description>грунт.реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#dad81421">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">237.939</SimpleData>
+		<SimpleData name="leveling_order">236,834</SimpleData>
+		<SimpleData name="benchmark_number">121</SimpleData>
+		<SimpleData name="control_location">Линия №1: Карабутак-Жанатурмыс, II класс. Участок: грунт.реп.231-грунт.реп.228</SimpleData>
+		<SimpleData name="benchmark_type">Бажанколь, с., в 5.0 км к сев.-зап. от него, в 0.7 км к сев.-зап. от ур. Боранбай, в 15 м к юго-вост. от дороги с. Сарат - с. Аксуат</SimpleData>
+		<SimpleData name="location_description">dad81421-5d52-448d-9b13-55d6d3df5a93</SimpleData>
+		<SimpleData name="status">data/stations/dad81421.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/dad81421.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>61.5590482376016,50.2480960403296</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

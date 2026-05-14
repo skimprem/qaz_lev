@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="bea7cc27" id="bea7cc27">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>bea7cc27</name>
+  <Placemark id="bea7cc27.1">
+	<name>924</name>
+	<name>грунт.реп.</name>
+	<description>грунт.реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#bea7cc27">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">567.559</SimpleData>
+		<SimpleData name="leveling_order">566.451*</SimpleData>
+		<SimpleData name="control_height">В верхней плоскости монолита </SimpleData>
+		<SimpleData name="benchmark_number">121</SimpleData>
+		<SimpleData name="control_location">Линия №3: Бурубайтал - Актас, II класс Участок: грунт.реп.5738 - грунт.реп.316</SimpleData>
+		<SimpleData name="benchmark_type">Науша.род.,в  1.4  т к  вост.от  него, в 40  м  к  югу  от  дороги  станц.Чиганак-род.
+Науша</SimpleData>
+		<SimpleData name="location_description">bea7cc27-2cbf-47cc-b337-ffce5637b009</SimpleData>
+		<SimpleData name="status">data/stations/bea7cc27.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/bea7cc27.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>73.1206193912193,44.8567667762533</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

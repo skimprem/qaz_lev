@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="61f4670b" id="61f4670b">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>61f4670b</name>
+  <Placemark id="61f4670b.1">
+	<name>5505</name>
+	<description>грунт.реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#61f4670b">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="benchmark_number">5 (146)</SimpleData>
+		<SimpleData name="control_location">Линия № 2: Миролюбовка -Сорочинка, от марки 1610 до грунт. реп. 3189</SimpleData>
+		<SimpleData name="benchmark_type">Варваровка с., в 1.6 км к югу от него, в 24 м к юго-вост. от перекрестка полевых дорог</SimpleData>
+		<SimpleData name="location_description">61f4670b-7f49-4c30-89e7-ab46fcd1fb97</SimpleData>
+		<SimpleData name="status">data/stations/61f4670b.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/61f4670b.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>65.2005503286468,53.7531701758729</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

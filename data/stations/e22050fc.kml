@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="e22050fc" id="e22050fc">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>e22050fc</name>
+  <Placemark id="e22050fc.1">
+	<name>903,</name>
+	<name>грунт.реп.</name>
+	<description>грунт.реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#e22050fc">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">359.100</SimpleData>
+		<SimpleData name="leveling_order">357.305*</SimpleData>
+		<SimpleData name="leveling_height">№668</SimpleData>
+		<SimpleData name="control_height">В фундаментной плите</SimpleData>
+		<SimpleData name="benchmark_number">116 оп.знак</SimpleData>
+		<SimpleData name="control_location">Линия № I: Акколь - урочише Куйган, II класс    Участок: грунт. реп. 1118 - грунт.реп. 739
+</SimpleData>
+		<SimpleData name="benchmark_type">Коктал,с.,в 5.4 км к сев.-зап.от него,в 0.1 км к сев.от оз.Койколь,у полевой дороги</SimpleData>
+		<SimpleData name="location_description">e22050fc-1b86-4520-8e09-0246b1ea8a0d</SimpleData>
+		<SimpleData name="status">data/stations/e22050fc.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/e22050fc.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.1857160860921,45.5075350636829</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

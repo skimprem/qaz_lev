@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="8b9cfbaf" id="8b9cfbaf">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>8b9cfbaf</name>
+  <Placemark id="8b9cfbaf.1">
+	<name>б/№</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#8b9cfbaf">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">272.414</SimpleData>
+		<SimpleData name="benchmark_number">121 оп</SimpleData>
+		<SimpleData name="control_location">Линия №1: Сергеевка - Терсакан, II класс (I) Участок: грунт.реп.390 - грунт.реп.б/№</SimpleData>
+		<SimpleData name="benchmark_type">Шалгай,с.,в 10.2 км к сев.от него,в 8.2 км к югу от с.Гагаринский,в 0.5 км к вост.от р.Терисаккан</SimpleData>
+		<SimpleData name="location_description">8b9cfbaf-57a2-4fd0-a00b-2748a53c926e</SimpleData>
+		<SimpleData name="status">data/stations/8b9cfbaf.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/8b9cfbaf.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.7469257615626,50.8238334810012</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

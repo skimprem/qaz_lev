@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="0dd98fab" id="0dd98fab">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>0dd98fab</name>
+  <Placemark id="0dd98fab.1">
+	<name>2399</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#0dd98fab">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">118.220</SimpleData>
+		<SimpleData name="benchmark_number">146</SimpleData>
+		<SimpleData name="benchmark_type">Павлоарский, свх, в 2,5 км к югу от него, в 0,3км к сев-зап.от горбатого моста, в 0,1 км к зап.от асфальта</SimpleData>
+		<SimpleData name="location_description">0dd98fab-f7dd-49ee-ab72-78e16c225648</SimpleData>
+		<SimpleData name="status">data/stations/0dd98fab.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/0dd98fab.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>76.8926400115684,52.3542624553214</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

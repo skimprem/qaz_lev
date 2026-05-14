@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="bbe1053e" id="bbe1053e">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>bbe1053e</name>
+  <Placemark id="bbe1053e.1">
+	<name>17964</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#bbe1053e">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">88.102</SimpleData>
+		<SimpleData name="benchmark_number">121</SimpleData>
+		<SimpleData name="control_location">Линия №1: Чапаевский-Каратал, II класс (I) Участок: грунт.реп. 17964-грунт.реп. I</SimpleData>
+		<SimpleData name="benchmark_type">Краснокутский, свх., в 7.0 км к юго-зап. от него, по дороге свх.Краснокутский-кам.карьер, в 47 м к зап. от дороги</SimpleData>
+		<SimpleData name="location_description">bbe1053e-5fa4-4634-8d11-2a298e5b1421</SimpleData>
+		<SimpleData name="status">data/stations/bbe1053e.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/bbe1053e.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>73.6362953853302,52.6689063814298</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="bfb3bbb9" id="bfb3bbb9">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>bfb3bbb9</name>
+  <Placemark id="bfb3bbb9.1">
+	<name>б/№</name>
+	<name>марка</name>
+	<ExtendedData><SchemaData schemaUrl="#bfb3bbb9">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">2191.086</SimpleData>
+		<SimpleData name="control_location">Линия №1 : Каратогай-Кандагач , I класс . Участок : грунт. реп. 7187-грунт. реп. 3579</SimpleData>
+		<SimpleData name="benchmark_type">Кандагач, станция,  на 5 пк. 1822 км, зд. вокзала</SimpleData>
+		<SimpleData name="location_description">bfb3bbb9-92d6-466a-9c9c-b5cdbaa4d9d8</SimpleData>
+		<SimpleData name="status">data/stations/bfb3bbb9.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/bfb3bbb9.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>57.4263572839087,49.44972438724</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

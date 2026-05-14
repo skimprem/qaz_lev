@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="670f90b5" id="670f90b5">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>670f90b5</name>
+  <Placemark id="670f90b5.1">
+	<name>9039</name>
+	<name>грунт. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#670f90b5">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">95.882</SimpleData>
+		<SimpleData name="control_height">Контрольный репер 5390 в верхней плоскости монолита</SimpleData>
+		<SimpleData name="benchmark_number">146 </SimpleData>
+		<SimpleData name="control_location">Линия : Ишим-Петропавловск, II класс, Участок: грунт.реп. 9258 - грун. реп. 9074</SimpleData>
+		<SimpleData name="benchmark_type">Красный Яр,с., в 0.4км к юго-западу от него,в 150м к западу от р.Ишим, в 28м к востоку от дороги в с.Килякова, в 5м к северу от железобетонного стб.ЛЭП</SimpleData>
+		<SimpleData name="location_description">670f90b5-5de7-45fa-826e-1b2ed439d49d</SimpleData>
+		<SimpleData name="status">data/stations/670f90b5.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/670f90b5.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>69.358523376622,55.362501284274</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

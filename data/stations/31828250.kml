@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="31828250" id="31828250">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>31828250</name>
+  <Placemark id="31828250.1">
+	<name>3653</name>
+	<description>грунт. реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#31828250">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">109.327</SimpleData>
+		<SimpleData name="benchmark_number">160 оп</SimpleData>
+		<SimpleData name="control_location">Линия №185 : Аральск - Семиозерное , I класс . Участок : грунт. Реп. 2189-грунт. Реп. 32</SimpleData>
+		<SimpleData name="benchmark_type">Куттыколь,с., в 9.0 км к юго-зап. от него, в 4.3 км к юго-зап. от оз. Сорколь, в 13 м к зап. от дороги гор. Аральск - с. Ыргыз</SimpleData>
+		<SimpleData name="location_description">31828250-5350-449e-9ae1-33c25bbea3cd</SimpleData>
+		<SimpleData name="status">data/stations/31828250.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/31828250.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>61.274870621647,48.3855537964677</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

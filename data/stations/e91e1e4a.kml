@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="e91e1e4a" id="e91e1e4a">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>e91e1e4a</name>
+  <Placemark id="e91e1e4a.1">
+	<name>1444</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#e91e1e4a">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">228.012</SimpleData>
+		<SimpleData name="benchmark_number">160 оп, знак</SimpleData>
+		<SimpleData name="control_location">Линия № 1: Торыустаган - Бирлик, 1 класс (1) Участок: грунт, реп,5839 - пир, 3 кл, Кызылкурган</SimpleData>
+		<SimpleData name="benchmark_type">Камкалы, с,, в 3,8 км к вост, от него, в 0,9 км к зап, от пов, стб, ЛЭП, в 33 м к сев, от грунт, дороги с, Камкалы - с, Жайлауколь</SimpleData>
+		<SimpleData name="location_description">e91e1e4a-8baa-457d-a39a-3925f3da35e1</SimpleData>
+		<SimpleData name="status">data/stations/e91e1e4a.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/e91e1e4a.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>70.2239721205645,44.8525027925418</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

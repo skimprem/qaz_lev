@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="29279114" id="29279114">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>29279114</name>
+  <Placemark id="29279114.1">
+	<name>1837</name>
+	<name>грунт. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#29279114">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="leveling_height">160 оп. знак</SimpleData>
+		<SimpleData name="benchmark_number">Линия № 1: Алажиде – Оз. Жаланашколь, I класс 
+Участок: грунт. реп. 7982 – грунт. реп. 5195
+</SimpleData>
+		<SimpleData name="control_location">Кольбай, с., в 2.7 км к юго-зап. от него, на 7 пк 476 км шоссе гор. Алматы – гор. Усть-Каменогорск, в 35 м к юго-зап. от шоссе, в 11 м к сев.-вост. от стб. ЛЭП</SimpleData>
+		<SimpleData name="benchmark_type">L-44-77-Г</SimpleData>
+		<SimpleData name="location_description">29279114-c179-4da7-9d17-beb574f93f4c</SimpleData>
+		<SimpleData name="status">data/stations/29279114.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/29279114.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>80.2659799086791,45.7847952702543</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

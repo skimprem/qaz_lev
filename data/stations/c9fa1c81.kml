@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="c9fa1c81" id="c9fa1c81">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>c9fa1c81</name>
+  <Placemark id="c9fa1c81.1">
+	<name>4014</name>
+	<name>стен.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#c9fa1c81">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">221.264</SimpleData>
+		<SimpleData name="leveling_order">338,809</SimpleData>
+		<SimpleData name="control_location">Линия 2: Есиль-Атбасар. II  класс (2)
+Участок: фунд.реп.3198 - грунт.реп.3151</SimpleData>
+		<SimpleData name="benchmark_type">Есиль,станция,в здании средней
+школы № 83</SimpleData>
+		<SimpleData name="location_description">c9fa1c81-ad2a-4c04-bd58-5bca64eba033</SimpleData>
+		<SimpleData name="status">data/stations/c9fa1c81.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/c9fa1c81.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>66.4050903630577,51.9579095399882</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

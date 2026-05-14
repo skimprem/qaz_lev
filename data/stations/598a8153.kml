@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="598a8153" id="598a8153">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>598a8153</name>
+  <Placemark id="598a8153.1">
+	<name>736</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#598a8153">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="benchmark_number">123 оп.знак</SimpleData>
+		<SimpleData name="control_location">Линия № 1: Макинск - Байулесты, II класс, Участок: грунт.реп. 0586 - грунт. реп.732</SimpleData>
+		<SimpleData name="benchmark_type">Уалиханов,с.,в 7.6 км к сев.-вост.от него,в 4.7 км к юго-вост.от шоссе с. Уалиханов - с. Карасу, в 0.1 км к сев. от старой полевой дороги</SimpleData>
+		<SimpleData name="location_description">598a8153-bf50-45af-aea7-3dd56100e479</SimpleData>
+		<SimpleData name="status">data/stations/598a8153.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/598a8153.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>71.9329865037101,52.8320603313921</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="ebf7fc5d" id="ebf7fc5d">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>ebf7fc5d</name>
+  <Placemark id="ebf7fc5d.1">
+	<name>572</name>
+	<name>грунт. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#ebf7fc5d">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">351.381</SimpleData>
+		<SimpleData name="leveling_order">350.346</SimpleData>
+		<SimpleData name="control_height">Контрольный репер в трубе</SimpleData>
+		<SimpleData name="benchmark_number">118</SimpleData>
+		<SimpleData name="control_location">Линия № 1: Учарал - Урджар, II класс. Участок: стен. реп. 8792 – грунт. реп. 2896</SimpleData>
+		<SimpleData name="benchmark_type">Алаколь, с., в 2.5 км к сев.-вост. от него, в 0.8 км к вост. от оз. Кошкарколь, в 0.5 км к зап. от пов. стб. ЛЭП, к вост. от грунтовой дороги с. Уялы – с. Алаколь</SimpleData>
+		<SimpleData name="location_description">ebf7fc5d-00ca-480d-a3af-3c94145a23a4</SimpleData>
+		<SimpleData name="status">data/stations/ebf7fc5d.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/ebf7fc5d.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>81.3192033867108,46.3662845089756</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

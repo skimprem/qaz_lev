@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="f02282a2" id="f02282a2">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>f02282a2</name>
+  <Placemark id="f02282a2.1">
+	<name>7422</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#f02282a2">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">490,956</SimpleData>
+		<SimpleData name="benchmark_number">160 оп</SimpleData>
+		<SimpleData name="control_location">Линия № 1:Семипалатинск-Коянды,II класс(I).Участок:грунт.реп.9246-грунт.реп.9468</SimpleData>
+		<SimpleData name="benchmark_type">Муржик, с, в 34.2 км к юго-вост. от него, в 0.4 км к сев. от кладб., в 0.1 км к югу от мог., в 19 м к югу от перекрестка дорог.</SimpleData>
+		<SimpleData name="location_description">f02282a2-efb5-45b9-a623-ef679152c97d</SimpleData>
+		<SimpleData name="status">data/stations/f02282a2.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/f02282a2.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.6080341270555,49.8771773210693</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

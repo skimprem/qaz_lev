@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="505834b1" id="505834b1">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>505834b1</name>
+  <Placemark id="505834b1.1">
+	<name>Кольбет</name>
+	<description>пирамида</description>
+	<ExtendedData><SchemaData schemaUrl="#505834b1">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">394.499</SimpleData>
+		<SimpleData name="leveling_height">240</SimpleData>
+		<SimpleData name="benchmark_number">1 оп</SimpleData>
+		<SimpleData name="control_location">Линия № 2: Карабута - Карабулак, II класс (1, 2), Участок: грунт. реп. 547 – фунд. реп. 3935</SimpleData>
+		<SimpleData name="benchmark_type">Бахты, с., в 20.8 км к юго-зап. от него, в 4.0 км к югу от зим. Жантезек, в 0.2 км к вост. от полевой дороги</SimpleData>
+		<SimpleData name="location_description">505834b1-c7e5-4a6a-87dc-f0636939ec03</SimpleData>
+		<SimpleData name="status">data/stations/505834b1.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/505834b1.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>82.5874118694102,46.4909669344836</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

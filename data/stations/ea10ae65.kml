@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="ea10ae65" id="ea10ae65">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>ea10ae65</name>
+  <Placemark id="ea10ae65.1">
+	<name>2794</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#ea10ae65">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">118.853</SimpleData>
+		<SimpleData name="benchmark_number">121</SimpleData>
+		<SimpleData name="control_location">Линия: Волотовка - Чапаевский, II класс ( I ) Участок: фнд.рп. 166 - гр.рп. 2936</SimpleData>
+		<SimpleData name="benchmark_type">Агашорын,с., в 0.2 км к северу от него,в 11 м влево от дороги в с.Голубовка</SimpleData>
+		<SimpleData name="location_description">ea10ae65-1075-44ce-8619-ddc7b31f226f</SimpleData>
+		<SimpleData name="status">data/stations/ea10ae65.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/ea10ae65.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>74.2464609330326,53.4588347235037</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

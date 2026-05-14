@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="10ba651a" id="10ba651a">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>10ba651a</name>
+  <Placemark id="10ba651a.1">
+	<name>4280</name>
+	<name>грунт.реп.</name>
+	<description>грунт.реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#10ba651a">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">394.616</SimpleData>
+		<SimpleData name="leveling_order">393.120*</SimpleData>
+		<SimpleData name="control_height">в трубе</SimpleData>
+		<SimpleData name="benchmark_number">А</SimpleData>
+		<SimpleData name="control_location">Линия  №  I; Каратурангы  - Колшенгель II класс .Участок: пир.1.кл. Ортажол - фунд.реп.5785</SimpleData>
+		<SimpleData name="benchmark_type">Кокишбай,с.,в  35.5  км  к  югу  от  него,в 0,8 км к вост. От к.№6, в 11м к вост. От дороги с. Кокишбай-с.Каншегель. </SimpleData>
+		<SimpleData name="location_description">10ba651a-6a48-4535-ba17-79aea3cd7937</SimpleData>
+		<SimpleData name="status">data/stations/10ba651a.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/10ba651a.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.5502528442308,44.6510017455111</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

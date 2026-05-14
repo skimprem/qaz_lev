@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="745701e1" id="745701e1">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>745701e1</name>
+  <Placemark id="745701e1.1">
+	<name>2365</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#745701e1">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">269.239</SimpleData>
+		<SimpleData name="benchmark_number">160 оп.зн.</SimpleData>
+		<SimpleData name="control_location">Линия № 2: Кошетау-Володарское, II класс. Участок: фунд.реп. 478-грунт.реп. 2674</SimpleData>
+		<SimpleData name="benchmark_type">Кокшетау, гор.,  в 16.6 км к зап.от него, в 20 км к сев.от г. Актобе,  в29 м к сев.от шоссе гор. Кокшетау</SimpleData>
+		<SimpleData name="location_description">745701e1-8ecc-4732-b752-14514c790c80</SimpleData>
+		<SimpleData name="status">data/stations/745701e1.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/745701e1.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>69.1011855415608,53.2744620818231</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

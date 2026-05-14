@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="18f95b3b" id="18f95b3b">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>18f95b3b</name>
+  <Placemark id="18f95b3b.1">
+	<name>3808</name>
+	<name>грунт. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#18f95b3b">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">464.452</SimpleData>
+		<SimpleData name="benchmark_number">160</SimpleData>
+		<SimpleData name="control_location">Линия № 1: Оз. Жаланашколь - Аягоз, I класс 
+Участок: грунт.реп. 4536 – грунт.реп. 4176
+</SimpleData>
+		<SimpleData name="benchmark_type">Урджар, с., зап. окраина его, в 48 м к сев.-зап. от ограды территории ДЭУ № 538, на перекрестке ул. Ленина и Приречная, в 8 м к сев.-вост. от стб. ЛЭП № 24</SimpleData>
+		<SimpleData name="location_description">18f95b3b-1a20-42f1-a61a-f15ce5f97f8f</SimpleData>
+		<SimpleData name="status">data/stations/18f95b3b.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/18f95b3b.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>81.6044294674233,47.0864512326304</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

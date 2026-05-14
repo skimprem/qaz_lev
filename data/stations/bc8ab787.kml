@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="bc8ab787" id="bc8ab787">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>bc8ab787</name>
+  <Placemark id="bc8ab787.1">
+	<name>XVIII</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#bc8ab787">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">310.478</SimpleData>
+		<SimpleData name="benchmark_number">121</SimpleData>
+		<SimpleData name="control_location">Линия №2: Нецветаевка-Каратал, II класс (2) Участок: грунт.реп. 86-ск.реп. XIX</SimpleData>
+		<SimpleData name="benchmark_type">Торткара, разв., в 2.1 км к юго-зап. от них, в 1.4 км к сев.-вост. от г.Тастыадыр, в 0.9 км к зап. от развилки полевых дорог</SimpleData>
+		<SimpleData name="location_description">bc8ab787-4568-4336-bd77-e6fb181902fe</SimpleData>
+		<SimpleData name="status">data/stations/bc8ab787.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/bc8ab787.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>73.2167891271297,52.0404700357226</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

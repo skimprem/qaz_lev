@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="bd3228f2" id="bd3228f2">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>bd3228f2</name>
+  <Placemark id="bd3228f2.1">
+	<name>6289</name>
+	<description>грунт. реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#bd3228f2">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">626.578</SimpleData>
+		<SimpleData name="leveling_order">625,498</SimpleData>
+		<SimpleData name="control_height">Контрольный репер №6357 в фундаментальной плите</SimpleData>
+		<SimpleData name="benchmark_number">116 оп</SimpleData>
+		<SimpleData name="control_location">Линия № 2:Жарык-Моинты, Iкласс(2).Участок:фунд.реп.89-грунт. реп.6262</SimpleData>
+		<SimpleData name="benchmark_type">Сарысу, раз., в 4.5 км к юго-зап. от него, на 1 ПК 866 км, в 42 м к воет, от ж.д. полотна</SimpleData>
+		<SimpleData name="leveling_line_section">не найден по тех. отчёту</SimpleData>
+		<SimpleData name="location_description">bd3228f2-5f93-4be3-b6fa-397608e6d3f9</SimpleData>
+		<SimpleData name="status">data/stations/bd3228f2.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/bd3228f2.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.7854049862041,48.7495834496459</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

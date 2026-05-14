@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="170615bf" id="170615bf">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>170615bf</name>
+  <Placemark id="170615bf.1">
+	<name>319</name>
+	<name>грунт. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#170615bf">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">106.522</SimpleData>
+		<SimpleData name="benchmark_number">121</SimpleData>
+		<SimpleData name="control_location">Линия № 4 Майлыозек-Кумкала II  класс . Участок : грунт. Реп.б№-фунд. реп. 24607</SimpleData>
+		<SimpleData name="benchmark_type">Сатбай, с., в 19.5 км к сев.-зап. от него, в 0.6 км к зап. от буг.Аралтобе, в 0.5 км  к сев.  -вост. от полевой дороги</SimpleData>
+		<SimpleData name="location_description">170615bf-3b5b-4b45-ab87-0f1c28292585</SimpleData>
+		<SimpleData name="status">data/stations/170615bf.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/170615bf.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>64.0549009112537,44.6377976578579</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

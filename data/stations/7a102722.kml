@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="7a102722" id="7a102722">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>7a102722</name>
+  <Placemark id="7a102722.1">
+	<name>4792</name>
+	<name>грунт. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#7a102722">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">531.828</SimpleData>
+		<SimpleData name="leveling_order">530.735*</SimpleData>
+		<SimpleData name="leveling_height">657</SimpleData>
+		<SimpleData name="control_height">Контрольный репер в верхней плоскости монолита </SimpleData>
+		<SimpleData name="benchmark_number">121 оп. знак</SimpleData>
+		<SimpleData name="control_location">Линия № 2: грунт. реп. 4792 – фунд. реп. 7980, II класс </SimpleData>
+		<SimpleData name="benchmark_type">Бахша, раз., в 3.6 км к сев. от него, на 7 пк 1423 км, в 35 м к зап. от жел.-дор. полотна</SimpleData>
+		<SimpleData name="location_description">7a102722-9c75-469f-a8f1-7211bc7f5857</SimpleData>
+		<SimpleData name="status">data/stations/7a102722.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/7a102722.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.8854255763142,44.8441742349692</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

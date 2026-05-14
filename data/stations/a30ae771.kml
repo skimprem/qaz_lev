@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="a30ae771" id="a30ae771">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>a30ae771</name>
+  <Placemark id="a30ae771.1">
+	<name>14            </name>
+	<name>грунт. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#a30ae771">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">342,187</SimpleData>
+		<SimpleData name="leveling_order">339,664</SimpleData>
+		<SimpleData name="control_height">Контрольный репер  в верхней плоскости монолита</SimpleData>
+		<SimpleData name="benchmark_number">121          уничтожен</SimpleData>
+		<SimpleData name="control_location">Линия №5: Старый Ерментау-Каратал, II класс (1)</SimpleData>
+		<SimpleData name="leveling_line_section">уничтожен</SimpleData>
+		<SimpleData name="location_description">a30ae771-f00b-4bc6-a845-1170844f5ca1</SimpleData>
+		<SimpleData name="status">data/stations/a30ae771.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/a30ae771.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>73.2082892561163,51.6322555984367</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

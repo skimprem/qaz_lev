@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="db02f805" id="db02f805">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>db02f805</name>
+  <Placemark id="db02f805.1">
+	<name>5961</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#db02f805">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">211,358</SimpleData>
+		<SimpleData name="leveling_order">210,038</SimpleData>
+		<SimpleData name="benchmark_number">121 оп</SimpleData>
+		<SimpleData name="control_location">Линия №5: Карабутак-Сарысай, II класс. Участок: фунд.реп. 5070-фунд.реп. 5280</SimpleData>
+		<SimpleData name="benchmark_type">Сороба (Акшкола), с., в 13.0 км к сев. -зап. от него, в 33 м к зап. от дороги о. Донгелексор - с. Сороба (Акшкола) , около пересечения её с дорогой с. Миялы- с. Кызылкудук</SimpleData>
+		<SimpleData name="location_description">db02f805-8e31-4010-bfab-ae6e0000a999</SimpleData>
+		<SimpleData name="status">data/stations/db02f805.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/db02f805.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>60.2909749408856,49.3864530660716</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

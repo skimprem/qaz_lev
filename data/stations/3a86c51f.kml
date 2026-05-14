@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="3a86c51f" id="3a86c51f">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>3a86c51f</name>
+  <Placemark id="3a86c51f.1">
+	<name>10</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#3a86c51f">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">500.593</SimpleData>
+		<SimpleData name="benchmark_number">146</SimpleData>
+		<SimpleData name="control_location">Линия №16: пир. 4 кл. Колхозная - марка 6, II класс (3). Участок п.п. 22 - марка 6</SimpleData>
+		<SimpleData name="benchmark_type">Караганда, гор., в 1.6 км к югу от кирпичного завода №1, в 1.2 км к сев.-вост. от водокачки</SimpleData>
+		<SimpleData name="location_description">3a86c51f-a328-4b7d-9100-82ec5567b942</SimpleData>
+		<SimpleData name="status">data/stations/3a86c51f.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/3a86c51f.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>73.0013686199805,49.7427091096964</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

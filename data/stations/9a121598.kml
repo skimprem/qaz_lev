@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="9a121598" id="9a121598">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>9a121598</name>
+  <Placemark id="9a121598.1">
+	<name>511</name>
+	<name>грунт. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#9a121598">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">1295.967*</SimpleData>
+		<SimpleData name="leveling_order">Контрольный репер в трубе</SimpleData>
+		<SimpleData name="leveling_height">118 оп. знак</SimpleData>
+		<SimpleData name="benchmark_number">Линия  № 1: Сарыозек – Каракол (Пржевальск), I класс
+Участок: грунт. реп.  520 – грунт.реп. 155</SimpleData>
+		<SimpleData name="control_location">Коныролен, с., в 9.6 км к юго-зап. от него, в 0.3 км к юго-зап. от км. стб. 116/62, в 35 м к югу от шоссе  с. Сарыозек – гор. Жаркент</SimpleData>
+		<SimpleData name="benchmark_type">L-44-135-А</SimpleData>
+		<SimpleData name="location_description">9a121598-ea1f-4a5b-8bef-ec14f5c89a2d</SimpleData>
+		<SimpleData name="status">data/stations/9a121598.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/9a121598.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>79.17474482693,44.2650621831296</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="daaa59ff" id="daaa59ff">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>daaa59ff</name>
+  <Placemark id="daaa59ff.1">
+	<name>б/№</name>
+	<description>марка</description>
+	<ExtendedData><SchemaData schemaUrl="#daaa59ff">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">107.864</SimpleData>
+		<SimpleData name="control_location">Линия №1 : Аральск - Айтеке Би (Новоказалинск) - Жосалы . I класс . Участок : грунт. реп. 553 - марка 4359</SimpleData>
+		<SimpleData name="benchmark_type">Тортем. станц. . в водоёмном здании</SimpleData>
+		<SimpleData name="location_description">daaa59ff-331b-496b-9815-e8c63f8378ea</SimpleData>
+		<SimpleData name="status">data/stations/daaa59ff.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/daaa59ff.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>63.3159345633108,45.6509267814296</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

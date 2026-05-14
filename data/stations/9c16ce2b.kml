@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="9c16ce2b" id="9c16ce2b">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>9c16ce2b</name>
+  <Placemark id="9c16ce2b.1">
+	<name>9739</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#9c16ce2b">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="benchmark_number">121</SimpleData>
+		<SimpleData name="control_location">Линия № 1: Байулесты - Нецветаевка, II класс, Участок: грунт.реп. 14072 - грунт. реп. VII</SimpleData>
+		<SimpleData name="benchmark_type">Аксу, пос., южн.окраина его, в 0.2 км к сев.-вост.от жел.дор.,в 33 м к зап.от жель-дор.тупика, в 30 м к вост.от кладбище</SimpleData>
+		<SimpleData name="location_description">9c16ce2b-baf8-4248-b0b1-78c02c41fa8f</SimpleData>
+		<SimpleData name="status">data/stations/9c16ce2b.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/9c16ce2b.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>71.971944844267,52.4435483215121</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

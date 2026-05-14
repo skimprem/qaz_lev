@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="769082cd" id="769082cd">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>769082cd</name>
+  <Placemark id="769082cd.1">
+	<name>9556</name>
+	<description>грунт.реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#769082cd">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">368.73</SimpleData>
+		<SimpleData name="benchmark_number">160 оп.знак</SimpleData>
+		<SimpleData name="control_location">Линия № 1:Сарышаган-Каратас I класс                            Участок: грунт.реп. 8624-грунт.реп. 1523</SimpleData>
+		<SimpleData name="benchmark_type">Баяхаш-1,станц.,в 1.7 км к зап.от неё,
+в 0.2 км к сев.-зап.от электрической
+подстанции,в 38 м к сев.от поста ГАИ
+при въезде в гор. Балхаш</SimpleData>
+		<SimpleData name="location_description">769082cd-90e2-4243-b400-6e6dc7ab1e73</SimpleData>
+		<SimpleData name="status">data/stations/769082cd.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/769082cd.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>74.9114777404476,46.8632324991576</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

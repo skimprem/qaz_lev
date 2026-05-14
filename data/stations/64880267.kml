@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="64880267" id="64880267">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>64880267</name>
+  <Placemark id="64880267.1">
+	<name>36</name>
+	<name>грунт. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#64880267">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">115.439</SimpleData>
+		<SimpleData name="leveling_order">114.329</SimpleData>
+		<SimpleData name="benchmark_number">121</SimpleData>
+		<SimpleData name="control_location">Линия №5 : Олжа - Амангелды, II класс. Участок: грунт. реп. 65 - грунт. реп. 69</SimpleData>
+		<SimpleData name="benchmark_type">Жарколь, зим., в 4,0 км к сев. - вост. от нее, в 0,4 км к вост. от оз. Жарколь, в 40 м к югу от дороги с. Тургай - с. Кумкешу</SimpleData>
+		<SimpleData name="location_description">64880267-d307-4c0e-8419-9d324e69653b</SimpleData>
+		<SimpleData name="status">data/stations/64880267.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/64880267.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>64.1208464520083,50.0205717096732</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="fcf75be6" id="fcf75be6">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>fcf75be6</name>
+  <Placemark id="fcf75be6.1">
+	<name>1954</name>
+	<name>ск.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#fcf75be6">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">591.624</SimpleData>
+		<SimpleData name="control_location">Линия №4: фунд.реп. 8657-фунд.реп. 5438, II класс</SimpleData>
+		<SimpleData name="benchmark_type">Совтрактор,с.,в 0.9 км к сев.зап.от него,в 62 м к сев.зап.от опоры ЛЭП, в створе ЛЭП</SimpleData>
+		<SimpleData name="location_description">fcf75be6-70aa-44b0-8c84-091d9b995f91</SimpleData>
+		<SimpleData name="status">data/stations/fcf75be6.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/fcf75be6.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>71.3440017054644,42.9671769661897</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="2bcb5b89" id="2bcb5b89">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>2bcb5b89</name>
+  <Placemark id="2bcb5b89.1">
+	<name>1990</name>
+	<name>фундаментальный репер</name>
+	<ExtendedData><SchemaData schemaUrl="#2bcb5b89">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">394,48</SimpleData>
+		<SimpleData name="leveling_height">393,431</SimpleData>
+		<SimpleData name="benchmark_number">в фундаментной плите</SimpleData>
+		<SimpleData name="control_location">Участок: грунт. реп. 334 - грунт. реп. 0833 </SimpleData>
+		<SimpleData name="benchmark_type">Кызказган, к., в 8.4 км к юго-вост. от него, в 5.0 км к югу от родника и кладбища, в 90 м к зап. от грунт. реп. 4779, в 70 м к зап. от полевой дороги</SimpleData>
+		<SimpleData name="location_description">2bcb5b89-94f2-4dda-af3b-a4bcb3182e8e</SimpleData>
+		<SimpleData name="status">data/stations/2bcb5b89.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/2bcb5b89.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>71.0143698219034,46.0358261487409</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

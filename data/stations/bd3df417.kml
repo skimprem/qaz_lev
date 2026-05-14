@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="bd3df417" id="bd3df417">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>bd3df417</name>
+  <Placemark id="bd3df417.1">
+	<name>6100</name>
+	<name>скальный репер</name>
+	<ExtendedData><SchemaData schemaUrl="#bd3df417">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">301,278</SimpleData>
+		<SimpleData name="benchmark_number">99</SimpleData>
+		<SimpleData name="control_location">Линия №1: Карасорвкий - Сарыкияк, II класс (1) Участок: ск. реп. 6100 - грунт. реп. 8674</SimpleData>
+		<SimpleData name="benchmark_type">Акбаз, зим., в 4.7 км к сев.-зап. от неё, в 4.2 км к юго-вост. от оз. Карасор, в 65 м к вост, от шоссе с. Майкайын - с. Баянауыл</SimpleData>
+		<SimpleData name="location_description">bd3df417-40be-49d7-89f6-0ca82916a029</SimpleData>
+		<SimpleData name="status">data/stations/bd3df417.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/bd3df417.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.8168812629617,50.9141163331892</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

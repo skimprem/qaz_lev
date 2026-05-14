@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="08fae080" id="08fae080">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>08fae080</name>
+  <Placemark id="08fae080.1">
+	<name>1725</name>
+	<name>скальный репер</name>
+	<ExtendedData><SchemaData schemaUrl="#08fae080">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">234,428</SimpleData>
+		<SimpleData name="benchmark_number">99</SimpleData>
+		<SimpleData name="control_location">Линия №5: Сарыкияк - Шидерты, II класс (3). Участок:  фунд. реп. 134 - фунд. реп. 1882</SimpleData>
+		<SimpleData name="benchmark_type">Шидерты, с. , в 4.6 км к юго-зап. от него, в 0.2 км к зап. от р. Шидерти, в 30 м к зап. от полевой дороги</SimpleData>
+		<SimpleData name="location_description">08fae080-fd5f-4960-b057-dc98c8dd9119</SimpleData>
+		<SimpleData name="status">data/stations/08fae080.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/08fae080.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>74.6466504336608,51.6579849006674</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="ef635cd1" id="ef635cd1">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>ef635cd1</name>
+  <Placemark id="ef635cd1.1">
+	<name>16932</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#ef635cd1">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">726,367</SimpleData>
+		<SimpleData name="leveling_order">725,242</SimpleData>
+		<SimpleData name="control_height">репер № 6660   в верхней плоскости монолита</SimpleData>
+		<SimpleData name="benchmark_number">121</SimpleData>
+		<SimpleData name="control_location">Линия  :              Яровское - Лениногорск,           2 класс (1), Участок : грунт.реп. 4467 - фунд.реп. 191 </SimpleData>
+		<SimpleData name="benchmark_type">Лениногорск, гор., на северной  окраине его, в 0,4 км  к северу от складов на левом берегу р. Журавлиха, в 34 м к востоку от полотна узкоколейной жел./дор., в 0,3 км к югу от км стб. 4/5</SimpleData>
+		<SimpleData name="location_description">ef635cd1-9e40-4106-8d01-c6a60a84f969</SimpleData>
+		<SimpleData name="status">data/stations/ef635cd1.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/ef635cd1.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>83.5022752653396,50.3830913488606</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

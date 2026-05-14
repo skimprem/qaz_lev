@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="abd7a393" id="abd7a393">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>abd7a393</name>
+  <Placemark id="abd7a393.1">
+	<name>427</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#abd7a393">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">725.744</SimpleData>
+		<SimpleData name="leveling_order">723.217</SimpleData>
+		<SimpleData name="control_height">Контрольный репер в верхней плоскости монолита</SimpleData>
+		<SimpleData name="benchmark_number">121</SimpleData>
+		<SimpleData name="control_location">Линия №31: Каркаралинск - Чурбай-Нура, II класс (4). Участок: грунт.реп.429 - грунт.реп. 323</SimpleData>
+		<SimpleData name="benchmark_type">Кызылту, с., в 13.0 км к юго-зап. от него, в 40 км к сев.-зап. от зимовки и родника Айнабулак, в 20 м к югу от дороги с. Спасск - гор. Каркаралы</SimpleData>
+		<SimpleData name="location_description">abd7a393-f41a-4336-89be-c118febe0ea5</SimpleData>
+		<SimpleData name="status">data/stations/abd7a393.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/abd7a393.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>73.9217789433594,49.4060705439826</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="cc8766a1" id="cc8766a1">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>cc8766a1</name>
+  <Placemark id="cc8766a1.1">
+	<name>8454</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#cc8766a1">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">355.204</SimpleData>
+		<SimpleData name="benchmark_number">160 оп,знак </SimpleData>
+		<SimpleData name="control_location">Линия № 1: Тюемойнак - Торетоган, I класс (1)Участок: фунд, реп, 3245 - грунт, реп, 1037</SimpleData>
+		<SimpleData name="benchmark_type">Бозкудук, к,, в 4,5 км югу от него, в 4,1 км к сев, от кладбища, в 10 м к вост, от полевой дороги</SimpleData>
+		<SimpleData name="location_description">cc8766a1-a611-4c73-b762-3d62be3f7d44</SimpleData>
+		<SimpleData name="status">data/stations/cc8766a1.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/cc8766a1.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>69.2896240256417,46.8364539735485</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

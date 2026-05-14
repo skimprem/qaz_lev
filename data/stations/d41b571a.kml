@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="d41b571a" id="d41b571a">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>d41b571a</name>
+  <Placemark id="d41b571a.1">
+	<name>8785</name>
+	<description>грунт. реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#d41b571a">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">370.192</SimpleData>
+		<SimpleData name="benchmark_number">160оп</SimpleData>
+		<SimpleData name="control_location">Линия №1: Целиноград-Кулунда, I класс Участок:  грунт. реп. 6934-грунт. реп. 8342</SimpleData>
+		<SimpleData name="benchmark_type">Еркеншилик, станц., в 8.0 км к сев.-вост. от нее, в 30 м к сев.-зап. от км. стб. 104/105, в 25 м к сев.-зап. от жел.-дор. полотна</SimpleData>
+		<SimpleData name="leveling_line_section">Не найден. Утрачены внешние ориентиры</SimpleData>
+		<SimpleData name="location_description">d41b571a-13ff-455a-b3ed-45f7a836663d</SimpleData>
+		<SimpleData name="status">data/stations/d41b571a.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/d41b571a.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>72.7516831248286,51.4367616470683</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

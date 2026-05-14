@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="e610bc05" id="e610bc05">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>e610bc05</name>
+  <Placemark id="e610bc05.1">
+	<name>8323</name>
+	<name>грунт.реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#e610bc05">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">649,219</SimpleData>
+		<SimpleData name="leveling_order">647,727</SimpleData>
+		<SimpleData name="control_height">Контрольный репер № 6102 в верхней плоскости монолита </SimpleData>
+		<SimpleData name="benchmark_number">117 оп. знак</SimpleData>
+		<SimpleData name="control_location">Линия № 1: Каркаралинск – Аягоз, I класс. Участок: ск.реп.  2895 – грунт.реп. 6722</SimpleData>
+		<SimpleData name="benchmark_type">Киши-Сарыозек, р., в 2.8 км к зап. от нее, в 0.9 км к сев.-зап. от пересечения ЛЭП и грунт. дороги гор. Аягоз – с. Баршатас, в 27 м к сев.-вост. от грунт. дороги гор. Аягоз – с. Баршатас</SimpleData>
+		<SimpleData name="location_description">e610bc05-4cc9-4ba3-a70e-b3e581a65b81</SimpleData>
+		<SimpleData name="status">data/stations/e610bc05.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/e610bc05.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>79.9054605089079,47.8396526410774</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

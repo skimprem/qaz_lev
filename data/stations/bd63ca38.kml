@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="bd63ca38" id="bd63ca38">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>bd63ca38</name>
+  <Placemark id="bd63ca38.1">
+	<name>20872</name>
+	<name>стенной репер</name>
+	<ExtendedData><SchemaData schemaUrl="#bd63ca38">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">771,637</SimpleData>
+		<SimpleData name="control_location">Ход от грунт, реп. 45 до грунт. реп. 125, II класс (4) Участок: грунт. реп. 45 - стен. реп. 20872</SimpleData>
+		<SimpleData name="benchmark_type">Бозбутак, с., в 9.5 км к сев.-зап. от него, в 2.7 км к югу от пер. Бажы, в 4 м к зап. от полевой дороги, в скале</SimpleData>
+		<SimpleData name="location_description">bd63ca38-516b-41b5-b0ef-85141c490029</SimpleData>
+		<SimpleData name="status">data/stations/bd63ca38.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/bd63ca38.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>68.2079710617721,43.8714154911366</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

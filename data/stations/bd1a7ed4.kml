@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="bd1a7ed4" id="bd1a7ed4">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>bd1a7ed4</name>
+  <Placemark id="bd1a7ed4.1">
+	<name>7099</name>
+	<name>грунт. реп. </name>
+	<ExtendedData><SchemaData schemaUrl="#bd1a7ed4">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">402.183</SimpleData>
+		<SimpleData name="benchmark_number">160 оп. знак </SimpleData>
+		<SimpleData name="control_location">Линия № 2: Алажиде - Каратас, Участок: фунд.реп. 386 –  грунт. реп. 41</SimpleData>
+		<SimpleData name="benchmark_type">Егинсу, станц., в 4.4 км к юго-зап. от нее, на 8 пк 1313 км, в 47 м к зап. от жел. дор.</SimpleData>
+		<SimpleData name="location_description">bd1a7ed4-b720-44ca-b35f-1ade78466ecd</SimpleData>
+		<SimpleData name="status">data/stations/bd1a7ed4.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/bd1a7ed4.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>78.5029536002567,45.5360134528137</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

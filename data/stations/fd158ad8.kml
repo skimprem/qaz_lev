@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="fd158ad8" id="fd158ad8">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>fd158ad8</name>
+  <Placemark id="fd158ad8.1">
+	<name>3649</name>
+	<description>грунт. реп.</description>
+	<ExtendedData><SchemaData schemaUrl="#fd158ad8">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">143.250</SimpleData>
+		<SimpleData name="leveling_height">Линия №1: Целиноград - Кулунда I класс Участок:  фунд. реп. 1015-грунт. реп. 7312</SimpleData>
+		<SimpleData name="control_height">146 оп</SimpleData>
+		<SimpleData name="benchmark_number">Маралды станция, в 3.0 км к сев.-вост. От нее, в 25 м к сев.-зап. От км стб. 497/498, в 8 м к юго-вост.от лесополосы                         </SimpleData>
+		<SimpleData name="benchmark_type">13</SimpleData>
+		<SimpleData name="location_description">fd158ad8-59c0-4212-be8d-d07588260124</SimpleData>
+		<SimpleData name="status">data/stations/fd158ad8.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/fd158ad8.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.8123286987091,52.4348328479374</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

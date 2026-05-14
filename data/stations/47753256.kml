@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="47753256" id="47753256">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>47753256</name>
+  <Placemark id="47753256.1">
+	<name>20274</name>
+	<name>стен. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#47753256">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="control_location">Линия № 3: Каратас –  Аягоз, I класс
+Участок: ск.реп. 5533 – фунд.реп. 1027</SimpleData>
+		<SimpleData name="benchmark_type">Кошкентал, станц., в 4.0 км к сев.-вост.  от нее, на 5 пк 1004 км, в устое жел.-дор. моста</SimpleData>
+		<SimpleData name="location_description">47753256-667f-4a02-b965-1a573658800a</SimpleData>
+		<SimpleData name="status">data/stations/47753256.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/47753256.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>80.390248601329,47.846599044691</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="71387440" id="71387440">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>71387440</name>
+  <Placemark id="71387440.1">
+	<name>71</name>
+	<name>грунт. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#71387440">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">650,242</SimpleData>
+		<SimpleData name="leveling_order">648,496</SimpleData>
+		<SimpleData name="control_height">репер в верхней плоскости монолита</SimpleData>
+		<SimpleData name="benchmark_number">118</SimpleData>
+		<SimpleData name="control_location">Линия № I: Георгиевка -Чиганчи, II класс (2) Участок: фунд. реп. 57 -грунт. реп. 75</SimpleData>
+		<SimpleData name="benchmark_type">Караоткель, с., в 3.3 км к юго -вост. от него, в 0.3 км к югу от р. Баладжол, в 30 м к сев. от дороги с. Караоткель -с. Кокпекты</SimpleData>
+		<SimpleData name="location_description">71387440-a661-4a40-84e5-8e7f5e23818c</SimpleData>
+		<SimpleData name="status">data/stations/71387440.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/71387440.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>82.1480751117263,49.0259814640884</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

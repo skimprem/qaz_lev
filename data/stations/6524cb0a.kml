@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="6524cb0a" id="6524cb0a">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>6524cb0a</name>
+  <Placemark id="6524cb0a.1">
+	<name>3115</name>
+	<name>грунтовый репер</name>
+	<description>1</description>
+	<ExtendedData><SchemaData schemaUrl="#6524cb0a">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">105.892</SimpleData>
+		<SimpleData name="leveling_order">103.572</SimpleData>
+		<SimpleData name="control_height">Контрольный репер №14995 в верхней плоскости монолита</SimpleData>
+		<SimpleData name="benchmark_number">121</SimpleData>
+		<SimpleData name="control_location">Линия №1: Чапаевский - Карасук, II класс Участок: грунт.реп.3115 - грунт.реп.115</SimpleData>
+		<SimpleData name="benchmark_type">Краснокутское, с. В 0.2 км 180.5 к югу от склада горючего, в 0.2 км к юго-зап. От территории больницы, в 0.5 км к сев. От дороги, на небольшой возвышении</SimpleData>
+		<SimpleData name="location_description">6524cb0a-2a85-42b2-936f-4bb8794054ce</SimpleData>
+		<SimpleData name="status">data/stations/6524cb0a.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/6524cb0a.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.9735220485296,53.0070567119785</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

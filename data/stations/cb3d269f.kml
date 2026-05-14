@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="cb3d269f" id="cb3d269f">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>cb3d269f</name>
+  <Placemark id="cb3d269f.1">
+	<name>66</name>
+	<name>грунтовый репер</name>
+	<ExtendedData><SchemaData schemaUrl="#cb3d269f">
+		<SimpleData name="type">II</SimpleData>
+		<SimpleData name="view">673,919</SimpleData>
+		<SimpleData name="leveling_order">671,071</SimpleData>
+		<SimpleData name="control_height">Контрольный репер № 147 в верхней плоскости монолита</SimpleData>
+		<SimpleData name="benchmark_number">123оп.</SimpleData>
+		<SimpleData name="control_location">Линия № 4: Карасорский-Каркаралинск, II класс (3) Участок: грунтовый репер 9858 - фундаментальный репер 7349</SimpleData>
+		<SimpleData name="benchmark_type">Коянды, с., в 8.8 км к сев. от него, в 40 м к вост. от дороги с. Шоптыколь-с. Коянды, между тлгр. стб. №112 и №113</SimpleData>
+		<SimpleData name="location_description">cb3d269f-635d-4a82-9929-882b13c4b454</SimpleData>
+		<SimpleData name="status">data/stations/cb3d269f.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/cb3d269f.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>75.672303479148,49.952217916696</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

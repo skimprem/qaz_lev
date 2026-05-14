@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="a5d776a4" id="a5d776a4">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>a5d776a4</name>
+  <Placemark id="a5d776a4.1">
+	<name>Жаркум</name>
+	<description>пирамида</description>
+	<ExtendedData><SchemaData schemaUrl="#a5d776a4">
+		<SimpleData name="type">2</SimpleData>
+		<SimpleData name="view">382.17</SimpleData>
+		<SimpleData name="benchmark_number">2 оп </SimpleData>
+		<SimpleData name="control_location">Линия № 1: Актогай – Сайкан, II класс 
+Участок: грунт.реп. 0125 – фунд.реп. 9446
+</SimpleData>
+		<SimpleData name="benchmark_type">Сарыкум, станц., в 10.3 км к юго-вост. от нее, в 0.6 км к юго-зап. от жел. дор., на вершине холма</SimpleData>
+		<SimpleData name="location_description">a5d776a4-62c9-4a05-980c-c43aafc061fa</SimpleData>
+		<SimpleData name="status">data/stations/a5d776a4.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/a5d776a4.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>80.3076304433862,46.6236691128929</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

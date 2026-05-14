@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="900fdc10" id="900fdc10">
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="view" type="string"></SimpleField>
+	<SimpleField name="leveling_order" type="string"></SimpleField>
+	<SimpleField name="leveling_height" type="string"></SimpleField>
+	<SimpleField name="control_height" type="string"></SimpleField>
+	<SimpleField name="benchmark_number" type="string"></SimpleField>
+	<SimpleField name="control_location" type="string"></SimpleField>
+	<SimpleField name="benchmark_type" type="string"></SimpleField>
+	<SimpleField name="leveling_line_section" type="string"></SimpleField>
+	<SimpleField name="location_description" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="guid" type="string"></SimpleField>
+	<SimpleField name="kml" type="string"></SimpleField>
+	<SimpleField name="kml_link" type="string"></SimpleField>
+</Schema>
+<Folder><name>900fdc10</name>
+  <Placemark id="900fdc10.1">
+	<name>199</name>
+	<name>грунт. реп.</name>
+	<ExtendedData><SchemaData schemaUrl="#900fdc10">
+		<SimpleData name="type">1</SimpleData>
+		<SimpleData name="view">419.814</SimpleData>
+		<SimpleData name="leveling_order">418.488</SimpleData>
+		<SimpleData name="leveling_height">235</SimpleData>
+		<SimpleData name="control_height">фундаментная плита</SimpleData>
+		<SimpleData name="benchmark_number">116 оп. знак</SimpleData>
+		<SimpleData name="control_location">Линия № 1: Алажиде - оз.Жаланашколь, I класс. Участок: грунт.реп. 4351 – грунт.реп. 854</SimpleData>
+		<SimpleData name="benchmark_type">Коктума, станц., в 7.7 км к юго-вост. от нее, в 0.1 км к юго-вост. от пк стб. 5/6 215 км жел. дор., в 92 м к юго-вост. от жел. дор.</SimpleData>
+		<SimpleData name="location_description">900fdc10-3598-45d8-a88e-83d42dbf4d4b</SimpleData>
+		<SimpleData name="status">data/stations/900fdc10.kml</SimpleData>
+		<SimpleData name="guid">&lt;a href='data/stations/900fdc10.kml' target='_blank'&gt;Download KML&lt;/a&gt;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>81.8136720882528,45.7909294162371</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
