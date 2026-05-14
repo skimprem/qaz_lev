@@ -3,7 +3,8 @@ import pandas as pd
 import geopandas as gpd
 import requests
 import folium
-from folium.plugins import MeasureControl
+import json
+from folium.plugins import MeasureControl, MousePosition, LocateControl
 from transliterate import translit 
 import uuid
 import zipfile
@@ -192,14 +193,26 @@ checked_gdf[checked_gdf.geometry.notna() & ~checked_gdf.geometry.is_empty].explo
     popup=True
 )
 
-select_gdf[select_gdf.geometry.notna() & ~select_gdf.geometry.is_empty].explore(
-    m=index_map,
-    name='Selected Stations',
-    color='red',
-    marker_kwds={'radius': 3},
-    tooltip='name',
-    popup=True
+selected_data = select_gdf[select_gdf.geometry.notna() & ~select_gdf.geometry.is_empty]
+selected_fg = folium.FeatureGroup(name='Selected Stations')
+selected_geojson = folium.GeoJson(
+    selected_data,
+    marker=folium.CircleMarker(
+        radius=3, fill=True,
+        fill_color='red', color='red', fill_opacity=0.5
+    ),
+    tooltip=folium.GeoJsonTooltip(fields=['name']),
+    popup=folium.GeoJsonPopup(fields=[
+        'longitude', 'latitude', 'name', 'point_type', 'exterior_design',
+        'leveling_order', 'height', 'height_type',
+        'control_benchmark_height', 'control_benchmark_location',
+        'benchmark_number', 'benchmark_type', 'leveling_line',
+        'location_description', 'point_name', 'normal_height',
+        'mark_number', 'center_type'
+    ])
 )
+selected_geojson.add_to(selected_fg)
+selected_fg.add_to(index_map)
 
 folium.LayerControl().add_to(index_map)
 
@@ -209,6 +222,122 @@ MeasureControl(
     secondary_length_unit='kilometers',
     primary_area_unit='sqmeters',
     secondary_area_unit='sqkilometers'
+).add_to(index_map)
+
+# Комбинированный поисковый индекс по всем слоям (без дополнительных Leaflet-слоёв)
+def build_search_index(unchecked, checked, selected):
+    data = []
+    for gdf, name_col in [(unchecked, 'name'), (checked, 'title'), (selected, 'name')]:
+        mask = gdf.geometry.notna() & ~gdf.geometry.is_empty
+        for _, row in gdf[mask].iterrows():
+            n = row.get(name_col)
+            if n and str(n).strip():
+                data.append({
+                    'name': str(n),
+                    'lat': round(row.geometry.y, 6),
+                    'lng': round(row.geometry.x, 6)
+                })
+    return data
+
+search_index = build_search_index(
+    unchecked_gdf, checked_gdf, selected_data
+)
+search_json = json.dumps(search_index, ensure_ascii=False)
+map_var = index_map.get_name()
+
+custom_search = f'''
+<style>
+.custom-search-wrap {{
+    position: absolute;
+    top: 10px;
+    left: 45px;
+    z-index: 1000;
+    background: white;
+    border-radius: 4px;
+    padding: 6px 8px;
+    box-shadow: 0 1px 5px rgba(0,0,0,0.4);
+    font-family: sans-serif;
+    font-size: 13px;
+    width: 240px;
+}}
+.custom-search-wrap input {{
+    width: 100%;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    padding: 4px 6px;
+    font-size: 13px;
+    outline: none;
+}}
+.custom-search-results {{
+    max-height: 180px;
+    overflow-y: auto;
+    margin-top: 4px;
+}}
+.custom-search-results div {{
+    padding: 4px 6px;
+    cursor: pointer;
+    border-radius: 3px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}}
+.custom-search-results div:hover {{
+    background: #e8f4f8;
+}}
+</style>
+<div class="custom-search-wrap leaflet-control">
+    <input id="cs-input" type="text" placeholder="Поиск по названию...">
+    <div class="custom-search-results" id="cs-results"></div>
+</div>
+<script>
+(function() {{
+    var searchData = {search_json};
+    var input = document.getElementById('cs-input');
+    var results = document.getElementById('cs-results');
+
+    input.addEventListener('input', function() {{
+        var q = this.value.trim().toLowerCase();
+        results.innerHTML = '';
+        if (q.length < 2) return;
+        var matches = searchData.filter(function(d) {{
+            return d.name.toLowerCase().indexOf(q) !== -1;
+        }}).slice(0, 20);
+        matches.forEach(function(d) {{
+            var el = document.createElement('div');
+            el.textContent = d.name;
+            el.title = d.name;
+            el.addEventListener('click', function() {{
+                var mapObj = window["{map_var}"];
+                if (mapObj) mapObj.setView([d.lat, d.lng], 14);
+                input.value = d.name;
+                results.innerHTML = '';
+            }});
+            results.appendChild(el);
+        }});
+    }});
+
+    document.addEventListener('click', function(e) {{
+        if (!e.target.closest('.custom-search-wrap')) {{
+            results.innerHTML = '';
+        }}
+    }});
+}})();
+</script>
+'''
+
+index_map.get_root().html.add_child(folium.Element(custom_search))
+
+
+MousePosition(
+    position='bottomleft',
+    separator=' | ',
+    prefix='Координаты:'
+).add_to(index_map)
+
+LocateControl(
+    position='topleft',
+    strings={'title': 'Моё местоположение'}
 ).add_to(index_map)
 
 index_map.save(os.path.join('index.html'))
