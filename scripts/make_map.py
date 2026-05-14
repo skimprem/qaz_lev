@@ -3,6 +3,7 @@ import pandas as pd
 import geopandas as gpd
 import requests
 import folium
+from folium.plugins import MeasureControl
 from transliterate import translit 
 import uuid
 import zipfile
@@ -202,32 +203,12 @@ select_gdf[select_gdf.geometry.notna() & ~select_gdf.geometry.is_empty].explore(
 
 folium.LayerControl().add_to(index_map)
 
-# Добавить инструмент Линейка (Measure)
-measure_script = '''
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet-measure@3.1.0/dist/leaflet-measure.css"/>
-<script src="https://cdn.jsdelivr.net/npm/leaflet-measure@3.1.0/dist/leaflet-measure.umd.js"></script>
-<script>
-    document.addEventListener('DOMContentLoaded', function() {
-        // Найти все объекты карт на странице
-        for (let key in window) {
-            if (key.startsWith('map_') && window[key].addControl) {
-                L.control.measure({
-                    position: 'topleft',
-                    primaryLengthUnit: 'meters',
-                    secondaryLengthUnit: 'kilometers',
-                    primaryAreaUnit: 'sqmeters',
-                    secondaryAreaUnit: 'sqkilometers',
-                    decPoint: ',',
-                    thousandsSeparator: ' '
-                }).addTo(window[key]);
-                break;
-            }
-        }
-    });
-</script>
-'''
-
-index_map.get_root().html.add_child(folium.Element(measure_script))
-
+MeasureControl(
+    position='topleft',
+    primary_length_unit='meters',
+    secondary_length_unit='kilometers',
+    primary_area_unit='sqmeters',
+    secondary_area_unit='sqkilometers'
+).add_to(index_map)
 
 index_map.save(os.path.join('index.html'))
